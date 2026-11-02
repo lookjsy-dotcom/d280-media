@@ -1,0 +1,338 @@
+{
+  "id": "2026-11-20-newborn-screening-support",
+  "topic": "신생아 대사이상·난청 검사비와 보청기 지원 (기한·한도)",
+  "target_stage": "출산 직후~생후 1년",
+  "hook_type": "마감",
+  "format": "magazine",
+  "base_date": "2026-11-03",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "신생아 검사 받았다면",
+      "title": "출생 1년 지나면\n검사비 끝이에요",
+      "highlight": "1년",
+      "sub": "대사이상·난청 검사비와 보청기 지원 정리",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "검사비도 지원받을 수 있어요",
+      "highlight": "본인부담금 일부",
+      "body": "신생아 대사이상 검사와 난청 검사는 본인부담금 일부를 지원해요. 외래 선별검사와 확진검사가 모두 해당돼요.",
+      "tip": "검사별로 따로 신청 대상인지 보건소에서 확인하세요."
+    },
+    {
+      "type": "list",
+      "title": "지원 내용 한눈에 보기",
+      "items": [
+        "대사이상 검사: 본인부담금 일부",
+        "대사이상 확진검사비: 한도 7만 원",
+        "난청 검사: 본인부담금 일부",
+        "보청기: 개당 한도 135만 원"
+      ],
+      "tip": "보청기는 만 12세 미만 아이가 대상이에요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "소득 기준은 없어요",
+      "highlight": "2024년부터",
+      "body": "2024년부터 가구 소득과 관계없이 지원해요. 예전 안내글에 소득 기준이 적혀 있어도 현행과 달라요.",
+      "tip": "오래된 글보다 보건소의 현행 안내를 기준으로 보세요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "검사비 신청은 이때까지",
+      "highlight": "출생일로부터 1년",
+      "body": "검사비는 아이 출생일로부터 1년 이내에 신청해요. 이 기간이 지나면 신청이 어려울 수 있어요.",
+      "tip": "출생일 기준 1년 뒤 날짜를 달력에 적어두세요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "확진검사비는 한도가 있어요",
+      "highlight": "7만 원",
+      "body": "대사이상 확진검사비는 한도 7만 원이에요. 검사 결과 확진된 경우에 지급돼요.",
+      "tip": "검사 결과 해석은 담당 의료진과 상의하세요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "보청기는 개당 한도가 있어요",
+      "highlight": "개당 135만 원",
+      "body": "청각장애 등급이 없는 만 12세 미만 난청 아이가 대상이에요. 양쪽은 2개, 한쪽은 1개까지 개당 135만 원 한도예요.",
+      "tip": "청력 기준 해당 여부는 담당 의료진과 상의하세요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "신청은 보건소에서",
+      "highlight": "주소지 보건소",
+      "body": "주소지 보건소에 신청하거나 e보건소, 아이마중 앱으로 온라인 신청해요. 보청기는 신청일 기준 6개월 전후에 구입한 것만 인정돼요.",
+      "tip": "궁금한 점은 보건복지상담센터 129에 문의하세요."
+    },
+    {
+      "type": "closing",
+      "title": "저장해두고 아이 출생일부터 확인하세요",
+      "body": "검사비 신청은 출생일부터 기한이 흘러가요. 영수증과 검사 결과지를 챙겨 보건소에서 안내받으세요."
+    }
+  ],
+  "caption": "출생 1년 지나면 검사비 지원을 못 받을 수 있어요.\n\n핵심 3줄 요약이에요.\n1) 신생아 대사이상·난청 검사는 본인부담금 일부를 지원해요. 2024년부터 소득과 관계없어요.\n2) 검사비는 출생일로부터 1년 이내에 신청하고, 대사이상 확진검사비는 한도 7만 원이에요.\n3) 난청 보청기는 만 12세 미만 대상으로 개당 135만 원 한도예요.\n\n신청은 주소지 보건소나 e보건소, 아이마중 앱에서 해요. 검사나 청력 관련 판단은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-03 기준)",
+  "hashtags": [
+    "#신생아",
+    "#출산준비",
+    "#임산부",
+    "#임신",
+    "#정부지원",
+    "#육아정보",
+    "#신생아검사",
+    "#난청검사",
+    "#대사이상검사",
+    "#보청기지원",
+    "#육아꿀팁",
+    "#초보엄마",
+    "#예비맘",
+    "#출산후"
+  ],
+  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a few blank paper forms and a pen, a small ceramic dish",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "신생아 난청 검사비·대사이상 검사비 신청은 출생일로부터 1년 이내",
+      "value": "1년",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "선천성 대사이상 외래 선별검사 및 확진검사의 본인부담금 일부 지원",
+      "value": "본인부담금 일부",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "신생아 난청 외래 선별검사 및 확진검사의 건강보험 급여 본인부담금 일부 지원",
+      "value": "본인부담금 일부",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "대사이상 확진검사비 한도 7만 원 (70,000원)",
+      "value": "7만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043"
+    },
+    {
+      "id": "c5",
+      "card": 3,
+      "text": "난청 보청기 지원은 개당 135만 원 한도, 만 12세(144개월) 미만 대상",
+      "value": "135만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c6",
+      "card": 3,
+      "text": "보청기 지원 대상은 만 12세 미만 난청 아동",
+      "value": "12세",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c7",
+      "card": 4,
+      "text": "2024년부터 가구 소득과 관계없이 지원 (대사이상·난청 검사)",
+      "value": "2024년",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c8",
+      "card": 5,
+      "text": "검사비 신청 기한은 대상 영아 출생일로부터 1년 이내",
+      "value": "출생일로부터 1년",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043"
+    },
+    {
+      "id": "c9",
+      "card": 6,
+      "text": "대사이상 확진검사비는 한도 7만 원이며 확진된 경우에만 지급",
+      "value": "7만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043"
+    },
+    {
+      "id": "c10",
+      "card": 7,
+      "text": "보청기는 청각장애 등급을 받지 못한 만 12세 미만 난청 아동 대상, 개당 135만 원 한도",
+      "value": "135만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c11",
+      "card": 7,
+      "text": "양측성 난청은 보청기 2개, 일측성 난청은 보청기 1개 지원 (청력역치 기준 충족 시)",
+      "value": "2개",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c12",
+      "card": 7,
+      "text": "일측성 난청은 보청기 1개 지원",
+      "value": "1개",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c13",
+      "card": 8,
+      "text": "신청처는 주소지 관할 보건소, 온라인은 e보건소 공공보건포털 또는 아이마중 앱",
+      "value": "보건소",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c14",
+      "card": 8,
+      "text": "보청기는 보건소 지원신청일 기준 6개월 전후에 구입한 것이 대상",
+      "value": "6개월",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c15",
+      "card": 8,
+      "text": "문의처는 보건복지상담센터 129",
+      "value": "129",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    },
+    {
+      "id": "c16",
+      "card": 9,
+      "text": "검사비 신청 시 영수증·검사 결과지 등 증빙서류 필요",
+      "value": "영수증·검사 결과지",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-03",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "신청기간 ○ (난청 검사비) 대상 영아 출생일로부터 1년 이내 / [SD0000007043] ○ (대사이상 검사비) 대상 영아 출생일로부터 1년 이내",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043",
+        "source_quote": "(검사비 지원) 신생아 선천성대사이상 외래 선별검사 및 확진검사 (일부)본인부담금 지원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "(검사비 지원) 신생아 난청 외래 선별검사비 및 확진검사비의 건강보험 급여 (일부)본인부담금 지원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043",
+        "source_quote": "확진검사의 경우 확진검사 결과 선천성대사이상 환아로 판정된 경우에만 지원(7만원 한도)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "만 12세(만144개월) 미만 환아 보청기 지원 *양측성 난청은 2개, 일측성 난청은 1개 보청기 지원(개당 135만원 한도)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "(보청기) 만 12세(만144개월) 미만 환아",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "(*'24년부터 가구 소득과 관계없이 지원) — SD0000007043에도 동일 문구",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043",
+        "source_quote": "○ (대사이상 검사비) 대상 영아 출생일로부터 1년 이내",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007043",
+        "source_quote": "확진검사의 경우 확진검사 결과 선천성대사이상 환아로 판정된 경우에만 지원(7만원 한도)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "(보청기 지원) 청각장애등급을 받지 못하는 신생아난청이 있는 만 12세(만144개월) 미만 환아 보청기 지원 *양측성 난청은 2개, 일측성 난청은 1개 보청기 지원(개당 135만원 한도)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "-(양측성 난청) 청력이 좋은 귀의 평균 청력역치가 40~59dB로서, 청각장애등급을 받지 못하는 난청이 있는 경우 보청기 2개 지원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "-(일측성 난청) 나쁜 귀의 평균 청력역치가 55dB 이상이면서 좋은 귀의 평균청력역치가 40dB 이하인 경우 보청기 1개 지원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "주소지 관할 보건소로 신청 또는 e보건소 공공보건포털, 아이마중앱 등 온라인 신청",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "○ (보청기) 보건소 지원신청일 기준 6개월 전후에 구입한 보청기에 대해 지원 가능",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "문의처 보건복지상담센터 (☎ 129 )",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c16",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
+        "source_quote": "검사비 영수증, 검사비 세부내역서, 검사 결과지 각 1부 / [SD0000007043] 검사비 영수증, 검사비 세부내역서 각 1부 - (확진검사비) 진단서 등 확진 관련 증빙서류",
+        "checked_at": "2026-11-03"
+      }
+    ],
+    "notes": "정부24 SD0000007043(선천성대사이상 검사 및 환아관리)·SD0000007044(선천성 난청검사 및 보청기 지원) 한글 원문 HTML을 직접 받아 문구 대조(두 페이지 최종수정일 2026.08.11). 15개 claim 전부 일치. c1은 두 제도를 묶었지만 두 페이지 모두 '대상 영아 출생일로부터 1년 이내'로 같아 분리하지 않음(c8이 대사이상, c1 인용에 양쪽 병기). 숨은 주장으로 클로징 카드 '영수증과 검사 결과지'를 c16으로 추가(구비서류 대조, OK). 보청기 2개/1개는 청력역치 조건부 — 카드 7 tip이 청력 기준 확인을 안내하므로 OK. 페이지 표기는 '청각장애등급'(카드 '청각장애 등급이 없는'과 동일 취지)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-03",
+    "problems": []
+  }
+}

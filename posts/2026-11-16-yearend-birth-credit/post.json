@@ -1,0 +1,256 @@
+{
+  "id": "2026-11-16-yearend-birth-credit",
+  "topic": "올해 아기 낳았다면 연말정산에서 출산·입양 세액공제 30·50·70만 원",
+  "target_stage": "출산 직후~연말(올해 출산·입양 신고자)",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-03",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "올해 아기 낳았다면",
+      "title": "안 챙기면\n최대 70만 원 놓쳐요",
+      "highlight": "최대 70만 원",
+      "sub": "연말정산 출산·입양 세액공제 총정리",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "출산·입양 세액공제란?",
+      "highlight": "출산하거나 입양 신고한 자녀",
+      "body": "해당 연도에 출산하거나 입양 신고한 자녀가 있으면 세금에서 빼 주는 제도예요. 연말정산에서 챙길 수 있어요.",
+      "tip": "공제대상 자녀여야 해당돼요."
+    },
+    {
+      "type": "list",
+      "title": "자녀 순서별 공제액",
+      "items": [
+        "첫째 연 30만 원",
+        "둘째 연 50만 원",
+        "셋째 이상 연 70만 원"
+      ],
+      "tip": "순서가 올라갈수록 공제액이 커져요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "세액공제는 어떻게 빼요?",
+      "highlight": "산출세액에서 직접",
+      "body": "종합소득 산출세액에서 금액을 직접 빼 줘요. 소득에서 빼는 소득공제와는 방식이 달라요.",
+      "tip": "내 세금 규모는 회사 안내나 홈택스로 확인하세요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "올해 기준이 중요해요",
+      "highlight": "올해 출산하거나 입양 신고한 자녀",
+      "body": "올해 출산하거나 입양 신고한 자녀만 올해분 공제 대상이에요. 내년에 낳을 예정이면 내년분 연말정산 몫이에요.",
+      "tip": "입양은 신고한 해를 기준으로 봐요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "신청은 이렇게 해요",
+      "highlight": "자녀세액공제 항목",
+      "body": "연말정산 때 근로소득원천징수영수증의 자녀세액공제 항목에 적어 제출해요. 회사에서 안내하는 일정에 맞춰 서류를 챙기세요.",
+      "tip": "자녀 정보는 미리 메모해 두면 편해요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "헷갈리면 어디에 물어요?",
+      "highlight": "국세상담센터 126",
+      "body": "자녀 순서나 맞벌이 부부 중 누가 받는지는 상황마다 달라질 수 있어요. 국세상담센터 126이나 홈택스, 회사 담당자에게 확인하세요.",
+      "tip": "순서 기준은 꼭 확인하고 신청하세요."
+    },
+    {
+      "type": "list",
+      "title": "내 시기 체크",
+      "items": [
+        "올해 출산: 올해분 연말정산에서 출산 공제 챙기기",
+        "올해 입양 신고: 같은 공제 대상인지 확인",
+        "임신 중: 내년 출산이면 내년분 연말정산 때 챙기기"
+      ],
+      "tip": "내 상황에 해당하는 한 줄만 기억하세요."
+    },
+    {
+      "type": "closing",
+      "title": "저장해두고 연말정산 때 꺼내 보세요",
+      "body": "올해 낳은 아이는 올해분 연말정산에서 챙겨요. 정확한 공제액과 조건은 국세청과 회사 안내로 확인하세요."
+    }
+  ],
+  "caption": "올해 아기 낳았다면 연말정산에서 최대 70만 원, 안 챙기면 놓쳐요.\n\n핵심 3줄 요약이에요.\n1) 해당 연도에 출산하거나 입양 신고한 공제대상 자녀가 있으면 세액공제를 받을 수 있어요.\n2) 첫째 연 30만 원, 둘째 연 50만 원, 셋째 이상 연 70만 원을 산출세액에서 빼 줘요.\n3) 연말정산 때 자녀세액공제 항목에 적어 제출하고, 헷갈리면 국세상담센터 126에 물어보세요.\n\n올해 출산했다면 올해분 연말정산, 내년에 낳을 예정이라면 내년분 연말정산 때 챙기면 돼요. 자녀 순서와 맞벌이 부부 중 누가 받는지는 상황에 따라 달라질 수 있으니 회사 담당자나 국세청에 꼭 확인하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-03 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#연말정산",
+    "#출산세액공제",
+    "#세액공제",
+    "#신생아",
+    "#육아정보",
+    "#예비부모",
+    "#입양",
+    "#육아꿀팁",
+    "#출산휴가",
+    "#아기용품"
+  ],
+  "cover_image_prompt": "white knit baby socks, a folded muslin cloth, a few blank paper forms with a pen, and a small ceramic mug",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "해당 과세기간에 출산하거나 입양 신고한 공제대상 자녀가 있으면 출산·입양 세액공제를 받는다",
+      "value": "출산하거나 입양 신고한 자녀",
+      "source_hint": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875&mi=6596"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "공제대상 자녀가 첫째인 경우 연 30만 원",
+      "value": "30만 원",
+      "source_hint": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "공제대상 자녀가 둘째인 경우 연 50만 원",
+      "value": "50만 원",
+      "source_hint": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "공제대상 자녀가 셋째 이상인 경우 연 70만 원 (소득세법 제59조의2 제3항, 2026-01-01 시행본)",
+      "value": "70만 원",
+      "source_hint": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "출산·입양 세액공제는 종합소득 산출세액에서 공제한다 (세액공제 방식)",
+      "value": "산출세액에서 직접",
+      "source_hint": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875&mi=6596"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "해당 과세기간(해당 연도)에 출산하거나 입양 신고한 자녀만 그 연도 공제 대상이다. 내년 출산이면 내년 귀속",
+      "value": "올해 출산하거나 입양 신고한 자녀",
+      "source_hint": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "연말정산 시 근로소득원천징수영수증의 자녀세액공제 항목에 기입해 제출한다",
+      "value": "자녀세액공제 항목",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c8",
+      "card": 7,
+      "text": "세부 사항은 국세상담센터(126), 홈택스 등에서 확인할 수 있다",
+      "value": "126",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c9",
+      "card": 7,
+      "text": "자녀 순서 기준(출생순/신고순)과 맞벌이 부부 중 공제받는 사람은 공식 페이지에서 확인되지 않아 카드에서 단정하지 않고 문의 안내만 함",
+      "value": "자녀 순서나 맞벌이",
+      "source_hint": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875&mi=6596"
+    },
+    {
+      "id": "c10",
+      "card": 8,
+      "text": "올해 입양 신고한 자녀도 출산·입양 세액공제 대상 (해당 과세기간 입양 신고)",
+      "value": "올해 입양 신고",
+      "source_hint": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-03",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "해당 과세기간에 출산하거나 입양 신고한 공제대상자녀가 있는 경우 다음 각 호의 구분에 따른 금액을 종합소득산출세액에서 공제한다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "출산하거나 입양 신고한 공제대상자녀가 첫째인 경우: 연 30만원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "출산하거나 입양 신고한 공제대상자녀가 둘째인 경우: 연 50만원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "출산하거나 입양 신고한 공제대상자녀가 셋째 이상인 경우: 연 70만원 ([시행 2026. 1. 1.] [법률 제21221호, 2025. 12. 23., 일부개정])",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875&mi=6596",
+        "source_quote": "출산·입양 공제대상 자녀 : 해당 과세기간에 출산하거나 입양 신고한 공제대상 자녀가 있는 경우 첫째 30만원, 둘째 50만원, 셋째 이상인 경우 연 70만원을 종합소득 산출세액에서 공제합니다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c6",
+        "verdict": "FIXED",
+        "before": "카드5 '올해 공제 대상 / 내년 연말정산 몫', 카드8 '올해 출산: 연말정산에서… / 내년 연말정산 때', 카드9 '올해 연말정산에서', 캡션 '올해 연말정산, … 내년 연말정산 때'",
+        "after": "'올해분 공제 대상 / 내년분 연말정산 몫', '올해분 연말정산에서… / 내년분 연말정산 때', '올해분 연말정산에서', '올해분 연말정산, … 내년분 연말정산 때'",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "해당 과세기간에 출산하거나 입양 신고한 공제대상자녀가 있는 경우 다음 각 호의 구분에 따른 금액을 종합소득산출세액에서 공제한다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=2&cnpClsNo=1",
+        "source_quote": "연말정산 시 근로소득원천징수영수증에 해당되는 자녀세액공제항목을 기입하여 제출하면 됩니다( 「소득세법 시행규칙」 별지 제24호서식 ).",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=2&cnpClsNo=1",
+        "source_quote": "자녀세액공제제도에 대해서는 <국세청 홈페이지> 또는 <국세청 홈택스 홈페이지>에서 확인할 수 있으며, 자세한 내용은 <납세자권익24 홈페이지> 인터넷 상담이나 국세상담센터(☎ 126)를 통해 상담받으실 수 있습니다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "종합소득이 있는 거주자의 기본공제대상자에 해당하는 자녀(입양자 및 위탁아동을 포함하며, 이하 이 조에서 \"공제대상자녀\"라 한다)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?lsJoLnkSeq=1000819889&chrClsCd=010202",
+        "source_quote": "해당 과세기간에 출산하거나 입양 신고한 공제대상자녀가 있는 경우 다음 각 호의 구분에 따른 금액을 종합소득산출세액에서 공제한다.",
+        "checked_at": "2026-11-03"
+      }
+    ],
+    "notes": "30·50·70만 원은 소득세법 제59조의2 제3항(2026-01-01 시행, 법률 제21221호)·국세청 근로소득 페이지·찾기쉬운생활법령(2026-10-15 기준) 3곳 일치, 2026년 귀속 유효. c6 FIXED: 공제는 '해당 과세기간' 기준인데 2026년분 연말정산은 2027년 초에 하므로 '올해/내년 연말정산'은 내년 1~2월 출산 예정자가 '내년(2027) 초 연말정산에서 받는다'로 오해할 수 있어 '올해분/내년분'으로 고침(새 사실 추가 없음). 표지·캡션 '날려요'→'놓쳐요': 연말정산에서 빠뜨려도 이후 신고로 정정할 길이 있을 수 있어 영구 상실로 단정하는 표현을 완화(표지 제목 길이 변화 없음, 하이라이트 '최대 70만 원' 유지). c9: 공제대상자녀가 '거주자의 기본공제대상자'로 정의되므로 맞벌이 중 누가 받는지는 누가 기본공제를 받느냐에 따라 달라짐 → 카드의 '상황마다 달라질 수 있어요'는 법문과 부합. 자녀 순서 기준(출생순/신고순)은 공식 페이지에서 확인 못 함 — 카드가 단정하지 않고 126 문의로만 안내하므로 OK. 참고: 국세청 페이지는 기본 자녀세액공제 나이를 '8세 이상'으로, 법령·생활법령은 2026 개정(13세 원칙, 2026년분 9세 이상 경과규정)으로 적고 있어 국세청 페이지가 미갱신 상태 — 카드에는 나이 언급 없어 영향 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-03",
+    "problems": []
+  }
+}

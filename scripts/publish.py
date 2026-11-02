@@ -82,6 +82,17 @@ def publish_reel(cred, post, base):
     return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
 
 
+def publish_story(cred, post, base):
+    # 저녁 스토리 — 표지 + 고정 안내 문구(make_story.py). 스토리는 캡션이 없다.
+    cid = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="STORIES",
+                image_url=f"{base}/{post['id']}/story.png")["id"]
+    wait_ready(cred, cid)
+    return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
+
+
+PUBLISHERS = {"carousel": publish_carousel, "reel": publish_reel, "story": publish_story}
+
+
 def already(post_id, kind):
     if not LOG_PATH.exists():
         return False
@@ -102,7 +113,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=date.today().isoformat())
     ap.add_argument("--id")
-    ap.add_argument("--kind", choices=["carousel", "reel", "both"], default="both")
+    ap.add_argument("--kind", choices=["carousel", "reel", "story", "both"], default="both")  # 하루 3번: 08:30 carousel / 12:30 reel / 21:00 story
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -129,6 +140,9 @@ def main():
             log(post["id"], "-", "hold", gate.stdout.strip().replace("\n", " | ")[:300])
             continue
         for kind in kinds:
+            if kind == "story" and not (d / "story.png").exists():
+                print(f"[SKIP] {post['id']} story 이미지 없음")
+                continue
             if already(post["id"], kind):
                 print(f"[SKIP] {post['id']} {kind} 이미 발행됨")
                 continue
@@ -136,7 +150,7 @@ def main():
                 print(f"[DRY] {post['id']} {kind} 발행 예정")
                 continue
             try:
-                media_id = publish_carousel(cred, post, base) if kind == "carousel" else publish_reel(cred, post, base)
+                media_id = PUBLISHERS[kind](cred, post, base)
                 log(post["id"], kind, "published", media_id)
                 print(f"[OK] {post['id']} {kind} → {media_id}")
             except Exception as e:  # 조용히 멈추지 않는다 — 로그와 종료 코드로 알림

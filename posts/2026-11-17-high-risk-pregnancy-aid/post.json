@@ -1,0 +1,282 @@
+{
+  "id": "2026-11-17-high-risk-pregnancy-aid",
+  "topic": "고위험 임산부 입원 의료비 지원 (최대 300만 원, 분만 후 6개월 이내 신청)",
+  "target_stage": "임신 중기~출산 후 6개월",
+  "hook_type": "마감",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-16",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "입원했던 임산부라면",
+      "title": "입원비 300만 원\n6개월 뒤엔 끝",
+      "highlight": "300만 원",
+      "sub": "고위험 임산부 의료비 지원, 이팔공이 알아봤어요",
+      "scene": "Ipalgong sits on a living room sofa holding a sheet of paper, eyes wide with a small surprised round mouth and a single sweat drop."
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table at home after leaving the hospital, looking tired and sighing at a pile of paper bills.",
+      "caption": "입원했다가 퇴원한 날 저녁",
+      "dialogue": [
+        {
+          "text": "병원비가 꽤 나왔네...",
+          "pos": "tl"
+        }
+      ],
+      "highlight": ""
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong scrolls on her phone at the table with a surprised round mouth and a small orange surprise mark above her head.",
+      "caption": "우연히 검색해 보다가",
+      "dialogue": [
+        {
+          "text": "어? 이런 지원이 있어?",
+          "pos": "tr"
+        },
+        {
+          "text": "나 몰랐는데...",
+          "pos": "bl"
+        }
+      ],
+      "highlight": ""
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads her phone screen closely with her head tilted to one side, thoughtful.",
+      "caption": "누가 받을 수 있는지 확인해 봤어요",
+      "dialogue": [
+        {
+          "text": "나도 대상일까?",
+          "pos": "tr"
+        }
+      ],
+      "info": "19개 고위험 임신질환으로 입원치료를 받은 임산부",
+      "highlight": "19개"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds up her phone with a relieved small smile, sitting at the table.",
+      "caption": "얼마나 돌려받는지 보니",
+      "dialogue": [
+        {
+          "text": "얼마나 받을 수 있지?",
+          "pos": "tl"
+        }
+      ],
+      "info": "본인부담금·비급여 진료비의 90%, 최대 300만 원 (의료급여수급자는 100%)",
+      "highlight": "300만 원"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong tilts her head with one sweat drop, finger on her chin, looking at her phone.",
+      "caption": "혹시 빠지는 항목은 없을까?",
+      "dialogue": [
+        {
+          "text": "전부 다 되는 건 아니려나?",
+          "pos": "br"
+        }
+      ],
+      "info": "병실입원료와 환자특식은 지원에서 제외돼요",
+      "highlight": "제외"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at a calendar on the wall with a small worried sweat drop, hand on her cheek.",
+      "caption": "제일 중요한 건 기한",
+      "dialogue": [
+        {
+          "text": "언제까지 해야 해?",
+          "pos": "tr"
+        },
+        {
+          "text": "놓치면 큰일이네...",
+          "pos": "bl"
+        }
+      ],
+      "info": "분만일로부터 6개월 이내에 신청해야 해요",
+      "highlight": "6개월 이내"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong walks into a small public health center building entrance with a folder in her hands, smiling gently.",
+      "caption": "그래서 바로 움직였어요",
+      "dialogue": [
+        {
+          "text": "보건소에 가 보자!",
+          "pos": "tl"
+        }
+      ],
+      "info": "주소지 보건소 방문, 또는 e보건소·아이마중 앱으로 신청",
+      "highlight": "보건소"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa at home hugging a cushion with closed-eye relieved smile, soft light from the window.",
+      "caption": "신청을 마치고 집에서",
+      "dialogue": [
+        {
+          "text": "다행이다, 알아봐서!",
+          "pos": "tr"
+        }
+      ],
+      "info": "소득 기준 없이 신청할 수 있어요",
+      "highlight": "소득 기준 없이"
+    },
+    {
+      "type": "closing",
+      "title": "입원했다면 보건소에 먼저 물어보세요",
+      "body": "진단서·진료비 영수증·세부내역서 등 서류가 필요해요. 분만일 기준 기한 안에 주소지 보건소에 확인해 보세요. 건강 관련 내용은 담당 의료진과 상의하세요."
+    }
+  ],
+  "caption": "입원비 300만 원, 6개월 뒤엔 끝이에요\n\n임신 중 입원치료를 받았다면 꼭 확인해 보세요. 이팔공이 알아본 고위험 임산부 의료비 지원 핵심만 정리했어요.\n\n1. 19개 고위험 임신질환으로 입원치료를 받은 임산부가 대상이에요.\n2. 본인부담금·비급여 진료비의 90%, 최대 300만 원까지 지원돼요(의료급여수급자는 100%). 병실입원료와 환자특식은 제외예요.\n3. 분만일로부터 6개월 이내에 주소지 보건소나 e보건소·아이마중 앱으로 신청해요. 소득 기준은 없어요.\n\n진단서·진료비 영수증·세부내역서 등 서류가 필요하니 보건소에 먼저 확인하는 게 좋아요. 건강 관련 내용은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-16 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#고위험임산부",
+    "#임산부지원금",
+    "#의료비지원",
+    "#예비맘",
+    "#임신정보",
+    "#보건소",
+    "#육아정보",
+    "#출산지원금"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 3,
+      "text": "대상은 19개 고위험 임신질환으로 진단받고 입원치료를 받은 임산부",
+      "value": "19개",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c2",
+      "card": 4,
+      "text": "입원치료비 중 전액본인부담금 및 비급여 진료비의 90%를 지원, 1인당 최대 300만 원 한도",
+      "value": "300만 원",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c3",
+      "card": 4,
+      "text": "지원비율은 본인부담금 등의 90%, 단 국민기초생활보장법에 따른 의료급여수급자는 100%",
+      "value": "90% (의료급여수급자 100%)",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c4",
+      "card": 5,
+      "text": "비급여 중 병실입원료와 환자특식은 지원에서 제외",
+      "value": "병실입원료, 환자특식 제외",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c5",
+      "card": 6,
+      "text": "신청 기한은 분만일로부터 6개월 이내",
+      "value": "6개월",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c6",
+      "card": 7,
+      "text": "신청처는 주민등록 주소지 관할 보건소 방문, 또는 e보건소 공공보건포털·아이마중 앱 온라인 신청",
+      "value": "보건소",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c7",
+      "card": 8,
+      "text": "별도의 소득 기준 없음 (2024년부터 가구 소득과 관계없이 지원)",
+      "value": "소득 기준 없음",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    },
+    {
+      "id": "c8",
+      "card": 9,
+      "text": "신청 시 진단서(질병명·질병코드 포함), 입·퇴원확인서, 진료비 영수증, 진료비 세부내역서 등 서류 제출 필요",
+      "value": "진단서·진료비 영수증·세부내역서",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020200"
+    }
+  ],
+  "status": "factchecked",
+  "factcheck": {
+    "checked_at": "2026-11-03",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "19대 고위험 임신질환*으로 진단받고 입원치료 받은 임산부(‘24년부터 가구 소득과 관계없이 지원) / * 조기진통, 분만관련 출혈, 중증 임신중독증, 양막의 조기파열, 태반조기박리, 전치태반, 절박유산, 양수과다증, 양수과소증, 분만전 출혈, 자궁경부무력증, 고혈압, 다태임신, 당뇨병, 대사장애를 동반한 임신과다구토, 신질환, 심부전, 자궁내 성장제한, 자궁 및 자궁의 부속기 질환",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c2",
+        "verdict": "FIXED",
+        "before": "입원치료비 본인부담금의 90%, 최대 300만 원 지원 (카드5 info·캡션)",
+        "after": "본인부담금·비급여 진료비의 90%, 최대 300만 원 (의료급여수급자는 100%) (카드5 info·캡션 동일 반영)",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "고위험 임산부 입원치료비의 급여 중 전액본인부담금 및 비급여 진료비(병실입원료, 환자특식 제외)에 해당하는 금액의 90%* 지원 (1인당 300만원 한도)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "before": "지원비율은 본인부담금 등의 90%",
+        "after": "지원비율은 본인부담금 등의 90%, 단 국민기초생활보장법에 따른 의료급여수급자는 100%",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "* 단, 국민기초생활보장법 제6조 및 제12조의3에 따른 의료급여수급자는 100% 지원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "고위험 임산부 입원치료비의 급여 중 전액본인부담금 및 비급여 진료비(병실입원료, 환자특식 제외)에 해당하는 금액의 90%* 지원 (1인당 300만원 한도)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "신청기간 : 분만일로부터 6개월 이내",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "신청방법 : 임산부의 주민등록 주소지 관할 보건소 방문신청 또는 e보건소 공공보건포털( https://www.e-health.go.kr ), 아이마중 앱 등 온라인 신청",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "19대 고위험 임신질환*으로 진단받고 입원치료 받은 임산부(‘24년부터 가구 소득과 관계없이 지원)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c8",
+        "verdict": "FIXED",
+        "before": "필요 서류는 지자체마다 달라 보건소에 확인 필요 / 마무리 카드: 필요한 서류는 지자체마다 달라요. 분만일 기준 기한 안에 주소지 보건소에 확인해 보세요. 건강 관련 내용은 담당 의료진과 상의하세요.",
+        "after": "신청 시 진단서(질병명·질병코드 포함), 입·퇴원확인서, 진료비 영수증, 진료비 세부내역서 등 서류 제출 필요 / 마무리 카드: 진단서·진료비 영수증·세부내역서 등 서류가 필요해요. 분만일 기준 기한 안에 주소지 보건소에 확인해 보세요. 건강 관련 내용은 담당 의료진과 상의하세요.",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020200",
+        "source_quote": "신청자 제출(공통) 지원 신청서(개인정보제공동의서 포함) 1부 / 진단서 1부(질병명 및 질병코드 포함) / 입‧퇴원확인서, 진료비 영수증, 진료비 세부내역서 각 1부",
+        "checked_at": "2026-11-03"
+      }
+    ],
+    "notes": "전 항목 보건복지부 모자보건지원 페이지(최종수정일 2026-01-05) 원문 대조. c4: 병실입원료·환자특식은 원문상 비급여 진료비 괄호 안 제외 항목이며 카드 '지원에서 제외돼요'는 결과적으로 사실과 같아 OK. c8: 복지부 페이지가 전국 공통 구비서류를 명시하므로 '지자체마다 달라요'는 공식 근거 없음 → 공통 서류 안내로 교체. 지원기간은 질환별 임신주수 조건(예: 조기진통 20~37주)이 있으나 카드에서 다루지 않음. 표지 제목·하이라이트 변동 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-03",
+    "problems": []
+  }
+}

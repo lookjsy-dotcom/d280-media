@@ -29,8 +29,9 @@ NUM_RE = re.compile(r"\d[\d,]*(?:\.\d+)?")
 
 
 def card_texts(card):
-    parts = [card.get(k, "") for k in ("kicker", "title", "sub", "body", "tip")]
+    parts = [card.get(k, "") for k in ("kicker", "title", "sub", "body", "tip", "caption", "info")]
     parts += card.get("items", []) or []
+    parts += [d.get("text", "") for d in card.get("dialogue", []) or []]  # 웹툰 말풍선도 숫자 검사 대상
     return [p for p in parts if p]
 
 

@@ -1,0 +1,396 @@
+{
+  "id": "2026-11-18-infant-vaccine-schedule",
+  "topic": "생후 3개월 안에 있는 국가예방접종 일정 정보",
+  "format": "magazine",
+  "target_stage": "임신 후기~생후 3개월",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-17",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출산 전에 저장해 두세요",
+      "title": "생후 3개월 접종표\n놓치면 헷갈려요",
+      "highlight": "생후 3개월",
+      "sub": "국가예방접종 일정, 한 번에 정리했어요",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "출생 직후 일정이에요",
+      "highlight": "출생 시",
+      "body": "B형간염은 출생 시에 1차 일정이 있어요. 결핵(BCG)은 생후 약 4주 이내 1회로 안내돼 있어요.",
+      "tip": "병원에서 안내받은 일정과 함께 확인해 보세요"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "1개월에는 B형간염 일정이 이어져요",
+      "highlight": "1개월",
+      "body": "B형간염은 출생 시, 1개월, 6개월에 맞추는 일정으로 안내돼요. 두 번째 일정이 생후 1개월이에요.",
+      "tip": "접종 날짜는 아기 상태에 따라 달라질 수 있어요"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "2개월에는 여러 백신 일정이 시작돼요",
+      "highlight": "2개월",
+      "body": "DTaP, 폴리오, Hib, 폐렴구균이 모두 생후 2개월에 시작해 4개월에 2차가 있어요. 3차는 6개월이고, 폴리오 3차는 6~18개월 사이예요.",
+      "tip": "한 번에 몇 가지를 맞출지는 의료진과 상의하세요"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "로타바이러스는 기한을 확인하세요",
+      "highlight": "8개월 0일",
+      "body": "로타바이러스 백신은 종류에 따라 2회 또는 3회예요. 8개월 0일까지만 접종할 수 있다고 안내돼요.",
+      "tip": "어떤 종류를 쓰는지는 접종 기관에 문의하세요"
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "국가예방접종은 12세 이하 지원이에요",
+      "highlight": "전액 지원",
+      "body": "2013년 1월 1일 이후 출생한 12세 이하 어린이가 대상이에요. 필수예방접종은 백신비와 시행비를 전액 지원해요.",
+      "tip": "보건소나 위탁의료기관에서 접종할 때 지원돼요"
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "BCG 경피용은 본인 부담이에요",
+      "highlight": "BCG 경피용",
+      "body": "BCG 경피용은 국가예방접종에 포함되지 않아 전액 본인이 부담해요. 어떤 종류를 맞을지는 의료진과 상담하세요.",
+      "tip": "접종 여부는 이 카드로 정하지 말고 상담으로 정하세요"
+    },
+    {
+      "type": "list",
+      "title": "접종 갈 때 챙길 것",
+      "items": [
+        "보호자 신분증",
+        "예방접종수첩",
+        "예방접종도우미에서 가까운 위탁의료기관 찾기",
+        "방문 전 전화로 접종 가능 백신 확인"
+      ],
+      "tip": "접종 이력은 예방접종도우미에서 조회할 수 있어요"
+    },
+    {
+      "type": "closing",
+      "title": "일정은 정보일 뿐, 결정은 상담으로 해요",
+      "body": "아기마다 건강 상태가 달라서 접종 시기는 의료진과 상담해 정하세요. 이 카드는 국가예방접종 일정을 정리한 정보예요."
+    }
+  ],
+  "caption": "생후 3개월 접종표, 놓치면 헷갈려요\n\n출산 전에 한 번 저장해 두면 산후에 바로 꺼내 볼 수 있는 국가예방접종 일정 정보예요.\n1) 출생 시 B형간염 1차, 결핵(BCG)은 생후 약 4주 이내 1회로 안내돼요.\n2) 생후 1개월에는 B형간염 2차 일정이 있고, 2개월부터 DTaP·폴리오·Hib·폐렴구균 일정이 시작돼요.\n3) 12세 이하 필수예방접종은 보건소·위탁의료기관에서 전액 지원되고, BCG 경피용은 본인 부담이에요.\n\n접종 여부와 시기는 아기 상태에 따라 다르니 담당 의료진과 상담하세요. 이 글은 접종을 권유하는 글이 아니라 일정 안내예요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026년 11월 17일 기준)",
+  "hashtags": [
+    "#국가예방접종",
+    "#아기예방접종",
+    "#예방접종일정",
+    "#신생아",
+    "#임산부",
+    "#임신후기",
+    "#출산준비",
+    "#정부지원",
+    "#육아정보",
+    "#육아꿀팁",
+    "#예방접종도우미",
+    "#신생아케어"
+  ],
+  "cover_image_prompt": "a folded white muslin cloth, a pair of white knit baby socks, a blank paper form with a pen, a small wooden tray",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "표지: 생후 3개월 안에 해당하는 국가예방접종 일정(출생 시, 1개월, 2개월)을 정리한 정보",
+      "value": "3개월",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "B형간염은 출생 시 접종 일정이 있다 (출생 시, 1개월, 6개월)",
+      "value": "출생 시",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "결핵(BCG)은 생후 약 4주 이내 1회",
+      "value": "4주",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c4",
+      "card": 2,
+      "text": "BCG 접종 횟수 1회",
+      "value": "1회",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c5",
+      "card": 3,
+      "text": "B형간염 일정은 출생 시, 1개월, 6개월 (1개월에 두 번째 일정)",
+      "value": "1개월",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c6",
+      "card": 3,
+      "text": "B형간염 6개월 일정(출생 시, 1개월, 6개월)",
+      "value": "6개월",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c7",
+      "card": 4,
+      "text": "DTaP는 2, 4, 6개월, 폴리오는 2, 4개월(3차 6~18개월), Hib는 2, 4, 6개월(+12~15개월), 폐렴구균은 2, 4, 6개월(+12~15개월)",
+      "value": "2개월",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c8",
+      "card": 4,
+      "text": "DTaP·Hib·폐렴구균은 4개월에 이어지는 일정",
+      "value": "4개월",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c9",
+      "card": 5,
+      "text": "로타바이러스는 백신 종류에 따라 2회 또는 3회이며 8개월 0일까지만 접종 가능",
+      "value": "8개월 0일",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c10",
+      "card": 5,
+      "text": "로타바이러스 접종 횟수 2회 또는 3회",
+      "value": "2회",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c11",
+      "card": 5,
+      "text": "로타바이러스 3회 (백신 종류에 따라)",
+      "value": "3회",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c12",
+      "card": 6,
+      "text": "2026년도 기준 2013년 1월 1일 이후 출생한 12세 이하 어린이가 대상",
+      "value": "2013년 1월 1일",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c13",
+      "card": 6,
+      "text": "12세 이하 어린이 대상",
+      "value": "12세",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c14",
+      "card": 6,
+      "text": "필수예방접종의 백신비와 시행비를 전액 지원",
+      "value": "전액 지원",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c15",
+      "card": 6,
+      "text": "보건소 또는 위탁의료기관에서 접종해야 비용 지원 (위탁의료기관이 아닌 민간기관은 지원 불가)",
+      "value": "위탁의료기관",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c16",
+      "card": 7,
+      "text": "BCG 경피용은 국가예방접종 사업에 포함되지 않아 전액 본인 부담",
+      "value": "BCG 경피용",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c17",
+      "card": 8,
+      "text": "접종 시 보호자 신분증과 예방접종수첩 지참, 방문 전 전화나 누리집에서 접종 가능 백신 확인, 예방접종도우미에서 위탁의료기관 찾기",
+      "value": "예방접종수첩",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c18",
+      "card": 8,
+      "text": "예방접종도우미에서 접종내역 조회 가능",
+      "value": "접종내역 조회",
+      "source_hint": "https://nip.kdca.go.kr/irhp/index.jsp"
+    },
+    {
+      "id": "c19",
+      "card": 9,
+      "text": "접종 시기와 종류는 예진의사·의료진 상담으로 결정 (지원 연령이 다른 백신도 있어 예진의사와 상담)",
+      "value": "의료진 상담",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    },
+    {
+      "id": "c20",
+      "card": 6,
+      "text": "국가예방접종 접종기관은 전국 보건소 및 위탁의료기관 (보건소에서도 지원)",
+      "value": "보건소",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-03",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] 열: 출생시 / ~4주 / 1개월 / 2개월 / 4개월 / 6개월 / 12개월 — 출생시 B형간염 1차, ~4주 결핵 1차, 1개월 B형간염 2차, 2개월 DTaP·폴리오·Hib·폐렴구균·로타 1차",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] B형간염: 출생시 1차, 1개월 2차, 6개월 3차",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.ddm.go.kr/health/contents.do?key=1230",
+        "source_quote": "결핵(BCG, 피내용) 1회(4주 이내)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.ddm.go.kr/health/contents.do?key=1230",
+        "source_quote": "결핵(BCG, 피내용) 1회(4주 이내)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] B형간염: 출생시 1차, 1개월 2차, 6개월 3차",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] B형간염: 출생시 1차, 1개월 2차, 6개월 3차",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c7",
+        "verdict": "FIXED",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] 디프테리아,파상풍,백일해 2개월 1차·4개월 2차·6개월 3차 / 폴리오 2개월 1차·4개월 2차·3차 6개월~18개월 / b형헤모필루스인플루엔자 1~3차 2·4·6개월, 4차 ~15개월 / 폐렴구균 감염증 1~3차 2·4·6개월, 4차 ~15개월",
+        "checked_at": "2026-11-03",
+        "before": "카드4 본문: DTaP, 폴리오, Hib, 폐렴구균이 모두 생후 2개월부터 시작하는 일정이에요. 이후 4개월, 6개월에 이어져요.",
+        "after": "카드4 본문: DTaP, 폴리오, Hib, 폐렴구균이 모두 생후 2개월에 시작해 4개월에 2차가 있어요. 3차는 6개월이고, 폴리오 3차는 6~18개월 사이예요."
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] DTaP·Hib·폐렴구균 2차: 4개월",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/index.jsp",
+        "source_quote": "로타바이러스 접종은 생후 8개월0일까지만 접종 가능하니 표준접종일정에 맞춰 접종하세요",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] 로타바이러스 감염증 RV1: 2개월 1차, 4개월 2차 / RV5: 2개월 1차, 4개월 2차, 6개월 3차",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/goBannerImage.do?seqnum=439&poptype=4",
+        "source_quote": "[질병관리청 '어린이 국가예방접종 연령별 접종 안내 출생 후~생후 12개월' 일정표 이미지 판독] 로타바이러스 감염증 RV5: 2개월 1차, 4개월 2차, 6개월 3차",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "12세 이하 어린이(2013.1.1. 이후 출생자, 2026년도 기준)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "12세 이하 어린이(2013.1.1. 이후 출생자, 2026년도 기준)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "필수예방접종의 접종비용(백신비 및 예방접종 시행비) 전액 지원",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c15",
+        "verdict": "FIXED",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "위탁의료기관이 아닌 곳에서는 예방접종 비용을 지원받으실 수 없습니다. / (접종기관) 전국 보건소 및 위탁의료기관",
+        "checked_at": "2026-11-03",
+        "before": "카드6 tip: 지원은 위탁의료기관에서 접종할 때만 받을 수 있어요 / 캡션: 3) 12세 이하 필수예방접종은 위탁의료기관에서 전액 지원되고",
+        "after": "카드6 tip: 보건소나 위탁의료기관에서 접종할 때 지원돼요 / 캡션: 3) 12세 이하 필수예방접종은 보건소·위탁의료기관에서 전액 지원되고"
+      },
+      {
+        "id": "c16",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "국가예방접종 사업에 포함되지 않은 백신* 접종비용은 전액 본인 부담입니다. * (BCG 경피용, 일본뇌염 약독화 생백신(이모젭), HPV 9가)",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c17",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "보호자는 신분증, '예방접종수첩(예방접종기록 확인용)'을 지참하고 위탁의료기관을 방문하시기 바랍니다. / 의료기관에 따라 접종 가능한 백신이 서로 다를 수 있으므로 위탁의료기관 방문 전 유선 및 예방접종도우미 누리집에서 백신 정보를 반드시 확인하시기 바랍니다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c18",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/index.jsp",
+        "source_quote": "본인 및 자녀의 예방접종 내역을 조회합니다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c19",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "DTaP, IPV, Hib, PCV, IJEV 백신 등은 접종시기가 지연될 경우 접종일정(횟수)이 달라지므로 세부적인 접종일정은 예진의사와 상담하시기 바랍니다.",
+        "checked_at": "2026-11-03"
+      },
+      {
+        "id": "c20",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=131",
+        "source_quote": "전국 보건소 및 위탁의료기관",
+        "checked_at": "2026-11-03"
+      }
+    ],
+    "notes": "표준일정(c1,c2,c5~c8,c10,c11)은 질병관리청 예방접종도우미 배너 이미지(goBannerImage.do?seqnum=439, 카피라이터가 받은 l5h6d2.png와 동일 파일)를 직접 판독해 대조 — source_quote의 [ ] 표시는 이미지 셀 판독임. BCG 4주 이내 1회는 이미지(~4주 1차)와 동대문구 보건소 페이지(ddm.go.kr) 텍스트로 확인. 로타 '8개월 0일까지만 접종 가능'은 예방접종도우미 메인 배너 문구 그대로(지원은 1차 14주 6일까지, 2~3차 8개월 0일까지). FIXED 2건: 카드4 폴리오 3차 6~18개월 명시, 카드6 tip '위탁의료기관에서만'→보건소 포함(사업 개요 접종기관 '전국 보건소 및 위탁의료기관'). 숨은 주장 c20 추가. 기준일 2026-11-17 시점 2026년도 기준 대상(2013.1.1. 이후 출생) 유효."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-03",
+    "problems": []
+  }
+}
