@@ -1,0 +1,36 @@
+name: daily-publish
+# 매일 09:00 KST(00:00 UTC)에 그날 날짜 게시물을 @d280.mag에 발행.
+# 막는 장치: KILL_SWITCH 파일, 발행 직전 관문 재검사(check_post.py), publish-log.csv 중복 방지.
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "발행할 날짜 (YYYY-MM-DD, 비우면 오늘 KST)"
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Seoul
+      PYTHONIOENCODING: utf-8
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: publish
+        run: |
+          D="${{ github.event.inputs.date }}"
+          python3 scripts/publish.py ${D:+--date "$D"}
+      - name: save log
+        if: always()
+        run: |
+          git config user.name "d280-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A publish-log.csv posts
+          git diff --cached --quiet || (git commit -m "publish log $(date +%F)" && git push)
