@@ -1,0 +1,334 @@
+{
+  "id": "2026-11-09-maternity-leave-pay",
+  "topic": "출산휴가 급여, 확인서 받고 내가 직접 신청하기",
+  "target_stage": "임신 중기~출산 후",
+  "hook_type": "마감",
+  "base_date": "2026-11-09",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출산휴가 쓰는 분 필독",
+      "title": "출산휴가 급여\n신청 안 하면 끝",
+      "highlight": "신청 안 하면 끝",
+      "sub": "휴가 종료 후 12개월 안에 내가 직접 신청해요",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "누가 받을 수 있나요",
+      "highlight": "180일 이상",
+      "body": "출산전후휴가나 유산·사산휴가를 쓴 근로자가 대상이에요. 휴가가 끝나기 전 고용보험 가입 기간이 합쳐서 180일 이상이어야 해요.",
+      "tip": "가입 기간은 휴가가 끝난 날 이전까지를 합산해요"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "얼마까지 받을 수 있나요",
+      "highlight": "220만 원",
+      "body": "상한액은 30일 기준 220만 원이에요. 2026년 고시 금액이고, 매년 바뀔 수 있어요. 하한액은 최저임금액이에요.",
+      "tip": "급여는 통상임금에 해당하는 금액이에요"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "신청 기한을 꼭 보세요",
+      "highlight": "12개월 이내",
+      "body": "휴가 시작일 이후 1개월부터 신청할 수 있어요. 휴가 종료일 이후 12개월 이내에 신청해야 해요.",
+      "tip": "출산 후 정신없을 때를 대비해 일정을 미리 적어두세요"
+    },
+    {
+      "type": "list",
+      "title": "준비할 서류",
+      "items": [
+        "출산전후휴가 급여 신청서",
+        "출산전후휴가 확인서 (최초 1회)",
+        "통상임금 확인 자료 (임금대장, 근로계약서 등)",
+        "휴가 중 회사에서 금품을 받았다면 확인 자료"
+      ],
+      "tip": "확인서는 회사에 미리 요청해 두세요"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "신청은 이렇게 해요",
+      "highlight": "고용24",
+      "body": "온라인은 고용24에서 신청해요. 관할 고용센터를 방문하거나 우편으로도 낼 수 있어요.",
+      "tip": "궁금한 점은 고용노동부 고객상담센터 1350에 물어보세요"
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "회사 규모에 따라 달라요",
+      "highlight": "60일",
+      "body": "우선지원대상기업은 휴가 전체 기간인 90일을 지원해요. 그 외 대규모기업은 60일을 넘는 일수만, 최대 30일 지원해요.",
+      "tip": "대규모기업 소속은 휴가 시작 후 60일이 지난 날부터 신청 기한을 세요"
+    },
+    {
+      "type": "closing",
+      "title": "지금 임신 중이라면 출산 전에 한 가지만",
+      "body": "출산 전에 회사 담당자에게 출산전후휴가 확인서를 요청해 두세요. 출산 직후에는 신청 서류와 기한을 한 번 더 확인해 주세요."
+    }
+  ],
+  "caption": "출산휴가 급여, 신청 안 하면 끝이에요.\n\n핵심만 세 줄로 정리했어요.\n1) 휴가 종료 전 고용보험 가입 기간이 합쳐서 180일 이상이면 대상이에요.\n2) 상한은 30일 기준 220만 원(2026년 고시), 신청은 휴가 시작 1개월 후부터 종료 후 12개월 이내예요.\n3) 신청은 고용24, 고용센터 방문, 우편으로 할 수 있고 서류는 신청서와 확인서 등이에요.\n\n회사 규모에 따라 지급 기간이 달라서 내 경우는 고용24나 1350에서 확인해 보세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-09 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신",
+    "#출산준비",
+    "#출산휴가",
+    "#출산휴가급여",
+    "#출산전후휴가",
+    "#정부지원",
+    "#고용보험",
+    "#고용24",
+    "#육아정보",
+    "#예비맘",
+    "#워킹맘"
+  ],
+  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a few blank paper forms, a pen and a small potted green plant",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "출산전후휴가 또는 유산·사산휴가를 받은 근로자가 대상이다",
+      "value": "근로자",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "휴가가 끝나기 전 고용보험 피보험 단위기간을 합산해 180일 이상이어야 한다",
+      "value": "180일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "출산전후휴가 급여 상한액은 30일 기준 220만 원이다 (2026년 고시 금액, 매년 고시)",
+      "value": "220만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "급여 하한액은 최저임금액이고 지급액은 통상임금에 해당하는 금액이다",
+      "value": "최저임금액",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "휴가 시작일 이후 1개월부터 휴가 종료일 이후 12개월 이내에 신청한다",
+      "value": "1개월, 12개월",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "제출 서류: 출산전후휴가 급여등 신청서, 출산전후휴가 확인서(최초 1회), 통상임금 확인 자료 사본, 휴가 중 금품 수령 확인 자료",
+      "value": "1회",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "신청 방법은 온라인(고용24), 관할 고용센터 방문, 우편이다",
+      "value": "고용24",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c8",
+      "card": 6,
+      "text": "문의는 고용노동부 고객상담센터 1350",
+      "value": "1350",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c9",
+      "card": 7,
+      "text": "우선지원대상기업 소속은 출산전후휴가 전체 기간(90일)을 지원한다",
+      "value": "90일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c10",
+      "card": 7,
+      "text": "대규모기업 소속은 휴가 중 60일을 넘는 일수만, 최대 30일 지원한다",
+      "value": "60일, 30일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c11",
+      "card": 7,
+      "text": "우선지원대상기업이 아닌 사업장은 휴가 시작 후 60일이 지난 날부터 신청 기한을 기산한다",
+      "value": "60일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c12",
+      "card": 1,
+      "text": "신청은 휴가 종료 후 12개월 이내에 해야 한다(그 기간에 대통령령으로 정하는 사유로 신청할 수 없었던 사람은 사유가 끝난 후 30일 이내)",
+      "value": "12개월, 30일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c13",
+      "card": 8,
+      "text": "출산전후휴가 확인서(최초 1회)는 신청 시 첨부 서류이며, 근로자가 요구하면 사업주는 확인서를 내주어야 한다",
+      "value": "확인서",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c14",
+      "card": 0,
+      "text": "caption: 2026-11-09 기준, 상한 30일 기준 220만 원",
+      "value": "2026-11-09",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460"
+    },
+    {
+      "id": "c15",
+      "card": 2,
+      "text": "휴가가 끝난 날 이전까지의 피보험 단위기간을 합산한다 (card 2 tip)",
+      "value": "",
+      "source_hint": "https://www.law.go.kr/법령/고용보험법"
+    },
+    {
+      "id": "c16",
+      "card": 5,
+      "text": "확인서는 회사(사업주)에 요청해 발급받는다 (card 5 tip)",
+      "value": "",
+      "source_hint": "https://www.law.go.kr/법령/고용보험법시행규칙"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-02",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "「근로기준법」 제74조에 따른 출산전후휴가 또는 유산ㆍ사산휴가를 받은 근로자",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법",
+        "source_quote": "휴가가 끝난 날 이전에 제41조에 따른 피보험 단위기간이 합산하여 180일 이상일 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "매년 고용노동부장관이 고시하는 금액('26년 고시 금액: 30일 기준 220만원)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법",
+        "source_quote": "「근로기준법」의 통상임금(휴가를 시작한 날을 기준으로 산정한다)에 해당하는 금액을 지급한다 / (gov.kr) 하한액: 최저임금액",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "휴가를 시작한 날 이후 1개월부터 휴가가 끝난 날 이후 12개월 이내",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법시행규칙",
+        "source_quote": "별지 제105호서식의 출산전후휴가 급여등 신청서에 다음 각 호의 서류를 모두 첨부하여 ... 1. 제123조에 따른 출산전후휴가(유산ㆍ사산휴가) 확인서(최초 1회만 해당한다) ... 2. 통상임금을 확인할 수 있는 자료(임금대장, 근로계약서 등) 사본 1부 3. 휴가기간 동안 사업주로부터 금품을 지급받은 경우 이를 확인할 수 있는 자료",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "가까운 관할 고용센터를 방문하거나 온라인(고용24 홈페이지: www.work24.go.kr) 또는 우편으로 신청",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "고용노동부 고객상담센터 (☎1350)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "출산전후휴가 기간(90일, 미숙아 100일, 다태아 120일)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법",
+        "source_quote": "우선지원 대상기업이 아닌 경우에는 휴가 기간 중 60일(한 번에 둘 이상의 자녀를 임신한 경우에는 75일)을 초과한 일수(30일을 한도로 하되, 미숙아를 출산한 경우에는 40일을 한도로 하고, 한 번에 둘 이상의 자녀를 임신한 경우에는 45일을 한도로 한다)로 한정한다",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법",
+        "source_quote": "휴가를 시작한 날[출산전후휴가 또는 유산ㆍ사산휴가를 받은 피보험자가 속한 사업장이 우선지원 대상기업이 아닌 경우에는 휴가 시작 후 60일(한 번에 둘 이상의 자녀를 임신한 경우에는 75일)이 지난 날로 본다] 이후 1개월부터 휴가가 끝난 날 이후 12개월 이내에 신청할 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c12",
+        "verdict": "FIXED",
+        "before": "신청 기한(휴가 종료 후 12개월 이내)을 넘기면 신청할 수 없다",
+        "after": "신청은 휴가 종료 후 12개월 이내에 해야 한다(그 기간에 대통령령으로 정하는 사유로 신청할 수 없었던 사람은 사유가 끝난 후 30일 이내)",
+        "source_url": "https://www.law.go.kr/법령/고용보험법",
+        "source_quote": "휴가가 끝난 날 이후 12개월 이내에 신청할 것. 다만, 그 기간에 대통령령으로 정하는 사유로 출산전후휴가 급여등을 신청할 수 없었던 사람은 그 사유가 끝난 후 30일 이내에 신청하여야 한다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c13",
+        "verdict": "FIXED",
+        "before": "회사가 확인서를 제출해야 근로자가 급여를 신청할 수 있다(확인서는 신청 서류에 포함) / 카드8: 출산 전에 회사 담당자에게 확인서 제출 일정을 물어보세요. 출산 직후에는 신청 서류와 기한을 한 번 더 확인해 주세요.",
+        "after": "출산전후휴가 확인서(최초 1회)는 신청 시 첨부 서류이며, 근로자가 요구하면 사업주는 확인서를 내주어야 한다 / 카드8: 출산 전에 회사 담당자에게 출산전후휴가 확인서를 요청해 두세요. 출산 직후에는 신청 서류와 기한을 한 번 더 확인해 주세요.",
+        "source_url": "https://www.law.go.kr/법령/고용보험법시행규칙",
+        "source_quote": "사업주는 ... 피보험자가 출산전후휴가, 유산ㆍ사산휴가 ... 에 대한 확인을 요구하는 경우에는 별지 제107호서식의 출산전후휴가(유산ㆍ사산휴가) 확인서 ... 를 내주어야 한다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460",
+        "source_quote": "매년 고용노동부장관이 고시하는 금액('26년 고시 금액: 30일 기준 220만원)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c15",
+        "verdict": "FIXED",
+        "before": "카드2 tip: 내 가입 기간은 고용24에서 확인할 수 있어요",
+        "after": "카드2 tip: 가입 기간은 휴가가 끝난 날 이전까지를 합산해요",
+        "source_url": "https://www.law.go.kr/법령/고용보험법",
+        "source_quote": "휴가가 끝난 날 이전에 제41조에 따른 피보험 단위기간이 합산하여 180일 이상일 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c16",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법시행규칙",
+        "source_quote": "사업주는 ... 피보험자가 ... 확인을 요구하는 경우에는 별지 제107호서식의 출산전후휴가(유산ㆍ사산휴가) 확인서 ... 를 내주어야 한다.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "notes": "상한 220만 원: gov.kr 정부24(최종수정 2026.05.11) '26년 고시 금액 30일 기준 220만원'으로 현행 확정. korea.kr 210만 원은 2025년까지의 상한(2026.1.1 인상 전)으로 판단, 출처로 쓰지 않음. 법령: 고용보험법 [시행 2026.3.17] 제75·76조, 고용보험법 시행규칙 [시행 2026.9.18] 제121·123조. c4 하한액(최저임금액)은 gov.kr 지원내용 기재. c9·c10은 단태아·일반 출산 기준(미숙아·다태아는 기간이 다름) - 카드는 일반 기준 표기. 카드2 tip '고용24에서 가입기간 확인'은 공식 확인 생략하고 법조문 기반 문구로 교체(c15). 카드8은 '회사가 확인서를 제출해야 신청 가능'이라는 추론을 빼고 시행규칙 제123조(근로자 요구 시 사업주가 확인서 발급) 기준으로 수정(c13)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

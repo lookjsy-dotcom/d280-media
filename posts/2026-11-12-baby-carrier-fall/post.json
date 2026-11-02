@@ -1,0 +1,410 @@
+{
+  "id": "2026-11-12-baby-carrier-fall",
+  "topic": "아기띠는 필수템, 단 사고는 매는 순간 난다",
+  "target_stage": "임신 후기(준비)~생후 12개월",
+  "hook_type": "통념뒤집기",
+  "base_date": "2026-11-02",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출산 준비물 리스트",
+      "title": "아기띠 필수템?\n사고는 쓰는 중에 나요",
+      "highlight": "쓰는 중에",
+      "sub": "사기 전에 알아둘 착용 규칙",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "아기띠 추락사고, 계속 나요",
+      "highlight": "62건",
+      "body": "공정위·소비자원이 최근 5년간 접수된 아기띠 추락사고를 분석했어요. 모두 62건이에요.",
+      "tip": "2025년 5월 발표한 소비자 안전주의보예요"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "대부분 돌 전 아기예요",
+      "highlight": "52건",
+      "body": "사고 62건 중 52건이 12개월 미만 아기였어요. 비율로는 약 84%예요.",
+      "tip": "신생아 때부터 착용 규칙이 중요해요"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "머리를 다치는 경우가 많아요",
+      "highlight": "60건",
+      "body": "머리·얼굴 부상이 60건이에요. 뇌진탕 12건, 두개골 골절 8건도 있었어요.",
+      "tip": "아기 상태가 걱정되면 담당 의료진과 상의하세요"
+    },
+    {
+      "type": "list",
+      "title": "이럴 때 사고가 났어요",
+      "items": [
+        "사용 중 풀리거나 느슨해짐 20건",
+        "몸과 아기띠 사이 틈으로 빠짐 13건",
+        "매는 도중 7건",
+        "허리를 숙이다가 1건"
+      ],
+      "tip": "아기띠 자체보다 쓰는 방법이 중요해요"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "살 때는 KC 인증부터",
+      "highlight": "KC 인증",
+      "body": "KC 인증 제품을 구입해요. 사용설명서대로 입고, 벨트는 제품 구조에 맞게 조절해요.",
+      "tip": "처음 매기 전에 설명서를 꼭 읽어 보세요"
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "사람이 바뀌면 다시 조여요",
+      "highlight": "다시 조정",
+      "body": "착용하는 사람이나 옷차림이 바뀌면 버클과 벨트를 다시 조정해요.",
+      "tip": "아빠와 번갈아 쓸 때 특히 챙기세요"
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "숙일 때는 무릎부터",
+      "highlight": "무릎을 굽혀",
+      "body": "아기를 안은 채 급하게 허리를 숙이지 않아요. 무릎을 굽혀 자세를 낮춰요.",
+      "tip": "매거나 자세를 바꿀 때도 몸을 낮추세요"
+    },
+    {
+      "type": "point",
+      "no": 7,
+      "title": "이동 중에도 수시로 확인해요",
+      "highlight": "위치와 자세",
+      "body": "걷는 동안 아기의 위치와 자세를 주기적으로 확인해요. 몸과 아기띠 사이에 틈이 없는지 봐요.",
+      "tip": "아기띠는 사도 되는 템, 규칙은 필수예요"
+    },
+    {
+      "type": "closing",
+      "title": "임신 5개월이라면 지금은 준비 시기",
+      "body": "임신 5개월 차라면 지금은 후보 고르기 단계예요. 출산 전에 KC 인증과 설명서부터 확인해 두세요. 처음 맬 때는 몸을 낮춘 자세로 매 보세요."
+    }
+  ],
+  "caption": "아기띠 필수템? 사고는 쓰는 중에 나요\n\n출산 준비물 리스트에 꼭 들어가는 아기띠, 사기 전에 착용 규칙부터 확인해요. 공정위·소비자원 소비자 안전주의보(2025년 5월 발표) 내용을 정리했어요.\n\n- 최근 5년간 아기띠 추락사고 62건, 12개월 미만이 52건이에요\n- 풀리거나 느슨해짐, 몸과 아기띠 사이 틈, 매는 도중에 사고가 났어요\n- KC 인증 구입, 설명서대로 착용, 숙일 때는 무릎을 굽혀 자세를 낮춰요\n\n아기 건강이 걱정되면 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (기준일: 2026-11-02)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신후기",
+    "#출산준비",
+    "#출산준비물",
+    "#신생아",
+    "#신생아용품",
+    "#아기띠",
+    "#아기띠안전",
+    "#육아꿀팁",
+    "#초보엄마",
+    "#초보아빠",
+    "#육아정보",
+    "#소비자안전"
+  ],
+  "cover_image_prompt": "a soft beige fabric baby carrier laid flat with its buckles and straps spread out, a folded muslin cloth, a pair of white knit baby socks, a blank paper checklist and a pen",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "공정위·소비자원이 최근 5년간 접수된 아기띠 추락사고를 분석했고 모두 62건이다",
+      "value": "62건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "소비자 안전주의보는 2025년 5월 19일 발표되었다",
+      "value": "2025년 5월",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "분석 대상 기간은 최근 5년(2020~2024년)이다",
+      "value": "5년",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "아기띠 추락사고 62건 중 12개월 미만 영유아가 52건이다",
+      "value": "52건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c5",
+      "card": 3,
+      "text": "12개월 미만 영유아 비율은 약 84%(83.9%)이다",
+      "value": "84%",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c6",
+      "card": 3,
+      "text": "12개월 미만 기준은 아기 월령 12개월 미만이다",
+      "value": "12개월",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c7",
+      "card": 4,
+      "text": "머리·얼굴 부상이 60건이다",
+      "value": "60건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c8",
+      "card": 4,
+      "text": "뇌진탕이 12건 보고되었다",
+      "value": "12건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c9",
+      "card": 4,
+      "text": "두개골 골절이 8건 보고되었다",
+      "value": "8건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c10",
+      "card": 5,
+      "text": "사용 중 아기띠가 풀리거나 느슨해져 추락한 사고가 20건이다",
+      "value": "20건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c11",
+      "card": 5,
+      "text": "신체와 아기띠 사이 틈으로 빠져 추락한 사고가 13건이다",
+      "value": "13건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c12",
+      "card": 5,
+      "text": "착용(매는) 과정에서 추락한 사고가 7건이다",
+      "value": "7건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c13",
+      "card": 5,
+      "text": "허리를 숙이던 중 추락한 사고가 1건이다",
+      "value": "1건",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c14",
+      "card": 6,
+      "text": "소비자 안전수칙: KC 인증 제품을 구입하고, 사용설명서를 확인해 올바르게 착용하며 제품 구조에 맞게 벨트를 조절한다",
+      "value": "KC 인증",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c15",
+      "card": 7,
+      "text": "소비자 안전수칙: 착용자나 옷차림이 바뀌면 버클과 벨트를 다시 조정한다",
+      "value": "다시 조정",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c16",
+      "card": 8,
+      "text": "소비자 안전수칙: 착용한 상태에서 급하게 숙이거나 허리를 굽히지 않고 무릎을 굽혀 자세를 낮추며, 매거나 자세를 바꿀 때도 낮은 자세를 취한다",
+      "value": "무릎을 굽혀",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c17",
+      "card": 9,
+      "text": "소비자 안전수칙: 이동 중에는 영유아의 위치와 자세를 주기적으로 확인한다",
+      "value": "위치와 자세",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c18",
+      "card": 10,
+      "text": "카드 마지막의 시기 안내: 임신 5개월 차 기준 독자 설정(사실 주장 아님) + 출산 전 KC 인증·설명서 확인, 맬 때는 낮은 자세(공식 안전수칙)",
+      "value": "임신 5개월",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c19",
+      "card": 2,
+      "text": "아기띠 추락사고가 계속 발생하고 있다(연도별 2020년 4건, 2021년 7건, 2022년 15건, 2023년 20건, 2024년 16건)",
+      "value": "계속 발생",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    },
+    {
+      "id": "c20",
+      "card": 1,
+      "text": "추락사고 유형 중 사용 중 풀리거나 느슨해진 사고가 20건으로 가장 많다(매는 도중은 7건)",
+      "value": "쓰는 중에",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-02",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "최근 5년 동안 한국소비자원 소비자위해감시시스템(CISS)에 접수된 아기띠 관련 추락사고는 2020년 4건, 2021년 7건, 2022년 15건, 2023년 20건, 2024년 16건 등 모두 62건이며",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "공정거래위원회와 한국소비자원은 아이를 수월하게 안을 수 있도록 보조해 주는 기구인 아기띠 사용 중에 영유아 추락사고가 지속해 발생함에 따라 소비자 안전주의보를 발령했다고 19일 밝혔다. (게시일 2025.05.19)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "최근 5년 동안 한국소비자원 소비자위해감시시스템(CISS)에 접수된 아기띠 관련 추락사고는 2020년 4건, 2021년 7건, 2022년 15건, 2023년 20건, 2024년 16건 등 모두 62건이며",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "그중 움직임이 자유롭지 못한 12개월 미만이 83.9%(52건)로 대부분을 차지했다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "그중 움직임이 자유롭지 못한 12개월 미만이 83.9%(52건)로 대부분을 차지했다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "그중 움직임이 자유롭지 못한 12개월 미만이 83.9%(52건)로 대부분을 차지했다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "주요 위해부위를 살펴보면 머리 및 얼굴이 96.8%(60건)로 가장 많았고",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "영유아 3명 중 1명은 추락하면서 뇌진탕(12건 19.4%)이나 두개골 골절(8건, 12.9%) 등 중증 상해를 입은 것으로 나타나",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "영유아 3명 중 1명은 추락하면서 뇌진탕(12건 19.4%)이나 두개골 골절(8건, 12.9%) 등 중증 상해를 입은 것으로 나타나",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "사용 중 아기띠가 풀리거나 느슨해져 영유아가 추락한 사고(20건)가 가장 많았고",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "착용자의 신체와 아기띠 사이 틈새 공간으로 영유아가 빠져 추락한 사고(13건)가 그 뒤를 이었다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "보호자가 아기띠를 매던 중 영유아가 추락(7건)하거나",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "아기띠를 맨 상태에서 허리를 숙이다가 추락(1건)하는 등 보호자의 부주의에 따른 사고 사례도 확인됐다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "▲KC인증 제품을 구입할 것 ▲아기띠 구조에 따라 착용 및 벨트 조정 방법이 다르므로 사용설명서를 숙지하여 올바르게 장착할 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "▲착용자나 착용자의 복장이 바뀔 시 버클과 벨트를 재조정할 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c16",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "▲아기띠를 착용한 상태로 급격히 숙이거나 허리를 구부리는 행동을 삼가고, 무릎을 구부려 자세를 낮출 것 ... ▲착용하거나 착용 자세를 바꿀 때는 낮은 자세를 할 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c17",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "▲이동 중에는 주기적으로 영유아의 위치와 자세를 점검할 것",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c18",
+        "verdict": "FIXED",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "▲KC인증 제품을 구입할 것 ▲아기띠 구조에 따라 착용 및 벨트 조정 방법이 다르므로 사용설명서를 숙지하여 올바르게 장착할 것 ... ▲착용하거나 착용 자세를 바꿀 때는 낮은 자세를 할 것",
+        "checked_at": "2026-11-02",
+        "before": "임신 5개월 차라면 지금은 후보 고르기 단계예요. 출산 전에 KC 인증과 설명서부터 확인해 두세요. 출산 직후에는 착용 연습을 먼저 해보세요.",
+        "after": "임신 5개월 차라면 지금은 후보 고르기 단계예요. 출산 전에 KC 인증과 설명서부터 확인해 두세요. 처음 맬 때는 몸을 낮춘 자세로 매 보세요.",
+        "note": "'출산 직후에는 착용 연습을 먼저 해보세요'는 공식 출처에 없는 조언 → 공식 안전수칙(착용 시 낮은 자세)으로 교체. '임신 5개월'은 독자 기준 인물 설정(progress.md)이며 사실 주장 아님."
+      },
+      {
+        "id": "c19",
+        "verdict": "FIXED",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "아기띠 관련 추락사고는 2020년 4건, 2021년 7건, 2022년 15건, 2023년 20건, 2024년 16건 등 모두 62건이며 / 영유아 추락사고가 지속해 발생함에 따라",
+        "checked_at": "2026-11-02",
+        "before": "카드2 제목: 아기띠 추락사고가 늘었어요",
+        "after": "카드2 제목: 아기띠 추락사고, 계속 나요",
+        "note": "연도별 4→7→15→20→16건으로 2024년은 전년보다 줄어 '늘었다'고 단정 불가. 공식 표현은 '지속해 발생'."
+      },
+      {
+        "id": "c20",
+        "verdict": "FIXED",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943338",
+        "source_quote": "사용 중 아기띠가 풀리거나 느슨해져 영유아가 추락한 사고(20건)가 가장 많았고 ... 보호자가 아기띠를 매던 중 영유아가 추락(7건)하거나",
+        "checked_at": "2026-11-02",
+        "before": "표지: 사고는 매는 순간 나요 (하이라이트 '매는 순간')",
+        "after": "표지: 사고는 쓰는 중에 나요 (하이라이트 '쓰는 중에'), 캡션 첫 줄 동일 수정",
+        "note": "매던 중 사고는 7건뿐, 가장 많은 유형은 사용 중 풀림·느슨해짐 20건. '매는 순간'은 공식 수치와 어긋나는 프레이밍."
+      }
+    ],
+    "notes": "모든 수치는 정책브리핑(korea.kr, 공정위 제공, 2025.05.19) 본문을 직접 열어 원문 문장과 대조. 소비자원(kca.go.kr) 소비자안전주의보 목록에 '[소비자안전주의보] 아기띠 사용 시 추락사고에 주의하세요!'(등록 2025-05-27)가 있음을 검색으로 확인했으나 본문은 열지 않음 — korea.kr 본문이 공정위 배포 원문이므로 이를 출처로 사용. 숨은 주장 2건(c19 카드2 제목 '늘었어요', c20 표지 '매는 순간') 추가 후 수정."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

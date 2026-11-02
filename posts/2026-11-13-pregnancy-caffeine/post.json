@@ -1,0 +1,211 @@
+{
+  "id": "2026-11-13-pregnancy-caffeine",
+  "topic": "임신 중 커피, 기준은 하루 300mg",
+  "target_stage": "임신 전 기간",
+  "hook_type": "통념뒤집기",
+  "base_date": "2026-11-12",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "임신 중 카페인",
+      "title": "임산부 커피\n전부 금지는 아니에요",
+      "highlight": "전부 금지는 아니에요",
+      "sub": "기준은 하루 300mg, 따져 보는 법",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "기준은 '양'이에요",
+      "highlight": "300mg 이하",
+      "body": "식약처는 임산부의 카페인 최대 일일 섭취 권고량을 300mg 이하로 안내해요.\n있고 없고가 아니라, 하루 총량으로 따져요.",
+      "tip": "커피를 끊을지는 담당 의료진과 상의하세요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "성인 기준과는 달라요",
+      "highlight": "400mg 이하",
+      "body": "일반 성인의 권고량은 하루 400mg 이하예요.\n임산부는 이보다 낮은 300mg 이하로 안내돼요.",
+      "tip": "평소 마시던 양을 그대로 두기 전에 한 번 확인해요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "왜 기준이 있을까요",
+      "highlight": "저체중아 출산",
+      "body": "식약처는 카페인을 많이 섭취하면 저체중아 출산 등의 원인이 될 수 있다고 설명해요.\n그래서 양을 정해 두었어요.",
+      "tip": "겁먹기보다 양을 아는 게 먼저예요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "컵 크기를 먼저 봐요",
+      "highlight": "150~164mg",
+      "body": "질병관리청 자료에 따르면 원두커피 1잔(200ml)에는 150~164mg의 카페인이 들어 있어요.\n큰 컵이면 더 늘어날 수 있어요.",
+      "tip": "카페에서는 컵 사이즈를 먼저 확인해요."
+    },
+    {
+      "type": "list",
+      "title": "커피만 세면 놓쳐요",
+      "items": [
+        "콜라 같은 탄산음료",
+        "녹차·홍차",
+        "초콜릿",
+        "카페인이 든 액체식품"
+      ],
+      "tip": "질병관리청은 이런 음식에도 카페인이 있다고 안내해요. 합산해서 보세요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "라벨로 확인해요",
+      "highlight": "고카페인 함유",
+      "body": "카페인이 많이 든 액체식품에는 '고카페인 함유' 표시가 있어요.\n사기 전에 라벨부터 보는 습관을 들여요.",
+      "tip": "함량이 궁금하면 라벨의 표시를 확인해요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "내 몸에 맞는 양은 따로",
+      "highlight": "담당 의료진",
+      "body": "권고량은 평균적인 기준이에요.\n내 상태에 맞는 양은 담당 의료진과 상의해서 정하세요.",
+      "tip": "진료 때 평소 마시는 음료를 함께 말해요."
+    },
+    {
+      "type": "closing",
+      "title": "오늘부터 이것만 해요",
+      "body": "지금 임신 중이라면 오늘 마신 음료의 컵 크기와 라벨부터 확인해 보세요.\n다음 진료 때 담당 의료진께 물어보는 것도 좋아요."
+    }
+  ],
+  "caption": "임산부 커피, 전부 금지는 아니에요.\n\n핵심 3줄 요약\n1) 식약처 권고량은 임산부 하루 300mg 이하(성인은 400mg 이하)예요.\n2) 원두커피 1잔(200ml)에 150~164mg이라 컵 크기를 먼저 봐야 해요.\n3) 차, 초콜릿, 탄산음료의 카페인도 합산해서 보고 '고카페인 함유' 라벨을 확인해요.\n\n개인별 적정량은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요.\n기준일 2026년 11월 12일 (식약처·질병관리청 안내 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신중커피",
+    "#임산부카페인",
+    "#카페인",
+    "#출산준비",
+    "#임신초기",
+    "#임신중기",
+    "#임신후기",
+    "#예비맘",
+    "#임산부주의사항",
+    "#임신정보",
+    "#정부지원",
+    "#육아꿀팁"
+  ],
+  "cover_image_prompt": "a white ceramic cup of milk tea, a small folded linen napkin, a pair of white knit baby socks, a few blank cream paper cards and a pencil",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "식약처 임산부 카페인 최대 일일 섭취 권고량은 300mg 이하",
+      "value": "300mg",
+      "source_hint": "https://www.korea.kr/news/healthView.do?newsId=148803922"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "성인 카페인 최대 일일 섭취 권고량은 400mg 이하",
+      "value": "400mg",
+      "source_hint": "https://www.korea.kr/news/healthView.do?newsId=148803922"
+    },
+    {
+      "id": "c3",
+      "card": 4,
+      "text": "카페인 과다 섭취는 저체중아 출산 등의 원인이 될 수 있다",
+      "value": "저체중아 출산",
+      "source_hint": "https://www.korea.kr/news/healthView.do?newsId=148803922"
+    },
+    {
+      "id": "c4",
+      "card": 5,
+      "text": "원두커피 1잔(200ml)에는 카페인 150~164mg",
+      "value": "150~164mg",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "원두커피 용량 기준 200ml",
+      "value": "200ml",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214"
+    },
+    {
+      "id": "c6",
+      "card": 6,
+      "text": "콜라, 녹차, 홍차, 초콜릿 등에도 카페인이 들어 있다",
+      "value": "콜라·녹차·홍차·초콜릿",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214"
+    },
+    {
+      "id": "c7",
+      "card": 7,
+      "text": "카페인 함유 액체식품은 '고카페인 함유' 표시를 확인",
+      "value": "고카페인 함유",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-02",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://impfood.mfds.go.kr/CFBBB02F02/getCntntsDetail?cntntsSn=281601",
+        "source_quote": "※ 우리나라 카페인 최대 일일섭취권고량: 성인 400mg 이하, 임산부 300mg 이하, 어린이‧청소년 2.5mg/kg(체중) 이하",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://impfood.mfds.go.kr/CFBBB02F02/getCntntsDetail?cntntsSn=281601",
+        "source_quote": "※ 우리나라 카페인 최대 일일섭취권고량: 성인 400mg 이하, 임산부 300mg 이하, 어린이‧청소년 2.5mg/kg(체중) 이하",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://m.korea.kr/briefing/policyBriefingView.do?newsId=148829704",
+        "source_quote": "카페인을 지나치게 섭취할 경우 태반을 통해 태아에게 전달된 카페인이 분해, 배출되지 않아 저체중아 출산 등으로 이어질 우려가 있어 하루 300mg 이내로 섭취하도록 한다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214",
+        "source_quote": "원두 커피 1 잔(200 ml)에는 150~164 mg의 카페인이 들어 있습니다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214",
+        "source_quote": "원두 커피 1 잔(200 ml)에는 150~164 mg의 카페인이 들어 있습니다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214",
+        "source_quote": "카페인은 주로 커피, 홍차, 콜라, 초콜릿 등에 함유되어 있습니다. / 커피뿐 아니라 콜라, 녹차, 홍차에도 카페인이 함유되어 있으므로 섭취 시 주의해야 합니다.",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5214",
+        "source_quote": "카페인 함유 액체식품에 적혀 있는 '고카페인 함유' 표시를 확인합니다.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "notes": "c1·c2: korea.kr 148803922(2015, 하이닥 재게재 기사)는 출처에서 제외하고 식약처 보도자료 원문(impfood.mfds.go.kr, 2015-06-30)으로 교체. 2024~2026년 개정 공지는 공식 도메인 검색에서 찾지 못했고, 현행 질병청 국가건강정보포털(cntnts_sn=5214)도 임산부 '최대 1일 섭취 권고량인 300 mg 이하'로 안내해 현재 유효로 판단. 식품안전나라 '카페인'(2014-11-26)도 '성인 400mg, 임산부 300mg' 동일. c3: 출처를 식약처 '임산부 영양 식생활 관리'(korea.kr 부처 브리핑, 2017-03-03)로 교체 — 카드의 '식약처는 … 설명' 귀속과 일치. 숨은 주장 추가 없음(카드 5 '큰 컵이면 더 늘어날 수 있어요'는 c4·c5에서 따라 나오는 산술 추론)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

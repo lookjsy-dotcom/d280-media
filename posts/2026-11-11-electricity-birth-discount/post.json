@@ -1,0 +1,269 @@
+{
+  "id": "2026-11-11-electricity-birth-discount",
+  "topic": "출산 가구 전기요금 30% 할인, 신청해야 적용돼요",
+  "target_stage": "출산 직후~생후 3년",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-02",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "아기 태어났다면",
+      "title": "신청 안 하면\n전기요금 30% 손해",
+      "highlight": "30%",
+      "sub": "출산 가구 전기요금 할인, 신청해야 받아요",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "출산 가구는 전기요금이 깎여요",
+      "highlight": "30%",
+      "body": "출생 가구는 주택용 전기요금을 30% 할인받을 수 있어요.\n한전의 복지할인 중 하나예요.",
+      "tip": "겨울 난방철에 특히 체감돼요"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "월 할인 한도가 있어요",
+      "highlight": "1만 6,000원",
+      "body": "할인은 한 달에 최대 1만 6,000원까지예요.\n전기를 많이 쓰는 달일수록 한도에 가까워져요.",
+      "tip": "한도는 한전 기준이라 바뀔 수 있어요"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "대상은 영아가 있는 가구",
+      "highlight": "3년 미만",
+      "body": "출생일로부터 3년 미만 영아가 1명 이상 있으면 대상이에요.\n주택용 전기를 쓰는 가구여야 해요.",
+      "tip": "주택용 계약인지 고지서로 확인해요"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "신청해야 적용돼요",
+      "highlight": "신청",
+      "body": "자동으로 깎아주지 않아요.\n출생신고 뒤 직접 신청해야 할인이 시작돼요.",
+      "tip": "상시 신청이라 마감일은 없어요"
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "할인은 아이 세 돌까지",
+      "highlight": "세 돌",
+      "body": "출생일로부터 3년 미만 영아가 있는 가구가 대상이라\n아이가 세 돌이 되면 할인도 끝나요. 미루면 받는 기간이 줄 수 있어요.",
+      "tip": "소급 여부는 한전 123에 꼭 물어봐요"
+    },
+    {
+      "type": "list",
+      "title": "신청은 이렇게 해요",
+      "items": [
+        "한전ON 온라인 신청",
+        "전화 국번 없이 123(한전 고객센터)",
+        "한전 사업소 방문",
+        "행정복지센터 방문"
+      ],
+      "tip": "서류는 신청 방식별로 달라서 신청 전에 확인해요"
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "다른 할인과 겹칠까요?",
+      "highlight": "한전 지사",
+      "body": "다자녀·복지할인과 중복되는지는 단정하기 어려워요.\n주소지 한전 지사에 문의하면 정확해요.",
+      "tip": "이사하면 주소지 변경도 신청해요"
+    },
+    {
+      "type": "closing",
+      "title": "내 시기는 어디쯤?",
+      "body": "임신 중이라면 지금은 준비 단계예요.\n출산 직후, 출생신고 때 같이 신청하면 돼요.\n저장해두고 그때 꺼내 보세요."
+    }
+  ],
+  "caption": "아기 태어났다면, 신청 안 하면 전기요금 30% 손해\n\n핵심만 3줄로 정리할게요.\n1) 출생일로부터 3년 미만 영아가 있는 주택용 가구는 전기요금 30% 할인 대상이에요.\n2) 월 최대 1만 6,000원까지 깎이고, 아이가 세 돌이 될 때까지 적용돼요.\n3) 자동 적용이 아니라서 한전ON·123·한전 사업소·행정복지센터 등으로 직접 신청해야 해요. 소급 여부와 다른 할인과의 중복은 한전에 확인해요.\n\n임신 중이라면 지금은 준비 단계, 출산 직후 출생신고 때 같이 챙기면 좋아요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026년 11월 2일 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#출산가구",
+    "#전기요금할인",
+    "#한전복지할인",
+    "#신생아",
+    "#육아꿀팁",
+    "#출생신고",
+    "#출산후",
+    "#육아정보"
+  ],
+  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a small wooden toy block, a plain lamp bulb on a cotton cloth",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "출산 가구(출생일로부터 3년 미만 영아 포함 주택용 가구)는 전기요금 30% 할인",
+      "value": "30%",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "할인 한도는 월 1만 6,000원",
+      "value": "1만 6,000원",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "출생일로부터 3년 미만 영아가 1명 이상 포함된 주택용 가구가 대상",
+      "value": "3년 미만",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "신청해야 할인 적용(신청기간 상시신청, 한전 신청 필요)",
+      "value": "상시신청",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "출생일로부터 3년 미만 영아 포함 가구가 대상이므로 아이가 세 돌(출생 후 3년)이 되면 할인 종료",
+      "value": "3년",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "소급 적용 여부는 공식 페이지에 명시 없음, 한전 고객센터(123) 확인 필요",
+      "value": "123",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "신청 경로: 한전ON(온라인), 전화 123(한전 고객센터), 한전 사업소 방문",
+      "value": "123",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003"
+    },
+    {
+      "id": "c8",
+      "card": 6,
+      "text": "정부24 안내에는 행정복지센터 방문 신청도 표기",
+      "value": "행정복지센터",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003"
+    },
+    {
+      "id": "c9",
+      "card": 7,
+      "text": "다른 할인과의 중복 여부는 주소지 한전 지사에 문의",
+      "value": "한전 지사",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177"
+    },
+    {
+      "id": "c10",
+      "card": 7,
+      "text": "주소지를 옮기면 한전에 주소지 변경 신청 필요",
+      "value": "주소지 변경",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177"
+    },
+    {
+      "id": "c11",
+      "card": 9,
+      "text": "출생신고 때 출산서비스 통합처리(행복출산)로 전기료 경감(출산가구)도 같이 신청 가능",
+      "value": "출생신고 때 같이 신청",
+      "source_hint": "https://www.gc.go.kr/download/main/sub02/file_250520.pdf"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-02",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003",
+        "source_quote": "(주택용)해당월 전기요금의 30% 할인(월 16,000원 한도) - 가구원 중 자녀가 3인 이상인 가구 - 가구원수가 5인 이상인 가구 - 출산 가구",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003",
+        "source_quote": "(주택용)해당월 전기요금의 30% 할인(월 16,000원 한도) - 가구원 중 자녀가 3인 이상인 가구 - 가구원수가 5인 이상인 가구 - 출산 가구",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.dobong.go.kr/Contents.asp?code=10009202",
+        "source_quote": "지원대상: 출생일로부터 3년 미만 영아가 포함된 가구",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003",
+        "source_quote": "신청기간 상시신청",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c5",
+        "verdict": "FIXED",
+        "before": "영아 포함 가구는 신청 후 3년까지 적용(카드: '할인은 신청 후 3년' / 캡션: '신청한 뒤 3년까지 적용돼요')",
+        "after": "출생일로부터 3년 미만 영아 가구 대상 → 아이가 세 돌이 되면 할인 종료(카드: '할인은 아이 세 돌까지' / 캡션: '아이가 세 돌이 될 때까지 적용돼요')",
+        "source_url": "https://www.dobong.go.kr/Contents.asp?code=10009202",
+        "source_quote": "지원대상: 출생일로부터 3년 미만 영아가 포함된 가구",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003",
+        "source_quote": "문의처 한전 고객센터 (국번없이) (☎123)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c7",
+        "verdict": "FIXED",
+        "before": "한전 사이버지점(온라인), 전화 123, 전국 한전 지사 방문",
+        "after": "한전ON(온라인), 전화 123(한전 고객센터), 한전 사업소 방문",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003",
+        "source_quote": "○ 온라인 신청 - 한전 ON : https://online.kepco.co.kr 가입 후 진행 ○ 방문 신청 - 행정복지센터 - 한전사업소 ○ 기타 - 메일, 우편, 팩스 등 - 전화 (한전 사업소, 고객센터123)",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003",
+        "source_quote": "○ 방문 신청 - 행정복지센터 - 한전사업소",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177",
+        "source_quote": "※다른 할인 혜택과 중복 적용 관련해서는 주소지 한전 지사에 문의해주세요!",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148885177",
+        "source_quote": "※주소지 이전 시 한국전력공사에 주소지 변경 신청을 해주세요!",
+        "checked_at": "2026-11-02"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.gc.go.kr/download/main/sub02/file_250520.pdf",
+        "source_quote": "출산서비스통합처리신청서 … 전기료 경감 [ ]출산가구 [ ]다자녀(3명이상) 고객명: 고객번호:",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "notes": "월 한도: 정부24(최종수정 2026.08.14.)와 도봉구청(2026-08-13) 모두 출산가구 30%·월 16,000원 한도. 한전 사이버지점 복지할인 요금제 표(cyber.kepco.co.kr CYHCHP00208)도 '출산가구 (3년간) 주택용 30% (월 16천원 한도)'이고, 여름철 상향은 장애인·기초수급·차상위에만 있음. '2만 2천 원'은 공식 페이지에서 확인되지 않음(블로그상 과거 한시 여름 상향으로 추정) → 1만 6,000원 유지. 적용기간: korea.kr(2021-03-18)·복지로(2021) '신청 후 3년까지 적용'은 현행 한전 전기공급약관 세칙(cyber.kepco.co.kr CYDCHP00208) '\"출산 가구\"란 … 출생일로부터 3년 미만인 영아가 1인 이상 포함된 가구를 말하며, 신청일이 속하는 월분부터 할인하여, 출생일로부터 3년이 되는 날이 속하는 월분까지 할인을 적용한다.'와 다름 → 공식 도메인(도봉구청) 대상 정의 기준으로 '아이 세 돌까지'로 수정. kepco.co.kr는 config 공식 도메인 목록에 없어 source_url에는 넣지 않았고(config 변경 안 함) 교차 근거로만 기록. 약관상 '신청일이 속하는 월분부터'라 소급은 사실상 없지만 공식 도메인 확인 불가라 카드는 '한전 123에 확인' 유지. 신청 경로: 정부24 현행 안내가 '한전 ON(online.kepco.co.kr)'이라 구 '사이버지점' 표기를 교체. 숨은 주장 c11(출생신고 때 같이 신청) 추가 — 지자체(gc.go.kr) 게시 출산서비스통합처리신청서(임신ㆍ출산 관련 서비스 통합처리에 관한 규정 별지 제2호서식) 서식에 전기료 경감(출산가구) 항목 있음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}
