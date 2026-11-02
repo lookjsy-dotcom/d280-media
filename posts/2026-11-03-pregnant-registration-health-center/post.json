@@ -1,0 +1,395 @@
+{
+  "id": "2026-11-03-pregnant-registration-health-center",
+  "topic": "임산부 보건소 등록, 안 하면 못 받는 것들",
+  "target_stage": "임신 중기~출산",
+  "hook_type": "손실회피",
+  "base_date": "2026-10-22",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "임신 확인했다면",
+      "title": "등록 안 하면\n지원 놓칠 수 있어요",
+      "highlight": "놓칠 수",
+      "sub": "임산부 등록으로 받을 수 있는 것들",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "임산부 등록, 어떻게 하나요",
+      "highlight": "보건소",
+      "body": "임신 사실을 보건소나 의료기관에 신고하면 임산부로 등록돼요. 등록하면 모자보건법에 따른 지원과 보호를 받을 수 있어요.",
+      "tip": "임신한 본인이나 보호자가 신고할 수 있어요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "모자보건수첩을 받아요",
+      "highlight": "모자보건수첩",
+      "body": "임신을 신고하면 모자보건수첩이 발급돼요. 임신 시기별 정보와 출산 이후 정보가 담겨 있어요.",
+      "tip": "임신 기록을 한곳에 모아두기 좋아요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "엽산제 지원이 있어요",
+      "highlight": "보건소 등록 임산부",
+      "body": "보건소 등록 임산부에게 보건소가 엽산제를 지원해요. 지급 기간과 수량은 지역마다 달라요.",
+      "tip": "복용 여부와 방법은 담당 의료진과 상담하세요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "철분제 지원은 임신 중기부터",
+      "highlight": "임신 16주 이상",
+      "body": "임신 16주 이상 보건소 등록 임산부에게 보건소가 철분제를 지원해요. 지급 개월 수는 지역마다 달라요.",
+      "tip": "복용 여부와 방법은 담당 의료진과 상담하세요."
+    },
+    {
+      "type": "list",
+      "title": "같은 지원, 지역마다 달라요",
+      "items": [
+        "구로구: 엽산제 임신 12주까지, 철분제 최대 6개월분",
+        "하남시: 엽산제 최대 3개월분, 철분제 최대 5개월분",
+        "인천: 엽산제 임신 12주까지, 철분제 16주부터 출산까지"
+      ],
+      "tip": "구로구·하남시 보건소, 인천시 생활정보 안내 기준이에요. 인천도 군·구별로 다를 수 있어요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "지난 시기는 소급되지 않아요",
+      "highlight": "소급",
+      "body": "구로구와 하남시는 이미 지난 시기분을 소급해 주지 않는다고 안내해요. 남은 주수에 맞춰 지급해요.",
+      "tip": "등록이 늦을수록 받을 수 있는 몫이 줄 수 있어요."
+    },
+    {
+      "type": "list",
+      "title": "보건소 갈 때 챙기세요",
+      "items": [
+        "신분증",
+        "임신확인서 또는 산모수첩",
+        "대리 방문이면 대리인 신분증"
+      ],
+      "tip": "하남시 보건소 안내 기준이에요. 구로구는 산모수첩이 안 되는 등 지역마다 달라요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "내 지역 보건소에 꼭 확인하세요",
+      "highlight": "내 지역 보건소",
+      "body": "지급 시기, 수량, 준비물이 지자체마다 달라요. 거주지 보건소에 전화나 방문으로 먼저 확인하세요.",
+      "tip": "영양제 복용은 담당 의료진과 상담하세요."
+    },
+    {
+      "type": "closing",
+      "title": "내 시기 체크",
+      "body": "임신을 확인했다면, 지금 등록했는지 확인해 보세요.\n저장해두고 보건소 갈 때 꺼내 보세요."
+    }
+  ],
+  "caption": "임산부 등록 안 하면 지원 놓칠 수 있어요.\n\n오늘 핵심 3줄 요약\n- 임신 사실을 보건소나 의료기관에 신고하면 임산부로 등록돼요.\n- 보건소 등록 임산부에게 모자보건수첩과 지자체별 엽산제·철분제 지원이 있어요.\n- 지급 시기와 개월 수는 지역마다 달라서, 거주지 보건소에 먼저 확인하세요.\n\n구로구, 하남시, 인천 안내만 봐도 지급 기간이 다르고, 이미 지난 시기는 소급되지 않는 곳이 있어요. 영양제 복용 여부와 방법은 담당 의료진과 상담해서 정하세요.\n\n저장해두고 필요할 때 꺼내 보세요.\n(2026-10-22 기준, 찾기쉬운 생활법령정보와 구로구·하남시·인천시 안내)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신중기",
+    "#임산부등록",
+    "#보건소",
+    "#출산준비",
+    "#정부지원",
+    "#임산부혜택",
+    "#모자보건수첩",
+    "#임신정보",
+    "#육아정보",
+    "#예비맘",
+    "#임신팁"
+  ],
+  "cover_image_prompt": "a pale yellow maternal health handbook with a blank cover, a pair of white knit baby socks, a blank paper form with a pen, a small potted green plant",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "임신 사실을 보건소 또는 의료기관에 신고하면 임산부로 등록되어 모자보건법에 따른 지원과 보호를 받을 수 있다",
+      "value": "보건소",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "임신한 본인 또는 보호자가 신고할 수 있다",
+      "value": "본인 또는 보호자",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "임신을 신고하면 모자보건수첩이 발급되고 임신 시기별 정보와 출산 이후 정보가 담긴다",
+      "value": "모자보건수첩",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "보건소 등록 임산부 대상 엽산제를 지원하며 지자체 수요와 예산에 따라 지급 기간과 수량이 다르다",
+      "value": "보건소 등록 임산부",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "임신 16주 이상 보건소 등록 임산부에게 전국 시·군·구 보건소가 철분제를 지원하며 지자체 여건에 따라 추가 수량 지급이 가능하다",
+      "value": "16주",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c6",
+      "card": 6,
+      "text": "구로구는 엽산제를 임신 확인 후 12주까지 지원한다",
+      "value": "12주",
+      "source_hint": "https://www.guro.go.kr/health/contents.do?key=1310"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "구로구는 철분제를 임신 16주 이상부터 남은 임신 기간에 따라 최대 6개월분 지급한다",
+      "value": "6개월분",
+      "source_hint": "https://www.guro.go.kr/health/contents.do?key=1310"
+    },
+    {
+      "id": "c8",
+      "card": 6,
+      "text": "하남시는 엽산제 최대 3개월분, 철분제 최대 5개월분을 지원한다",
+      "value": "3개월분",
+      "source_hint": "https://www.hanam.go.kr/health/contents.do?key=952"
+    },
+    {
+      "id": "c9",
+      "card": 6,
+      "text": "하남시 철분제는 최대 5개월분",
+      "value": "5개월분",
+      "source_hint": "https://www.hanam.go.kr/health/contents.do?key=952"
+    },
+    {
+      "id": "c10",
+      "card": 6,
+      "text": "인천은 엽산제를 임신부터 임신 12주까지, 철분제를 임신 16주부터 출산까지 지원한다",
+      "value": "임신 16주부터 출산까지",
+      "source_hint": "https://www.incheon.go.kr/ml_kr/MLKR050219"
+    },
+    {
+      "id": "c11",
+      "card": 7,
+      "text": "구로구는 엽산제·철분제를 남은 주수에 맞춰 제공하며 소급 지원은 되지 않는다",
+      "value": "소급 지원은 되지 않는다",
+      "source_hint": "https://www.guro.go.kr/health/contents.do?key=1310"
+    },
+    {
+      "id": "c12",
+      "card": 7,
+      "text": "하남시는 임신 주수에 따라 지원하며 이전 시기로 소급해 받을 수 없다",
+      "value": "소급",
+      "source_hint": "https://www.hanam.go.kr/health/contents.do?key=952"
+    },
+    {
+      "id": "c13",
+      "card": 8,
+      "text": "구로구 준비물은 신분증과 임신확인서 또는 임신출산진료비지급신청서이며 산모수첩은 공적 증빙이 아니어서 불가",
+      "value": "신분증",
+      "source_hint": "https://www.guro.go.kr/health/contents.do?key=1310"
+    },
+    {
+      "id": "c14",
+      "card": 8,
+      "text": "하남시 준비물은 신분증과 임신확인서 또는 산모수첩이며 대리인이 방문하면 대리인 신분증도 필요",
+      "value": "대리인 신분증",
+      "source_hint": "https://www.hanam.go.kr/health/contents.do?key=952"
+    },
+    {
+      "id": "c15",
+      "card": 9,
+      "text": "지원 내용은 지역별로 차이가 있을 수 있어 거주지 보건소에 문의해야 한다",
+      "value": "거주지 보건소 문의",
+      "source_hint": "https://www.incheon.go.kr/ml_kr/MLKR050219"
+    },
+    {
+      "id": "c16",
+      "card": 6,
+      "text": "카드6의 세 지역 비교 출처 표기 — 인천은 보건소 페이지가 아니라 인천시 (외국인)생활정보 페이지이며 군·구별로 다를 수 있다",
+      "value": "출처 표기",
+      "source_hint": "https://www.incheon.go.kr/ml_kr/MLKR050219"
+    },
+    {
+      "id": "c17",
+      "card": 5,
+      "text": "영양제 복용이 '정부 권유가 아니다'는 서술(카드5 tip·캡션)",
+      "value": "정부 권유 아님",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c18",
+      "card": 8,
+      "text": "카드8 준비물 목록(신분증·임신확인서 또는 산모수첩·대리인 신분증)은 하남시 기준이며 전국 공통이 아니다",
+      "value": "하남시 기준",
+      "source_hint": "https://www.hanam.go.kr/health/contents.do?key=952"
+    },
+    {
+      "id": "c19",
+      "card": 5,
+      "text": "철분제는 일부 지자체가 아니라 전국 시·군·구 보건소에서 지원한다(카드5 '지원하는 지자체가 많아요' 표현)",
+      "value": "전국 시·군·구 보건소",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-10-22",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "임신한 경우에는 본인 또는 그 보호자가 임신사실을 보건소 또는 「의료법」 제3조에 따른 의료기관에 신고할 수 있습니다. 신고를 통해 임산부로 등록되면 「모자보건법」에 따른 각종 지원 및 보호를 받을 수 있습니다",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "임신한 경우에는 본인 또는 그 보호자가 임신사실을 보건소 또는 「의료법」 제3조에 따른 의료기관에 신고할 수 있습니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "임신사실을 신고하면 모자보건수첩이 발급됩니다 / 모자보건수첩에는 산모건강에 대한 다음의 사항이 포함되어 있습니다. ... 임신 시기별 정보(초기, 다태임신, 중기, 말기, 응급상황 약물복용 등) ... 출산 이후 정보",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "지원대상 보건소 등록 임산부 / 임신 전･후 3개월분의 엽산제 지원(1인 1개월분 기준 최대 3개월분) / 지자체별 임산부 수요 및 예산 여건에 따라 추가 수량 지급 가능",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "지원대상 임신 16주 이상 보건소 등록 임산부 / 임신 16주 이상 임산부에게 철분제 지원(1인 1개월분 기준 5개월분) / 지방자치단체별 임산부 수요 및 예산 여건에 따라 추가수량 지급 가능",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.guro.go.kr/health/contents.do?key=1310",
+        "source_quote": "엽산제 지원 : 임신 확인부터 12주까지 엽산제 지원",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.guro.go.kr/health/contents.do?key=1310",
+        "source_quote": "철분제 지원 : 임신 16주 이상부터 임신 잔여기간에 따라 최대 6개월분 지급",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.hanam.go.kr/health/contents.do?key=952",
+        "source_quote": "엽산제 지원(최대 3개월분, 3통)",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.hanam.go.kr/health/contents.do?key=952",
+        "source_quote": "철분제 지원(최대 5개월분, 5통)",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.incheon.go.kr/ml_kr/MLKR050219",
+        "source_quote": "지원 제공   엽산제 무료(임신부터 임신 12주까지) / 철분제 무료(임신 16주부터 출산까지)",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.guro.go.kr/health/contents.do?key=1310",
+        "source_quote": "(※ 영양제는 남은 주수에 맞게 제공하며 소급지원 불가)",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://www.hanam.go.kr/health/contents.do?key=952",
+        "source_quote": "임산부 영양제(엽산제 및 철분제)는 임신 주수에 따른 지원으로 소급지원 불가",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://www.guro.go.kr/health/contents.do?key=1310",
+        "source_quote": "준비물 : 임신확인서 또는 임신출산진료비지급신청서 (산모수첩은 공적 증빙서류가 아니므로 불가), 신분증 지참(구로구 관내 산모)",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://www.hanam.go.kr/health/contents.do?key=952",
+        "source_quote": "신분증(대리인방문시 대리인 신분증 포함) / 임신확인서 또는 산모수첩(임신초기는 임신확인서, 임신테스터, 태아초음파 사진 등 임신을 확인할 수 있는 것으로 대체가능)",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://www.incheon.go.kr/ml_kr/MLKR050219",
+        "source_quote": "지역보건소마다 제공하는 프로그램과 혜택이 다르므로 사전에 문의하시기 바랍니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c16",
+        "verdict": "FIXED",
+        "source_url": "https://www.incheon.go.kr/ml_kr/MLKR050219",
+        "source_quote": "지역보건소마다 제공하는 프로그램과 혜택이 다르므로 사전에 문의하시기 바랍니다.",
+        "checked_at": "2026-10-22",
+        "before": "세 곳 모두 지역 보건소 안내 기준이에요.",
+        "after": "구로구·하남시 보건소, 인천시 생활정보 안내 기준이에요. 인천도 군·구별로 다를 수 있어요."
+      },
+      {
+        "id": "c17",
+        "verdict": "FIXED",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "임신기간 지속적으로 일정량의 철분제 복용이 필요합니다.",
+        "checked_at": "2026-10-22",
+        "before": "카드5 tip: 복용은 정부 권유가 아니라 의료진과 상담 후 결정해요. / 캡션: 영양제 복용 여부는 정부 권유가 아니라 담당 의료진과 상담해서 정하세요.",
+        "after": "카드5 tip: 복용 여부와 방법은 담당 의료진과 상담하세요. / 캡션: 영양제 복용 여부와 방법은 담당 의료진과 상담해서 정하세요."
+      },
+      {
+        "id": "c18",
+        "verdict": "FIXED",
+        "source_url": "https://www.hanam.go.kr/health/contents.do?key=952",
+        "source_quote": "신분증(대리인방문시 대리인 신분증 포함) / 임신확인서 또는 산모수첩",
+        "checked_at": "2026-10-22",
+        "before": "인정되는 서류는 지역마다 달라요. 구로구는 산모수첩이 안 돼요.",
+        "after": "하남시 보건소 안내 기준이에요. 구로구는 산모수첩이 안 되는 등 지역마다 달라요."
+      },
+      {
+        "id": "c19",
+        "verdict": "FIXED",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "전국 시·군·구 보건소에서 임산부에게 철분제를 지급하고 있습니다",
+        "checked_at": "2026-10-22",
+        "before": "임신 16주 이상 등록 임산부에게 철분제를 지원하는 지자체가 많아요. 지급 개월 수는 지역마다 달라요.",
+        "after": "임신 16주 이상 보건소 등록 임산부에게 보건소가 철분제를 지원해요. 지급 개월 수는 지역마다 달라요."
+      }
+    ],
+    "notes": "인천 페이지(incheon.go.kr/ml_kr/MLKR050219)는 인천시 외국어사이트의 '국문' 페이지로, 원문 한국어를 직접 재확인함(엽산제 임신~12주, 철분제 16주~출산 문구 일치). 다만 보건소 페이지가 아니고 시 전체 요약이며 같은 페이지에 '지역보건소마다 ... 다르므로 사전에 문의'라고 적혀 있어 카드6 출처 표기를 바로잡음. 구로구 엽산제는 '임신 확인부터 12주까지'. 카드4 본문은 하이라이트('보건소 등록 임산부')가 본문에 실제로 나오도록 '보건소에 등록한 임산부를 대상으로 지자체가'→'보건소 등록 임산부에게 보건소가'로 다듬음(사실 변경 없음, easylaw 지원대상 표기와 일치). 엽산·철분 문구는 효능·용량 서술 없음, 복용 결정은 의료진 상담으로 통일. easylaw 출처는 『2026년 지역사회 통합건강증진사업』 기준이라 기준일 현재 유효."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

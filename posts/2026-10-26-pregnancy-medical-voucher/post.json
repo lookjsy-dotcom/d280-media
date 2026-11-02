@@ -1,0 +1,278 @@
+{
+  "id": "2026-10-26-pregnancy-medical-voucher",
+  "topic": "임신 진료비 100만 원, 안 쓰면 그냥 사라진다 (국민행복카드 바우처)",
+  "target_stage": "임신 확인~출산 후 2년",
+  "hook_type": "손실회피",
+  "base_date": "2026-10-20",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "임신 확인했다면",
+      "title": "이거 안 쓰면\n100만 원 날려요",
+      "highlight": "100만 원",
+      "sub": "임신·출산 진료비 바우처 총정리",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "임신 1회당 100만 원",
+      "highlight": "100만 원",
+      "body": "단태아는 임신 1회당 100만 원을 받아요. 쌍둥이 이상이면 기본 140만 원에 태아당 100만 원이 되도록 더 줘요.",
+      "tip": "분만취약지에 살면 20만 원이 추가돼요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "안 쓰면 그냥 사라져요",
+      "highlight": "자동으로 사라져요",
+      "body": "분만예정일(출산일)로부터 2년까지 쓸 수 있어요. 기간 안에 안 쓴 잔액은 자동으로 사라져요.",
+      "tip": "유산·사산이라면 그 날짜가 기준이에요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "신청 전 진료비는 소급 안 돼요",
+      "highlight": "소급 안 돼요",
+      "body": "사용 시작일은 이용권 발급일이에요. 그 전에 낸 진료비는 바우처로 돌려받을 수 없어요.",
+      "tip": "임신 확인을 받았다면 바로 신청하는 게 이득이에요."
+    },
+    {
+      "type": "list",
+      "title": "이런 데 쓸 수 있어요",
+      "items": [
+        "임산부 진료비 본인부담금(급여·비급여)",
+        "처방 약제·치료재료 본인부담금",
+        "2세 미만 아기 진료비·처방 약제"
+      ],
+      "tip": "출산 후에도 아기 병원비로 이어서 써요."
+    },
+    {
+      "type": "list",
+      "title": "이건 결제가 안 돼요",
+      "items": [
+        "미용 목적 진료",
+        "건강보조식품 같은 의약외품",
+        "당뇨 소모성 재료 같은 소모품",
+        "서류 발급 비용"
+      ],
+      "tip": "결제 전에 바우처 적용 여부를 물어보세요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "신청은 이렇게",
+      "highlight": "임신 확인",
+      "body": "먼저 산부인과 전문의에게 임신 확인을 받아요. 공단 지사·홈페이지·앱, 전담 금융기관, 정부24에서 신청해요.",
+      "tip": "보건소·행정복지센터·정부24는 '임신'으로 신청할 때만 돼요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "누가 받을 수 있나요",
+      "highlight": "건강보험 가입자·피부양자",
+      "body": "건강보험 가입자·피부양자라면 받을 수 있어요. 의료급여 수급권자 등은 제외돼요.",
+      "tip": "궁금하면 건강보험공단 1577-1000에 물어보세요."
+    },
+    {
+      "type": "closing",
+      "title": "남은 잔액, 꼭 챙겨 쓰세요",
+      "body": "분만예정일로부터 2년, 생각보다 금방 지나가요. 남은 금액은 아기 진료비로 알뜰하게 쓰세요."
+    }
+  ],
+  "caption": "이거 안 쓰면 100만 원 날려요 💸\n\n임신을 확인했다면 가장 먼저 챙겨야 할 돈, 건강보험 임신·출산 진료비 바우처예요.\n\n✔️ 단태아 임신 1회당 100만 원 (다태아 기본 140만 원 + 태아당 100만 원까지 추가, 분만취약지 20만 원 추가)\n✔️ 분만예정일(출산일)로부터 2년 안에 안 쓰면 잔액은 자동 소멸\n✔️ 이용권 발급 전 진료비는 소급 안 돼요 → 임신 확인 후 바로 신청\n\n임산부 진료비는 물론, 출산 후 2세 미만 아기 진료비·처방 약제 본인부담금에도 쓸 수 있어요. 신청은 산부인과 임신 확인 후 건강보험공단(지사·홈페이지·앱), 전담 금융기관, 정부24에서 할 수 있어요. 문의는 건강보험공단 1577-1000.\n\n저장해두고 필요할 때 꺼내 보세요 📌\n(정보 기준일 2026-10-20 · 출처: 정부24, 보건복지부)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신초기",
+    "#임신중기",
+    "#출산준비",
+    "#정부지원",
+    "#임신출산진료비",
+    "#국민행복카드",
+    "#임신바우처",
+    "#산모",
+    "#예비맘",
+    "#육아꿀팁",
+    "#임산부혜택"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "건강보험 임신·출산 진료비 지원은 단태아 임신 1회당 100만 원",
+      "value": "100만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "다태아는 기본 140만 원을 지급하고 태아당 100만 원이 되도록 추가 지원",
+      "value": "140만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "분만취약지 거주 시 20만 원 추가 지원",
+      "value": "20만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "사용 기간은 분만예정일(출산·유산·사산일)로부터 2년까지이며, 기간 내 미사용 잔액은 자동 소멸",
+      "value": "2년",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "사용 시작일은 이용권 발급일(포인트 생성일)이며, 사용 시작일 이전 진료비는 소급 적용되지 않음",
+      "value": "",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "임산부 진료비 및 약제·치료재료 본인부담금(급여·비급여), 2세 미만 영유아 진료비 및 처방 약제·치료재료 본인부담금에 사용 가능",
+      "value": "2세 미만",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "미용 목적 진료, 의약외품(건강보조식품), 소모성 재료(당뇨소모성재료), 서류 발급비용은 결제 불가",
+      "value": "",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c8",
+      "card": 7,
+      "text": "산부인과 전문의 임신 확인 후 공단(지사·홈페이지·앱), 전담 금융기관, 지자체(행정복지센터·보건소), 정부24에서 신청. 행정복지센터·보건소·정부24는 '임신'으로 신청하는 경우에만 가능",
+      "value": "",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c9",
+      "card": 8,
+      "text": "지원대상은 건강보험 가입자·피부양자이며 의료급여 수급권자, 적용배제 신청자, 자격상실자, 급여정지자는 제외",
+      "value": "",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c10",
+      "card": 8,
+      "text": "문의처 국민건강보험공단 1577-1000",
+      "value": "1577-1000",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    },
+    {
+      "id": "c11",
+      "card": 4,
+      "text": "신청기간은 임신 사실이 확인된 날부터이므로 임신 확인 후 바로 신청할 수 있음",
+      "value": "",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-10-20",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "임신 1회당 100만원",
+        "checked_at": "2026-10-20",
+        "cross_check_url": "https://www.mohw.go.kr/menu.es?mid=a10705020100",
+        "cross_check_quote": "임신1회당 100만 원"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "다태아 임신부의 경우 140만원 기본지급 / 다태아 임산부의 경우 태아당 100만원이 되도록 추가지원",
+        "checked_at": "2026-10-20",
+        "cross_check_url": "https://www.mohw.go.kr/menu.es?mid=a10705020100",
+        "cross_check_quote": "다태아 임신부의 경우 140만원 기본 지급"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "분만취약지의 경우 20만원 추가지원",
+        "checked_at": "2026-10-20",
+        "cross_check_url": "https://www.mohw.go.kr/menu.es?mid=a10705020100",
+        "cross_check_quote": "분만취약지의 경우 20만원 추가지원"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "사용 종료일: 분만예정일(출산일, 유산일, 사산일)로부터 2년 / 사용 기간 내 사용하지 못한 임신·출산 진료비 지원금 잔액은 자동 소멸",
+        "checked_at": "2026-10-20",
+        "cross_check_url": "https://www.mohw.go.kr/menu.es?mid=a10705020100",
+        "cross_check_quote": "사용종료일 : 분만예정일 또는 출산일(유산,사산일)로부터 2년"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "사용 시작일: 이용권 발급일(포인트 생성일) / 사용 시작일 이전 진료비는 소급적용 불가",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "임산부의 진료비 및 약제·치료재료 구입에 대한 본인부담금(급여·비급여) / 2세 미만 영유아의 진료비 및 처방된 약제·치료재료 구입에 대한 본인부담금(급여·비급여)",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "미용 목적의 성형외과 진료 등에는 사용 불가 / 의약외품(예: 건강보조식품), 소모성 재료(예: 당뇨소모성재료), 서류 발급비용 결제 불가",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "국민건강보험공단(방문, 유선, 홈페이지, 앱), 전담 금융기관, 지자체(행정복지센터·보건소), 정부24 / ※행정복지센터, 보건소, 정부24의 경우 '임신'으로 신청하는 경우에 가능",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "임신‧출산(유산·사산 포함)이 확인된 건강보험 가입자 또는 피부양자 / (의료급여법)에 따라 의료급여를 받는 자(수급권자), 건강보험 적용배제 신청자, 건강보험 자격상실자, 급여정지자",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "국민건강보험공단 (☎1577-1000)",
+        "checked_at": "2026-10-20",
+        "cross_check_url": "https://www.mohw.go.kr/menu.es?mid=a10705020100",
+        "cross_check_quote": "국민건강보험공단 1577-1000"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+        "source_quote": "임신·유산(사산)·출산 사실이 확인이 된 날 ~ 분만예정일·출산(유·사산)일로부터 2년까지",
+        "checked_at": "2026-10-20"
+      }
+    ],
+    "notes": "정부24 서비스 상세(최종수정일 2026.07.30.)를 1차 출처로 사용, 보건복지부 임신·출산진료비지원사업 페이지(2026년 분만취약지 32곳 안내 포함)로 금액·사용기간·문의처 교차확인. 건보공단 일부 안내 페이지의 구 금액(60만 원)은 개정 전 정보라 배제. 숨은 주장 c11(임신 확인 즉시 신청 가능) 추가. 참고: 건보공단 제도 안내(wbmac0212)에는 분만취약지 추가지원이 '신청 당시 30일 이상 계속 거주' 요건으로 설명돼 있으나 정부24·복지부 현행 페이지에는 해당 문구가 없고 카드 문구('분만취약지에 살면 20만 원 추가')가 틀린 값은 아니어서 OK 유지. 분만취약지 지정 지역은 매년 바뀜. 해시태그 #국민행복카드는 사실 주장이 아니라 별도 claim 없음(복지부 페이지에 국민행복카드 발급 금융사 신청 안내 있음). 수정(FIXED) 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  },
+  "cover_image_prompt": "a pair of small white knit baby socks, a folded cream muslin cloth, a few blank paper forms and a ballpoint pen"
+}

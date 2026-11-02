@@ -1,0 +1,268 @@
+{
+  "id": "2026-11-05-safe-sleep-bedding",
+  "topic": "아기 침대에 예쁜 것 다 빼세요 - 신생아 수면 환경 필수/불필요 판정",
+  "target_stage": "임신 후기 준비~출산 후 1세",
+  "hook_type": "통념뒤집기",
+  "base_date": "2026-10-22",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출산 준비물 리스트",
+      "title": "아기 침대에서\n예쁜 건 빼세요",
+      "highlight": "예쁜 건 빼세요",
+      "sub": "안전수면 필수·불필요 한 번에 판정",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "재울 땐 항상 똑바로",
+      "highlight": "똑바로 눕혀",
+      "body": "1년 미만 아기는 옆으로나 엎어서 재우지 않아요. 항상 똑바로 눕혀 재워요.",
+      "tip": "머리 모양이 눌려도 엎어 재우진 않아요"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "매트리스는 폭신하지 않게",
+      "highlight": "폭신하지 않은",
+      "body": "아기 요나 매트리스는 폭신하지 않은 것을 써요. 예쁜 것보다 단단한 것이 먼저예요.",
+      "tip": "출산 준비물 리스트에서 가장 먼저 확인하세요"
+    },
+    {
+      "type": "list",
+      "title": "아기 침대에 두지 않는 것",
+      "items": [
+        "침대 범퍼",
+        "베개",
+        "인형·장난감",
+        "이불로 감싸기",
+        "모자"
+      ],
+      "tip": "사지 않아도 되는 물건이 많아요"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "수면조끼는 괜찮아요",
+      "highlight": "22~24도",
+      "body": "방은 22~24도로 맞춰요. 이불을 덮기보다 따뜻한 옷이나 수면조끼로 체온을 유지해요.",
+      "tip": "너무 두껍게 입히지 않는 것도 중요해요"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "같은 방은 OK, 같은 침대는 NO",
+      "highlight": "같은 방",
+      "body": "최소 6개월, 가능하면 1년까지 부모와 같은 방에서 재워요. 부모 침대에서 함께 재우진 않아요.",
+      "tip": "아기는 별도의 아기 침대나 요를 써요"
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "엎드려 놀기는 깨어 있을 때만",
+      "highlight": "10~15분",
+      "body": "깨어 있을 땐 10~15분 정도 엎드려 놀 수 있어요. 반드시 보호자가 지켜봐 주세요.",
+      "tip": "잠든 것 같으면 바로 똑바로 눕혀 주세요"
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "집 안 흡연은 하지 않아요",
+      "highlight": "집 안에서 흡연",
+      "body": "임신 중에는 흡연과 음주를 하지 않아요. 출생 후에도 가족이 집 안에서 흡연하지 않도록 해요.",
+      "tip": "아기 건강이 걱정되면 담당 의료진과 상의하세요"
+    },
+    {
+      "type": "closing",
+      "title": "사기 전에, 빼는 것부터",
+      "body": "예쁜 소품보다 비워 둔 침대가 더 안전해요. 내 시기 체크: 임신 중이면 지금, 출산 후면 오늘 밤부터. 걱정되는 점은 담당 의료진과 상의하세요."
+    }
+  ],
+  "caption": "아기 침대에서 예쁜 건 빼세요!\n\n출산 준비물 리스트를 짜는 시기, 사야 할 것보다 빼야 할 것부터 확인해요. 질병관리청 국가건강정보포털의 영아 안전수면 수칙을 정리했어요.\n\n- 1년 미만 아기는 항상 똑바로 눕혀 재워요\n- 범퍼, 베개, 인형, 이불 감싸기는 침대에서 빼요\n- 방은 22~24도, 옷이나 수면조끼로 체온 조절, 최소 6개월은 부모와 같은 방(같은 침대는 X)\n\n건강과 관련된 내용이라 걱정되는 점은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (기준일: 2026-10-22)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신후기",
+    "#출산준비",
+    "#출산준비물",
+    "#신생아",
+    "#신생아수면",
+    "#안전수면",
+    "#육아꿀팁",
+    "#초보엄마",
+    "#초보맘",
+    "#예비맘",
+    "#아기침대",
+    "#육아정보"
+  ],
+  "cover_image_prompt": "an empty light wooden baby crib with a bare fitted sheet and nothing inside it; beside the crib on a shelf, outside the crib, a folded plain cotton swaddle, a small knit baby sleep vest, a folded muslin cloth and a soft knit baby hat set aside",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "1년 미만 영아는 옆으로 눕히거나 엎어서 재우지 않고 항상 똑바로 눕혀 재운다",
+      "value": "1년 미만",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "머리 모양이 눌린 경우에도 엎어 재우지 않는다",
+      "value": "엎어 재우지 않음",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "아기 요나 매트리스는 폭신하지 않은 것을 사용한다",
+      "value": "폭신하지 않은 것",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "베개, 인형, 장난감, 침대 범퍼 등은 아기 침대에 두지 않는다",
+      "value": "범퍼·베개·인형·장난감",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "이불로 감싸 재우지 않고, 모자는 씌우지 않는다",
+      "value": "이불 감싸기·모자 금지",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "방 온도는 22~24도로 맞추고, 이불보다 따뜻한 옷이나 수면조끼로 체온을 유지하며 옷을 과하게 입히지 않는다",
+      "value": "22~24도",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c7",
+      "card": 5,
+      "text": "수면조끼와 슬립색은 사용해도 괜찮다",
+      "value": "수면조끼 사용 가능",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c8",
+      "card": 6,
+      "text": "최소 6개월, 가능하면 1년까지 부모와 같은 방에서 재운다",
+      "value": "6개월, 1년",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c9",
+      "card": 6,
+      "text": "부모 침대에서 함께 재우지 않고 아기는 별도의 아기 침대나 요를 사용한다",
+      "value": "같은 침대 금지",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c10",
+      "card": 7,
+      "text": "깨어 있을 때는 10~15분 정도 엎드려 놀게 할 수 있으며 보호자가 반드시 지켜봐야 한다",
+      "value": "10~15분",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    },
+    {
+      "id": "c11",
+      "card": 8,
+      "text": "임신 중에는 흡연과 음주를 하지 않고, 출생 후에도 가족이 집 안에서 흡연하지 않도록 한다",
+      "value": "집 안 흡연 금지",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-10-22",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "생후 1년이 안된 아기들은 옆으로 누워 재우거나 엎어 재우면 안 되고 반드시 똑바로 눕혀 재워야 합니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "아기 머리가 눌렸다고 옆으로 눕혀 재우거나 엎어 재우면 절대 안됩니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "아기 요나 침대의 매트리스는 폭신한 것을 사용하지 마세요.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "베개, 폭신한 인형이나 장난감은 아기 침대 위에 두지 마세요. / 폭신한 침대나 요, 베개나 침대 범퍼 패드, 인형 등이 영아돌연사증후군과 관련이 있습니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "아기를 속싸개나 이불로 싸놓는 것은 권장하지 않습니다. / 아기 머리에 모자도 씌우지 마세요.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "아기를 따뜻하게 하기 위해 이불을 덮어주기 보다는 따뜻한 옷을 입히거나 수면조끼와 슬립색(sleep sack)을 이용하는 것이 좋습니다. 아기 머리에 모자도 씌우지 마세요. 방안 온도를 22~24도 정도로 맞춰 놓는 것이 좋습니다. / 과도하게 옷을 입혔거나, 이불을 과하게 덮어 놓는 것은 영아돌연사증후군과 관련이 있습니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "수면조끼는 아기에게 괜찮습니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "적어도 6개월 가능하면 1년까지는 같은 방에서 재우는 것이 좋습니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "그러나 아기를 부모 침대나 패밀리 침대에 같이 재우는 것은 안됩니다. / 5) 아기 침대나 요가 따로 있어야 합니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "아기가 깨어 있을 때 10~15분 정도 잠시 동안 엎어 놓는 것은 괜찮습니다. 그러나 이때는 반드시 누군가가 아기를 지켜보고 있어야 합니다.",
+        "checked_at": "2026-10-22"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467",
+        "source_quote": "9) 임신 중에는 흡연이나 음주를 하면 안됩니다. 아기가 태어난 후에도 다른 가족들이 흡연을 하면 안됩니다.",
+        "checked_at": "2026-10-22"
+      }
+    ],
+    "notes": "질병관리청 국가건강정보포털 '영아돌연사증후군'(등록 2020-07-22, 업데이트 2026-05-12) 원문과 대조. 11개 claim 모두 원문과 일치. 숨은 주장 점검: 카드3 '단단한 것이 먼저'는 원문 '폭신한 것을 사용하지 마세요'의 반대 표현으로 허용, 카드7 tip '잠든 것 같으면 바로 똑바로 눕혀'는 '재울 때는 꼭 똑바로 누워서 재워야' 범위. 보도 수치·브랜드명·금지 표현 없음. 원문 '절대' 표현은 카드에서 단정형으로 옮기지 않음. 카드 문구 변경 없음. 비-claim 수정: cover_image_prompt가 모자·속싸개를 침대 안에 둔 것으로 읽힐 수 있어 '침대 밖 선반에 치워 둔' 구도로 고침(카드 4 '모자·이불 감싸기 금지'와 이미지가 충돌하지 않도록)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

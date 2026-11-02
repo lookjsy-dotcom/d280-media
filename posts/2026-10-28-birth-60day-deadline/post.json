@@ -1,0 +1,379 @@
+{
+  "id": "2026-10-28-birth-60day-deadline",
+  "topic": "출산 후 60일 넘기면 못 받는 돈 - 출생신고 때 한 번에 신청",
+  "target_stage": "출산 직후~생후 60일 (임신 중 미리 확인)",
+  "hook_type": "마감",
+  "base_date": "2026-10-20",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출산 앞둔 예비 부모라면",
+      "title": "60일 넘기면\n최소 한 달 치 날려요",
+      "highlight": "60일",
+      "sub": "출생신고 때 한 번에 신청하세요",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "출생신고 날이 신청 시작일이에요",
+      "highlight": "한 번에",
+      "body": "행복출산 원스톱을 쓰면 출생신고 때 여러 급여를 한 번에 신청해요. 주민센터 방문이나 정부24 온라인으로 할 수 있어요.",
+      "tip": "출생신고 후 주민등록번호가 나와야 등록돼요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "마감은 출생일 포함 60일",
+      "highlight": "출생일 포함 60일",
+      "body": "출생일을 포함해 60일 안에 신청하면 출생한 달부터 소급해서 받아요. 하루만 넘겨도 계산이 달라져요.",
+      "tip": "임신 중에 미리 알아두면 산후에 안 놓쳐요."
+    },
+    {
+      "type": "list",
+      "title": "60일 안에 신청할 것",
+      "items": [
+        "부모급여",
+        "아동수당",
+        "양육수당",
+        "저소득층 기저귀·조제분유 지원"
+      ],
+      "tip": "원스톱 신청서 한 장으로 같이 낼 수 있어요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "넘기면 신청한 달부터만 줘요",
+      "highlight": "신청한 달부터",
+      "body": "60일이 지나서 신청하면 신청일이 속한 달부터 지급돼요. 늦은 만큼 출생한 달부터 쌓일 돈은 못 받아요.",
+      "tip": "달력에 출생일 기준 마감일을 적어두세요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "아동수당은 월 10만 원부터",
+      "highlight": "월 10만 원",
+      "body": "기본은 아동 한 명당 매월 10만 원이에요. 비수도권·인구감소지역은 월 5천 원~2만 원이 더 붙어요. 지급일은 매월 25일, 주말·공휴일이면 그 전날이에요.",
+      "tip": "온라인 신청은 보호자가 부모일 때만 돼요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "첫만남이용권은 2년 안에",
+      "highlight": "2년 안에",
+      "body": "첫째는 200만 원, 둘째부터는 300만 원이에요. 60일 마감은 아니지만 생년월일로부터 2년 안에 신청해 써야 해요.",
+      "tip": "2024년 1월 1일 이후 출생아 기준이에요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "부모급여 금액은 꼭 직접 확인",
+      "highlight": "직접 확인",
+      "body": "부모급여도 60일 안에 신청하면 출생한 달부터 소급돼요. 올해 금액은 복지로·정부24 최신 안내에서 확인하세요.",
+      "tip": "금액이 바뀔 수 있어 신청 전에 한 번 더 봐요."
+    },
+    {
+      "type": "point",
+      "no": 7,
+      "title": "온라인·대리 신청 조건 체크",
+      "highlight": "방문으로만",
+      "body": "온라인 신청은 산모 본인이나 배우자가 간편인증으로 할 수 있어요. 대리 신청은 직계가족이 방문으로만 가능해요.",
+      "tip": "산후조리 중이면 배우자가 정부24로 해도 돼요."
+    },
+    {
+      "type": "closing",
+      "title": "출생신고 날, 신청도 같이",
+      "body": "마감 전에 한 번에 신청해두면 놓치는 돈이 없어요. 친구나 가족에게도 공유해 주세요."
+    }
+  ],
+  "caption": "출산 후 60일 넘기면 최소 한 달 치 날려요.\n\n출생일을 포함해 60일 안에 신청해야 출생한 달부터 소급해서 받을 수 있는 지원이 있어요.\n- 행복출산 원스톱으로 출생신고 때 여러 급여를 한 번에 신청해요\n- 부모급여·아동수당·양육수당·기저귀·조제분유 지원은 60일 안에 신청해야 소급돼요\n- 아동수당은 기본 월 10만 원(비수도권·인구감소지역은 추가), 첫만남이용권은 출생 후 2년 안에 신청해요\n\n부모급여 금액은 해마다 달라질 수 있으니 복지로·정부24에서 최신 금액을 확인하세요. 지원 내용은 바뀔 수 있어요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-10-20 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신준비물",
+    "#출산준비",
+    "#출산준비물",
+    "#정부지원",
+    "#출산지원금",
+    "#부모급여",
+    "#아동수당",
+    "#첫만남이용권",
+    "#출생신고",
+    "#육아꿀팁",
+    "#예비맘",
+    "#행복출산원스톱"
+  ],
+  "cover_image_prompt": "Flat-lay on a light oak table by a sunlit window: a small pair of folded baby socks, a blank paper desk calendar page with an empty grid, no numbers, no letters, one empty square loosely circled in pencil, and a pen beside a plain unmarked folder. No readable text or numbers anywhere.",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "부모급여·아동수당·양육수당·기저귀·조제분유 지원은 출생 후 60일까지 신청 시 소급지원 가능",
+      "value": "60일",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c2",
+      "card": 1,
+      "text": "60일이 지나 신청하면 신청일이 속한 달부터 지원(출생한 달부터 신청 전달까지 최소 한 달 치 손실)",
+      "value": "최소 한 달",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "행복출산 원스톱: 출생신고 시 또는 이후 첫만남이용권·부모급여·양육수당·아동수당 등을 한 번에 신청",
+      "value": "한 번에",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c4",
+      "card": 2,
+      "text": "신청처는 출생자 주민등록 주소지 읍면동 주민센터(방문) 또는 정부24(온라인)",
+      "value": "주민센터·정부24",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c5",
+      "card": 2,
+      "text": "출생신고 후 주민등록번호가 부여된 뒤에 등록 처리 가능",
+      "value": "주민등록번호 부여 후",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c6",
+      "card": 3,
+      "text": "출생일을 포함해 60일 이내 신청하면 출생일이 속한 달부터 소급 지급",
+      "value": "출생일 포함 60일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120"
+    },
+    {
+      "id": "c7",
+      "card": 4,
+      "text": "60일 소급 대상: 부모급여, 아동수당, 양육수당, 저소득층 기저귀·조제분유 지원",
+      "value": "60일",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c8",
+      "card": 5,
+      "text": "60일이 지나 신청하면 신청일이 속한 달부터 지원",
+      "value": "신청한 달부터",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html"
+    },
+    {
+      "id": "c9",
+      "card": 6,
+      "text": "아동수당은 대상 아동 1인당 기본 월 10만 원, 비수도권·인구감소지역 거주 아동은 월 5천 원~최대 2만 원 추가",
+      "value": "월 10만 원 / 5천 원~2만 원 추가",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120"
+    },
+    {
+      "id": "c10",
+      "card": 6,
+      "text": "아동수당 지급일은 매월 25일, 토·일요일·공휴일이면 그 전날",
+      "value": "25일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120"
+    },
+    {
+      "id": "c11",
+      "card": 6,
+      "text": "아동수당 온라인 신청은 보호자가 부모인 경우에만 가능",
+      "value": "부모인 경우",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120"
+    },
+    {
+      "id": "c12",
+      "card": 7,
+      "text": "첫만남이용권은 첫째아 200만 원, 둘째아 이상 300만 원",
+      "value": "200만 원 / 300만 원",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015"
+    },
+    {
+      "id": "c13",
+      "card": 7,
+      "text": "2024년 1월 1일 이후 출생아는 주민등록상 생년월일로부터 2년 내에 신청하여 사용 가능",
+      "value": "2년",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015"
+    },
+    {
+      "id": "c14",
+      "card": 7,
+      "text": "첫만남이용권 기준: 2024년 1월 1일 이후 출생아",
+      "value": "2024년 1월 1일",
+      "source_hint": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015"
+    },
+    {
+      "id": "c15",
+      "card": 8,
+      "text": "부모급여도 출생일 포함 60일 이내 신청 시 출생일이 속한 달부터 소급 (금액은 최신 공식 페이지에서 확인 필요, 카드에는 금액 미기재)",
+      "value": "60일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html"
+    },
+    {
+      "id": "c16",
+      "card": 9,
+      "text": "온라인 신청 자격은 출산자 본인과 배우자, 간편인증 또는 공동인증서 필요",
+      "value": "산모 본인·배우자",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c17",
+      "card": 9,
+      "text": "대리 신청은 출산자의 직계가족(친부모 및 시부모)만, 방문 신청으로만 가능",
+      "value": "방문으로만",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c18",
+      "card": 0,
+      "text": "표지·캡션: 60일 넘기면 최소 한 달 치 날린다(출생한 달 지급분은 반드시 빠짐)",
+      "value": "60일 / 최소 한 달",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-10-20",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "부모급여, 아동수당, 양육수당, 기저귀·조제분유지원 : 출생 후 60일까지 신청시 소급지원 가능",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c2",
+        "verdict": "FIXED",
+        "source_url": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html",
+        "source_quote": "생후 60일이 지난 후 신청하는 경우에는 신청일이 속한 달부터 받을 수 있으므로 주의해서 신청해야 한다.",
+        "checked_at": "2026-10-20",
+        "before": "60일 넘기면 한 달 치 날려요 (한 달 단위 손실)",
+        "after": "60일 넘기면 최소 한 달 치 날려요 — 출생일과 신청일에 따라 1~3개월분이 빠짐"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "출생신고 시 또는 출생신고 이후 신청가능(출생자 주민등록번호 부여 후, 등록 처리 가능) / 공통서비스: 첫만남이용권, 부모급여(현금), 양육수당, 아동수당, 해산급여, ...",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "(방문) 출생자의 주민등록 주소지 읍면동 주민센터 / (온라인) 정부24(www.gov.kr) 접속",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "출생신고 시 또는 출생신고 이후 신청가능(출생자 주민등록번호 부여 후, 등록 처리 가능)",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120",
+        "source_quote": "출생일 포함 60일 이내 아동수당 신청 시, 출생일이 속하는 달부터 소급하여 지급",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "부모급여, 아동수당, 양육수당, 기저귀·조제분유지원 : 출생 후 60일까지 신청시 소급지원 가능",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html",
+        "source_quote": "생후 60일이 지난 후 신청하는 경우에는 신청일이 속한 달부터 받을 수 있으므로 주의해서 신청해야 한다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c9",
+        "verdict": "FIXED",
+        "source_url": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1309692_1114.html",
+        "source_quote": "기존 아동수당은 8세 미만 모든 아동에게 월 10만 원을 지급해왔다. ... 비수도권 및 인구감소지역에 거주하는 아동에게는 월 5000원에서 최대 2만 원까지 추가 지급된다.",
+        "checked_at": "2026-10-20",
+        "before": "아동수당은 월 10만 원 / 아동 한 명당 매월 10만 원",
+        "after": "아동수당은 월 10만 원부터 / 기본 월 10만 원, 비수도권·인구감소지역은 월 5천 원~2만 원 추가"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120",
+        "source_quote": "신청일이 속하는 달부터 매달 25일에 대상 아동 1인당 10만원이 지급 / 25일이 토·일요일·공휴일인 경우 그 전일에 지급",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120",
+        "source_quote": "온라인 신청은 아동의 보호자가 부모인 경우에만 가능하며, 그 외의 경우에는 방문 신청이 필요",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015",
+        "source_quote": "'24년 1월 1일 이후 출생아는 첫째아 200만원, 둘째아 이상 300만원 지급",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015",
+        "source_quote": "2024년 1월 1일 이후 출생아는 주민등록상 생년월일로부터 2년내에 신청하여 사용 가능",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015",
+        "source_quote": "'24년 1월 1일 이후 출생아는 첫째아 200만원, 둘째아 이상 300만원 지급",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "부모급여, 아동수당, 양육수당, 기저귀·조제분유지원 : 출생 후 60일까지 신청시 소급지원 가능",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c16",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "출산자(산모) 본인, 출산자의 배우자 / 간편인증, 공동인증서 등(본인인증 필요)",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c17",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "(대리인) 출산자(산모)의 직계가족(친부모 및 시부모)만 신청 가능 / 대리신청은 방문신청만 가능",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c18",
+        "verdict": "FIXED",
+        "source_url": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html",
+        "source_quote": "생후 60일 이내에 신청하는 경우에는 출생일이 속한 달부터 소급하여 지원되지만, 생후 60일이 지난 후 신청하는 경우에는 신청일이 속한 달부터 받을 수 있으므로 주의해서 신청해야 한다.",
+        "checked_at": "2026-10-20",
+        "before": "60일 넘기면\n한 달 치 날려요",
+        "after": "60일 넘기면\n최소 한 달 치 날려요"
+      }
+    ],
+    "notes": "아동수당: 2026-03-20 아동수당법 개정(2026-04-24 지급분부터)으로 비수도권·인구감소지역 월 5천~2만 원 추가 — 정부24 보조금24 페이지(최종수정 2026.02.20)는 개정 전 '1인당 10만원'만 표기, 복지로 2026-04-24 소식으로 보정. 60일 경과 시 손실은 출생월~신청 전월분으로 출생일·신청일에 따라 1~3개월이어서 '한 달 치'를 '최소 한 달 치'로 수정(c18 신규, 표지 숨은 주장). 부모급여 금액은 카드에 없음 — 공식 2026 금액 페이지는 확인하지 않았고 카드도 금액 미기재 유지. 첫만남이용권 gov.kr 페이지 최종수정 2025.11.28, 원스톱 페이지 2026.04.30. c2/c8/c18 근거 복지로 소식(2024-01)은 소급 규칙 설명으로 현재 정부24 아동수당 페이지('신청일이 속하는 달부터')와도 일치."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

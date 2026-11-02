@@ -1,0 +1,259 @@
+{
+  "id": "2026-10-30-pregnancy-flu-free",
+  "topic": "\"임신 중엔 주사 피해야\"? 독감 접종은 국가가 무료로 챙겨준다",
+  "target_stage": "임신 전 기간",
+  "hook_type": "통념뒤집기",
+  "base_date": "2026-10-20",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "임신 중 독감, 몰랐다면",
+      "title": "독감 접종, 임신부는\n무료 대상이에요",
+      "highlight": "무료 대상",
+      "sub": "국가 무료 접종 대상 정보 정리",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "임신부도 무료 대상이에요",
+      "highlight": "임신부",
+      "body": "질병관리청은 2026~2027절기 인플루엔자 무료 예방접종을 실시해요. 어린이, 임신부, 65세 이상 어르신이 대상이에요.",
+      "tip": "접종 비용 걱정은 덜어도 돼요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "접종 기간은 이래요",
+      "highlight": "2026년 9월 21일부터 2027년 4월 30일까지",
+      "body": "무료 접종 기간은 2026년 9월 21일부터 2027년 4월 30일까지예요. 임신부는 첫날인 9월 21일부터 대상이에요.",
+      "tip": "기간이 끝나기 전에 알아두세요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "주소지와 상관없어요",
+      "highlight": "주소지와 관계없이",
+      "body": "주소지와 관계없이 가까운 위탁의료기관이나 보건소에서 무료로 접종받을 수 있어요.",
+      "tip": "다니는 병원 근처에서 확인해 보세요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "전국 약 2.3만 곳이에요",
+      "highlight": "약 2.3만 곳",
+      "body": "전국 위탁의료기관은 약 2.3만 곳이에요. 예방접종도우미 누리집의 '지정의료기관 찾기'에서 찾을 수 있어요.",
+      "tip": "관할 보건소에 물어봐도 돼요."
+    },
+    {
+      "type": "list",
+      "title": "접종 전 일반 안내예요",
+      "items": [
+        "중등증 이상 급성 질환이면 호전될 때까지 연기하도록 안내돼요",
+        "계란 알레르기가 있으면 접종 전 의사와 상담 후 결정해요",
+        "과거 독감 백신에 중증 알레르기가 있었다면 접종 금지예요"
+      ],
+      "tip": "임신부 전용이 아닌 일반 안내예요. 의료진과 상의하세요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "맞을지는 상담 후에",
+      "highlight": "담당 의료진과 상의",
+      "body": "무료 대상이라는 것과 접종 여부는 별개예요. 내 건강 상태에 맞는지 담당 의료진과 상의하세요.",
+      "tip": "산부인과 진료 때 함께 물어보세요."
+    },
+    {
+      "type": "closing",
+      "title": "무료 대상이라는 것, 기억해 두세요",
+      "body": "임신 중이어도 국가 무료 접종 대상이에요. 궁금한 점은 담당 의료진과 상의하세요."
+    }
+  ],
+  "caption": "독감 접종, 임신부는 무료 대상이에요\n\n\"임신 중엔 주사를 피해야 한다\"는 말을 들어 본 적 있다면, 국가 무료 접종 대상이라는 사실부터 확인해 보세요.\n\n- 질병관리청 2026~2027절기 인플루엔자 무료 예방접종 대상에 임신부가 포함돼요\n- 접종 기간은 2026년 9월 21일부터 2027년 4월 30일까지예요\n- 주소지와 관계없이 가까운 위탁의료기관(전국 약 2.3만 곳)이나 보건소에서 접종할 수 있어요\n\n이 카드뉴스는 접종을 권하는 글이 아니라 무료 대상 정보를 정리한 글이에요. 질병관리청 일반 안내(임신부 전용 아님)에 따르면 중등증 이상 급성 질환은 호전될 때까지 접종을 미루고, 계란 알레르기가 있으면 접종 전 의사와 상담하며, 과거 독감 백신 접종 후 중증 알레르기 반응이 있었다면 접종이 금지돼요. 접종 여부는 반드시 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요\n(정보 기준일 2026-10-20 · 출처: 질병관리청, 정책브리핑)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신초기",
+    "#임신중기",
+    "#임신후기",
+    "#출산준비",
+    "#정부지원",
+    "#임산부독감",
+    "#독감무료접종",
+    "#예방접종",
+    "#예비맘",
+    "#임산부혜택",
+    "#육아꿀팁"
+  ],
+  "cover_image_prompt": "Still life on a light oak table by a sunlit window: a soft cream knit cardigan folded beside a ceramic mug of warm tea, a small potted plant and a blank linen-covered notebook with a pencil.",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "질병관리청은 2026~2027절기 인플루엔자 무료 예방접종을 어린이와 임신부, 65세 이상 어르신을 대상으로 실시한다",
+      "value": "2026~2027절기",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "무료 대상은 어린이, 임신부, 65세 이상 어르신",
+      "value": "65세",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "무료 접종 기간은 2026년 9월 21일부터 2027년 4월 30일까지",
+      "value": "2026년 9월 21일 ~ 2027년 4월 30일",
+      "source_hint": "https://www.kdca.go.kr/kdca/2848/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQyJTJGMzEyMzA4JTJGYXJ0Y2xWaWV3LmRvJTNG"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "임신부는 9월 21일부터 접종 시작(임신부와 어린이 대상 접종이 9월 21일 시작)",
+      "value": "9월 21일",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "주소지와 관계없이 가까운 위탁의료기관이나 보건소에서 무료로 접종받을 수 있음",
+      "value": "",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "전국 위탁의료기관은 약 2.3만 개소",
+      "value": "약 2.3만",
+      "source_hint": "https://www.kdca.go.kr/kdca/2848/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQyJTJGMzEyMzA4JTJGYXJ0Y2xWaWV3LmRvJTNG"
+    },
+    {
+      "id": "c7",
+      "card": 5,
+      "text": "관할 보건소나 예방접종도우미 누리집의 '지정의료기관 찾기'에서 접종기관 확인 가능",
+      "value": "",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587"
+    },
+    {
+      "id": "c8",
+      "card": 6,
+      "text": "중등증 또는 중증 급성 질환자는 증상이 호전될 때까지 접종 연기",
+      "value": "",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=1112"
+    },
+    {
+      "id": "c9",
+      "card": 6,
+      "text": "계란 알레르기가 있으면 접종 전 의사와 상담(계란 두드러기만 있는 경우는 접종 가능)",
+      "value": "",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=1112"
+    },
+    {
+      "id": "c10",
+      "card": 6,
+      "text": "과거 인플루엔자 백신 접종 후 중증(생명에 위협적인) 알레르기 반응이 있었거나 인플루엔자 백신 성분에 중증 알레르기 반응이 있었던 경우 접종 금지(금기사항)",
+      "value": "",
+      "source_hint": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=1112"
+    },
+    {
+      "id": "c11",
+      "card": 8,
+      "text": "임신 중에도 국가 무료 접종 대상(임신부가 무료 예방접종 대상에 포함)",
+      "value": "",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-10-20",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587",
+        "source_quote": "질병관리청은 9월 21일부터 내년 4월 30일까지 어린이와 임신부, 65세 이상 어르신을 대상으로 2026~2027절기 인플루엔자 무료 예방접종을 실시한다고 밝혔다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587",
+        "source_quote": "질병관리청은 9월 21일부터 내년 4월 30일까지 어린이와 임신부, 65세 이상 어르신을 대상으로 2026~2027절기 인플루엔자 무료 예방접종을 실시한다고 밝혔다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.kdca.go.kr/kdca/2848/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQyJTJGMzEyMzA4JTJGYXJ0Y2xWaWV3LmRvJTNG",
+        "source_quote": "질병관리청(청장 임승관)은 오는 9월 21일(월)부터 2027년 4월 30일(금)까지 '26-'27절기 인플루엔자 국가예방접종을 시작할 계획이라고 밝혔다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587",
+        "source_quote": "9월 21일부터 인플루엔자 백신을 2회 맞아야 하는 어린이와 임신부를 대상으로 접종을 시작한다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587",
+        "source_quote": "접종 대상자는 주소지와 관계없이 가까운 위탁의료기관이나 보건소에서 무료로 접종받을 수 있다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.kdca.go.kr/kdca/2848/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQyJTJGMzEyMzA4JTJGYXJ0Y2xWaWV3LmRvJTNG",
+        "source_quote": "전국 위탁의료기관은 약 2.3만 개소로 관할 보건소 또는 예방접종도우미 누리집*에서 가까운 위탁의료기관을 확인할 수 있다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587",
+        "source_quote": "전국 약 2만 3000개 위탁의료기관은 관할 보건소에 문의하거나 예방접종도우미 누리집에서 확인할 수 있다. 누리집에서는 '예방접종관리'의 '지정의료기관 찾기' 메뉴를 이용하면 된다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=1112",
+        "source_quote": "중등증 또는 중증 급성 질환자는 증상이 호전될 때까지 접종 연기",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=1112",
+        "source_quote": "계란에 알레르기가 있는 사람은 접종 전 반드시 의사와 상담 후 결정",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c10",
+        "verdict": "FIXED",
+        "source_url": "https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&menuCd=1112",
+        "source_quote": "과거 인플루엔자 백신 접종 후 중증(생명에 위협적인) 알레르기 반응이 있었던 경우 / 인플루엔자 백신의 성분에 중증 알레르기 반응이 있었던 경우",
+        "checked_at": "2026-10-20",
+        "before": "카드6: 예전 백신에 중증 알레르기가 있었다면 접종이 금지돼요 / 캡션: 과거 백신 알레르기가 있다면 더 신중해야 해요",
+        "after": "카드6: 과거 독감 백신에 중증 알레르기가 있었다면 접종 금지예요 / 캡션: 과거 독감 백신 접종 후 중증 알레르기 반응이 있었다면 접종이 금지돼요"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970587",
+        "source_quote": "질병관리청은 9월 21일부터 내년 4월 30일까지 어린이와 임신부, 65세 이상 어르신을 대상으로 2026~2027절기 인플루엔자 무료 예방접종을 실시한다고 밝혔다.",
+        "checked_at": "2026-10-20"
+      }
+    ],
+    "notes": "모든 수치·기간·대상은 질병관리청 보도자료(kdca.go.kr, 2026-08-25 게시, 2026-10-13 수정)와 정책브리핑(korea.kr) 원문과 일치. 기준일 2026-10-20 현재 접종 기간(~2027-04-30) 진행 중. 카드6(주의사항)은 예방접종도우미의 인플루엔자 일반 금기·주의 안내로 임신부 전용이 아님 — 제목을 '접종 전 일반 안내예요'로, 팁을 '임신부 전용이 아닌 일반 안내예요. 의료진과 상의하세요.'로 바꿔 의학적 조언처럼 읽히지 않게 함. 캡션의 '더 신중해야 해요'(공식 출처에 없는 판단)를 공식 문구 기반으로 교체. 카드 전체는 접종 권유 없이 대상 정보만 전달하며 '담당 의료진과 상의하세요'(카드7·8·캡션) 유지. 참고: 예방접종도우미 페이지에는 '매년 국가예방접종 지원사업 시기 내 1회 접종을 권장한다' 문구가 있으나 권유 금지 방침에 따라 카드에 넣지 않음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}

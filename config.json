@@ -1,0 +1,31 @@
+{
+  "handle": "@d280.mag",
+  "template": "e-magazine",
+  "card_count": [
+    8,
+    10
+  ],
+  "cover_title_max": 20,
+  "factcheck_max_age_days": 30,
+  "official_domains": [
+    ".go.kr",
+    "gov.kr",
+    "korea.kr",
+    "nhis.or.kr",
+    "hira.or.kr",
+    "kdca.go.kr",
+    "law.go.kr"
+  ],
+  "banned_words": [
+    "무조건",
+    "100% 보장",
+    "절대 안전",
+    "의사가 숨기는",
+    "기적의"
+  ],
+  "reel": {
+    "seconds_cover": 3.0,
+    "seconds_card": 2.5
+  },
+  "public_base_url": "https://lookjsy-dotcom.github.io/d280-media/posts"
+}

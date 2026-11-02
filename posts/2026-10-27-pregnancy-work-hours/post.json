@@ -1,0 +1,348 @@
+{
+  "id": "2026-10-27-pregnancy-work-hours",
+  "topic": "임신 중 근로시간 단축 (하루 2시간)",
+  "target_stage": "임신 중기(미리 준비)~32주 이후",
+  "hook_type": "손실회피",
+  "base_date": "2026-10-20",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "일하는 임산부라면",
+      "title": "신청 안 하면\n하루 2시간 손해",
+      "highlight": "하루 2시간",
+      "sub": "임신 중 근로시간 단축, 정확한 기준 정리",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "임신하면 하루 2시간 일찍 쉴 수 있어요",
+      "highlight": "2시간",
+      "body": "임신 중인 여성 근로자는 하루 2시간 근로시간 단축을 신청할 수 있어요. 사업주는 이를 허용해야 해요.",
+      "tip": "근로기준법에 정해진 권리예요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "신청 가능한 시기는 두 번이에요",
+      "highlight": "12주 이내",
+      "body": "임신 후 12주 이내, 그리고 32주 이후가 법에서 정한 시기예요. 지금 임신 중기라면 32주를 미리 챙겨두면 돼요.",
+      "tip": "12주 초과~32주 미만은 회사 재량이에요(고위험 진단 시 제외)."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "32주 이후, 지금 기준은 이거예요",
+      "highlight": "32주 이후",
+      "body": "임신 후 32주부터 출산 전날까지 신청할 수 있어요. 예전 기준을 들은 적 있다면 현행 조문으로 다시 확인해 보세요.",
+      "tip": "이 내용은 2026년 9월 15일 기준 생활법령정보예요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "고위험 진단을 받았다면 시기와 상관없어요",
+      "highlight": "임신 전 기간",
+      "body": "유산·조산 위험이 있다는 진단을 받으면 임신 전 기간에 신청할 수 있어요. 해당 여부는 담당 의료진과 상의하세요.",
+      "tip": "대상 질환은 고용노동부령으로 정해져 있어요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "월급이 줄지 않아요",
+      "highlight": "임금 삭감 금지",
+      "body": "근로시간을 줄였다는 이유로 임금을 깎을 수 없어요. 근로기준법에 그렇게 정해져 있어요.",
+      "tip": "불이익이 있다면 고용노동부 등에 문의하세요."
+    },
+    {
+      "type": "list",
+      "title": "신청은 이렇게 해요",
+      "items": [
+        "시작 예정일 3일 전까지 제출",
+        "기간과 근무 시작·종료 시각을 적은 문서",
+        "의사 진단서 첨부",
+        "같은 임신에 다시 신청하면 진단서 생략 가능"
+      ],
+      "tip": "전자문서로도 낼 수 있어요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "사업주가 거부하면 과태료가 있어요",
+      "highlight": "500만 원 이하",
+      "body": "신청했는데 허용하지 않으면 사업주에게 500만 원 이하 과태료가 부과돼요. 혼자 고민하지 말고 문의처를 찾아보세요.",
+      "tip": "구체적인 사안은 국민신문고에 문의할 수 있어요."
+    },
+    {
+      "type": "point",
+      "no": 7,
+      "title": "꼭 2시간이 아니어도 괜찮아요",
+      "highlight": "1시간",
+      "body": "상황에 따라 1시간만 줄이는 것도 가능해요. 하루 근로시간이 8시간 미만이면 6시간이 되도록 허용할 수 있어요.",
+      "tip": "회사와 미리 조율해 보세요."
+    },
+    {
+      "type": "closing",
+      "title": "저장해두고 32주에 꺼내 보세요",
+      "body": "신청 시기와 서류만 알아두면 어렵지 않아요. 우리 회사 상황은 인사 담당자와 확인해 보세요."
+    }
+  ],
+  "caption": "신청 안 하면 하루 2시간 손해예요.\n\n일하는 임산부라면 꼭 알아둘 근로시간 단축 제도를 정리했어요.\n- 임신 후 12주 이내, 32주 이후에 하루 2시간 단축을 신청할 수 있어요.\n- 시작 예정일 3일 전까지 신청 문서와 의사 진단서를 내요.\n- 단축을 이유로 임금을 깎을 수 없고, 거부하면 사업주에게 500만 원 이하 과태료가 있어요.\n\n건강 상태에 따른 신청 여부는 담당 의료진과 상의하세요. 저장해두고 필요할 때 꺼내 보세요. (기준일 2026-10-20)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신중기",
+    "#임신후기",
+    "#출산준비",
+    "#정부지원",
+    "#임산부근로시간단축",
+    "#근로시간단축",
+    "#직장맘",
+    "#임산부꿀팁",
+    "#임신32주",
+    "#육아정보",
+    "#예비맘"
+  ],
+  "cover_image_prompt": "Flat-lay on a light oak desk by a sunlit window: a blank wall calendar page, a small analog alarm clock, a pair of tiny knitted baby socks and a cup of tea, shot from above with soft morning light.",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "임신 중 여성 근로자는 1일 2시간 근로시간 단축을 신청할 수 있고 사용자는 허용해야 한다",
+      "value": "2시간",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "신청 가능 시기는 임신 후 12주 이내와 32주 이후",
+      "value": "12주, 32주",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "12주 초과 32주 미만은 법정 대상이 아니며 사업주 재량 (고위험 임신 진단 시 제외)",
+      "value": "12주 초과 32주 미만",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "임신 후 32주 이후(218일부터)부터 출산 전날까지 신청 가능",
+      "value": "32주",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "생활법령정보 해당 내용의 기준일은 2026년 9월 15일",
+      "value": "2026년 9월 15일",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "유산·조산 위험 등 고용노동부령이 정하는 경우 임신 전 기간 신청 가능",
+      "value": "임신 전 기간",
+      "source_hint": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "근로시간 단축을 이유로 임금을 삭감할 수 없다 (근로기준법 제74조 제8항)",
+      "value": "임금 삭감 금지",
+      "source_hint": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398"
+    },
+    {
+      "id": "c8",
+      "card": 7,
+      "text": "단축 개시 예정일 3일 전까지 신청",
+      "value": "3일 전",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c9",
+      "card": 7,
+      "text": "신청서에는 임신기간, 개시·종료 예정일, 근무 시작·종료 시각을 적고 의사 진단서를 첨부, 전자문서 가능",
+      "value": "의사 진단서",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c10",
+      "card": 7,
+      "text": "같은 임신에 대해 다시 신청하는 경우 진단서 첨부 생략 가능",
+      "value": "진단서 생략",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c11",
+      "card": 8,
+      "text": "허용하지 않은 사업주에게 500만 원 이하 과태료 (근로기준법 제116조 제2항 제2호)",
+      "value": "500만 원",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c12",
+      "card": 8,
+      "text": "구체적 사안은 담당기관이나 국민신문고에 문의",
+      "value": "국민신문고",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c13",
+      "card": 9,
+      "text": "1시간만 단축하는 것도 가능",
+      "value": "1시간",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1"
+    },
+    {
+      "id": "c14",
+      "card": 9,
+      "text": "1일 근로시간이 8시간 미만인 근로자는 1일 6시간이 되도록 허용할 수 있다",
+      "value": "8시간, 6시간",
+      "source_hint": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398"
+    },
+    {
+      "id": "c15",
+      "card": 5,
+      "text": "임신 전 기간 단축이 가능한 유산·조산 위험 대상은 고용노동부령으로 정한다",
+      "value": "고용노동부령",
+      "source_hint": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398"
+    },
+    {
+      "id": "c16",
+      "card": 6,
+      "text": "근로시간 단축 신청이 불이익으로 이어지면 안 된다 (원 문구) → 임금 삭감 금지가 법에 정해져 있다로 수정",
+      "value": "임금 삭감 금지",
+      "source_hint": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001872"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-10-20",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398",
+        "source_quote": "사용자는 임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자(고용노동부령으로 정하는 유산, 조산 등 위험이 있는 여성 근로자의 경우 임신 전 기간)가 1일 2시간의 근로시간 단축을 신청하는 경우 이를 허용하여야 한다. 다만, 1일 근로시간이 8시간 미만인 근로자에 대하여는 1일 근로시간이 6시간이 되도록 근로시간 단축을 허용할 수 있다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자와 임신 기간 중에 유산, 조산 등의 위험이 있는 여성 근로자는 임신기 근로시간 단축을 신청할 수 있습니다",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "고위험 임신 진단을 받은 경우가 아니라면 사용자는 법정 외 임신기(12주 초과 32주 미만)의 근로시간 단축 신청에 대한 허용 의무가 없으나, 사용자의 재량으로 근로시간 단축을 허용할 수 있습니다",
+        "checked_at": "2026-10-20",
+        "before": "카드3 tip: 12주 이내와 32주 이후 사이에는 법적 의무가 없어요.",
+        "after": "카드3 tip: 12주 초과~32주 미만은 회사 재량이에요(고위험 진단 시 제외)."
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "임신 후 12주 이내(임신일부터 84일까지)와 임신 후 32주 이후(임신 후 218일부터 출산 전일까지)의 기간에 근로시간을 단축할 수 있습니다",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "이 정보는 2026년 9월 15일 기준으로 작성된 것입니다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "다만, 임신 기간 중에 유산, 조산 등의 위험으로 「근로기준법 시행규칙」 별표 3 에 따른 질환을 진단받은 여성 근로자는 임신 전 기간 동안 근로시간 단축을 신청할 수 있습니다",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001872",
+        "source_quote": "⑧ 사용자는 제7항에 따른 근로시간 단축을 이유로 해당 근로자의 임금을 삭감하여서는 아니 된다. <신설 2014. 3. 24.>",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "임신기 근로시간 단축을 신청하려는 여성 근로자는 임신기 근로시간 단축 개시 예정일의 3일 전까지 임신기간, 근로시간 단축 개시 예정일 및 종료 예정일, 근무 개시 시각 및 종료 시각 등을 적은 문서(전자문서 포함)에 의사의 진단서를 첨부하여 사용자에게 제출해야 합니다( 「근로기준법 시행령」 제43조의2 ).",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "임신기 근로시간 단축을 신청하려는 여성 근로자는 임신기 근로시간 단축 개시 예정일의 3일 전까지 임신기간, 근로시간 단축 개시 예정일 및 종료 예정일, 근무 개시 시각 및 종료 시각 등을 적은 문서(전자문서 포함)에 의사의 진단서를 첨부하여 사용자에게 제출해야 합니다( 「근로기준법 시행령」 제43조의2 ).",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "다만, 같은 임신에 대해 근로시간 단축을 다시 신청하는 경우에는 진단서 첨부를 생략할 수 있습니다",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "임신기 근로시간 단축을 신청하였음에도 이를 허용하지 않은 사업주에게는 500만원 이하의 과태료가 부과됩니다( 「근로기준법」 제116조 제2항제2호).",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "구체적인 법령에 대한 질의는 담당기관이나 국민신문고 에 문의하시기 바랍니다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2855&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "근로자가 신청하는 방식으로 허용하는 것이 원칙이며 근로자가 원하는 경우 1시간 단축도 가능합니다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398",
+        "source_quote": "사용자는 임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자(고용노동부령으로 정하는 유산, 조산 등 위험이 있는 여성 근로자의 경우 임신 전 기간)가 1일 2시간의 근로시간 단축을 신청하는 경우 이를 허용하여야 한다. 다만, 1일 근로시간이 8시간 미만인 근로자에 대하여는 1일 근로시간이 6시간이 되도록 근로시간 단축을 허용할 수 있다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW//lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000610398",
+        "source_quote": "사용자는 임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자(고용노동부령으로 정하는 유산, 조산 등 위험이 있는 여성 근로자의 경우 임신 전 기간)가 1일 2시간의 근로시간 단축을 신청하는 경우 이를 허용하여야 한다. 다만, 1일 근로시간이 8시간 미만인 근로자에 대하여는 1일 근로시간이 6시간이 되도록 근로시간 단축을 허용할 수 있다.",
+        "checked_at": "2026-10-20"
+      },
+      {
+        "id": "c16",
+        "verdict": "FIXED",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001872",
+        "source_quote": "⑧ 사용자는 제7항에 따른 근로시간 단축을 이유로 해당 근로자의 임금을 삭감하여서는 아니 된다. <신설 2014. 3. 24.>",
+        "checked_at": "2026-10-20",
+        "before": "카드6 body: 근로시간을 줄였다는 이유로 임금을 깎을 수 없어요. 단축 신청이 불이익으로 이어지면 안 돼요.",
+        "after": "카드6 body: 근로시간을 줄였다는 이유로 임금을 깎을 수 없어요. 근로기준법에 그렇게 정해져 있어요."
+      }
+    ],
+    "notes": "근로기준법 현행본(시행 2026.10.8, 법률 제21533호) 제74조 제7항·제8항, 제116조 제2항 제2호를 law.go.kr 조문 원문으로 직접 확인. c7(임금 삭감 금지)은 제74조 제8항 원문으로 확인됨. 생활법령(easylaw) 페이지는 2026-09-15 기준. 제116조 제1항 개정(2027.1.1 시행)은 제2항 500만원 과태료와 무관. 카드6의 '불이익으로 이어지면 안 돼요'는 제74조에 근거 문장이 없어(8항은 임금 삭감만 규정) 삭제·수정. 카드3 tip은 고위험 예외를 명시하도록 수정. 옛 36주 기준은 카드에 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-02",
+    "problems": []
+  }
+}
