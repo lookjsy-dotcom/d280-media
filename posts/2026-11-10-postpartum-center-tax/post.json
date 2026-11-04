@@ -85,7 +85,7 @@
     "#신생아",
     "#임신정보"
   ],
-  "cover_image_prompt": "a folded white muslin cloth, a pair of white knit baby socks, a few blank paper receipts and a pen, a small wooden tray",
+  "cover_image_prompt": "a simple desk calculator with blank keys, a few folded blank paper receipts, a clean baby bottle, a pen and a small sprig of eucalyptus",
   "claims": [
     {
       "id": "c1",
@@ -255,5 +255,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "sage",
+  "photo_style": "flatlay"
 }

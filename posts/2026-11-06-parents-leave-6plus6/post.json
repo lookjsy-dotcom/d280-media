@@ -98,7 +98,7 @@
     "#신생아",
     "#육아꿀팁"
   ],
-  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a few blank paper forms with a pen, and a small ceramic mug",
+  "cover_image_prompt": "two ceramic mugs side by side on a table, one large and one smaller, a tiny pair of white baby sneakers placed between them, a small blank desk calendar",
   "claims": [
     {
       "id": "c1",
@@ -362,5 +362,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "sky",
+  "photo_style": "still"
 }

@@ -96,7 +96,7 @@
     "#출산휴가",
     "#아기용품"
   ],
-  "cover_image_prompt": "white knit baby socks, a folded muslin cloth, a few blank paper forms with a pen, and a small ceramic mug",
+  "cover_image_prompt": "a simple calculator with blank keys, a tiny knitted baby hat, a plain paper envelope, a few blank paper slips and a red pencil",
   "claims": [
     {
       "id": "c1",
@@ -252,5 +252,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "peach",
+  "photo_style": "flatlay"
 }

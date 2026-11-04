@@ -95,7 +95,7 @@
     "#정부지원",
     "#육아꿀팁"
   ],
-  "cover_image_prompt": "a white ceramic cup of milk tea, a small folded linen napkin, a pair of white knit baby socks, a few blank cream paper cards and a pencil",
+  "cover_image_prompt": "a cup of latte with soft milk foam in focus, a few coffee beans scattered on the table, a small glass of milk blurred behind",
   "claims": [
     {
       "id": "c1",
@@ -207,5 +207,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "butter",
+  "photo_style": "closeup"
 }

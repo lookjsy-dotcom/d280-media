@@ -93,7 +93,7 @@
     "#출산후",
     "#육아정보"
   ],
-  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a small wooden toy block, a plain lamp bulb on a cotton cloth",
+  "cover_image_prompt": "a small table lamp glowing softly, a moon-shaped baby night light, and a white wall plug with a neatly coiled cable",
   "claims": [
     {
       "id": "c1",
@@ -265,5 +265,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "peach",
+  "photo_style": "still"
 }

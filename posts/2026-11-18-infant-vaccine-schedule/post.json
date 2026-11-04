@@ -94,7 +94,7 @@
     "#예방접종도우미",
     "#신생아케어"
   ],
-  "cover_image_prompt": "a folded white muslin cloth, a pair of white knit baby socks, a blank paper form with a pen, a small wooden tray",
+  "cover_image_prompt": "a small plush teddy bear with a round adhesive bandage on its arm, a pastel baby health booklet with a blank cover, and a digital thermometer",
   "claims": [
     {
       "id": "c1",
@@ -392,5 +392,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "sage",
+  "photo_style": "still"
 }

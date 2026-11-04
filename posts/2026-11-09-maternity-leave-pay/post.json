@@ -86,7 +86,7 @@
     "#예비맘",
     "#워킹맘"
   ],
-  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a few blank paper forms, a pen and a small potted green plant",
+  "cover_image_prompt": "a pale ceramic piggy bank with a few coins beside it and a wooden baby rattle, the piggy bank in sharp focus",
   "claims": [
     {
       "id": "c1",
@@ -330,5 +330,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "butter",
+  "photo_style": "closeup"
 }

@@ -96,7 +96,7 @@
     "#예비맘",
     "#출산후"
   ],
-  "cover_image_prompt": "a pair of white knit baby socks, a folded muslin cloth, a few blank paper forms and a pen, a small ceramic dish",
+  "cover_image_prompt": "the tiny sole of a newborn baby's foot resting on a soft white muslin blanket, shown from the heel side",
   "claims": [
     {
       "id": "c1",
@@ -334,5 +334,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "sky",
+  "photo_style": "closeup"
 }

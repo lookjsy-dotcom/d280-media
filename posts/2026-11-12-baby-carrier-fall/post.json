@@ -103,7 +103,7 @@
     "#육아정보",
     "#소비자안전"
   ],
-  "cover_image_prompt": "a soft beige fabric baby carrier laid flat with its buckles and straps spread out, a folded muslin cloth, a pair of white knit baby socks, a blank paper checklist and a pen",
+  "cover_image_prompt": "adult hands fastening the waist buckle of a soft beige baby carrier worn on the torso, a small plush teddy bear tucked inside the carrier instead of a baby",
   "claims": [
     {
       "id": "c1",
@@ -406,5 +406,7 @@
     "status": "PASS",
     "checked_at": "2026-11-05",
     "problems": []
-  }
+  },
+  "theme": "sky",
+  "photo_style": "hands"
 }
