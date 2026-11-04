@@ -76,8 +76,11 @@ def publish_carousel(cred, post, base):
 
 
 def publish_reel(cred, post, base):
+    extra = {}
+    if (ROOT / "posts" / post["id"] / "reel-cover.png").exists():  # 피드 격자에서 캐러셀 표지와 겹치지 않게 색 타일 표지(make_reel_cover.py)
+        extra["cover_url"] = f"{base}/{post['id']}/reel-cover.png"
     cid = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="REELS",
-                video_url=f"{base}/{post['id']}/reel.mp4", caption=caption_of(post), share_to_feed="true")["id"]
+                video_url=f"{base}/{post['id']}/reel.mp4", caption=caption_of(post), share_to_feed="true", **extra)["id"]
     wait_ready(cred, cid)
     return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
 

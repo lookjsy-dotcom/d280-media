@@ -28,5 +28,54 @@
     "seconds_cover": 3.0,
     "seconds_card": 2.5
   },
-  "public_base_url": "https://lookjsy-dotcom.github.io/d280-media/posts"
+  "public_base_url": "https://lookjsy-dotcom.github.io/d280-media/posts",
+  "reel_cover_palette": [
+    {
+      "bg": "#E8743B",
+      "fg": "#FFFFFF",
+      "mark": "#FFE1A8"
+    },
+    {
+      "bg": "#7E9C84",
+      "fg": "#FFFFFF",
+      "mark": "#F6E7B0"
+    },
+    {
+      "bg": "#F3D67A",
+      "fg": "#2B2520",
+      "mark": "#C2551F"
+    },
+    {
+      "bg": "#7393BF",
+      "fg": "#FFFFFF",
+      "mark": "#FFE1A8"
+    },
+    {
+      "bg": "#2B2520",
+      "fg": "#F6F1E7",
+      "mark": "#E8743B"
+    }
+  ],
+  "card_themes": {
+    "cream": {
+      "bg": "#F3EEE4",
+      "accent": "#E2582F"
+    },
+    "sage": {
+      "bg": "#E3EBE0",
+      "accent": "#4E7A58"
+    },
+    "peach": {
+      "bg": "#F8E5DA",
+      "accent": "#D24F27"
+    },
+    "sky": {
+      "bg": "#E1E9F2",
+      "accent": "#3C6BA5"
+    },
+    "butter": {
+      "bg": "#F6EDCB",
+      "accent": "#BF531D"
+    }
+  }
 }
