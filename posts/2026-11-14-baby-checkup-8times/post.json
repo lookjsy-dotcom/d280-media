@@ -1,0 +1,365 @@
+{
+  "id": "2026-11-14-baby-checkup-8times",
+  "topic": "영유아 건강검진 8번 시기표",
+  "target_stage": "임신 후기 준비~생후 6개월",
+  "hook_type": "마감",
+  "base_date": "2026-11-08",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "아기 건강검진",
+      "title": "무료 검진 8번\n시기 모르면 놓쳐요",
+      "highlight": "8번",
+      "sub": "생후 14일부터 71개월까지 시기표",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "첫 검진은 생후 한 달 안",
+      "highlight": "생후 14~35일",
+      "body": "1차 검진은 생후 14~35일에 받아요.\n신생아 때 받는 첫 검진이에요.",
+      "tip": "출산 전에 달력에 표시해 두면 편해요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "2차는 4~6개월",
+      "highlight": "생후 4~6개월",
+      "body": "2차 검진은 생후 4~6개월 사이예요.\n1차와 간격이 꽤 벌어져 있어요.",
+      "tip": "생후 4개월이 되면 바로 알림을 맞춰요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "3차는 돌 전후",
+      "highlight": "생후 9~12개월",
+      "body": "3차 검진은 생후 9~12개월이에요.\n돌 전에 받는 마지막 검진이에요.",
+      "tip": "돌 생일 전에 일정을 잡아요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "4차는 구강검진도 있어요",
+      "highlight": "생후 18~24개월",
+      "body": "4차 검진은 생후 18~24개월이에요.\n구강검진은 생후 18~29개월에 받아요.",
+      "tip": "검진과 구강검진 시기가 달라요."
+    },
+    {
+      "type": "list",
+      "title": "5~8차는 이렇게 이어져요",
+      "items": [
+        "5차 생후 30~36개월",
+        "6차 생후 42~48개월",
+        "7차 생후 54~60개월",
+        "8차 생후 66~71개월"
+      ],
+      "tip": "구강검진은 4~7차 때 따로 있어요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "구강검진은 총 4번",
+      "highlight": "총 4번",
+      "body": "5차 구강검진은 생후 30~41개월이에요.\n6차는 42~53개월, 7차는 54~65개월이에요.",
+      "tip": "4차 구강검진(생후 18~29개월)부터 시작해요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "비용은 본인 부담 없어요",
+      "highlight": "본인 부담 없음",
+      "body": "검진 기간 안에 받으면 본인 부담이 없어요.\n건강보험 가입자는 국민건강보험공단이 부담해요.",
+      "tip": "기간이 지나면 받을 수 없어요. 미리 예약해요."
+    },
+    {
+      "type": "point",
+      "no": 7,
+      "title": "첫 검진은 사전 등록 가능",
+      "highlight": "출생신고 전",
+      "body": "1차 검진은 출생신고 전에도 사전 등록할 수 있어요.\n자세한 절차는 국민건강보험공단에 확인하세요.",
+      "tip": "공단 고객센터는 1577-1000이에요."
+    },
+    {
+      "type": "closing",
+      "title": "오늘 달력에 저장해요",
+      "body": "지금 임신 중이라면 1차 검진 시기부터 달력에 표시해 두세요.\n검진은 시기 안에 받는 게 중요해요."
+    }
+  ],
+  "caption": "무료 검진 8번, 시기 모르면 놓쳐요.\n\n핵심 3줄 요약\n1) 영유아 건강검진은 생후 14일~71개월 사이 총 8차예요. 1차는 생후 14~35일, 2차는 4~6개월이에요.\n2) 4~7차에는 구강검진 시기가 따로 있어요(총 4번).\n3) 검진 기간 안에 받으면 본인 부담이 없고, 1차는 출생신고 전에도 사전 등록할 수 있어요. 자세한 절차는 국민건강보험공단 1577-1000에 확인하세요.\n\n저장해두고 필요할 때 꺼내 보세요.\n기준일 2026년 11월 8일 (질병관리청·국민건강보험공단 안내 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#영유아건강검진",
+    "#아기건강검진",
+    "#신생아",
+    "#임신후기",
+    "#예비맘",
+    "#육아꿀팁",
+    "#정부지원",
+    "#출산준비물",
+    "#육아정보"
+  ],
+  "cover_image_prompt": "A flat lay of a wall-calendar-style paper planner page with blank date squares, a small wooden rattle, a soft tape measure and a yellow pencil",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "영유아 건강검진은 총 8차",
+      "value": "8번",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c2",
+      "card": 1,
+      "text": "영유아 건강검진 대상은 생후 14일부터 71개월까지",
+      "value": "14일부터 71개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "1차 검진은 생후 14~35일, 신생아 대상",
+      "value": "14~35일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "2차 검진은 생후 4~6개월",
+      "value": "4~6개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "3차 검진은 생후 9~12개월",
+      "value": "9~12개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "4차 검진은 생후 18~24개월",
+      "value": "18~24개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c7",
+      "card": 5,
+      "text": "4차 구강검진은 생후 18~29개월",
+      "value": "18~29개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c8",
+      "card": 6,
+      "text": "5차 검진은 생후 30~36개월",
+      "value": "30~36개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c9",
+      "card": 6,
+      "text": "6차 검진은 생후 42~48개월",
+      "value": "42~48개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c10",
+      "card": 6,
+      "text": "7차 검진은 생후 54~60개월",
+      "value": "54~60개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c11",
+      "card": 6,
+      "text": "8차 검진은 생후 66~71개월",
+      "value": "66~71개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c12",
+      "card": 7,
+      "text": "6차 구강검진은 생후 42~53개월",
+      "value": "42~53개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c13",
+      "card": 7,
+      "text": "7차 구강검진은 생후 54~65개월",
+      "value": "54~65개월",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c14",
+      "card": 8,
+      "text": "검진 기간 내 받으면 본인 부담 없음, 건강보험 가입자는 국민건강보험공단이 부담",
+      "value": "기간 내 본인 부담 없음",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c15",
+      "card": 9,
+      "text": "1차 검진은 출생신고 전에도 사전 등록 가능",
+      "value": "출생신고 전",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html"
+    },
+    {
+      "id": "c16",
+      "card": 9,
+      "text": "국민건강보험공단 고객센터 전화번호 1577-1000",
+      "value": "1577-1000",
+      "source_hint": "https://www.nhis.or.kr"
+    },
+    {
+      "id": "c17",
+      "card": 7,
+      "text": "영유아 구강검진은 총 4번, 5차 구강검진은 생후 30~41개월",
+      "value": "30~41개월",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131"
+    }
+  ],
+  "status": "rendered",
+  "theme": "butter",
+  "photo_style": "flatlay",
+  "factcheck": {
+    "checked_at": "2026-11-08",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "71개월까지 총 8회의 영유아 건강검진과 4회의 구강검진이 제공되고 있습니다. ∎ 검진 대상 : 생후 14일~71개월 영유아",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "71개월까지 총 8회의 영유아 건강검진과 4회의 구강검진이 제공되고 있습니다. ∎ 검진 대상 : 생후 14일~71개월 영유아",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "1차는 생후 14~35일로, 영양(모유수유), 수면(영아돌연사증후군 예방), 안전사고 예방 교육을 실시한다.",
+        "checked_at": "2026-11-08",
+        "before": "신생아가 대상이고 새로 생긴 차수예요. (2021년 신설 — 2026년 기준 '새로 생긴'은 낡은 표현)",
+        "after": "신생아 때 받는 첫 검진이에요."
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "2차 | 생후 4~6개월 (건강검진 실시시기 표, 최종수정일 2025.11.19)",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "3차 | 생후 9~12개월",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "4차 | 생후 18~24개월 | 생후 18~29개월",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "1차는 생후 18~29개월, 2차는 30~41개월, 3차는 42~53개월, 4차는 54~65개월에 이루어집니다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "5차 | 생후 30~36개월 | 생후 30~41개월",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "6차 | 생후 42~48개월 | 생후 42~53개월",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "7차 | 생후 54~60개월 | 생후 54~65개월",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://www.nyj.go.kr/health/contents.do?key=413",
+        "source_quote": "8차 | 생후 66~71개월",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "1차는 생후 18~29개월, 2차는 30~41개월, 3차는 42~53개월, 4차는 54~65개월에 이루어집니다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "1차는 생후 18~29개월, 2차는 30~41개월, 3차는 42~53개월, 4차는 54~65개월에 이루어집니다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c14",
+        "verdict": "FIXED",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "비용 부담 : 기간 내 검진 시 본인부담금 없음",
+        "checked_at": "2026-11-08",
+        "before": "영유아 건강검진은 본인 부담이 없어요.",
+        "after": "검진 기간 안에 받으면 본인 부담이 없어요. (+tip: 기간이 지나면 받을 수 없어요)"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://www.gumi.go.kr/health/contents.do?mid=0315100000",
+        "source_quote": "출생신고 전 1차(생후14-35일) 검진은 건강보험공단(1577-1000)에 사전등록 후 검진가능",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c16",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/nhis/index.do",
+        "source_quote": "고객센터(1577-1000) 안내",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c17",
+        "verdict": "FIXED",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=131",
+        "source_quote": "1차는 생후 18~29개월, 2차는 30~41개월, 3차는 42~53개월, 4차는 54~65개월에 이루어집니다.",
+        "checked_at": "2026-11-08",
+        "before": "구강검진 4·6·7차 3번만 안내(18~29·42~53·54~65개월), 카드6 tip '6·7차 구강검진은 시기가 조금 더 길어요', 캡션 '4·6·7차에는 구강검진 시기가 따로'",
+        "after": "구강검진 총 4번 — 5차 구강검진 생후 30~41개월 추가(2022.6.30 확대 시행). 카드7 재작성, 카드6 tip·캡션 수정"
+      }
+    ],
+    "notes": "카피 원본인 복지로 공유본(등록일 2021-04-08)은 구강검진 3회 기준. 2022-06-30부터 생후 30~41개월 구강검진이 추가돼 현행 4회(질병관리청 건강정보 2025-12, 남양주 보건소 2025.11.19, 금천구 보건소 2026.07.24 일치). 건강검진 8차 시기는 현행과 동일. 비용은 '기간 내' 조건부 무료로 문구 보강. 사전등록은 구미시 보건소 현행 페이지(작성일 미표시) + korea.kr 2021 안내로 확인; 건보공단 본 사이트의 해당 문장은 직접 열지 못함. 1577-1000은 nhis.or.kr 메인에서 직접 확인."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-08",
+    "problems": []
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "id": "2026-11-15-postpartum-center-contract-check",
+  "topic": "산후조리원 계약 전 체크 5가지",
+  "target_stage": "임신 중기~후기",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-08",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "산후조리원 예약했다면",
+      "title": "조리원 서명 전\n5가지 안 보면 손해",
+      "highlight": "5가지",
+      "sub": "공정위가 고치게 한 약관, 내 계약서에도 있는지 봐요",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 0,
+      "title": "왜 계약서를 봐야 할까요",
+      "highlight": "52개",
+      "body": "공정위가 52개 산후조리원의 약관을 심사했어요.\n그 결과 5개 유형의 불공정 조항을 고치게 했어요.",
+      "tip": "같은 유형이 내 계약서에 있는지 확인해요."
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "환불 기준을 먼저 봐요",
+      "highlight": "입실 전·후 환불",
+      "body": "계약을 풀 때 계약금과 입실 전·후 환불 기준이 어떻게 되는지 적혀 있는지 봐요.\n이 유형이 33곳에서 시정됐어요.",
+      "tip": "말로만 듣지 말고 서면으로 확인해요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "예정일이 바뀌면 정산돼요?",
+      "highlight": "차액 정산",
+      "body": "출산 예정일이 바뀌어 대체 병실을 쓰면 요금 차이를 어떻게 하는지 봐요.\n이 유형이 25곳에서 시정됐어요.",
+      "tip": "대체 병실 이용 시 차액 환급 문구가 있는지 봐요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "감염 사고 책임을 봐요",
+      "highlight": "감염 관련 손해배상",
+      "body": "감염으로 손해가 생겨도 책임이 없다는 식의 조항이 있는지 봐요.\n이 유형이 37곳에서 시정됐어요.",
+      "tip": "배상 조건이 적힌 부분에 표시해 둬요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "후기 작성을 막는지 봐요",
+      "highlight": "후기 작성 제한",
+      "body": "후기나 글 공유를 금지하거나 위약금을 매기는 조항이 있는지 봐요.\n이 유형은 7곳에서 시정됐어요.",
+      "tip": "이런 조항이 있으면 계약 전에 물어봐요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "휴대품 책임도 확인해요",
+      "highlight": "휴대품 분실",
+      "body": "분실·도난 책임을 산모에게 모두 넘기는 문구가 있는지 봐요.\n이 유형이 36곳에서 시정됐어요.",
+      "tip": "귀중품 보관 방법도 함께 물어봐요."
+    },
+    {
+      "type": "list",
+      "title": "서명 전 체크리스트",
+      "items": [
+        "입실 전·후 환불 기준 서면 확인",
+        "예정일 변동 시 정산 문구",
+        "감염 사고 시 배상 조건",
+        "후기·글 공유 제한 문구",
+        "휴대품 분실 책임 문구"
+      ],
+      "tip": "애매한 문구는 사진으로 남기고 질문해요."
+    },
+    {
+      "type": "closing",
+      "title": "계약 전에 한 번만 더",
+      "body": "서명하기 전에 이 5가지를 계약서에서 찾아보세요.\n피해를 입었다면 한국소비자원 상담도 받을 수 있어요."
+    }
+  ],
+  "caption": "조리원 서명 전, 5가지 안 보면 손해예요.\n\n핵심 3줄 요약\n1) 공정위가 52개 산후조리원의 약관을 심사해 5개 유형의 불공정 조항을 고치게 했어요.\n2) 환불 기준, 예정일 변동 정산, 감염 책임, 후기 제한, 휴대품 책임을 계약서에서 확인해요.\n3) 애매한 문구는 서명 전에 질문하고 서면으로 남겨요.\n\n업체별 약관은 다르니 내 계약서를 직접 확인하세요.\n\n저장해두고 필요할 때 꺼내 보세요.\n기준일 2026년 11월 8일 (공정거래위원회 2025년 9월 24일 보도자료 기준)",
+  "hashtags": [
+    "#산후조리원",
+    "#조리원계약",
+    "#임산부",
+    "#임신중기",
+    "#임신후기",
+    "#출산준비",
+    "#예비맘",
+    "#불공정약관",
+    "#공정위",
+    "#정부지원",
+    "#육아정보",
+    "#육아꿀팁"
+  ],
+  "cover_image_prompt": "A hand holding a pen over a blank folded paper booklet beside a small potted plant and a warm cup of tea on a peach linen cloth",
+  "photo_style": "hands",
+  "theme": "peach",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "공정위는 52개 산후조리원의 이용약관을 심사했다",
+      "value": "52개",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "5개 유형의 불공정 약관조항을 시정했다",
+      "value": "5개",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c3",
+      "card": 1,
+      "text": "표지의 5가지는 시정된 5개 유형(환불 기준, 예정일 변동 정산, 감염 책임, 후기 제한, 휴대품 책임)에 대응",
+      "value": "5가지",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "계약 해제·해지 시 위약금 부과 및 사업자 책임 경감 조항은 33개사에서 시정 (계약금 환불 기준, 입실 전·후 환불 금액을 표준약관·소비자분쟁해결기준보다 불리하게 규정)",
+      "value": "33곳",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "출산 예정일 변동 시 정산 미실시 조항은 25개사에서 시정 (대체 병실 이용 시 요금 차액 정산)",
+      "value": "25곳",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "감염 관련 손해배상 조항은 37개사에서 시정 (감염으로 손해가 생겨도 책임지지 않는다는 규정 등)",
+      "value": "37곳",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "인터넷 등 매체 노출 제한 조항(글 공유 금지, 후기 작성 시 위약금 부과)은 7개사에서 시정",
+      "value": "7곳",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c8",
+      "card": 7,
+      "text": "휴대품 멸실사고 시 사업자 면책 조항은 36개사에서 시정 (분실·도난 책임을 고객에게 전가)",
+      "value": "36곳",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    },
+    {
+      "id": "c9",
+      "card": 9,
+      "text": "산후조리원 계약 관련 불만 상담이 한국소비자원에 접수되고 있어 피해 시 상담 가능",
+      "value": "한국소비자원",
+      "source_hint": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-08",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456",
+        "source_quote": "공정거래위원회(위원장 주병기, 이하 ‘공정위’)는 52개 산후조리원(업체별 시정내역은 참조)의 이용약관을 심사하여",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456",
+        "source_quote": "감염 관련 손해배상, 부정적 이용후기 제한 등 5개 유형의 불공정 약관조항을 시정하였다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456",
+        "source_quote": "① 계약 해제·해지 시 위약금 부과 및 사업자 책임 경감 조항 (33개사) ② 감염 관련 손해배상 조항 (37개사) ③ 인터넷 등 매체 노출 제한 조항 (7개사) ④ 출산 예정일 변동 시 정산 미실시 조항 (25개사) ⑤ 휴대품 멸실사고 시 사업자 면책조항 (36개사)",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/downloadBbsFile.do?atchmnflNo=51638",
+        "source_quote": "① 계약 해제·해지 시 위약금 부과 및 사업자 책임 경감 조항(33개사) □ (시정 전) 산후조리원들은 이용자 귀책으로 인한 계약 해제․해지 시 계약금 환불 기준일과 입실 전·후 환불 금액 등을 표준약관이나 소비자분쟁해결 기준보다 불리하게 규정하고 있었다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/downloadBbsFile.do?atchmnflNo=51638",
+        "source_quote": "④ 출산 예정일 변동 시 정산 미실시 조항(25개사) … (시정 후) 이에 대해 산후조리원들은 산후조리원 비용보다 대체 병실의 비용이 낮아 차액이 발생하면 정산하도록 약관을 시정하였다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/downloadBbsFile.do?atchmnflNo=51638",
+        "source_quote": "② 감염 관련 손해배상 조항(37개사) □ (시정 전) 산후조리원의 약관에는 감염 등으로 인하여 산모와 신생아에게 손해가 발생한 경우에도 아무런 책임을 지지 않는다는 규정, 산후조리원의 과실이 명백한 경우에만 책임진다는 규정 등이 있었다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/downloadBbsFile.do?atchmnflNo=51638",
+        "source_quote": "③ 인터넷 등 매체 노출 제한 조항(7개사) □ (시정 전) 산후조리원들은 조리원 관련 글 공유를 금지하거나, 부정적 이용후기 작성 시 과도한 위약금을 부과하는 조항을 두고 있었다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/downloadBbsFile.do?atchmnflNo=51638",
+        "source_quote": "⑤ 휴대품 멸실사고 등 사업자 면책조항(36개사) □ (시정 전) 산후조리원 내에서 산모의 휴대품이 분실․훼손․도난된 경우에도, 사업자의 귀책사유를 불문하고 그 책임을 고객에게 전가하며, 사업자는 일체의 책임을 지지 않는다고 규정하고 있었다.",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&bordCd=3&nttSn=46456",
+        "source_quote": "계약해제, 위약금, 계약불이행 등에 관한 소비자 불만 상담***도 한국소비자원에 꾸준히 접수되고 있다.",
+        "checked_at": "2026-11-08"
+      }
+    ],
+    "notes": "모든 수치(52개·5개 유형·33/25/37/7/36개사)를 공정위 2025-09-24 보도자료 원문(누리집 본문 + 첨부 PDF, ftc.go.kr)에서 직접 대조. 서울시 게재본·언론 등 2차 자료에만 있는 수치는 카드에 없음. 소비자분쟁해결기준의 환불 비율 등 구체 금액은 카드에 쓰지 않아 law.go.kr 대조 대상 없음. 숨은 주장(캡션 보도자료 일자 2025-09-24) 확인: 누리집 등록일 2025-09-24, 보도시점 2025.9.24.(수) 12:00. 비고: 시정은 업체들이 '자진 시정'한 것이나 공정위 표현도 '시정하였다'여서 '공정위가 고치게 했어요'는 허용 범위로 판단."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-08",
+    "problems": []
+  }
+}

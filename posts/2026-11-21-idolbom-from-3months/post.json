@@ -1,0 +1,297 @@
+{
+  "id": "2026-11-21-idolbom-from-3months",
+  "topic": "생후 3개월부터 정부지원 아이돌봄, 미리 준비할 3단계",
+  "target_stage": "임신 후기~생후 3개월",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-20",
+  "theme": "sage",
+  "photo_style": "still",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "복직 전에 저장",
+      "title": "지원 대상인데\n풀가격 내고 있나요?",
+      "highlight": "풀가격",
+      "sub": "아이돌봄 신청 전 준비할 3단계",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "아이돌봄이 뭐예요?",
+      "highlight": "아이돌봄",
+      "body": "맞벌이 등으로 돌봄 공백이 생기면 아이돌봄사가 집으로 와요. 가구소득에 따라 정부지원 범위가 달라요.",
+      "tip": "지원은 양육공백·소득 기준을 함께 봐요"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "시간제는 이만큼 커요",
+      "highlight": "생후 3개월",
+      "body": "시간제는 생후 3개월부터 12세까지 쓸 수 있어요. 잠깐 맡기고 싶을 때 맞아요.",
+      "tip": "나이는 신청 시점 기준으로 확인해요"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "영아종일제는 더 어려요",
+      "highlight": "36개월",
+      "body": "영아종일제는 생후 3개월부터 36개월까지예요. 복직 후 하루 돌봄이 필요할 때 살펴봐요.",
+      "tip": "정부지원 시간은 가구 유형별로 달라요"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "준비 첫걸음: 가입·자격",
+      "highlight": "자격 확인",
+      "body": "아이돌봄 홈페이지에서 웹 회원가입을 해요. 정부지원 신청 자격도 함께 확인해요.",
+      "tip": "서비스 이용 전 미리 해두면 편해요"
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "준비 둘째: 결제 수단",
+      "highlight": "국민행복카드",
+      "body": "국민행복카드를 발급받고 예치금을 충전해요. 이 카드가 결제 수단이에요.",
+      "tip": "카드가 이미 있는지 먼저 확인해 보세요"
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "준비 마지막: 서비스 신청",
+      "highlight": "서비스 신청",
+      "body": "준비가 끝나면 아이돌봄서비스를 신청하고 이용해요. 돌보미 연결은 서비스제공기관이 도와요.",
+      "tip": "급할수록 가입과 카드를 미리 끝내두세요"
+    },
+    {
+      "type": "list",
+      "title": "저장해둘 체크리스트",
+      "items": [
+        "아이돌봄 웹 회원가입",
+        "정부지원 자격 확인",
+        "국민행복카드 발급·예치금 충전",
+        "서비스 신청"
+      ],
+      "tip": "정부지원 시간을 넘으면 전액 본인부담으로 시간제를 쓸 수 있어요"
+    },
+    {
+      "type": "list",
+      "title": "막히면 여기로 문의해요",
+      "items": [
+        "홈페이지 이용문의 1577-8136",
+        "우리동네 서비스제공기관 연결 1577-2514"
+      ],
+      "tip": "평일 낮에만 받으니 미리 전화해 보세요"
+    },
+    {
+      "type": "closing",
+      "title": "복직 전에 3단계만 미리",
+      "body": "자격과 카드만 준비해 두면 급할 때 덜 당황해요. 정확한 지원 시간은 아이돌봄 홈페이지에서 확인하세요."
+    }
+  ],
+  "caption": "지원 대상인데 풀가격 내고 있나요?\n\n복직 전에 알아두면 좋은 아이돌봄 정부지원, 핵심만 정리했어요.\n- 시간제는 생후 3개월부터 12세까지, 영아종일제는 생후 3개월부터 36개월까지 이용해요.\n- 준비는 3단계: 웹 회원가입·자격 확인, 국민행복카드 발급·예치금 충전, 서비스 신청.\n- 정부지원 여부와 범위는 양육공백·가구소득 기준에 따라 달라요. 지원 대상이 아니면 전액 본인부담이에요. 정확한 내용은 아이돌봄 홈페이지(idolbom.go.kr)에서 확인하세요.\n- 문의는 홈페이지 이용문의 1577-8136, 우리동네 서비스제공기관 연결 1577-2514예요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-20 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신후기",
+    "#출산준비",
+    "#정부지원",
+    "#아이돌봄",
+    "#아이돌봄서비스",
+    "#육아휴직복직",
+    "#워킹맘",
+    "#국민행복카드",
+    "#영아종일제",
+    "#육아정보",
+    "#출산준비물",
+    "#신생아육아"
+  ],
+  "cover_image_prompt": "A woman's handbag, a house key on a ring and a wooden toy house on a table, with a small potted green plant, eye-level still life",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "정부지원은 양육공백 기준 등을 충족해야 하며, 가구소득 기준에 따라 정부지원 범위가 달라진다",
+      "value": "양육공백·가구소득 기준",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "시간제서비스 이용 연령은 생후 3개월 이상~12세 이하",
+      "value": "3개월, 12세",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "영아종일제서비스 이용 연령은 생후 3개월 이상~36개월 이하",
+      "value": "3개월, 36개월",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "신청 전 사전준비는 아이돌봄 웹회원가입과 정부지원신청자격 확인",
+      "value": "웹회원가입, 자격 확인",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "결제방법 등록은 국민행복카드 발급 및 예치금 충전",
+      "value": "국민행복카드",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c6",
+      "card": 6,
+      "text": "3단계로 아이돌봄서비스를 신청하고 이용한다(사전준비, 결제방법 등록, 서비스 신청)",
+      "value": "3단계",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c7",
+      "card": 8,
+      "text": "정부지원 시간을 넘으면 전액 본인부담으로 시간제서비스를 이용할 수 있다",
+      "value": "전액 본인부담",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c8",
+      "card": 9,
+      "text": "홈페이지 이용문의 1577-8136, 평일 09시~18시 운영, 주말·공휴일 휴무",
+      "value": "1577-8136",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c9",
+      "card": 9,
+      "text": "우리동네 서비스제공기관 연결 1577-2514, 평일 운영, 주말·공휴일 휴무",
+      "value": "1577-2514",
+      "source_hint": "https://www.idolbom.go.kr"
+    },
+    {
+      "id": "c10",
+      "card": 0,
+      "text": "정부지원 대상이 아니면 전액 본인부담이므로, 풀가격을 안 내는 건 지원 대상 가구에 한정된다(표지 제목)",
+      "value": "지원 대상 가구",
+      "source_hint": "https://www.idolbom.go.kr/front/biz/srvcGuide"
+    },
+    {
+      "id": "c11",
+      "card": 1,
+      "text": "아이돌봄서비스는 맞벌이 등으로 양육 공백이 생긴 가정에 아이돌봄사가 찾아가는 돌봄 서비스",
+      "value": "양육공백, 찾아가는 돌봄",
+      "source_hint": "https://www.idolbom.go.kr/front/biz/guide"
+    },
+    {
+      "id": "c12",
+      "card": 6,
+      "text": "서비스 제공 기관이 활동 가능한 아이돌봄사를 연계한다",
+      "value": "서비스제공기관 연계",
+      "source_hint": "https://www.idolbom.go.kr/front/srvcUtztnGuide/srvcApply"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-08",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "FIXED",
+        "source_url": "https://www.idolbom.go.kr/front/srvcUtztnGuide/govApply",
+        "source_quote": "정부지원은 ① 대상아동 기준 ② 양육공백 기준 ③ 자녀양육 정부지원 중복금지 기준을 모두 충족해야 하며, ④ 가구소득 기준에 따라 서비스 유형별 정부지원의 범위가 달라집니다.",
+        "checked_at": "2026-11-08",
+        "before": "카드2: 가구 유형에 따라 정부지원을 받을 수 있어요 / tip: 지원 여부는 가구 유형별로 달라요 / 캡션: 정부지원 시간과 지원 여부는 가구 유형별로 달라요",
+        "after": "카드2: 가구소득에 따라 정부지원 범위가 달라요 / tip: 지원은 양육공백·소득 기준을 함께 봐요 / 캡션: 정부지원 여부와 범위는 양육공백·가구소득 기준에 따라 달라요. 지원 대상이 아니면 전액 본인부담이에요."
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "생후 3개월 이상~12세 이하 아동",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "생후 3개월 이상~36개월 이하 영아",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "아이돌봄 웹회원가입 및 정부지원신청자격확인",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "국민행복카드발급 및 예치금충전",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "사전준비 / 결제방법 등록 / 아이돌봄서비스 신청 — 서비스 신청 및 이용",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "정부지원 시간 초과 시 전액 본인부담으로 시간제서비스 이용 가능",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "이용시간 : 09시 ~ 18시 주말·공휴일 휴무",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr",
+        "source_quote": "이용시간 : 09시 ~ 18시 주말·공휴일 휴무",
+        "checked_at": "2026-11-08"
+      },
+      {
+        "id": "c10",
+        "verdict": "FIXED",
+        "source_url": "https://www.idolbom.go.kr/front/biz/srvcGuide",
+        "source_quote": "정부지원 대상자가 아니거나 정부지원 시간 초과 시 전액 본인 부담으로 서비스 이용이 가능합니다.",
+        "checked_at": "2026-11-08",
+        "before": "표지: 3개월부터 지원인데 / 풀가격 내고 있어요 (캡션 첫 줄 동일)",
+        "after": "표지: 지원 대상인데 / 풀가격 내고 있나요? (캡션 첫 줄 동일)"
+      },
+      {
+        "id": "c11",
+        "verdict": "FIXED",
+        "source_url": "https://www.idolbom.go.kr/front/biz/guide",
+        "source_quote": "부모의 맞벌이 등으로 양육 공백이 발생한 가정의 만 12세 이하 아동을 대상으로 아이돌봄사가 찾아가는 돌봄 서비스를 제공하여",
+        "checked_at": "2026-11-08",
+        "before": "부모가 일하거나 아플 때 돌보미가 집으로 와요.",
+        "after": "맞벌이 등으로 돌봄 공백이 생기면 아이돌봄사가 집으로 와요."
+      },
+      {
+        "id": "c12",
+        "verdict": "OK",
+        "source_url": "https://www.idolbom.go.kr/front/srvcUtztnGuide/srvcApply",
+        "source_quote": "서비스 제공 기관에서 활동 가능한 아이돌봄사를 연계합니다.",
+        "checked_at": "2026-11-08"
+      }
+    ],
+    "notes": "표지 '3개월부터 지원인데 풀가격 내고 있어요'는 모든 독자가 지원 대상이라는 인상을 줌. 정부지원은 양육공백 기준+가구소득 기준을 충족해야 하고 비대상은 전액 본인부담(srvcGuide)이라 '지원 대상인데 풀가격 내고 있나요?'로 조건부화(18자, 하이라이트 '풀가격' 유지). 카드2 '아플 때'는 공식 정의(맞벌이 등 양육공백)에서 확인 안 돼 공식 표현으로 교체. 공식 용어는 '아이돌봄사'(카드7 '돌보미'는 의미상 동일해 유지). 카드2 highlight '정부지원'이 제목에 없음(기존 형식 문제, 디자이너 확인 필요). c2·c3 연령은 메인 페이지 기준(srvcGuide는 '만 12세 이하', '만 36개월 이하'로 상한만 표기)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-08",
+    "problems": []
+  }
+}
