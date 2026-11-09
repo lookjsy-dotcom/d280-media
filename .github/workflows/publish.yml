@@ -1,18 +1,18 @@
 name: daily-publish
-# 하루 3번 (KST): 08:30 캐러셀 / 12:30 릴스 / 21:00 스토리 — 그날 날짜 게시물.
+# 하루 3번 (KST): 08:30 매거진 캐러셀 / 12:30 매거진 릴스 / 21:00 웹툰 캐러셀 — 그날 날짜 게시물. (2026-11-10 스토리 → 웹툰)
 # 막는 장치: KILL_SWITCH 파일, 발행 직전 관문 재검사(check_post.py), publish-log.csv 중복 방지.
 on:
   schedule:
     - cron: "30 23 * * *"   # 08:30 KST carousel (전날 23:30 UTC)
     - cron: "30 3 * * *"    # 12:30 KST reel
-    - cron: "0 12 * * *"    # 21:00 KST story
+    - cron: "0 12 * * *"    # 21:00 KST webtoon
   workflow_dispatch:
     inputs:
       date:
         description: "발행할 날짜 (YYYY-MM-DD, 비우면 오늘 KST)"
         required: false
       kind:
-        description: "carousel / reel / story / both"
+        description: "carousel / reel / webtoon / story / both"
         required: false
         default: both
 permissions:
@@ -35,7 +35,7 @@ jobs:
           case "${{ github.event.schedule }}" in
             "30 23 * * *") K=carousel ;;
             "30 3 * * *")  K=reel ;;
-            "0 12 * * *")  K=story ;;
+            "0 12 * * *")  K=webtoon ;;
             *)             K="${{ github.event.inputs.kind }}"; K="${K:-both}" ;;
           esac
           echo "kind=$K"
