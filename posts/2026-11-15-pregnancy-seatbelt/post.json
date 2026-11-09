@@ -1,0 +1,211 @@
+{
+  "id": "2026-11-15-pregnancy-seatbelt",
+  "topic": "임산부 안전벨트, 배 눌려도 매야 해요 - 위치만 바꾸면 돼요",
+  "target_stage": "임신 중기~후기",
+  "hook_type": "통념뒤집기",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "배 나온 임산부라면",
+      "title": "배 눌려도 벨트는\n꼭 매야 해요",
+      "highlight": "꼭 매야",
+      "sub": "이팔공이 알아본 임산부 안전벨트 착용법",
+      "scene": "Ipalgong sits in a car passenger seat holding the seatbelt strap away from her belly with a small worried sweat drop.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits in the car passenger seat with the seatbelt unfastened, hand resting on her rounded belly, looking hesitant.",
+      "caption": "겨울 나들이 가는 차 안",
+      "dialogue": [
+        {
+          "text": "벨트가 배를 누르면 어쩌지?",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at her phone in the car with a surprised round mouth and a small orange surprise mark above her head.",
+      "caption": "불안해서 찾아봤어요",
+      "dialogue": [
+        {
+          "text": "벨트 안 매고 다녔는데...",
+          "pos": "tr"
+        },
+        {
+          "text": "괜찮은 거 맞아?",
+          "pos": "bl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads her phone closely with wide eyes and a sweat drop, sitting in the car.",
+      "caption": "아이사랑 안내를 읽어 보니",
+      "dialogue": [
+        {
+          "text": "어? 해롭지 않다고?",
+          "pos": "tr"
+        }
+      ],
+      "info": "안전벨트는 태아에게 전혀 해롭지 않아서 반드시 착용해야 해요",
+      "highlight": "반드시 착용",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong pulls the shoulder part of the seatbelt across her chest, looking focused, in the car seat.",
+      "caption": "그럼 어떻게 매야 할까?",
+      "dialogue": [
+        {
+          "text": "위쪽 띠부터 해 볼게요",
+          "pos": "tl"
+        }
+      ],
+      "info": "어깨띠는 가슴과 가슴 사이를 지나도록 매요",
+      "highlight": "가슴과 가슴 사이",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong adjusts the lap part of the seatbelt low across her hips under her belly, carefully, with a small smile.",
+      "caption": "아래쪽 띠는 낮게",
+      "dialogue": [
+        {
+          "text": "배 위로 올리면 안 되겠네요",
+          "pos": "tr"
+        }
+      ],
+      "info": "허리띠는 배의 가장 아랫부분과 허벅지 사이에 매요",
+      "highlight": "가장 아랫부분",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong rides in the car on a long road trip, fastened in, gently stretching her ankles, looking comfortable.",
+      "caption": "먼 길을 갈 때는",
+      "dialogue": [
+        {
+          "text": "중간중간 몸도 움직여야겠다",
+          "pos": "tr"
+        }
+      ],
+      "info": "장거리 이동엔 3점식 벨트를 매고 가끔 움직여 하체 혈액순환을 도와요",
+      "highlight": "3점식",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits in the car belted in correctly with a relieved closed-eye smile, soft winter sunlight through the window.",
+      "caption": "제대로 매고 출발",
+      "dialogue": [
+        {
+          "text": "다행이다, 위치만 바꾸면 되네!",
+          "pos": "tl"
+        }
+      ],
+      "info": "몸 상태가 걱정되면 담당 의료진과 상의하세요",
+      "highlight": "담당 의료진",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "벨트는 풀지 말고 위치만 바꿔요",
+      "body": "어깨띠는 가슴 사이로, 허리띠는 배 아래쪽과 허벅지 사이로 매요. 건강 관련 내용은 담당 의료진과 상의하세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "배 눌려도 벨트는 꼭 매야 해요\n\n배가 나오면서 안전벨트를 풀고 타고 있진 않나요? 이팔공이 아이사랑과 정책브리핑 안내로 확인한 내용이에요.\n\n1. 안전벨트는 태아에게 전혀 해롭지 않아서 반드시 착용해야 해요.\n2. 어깨띠는 가슴과 가슴 사이, 허리띠는 배의 가장 아랫부분과 허벅지 사이에 매요.\n3. 장거리 이동에는 3점식 벨트를 매고, 가끔 움직여 하체 혈액순환을 도와요.\n\n몸 상태가 걱정되면 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신후기",
+    "#임신",
+    "#출산준비",
+    "#임산부안전벨트",
+    "#임산부운전",
+    "#임산부주의사항",
+    "#예비맘",
+    "#육아웹툰",
+    "#이팔공",
+    "#임신정보"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 4,
+      "text": "아이사랑 임신 후기 주의사항: 안전벨트는 태아에게 전혀 해롭지 않으므로 반드시 착용해야 한다",
+      "value": "전혀 해롭지 않아서 반드시 착용",
+      "source_hint": "https://www.childcare.go.kr/?menuno=378"
+    },
+    {
+      "id": "c2",
+      "card": 5,
+      "text": "임산부는 어깨띠를 가슴과 가슴 사이를 지나도록 착용한다",
+      "value": "가슴과 가슴 사이",
+      "source_hint": "https://www.korea.kr/multi/visualNewsView.do?newsId=148875678"
+    },
+    {
+      "id": "c3",
+      "card": 6,
+      "text": "허리띠는 배의 가장 아랫부분과 허벅지 사이에 맨다",
+      "value": "배의 가장 아랫부분과 허벅지 사이",
+      "source_hint": "https://www.korea.kr/multi/visualNewsView.do?newsId=148875678"
+    },
+    {
+      "id": "c4",
+      "card": 7,
+      "text": "차량 승차 시 3점 형식(3점식) 안전벨트를 착용하고 가끔 움직여 하체 혈액순환이 잘되게 한다",
+      "value": "3점식",
+      "source_hint": "https://www.childcare.go.kr/?menuno=378"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=378",
+        "source_quote": "안전벨트는 태아에게 전혀 해롭지 않으므로 반드시 착용해야 합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148875678",
+        "source_quote": "임산부는 어깨띠를 가슴과 가슴 사이를 지나도록 착용하고, 허리띠는 배의 가장 아랫부분과 허벅지 사이에 매도록 합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148875678",
+        "source_quote": "임산부는 어깨띠를 가슴과 가슴 사이를 지나도록 착용하고, 허리띠는 배의 가장 아랫부분과 허벅지 사이에 매도록 합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=378",
+        "source_quote": "차량 승차 시 3점 형식의 안전벨트를 착용하고 가끔 움직여서 하체에 혈액순환이 잘되도록 하는 것이 좋습니다.",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "원문 HTML을 curl로 받아 문장 일치 확인. 숨은 주장 추가 없음(카드 8 '담당 의료진과 상의'는 사실 주장 아닌 안내). 건강 표현 점검: '전혀 해롭지 않아서 반드시 착용'은 아이사랑 원문 그대로이며 진단·치료 권유 없음, 개인 상태는 의료진 상의로 넘김. korea.kr 자료는 2020-08-07 게시로 오래됐으나 착용 위치 안내는 제도 개정 대상이 아님."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

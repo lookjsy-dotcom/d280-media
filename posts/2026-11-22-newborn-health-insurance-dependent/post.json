@@ -1,0 +1,292 @@
+{
+  "id": "2026-11-22-newborn-health-insurance-dependent",
+  "template": "f-webtoon",
+  "format": "webtoon",
+  "topic": "출생신고 뒤 아기가 피부양자로 올라갔는지 확인하기 (직장가입자 기준)",
+  "target_stage": "출산 직후~생후 3개월",
+  "hook_type": "마감",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출생신고 마친 직장인 부모라면",
+      "title": "출생신고 뒤 아기\n보험 등록 확인!",
+      "highlight": "등록 확인",
+      "sub": "아기가 피부양자로 올라갔는지, 이팔공과 확인해요",
+      "scene": "Ipalgong stands in a bright living room holding a small baby blanket bundle with one hand, glancing at her phone with a thoughtful look.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table with a relieved smile, a mug of tea in front of her, a folder of papers closed beside it.",
+      "caption": "출생신고를 마치고 한숨 돌린 이팔공",
+      "dialogue": [
+        {
+          "text": "출생신고 끝! 이제 다 한 거지?",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "info": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at her phone with a small sweat drop and raised eyebrows, head tilted in surprise.",
+      "caption": "지인 이야기를 듣고 갸웃",
+      "dialogue": [
+        {
+          "text": "어? 건강보험은 어떻게 됐을까?",
+          "pos": "tr"
+        }
+      ],
+      "info": "직장가입자라면 출생신고 뒤 아기가 피부양자로 올라갔는지 확인해요.",
+      "highlight": "피부양자로 올라갔는지",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on a sofa with a laptop on her knees, reading the screen with a focused expression.",
+      "caption": "공단 안내를 찾아보는 중",
+      "dialogue": [
+        {
+          "text": "아기는 언제부터 피부양자야?",
+          "pos": "tl"
+        }
+      ],
+      "info": "신생아는 출생한 날이 피부양자 자격 취득일이에요.",
+      "highlight": "출생한 날",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds her phone to her ear with a calm and curious expression, baby blanket folded nearby.",
+      "caption": "공단에 직접 확인해 봐요",
+      "dialogue": [
+        {
+          "text": "공단에 물어보면 되겠다!",
+          "pos": "tr"
+        }
+      ],
+      "info": "공단 대표전화(1577-1000)에 문의하거나, 부모가 지사에서 아기 자격득실확인서를 발급받아 확인해요.",
+      "highlight": "1577-1000",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong points at a wall calendar with one finger, a small thoughtful frown on her face.",
+      "caption": "등록이 안 돼 있다면",
+      "dialogue": [
+        {
+          "text": "안 돼 있으면 바로 신고해야겠네.",
+          "pos": "tl"
+        }
+      ],
+      "info": "안 돼 있으면 바로 신고하세요. 신고기간은 자격취득일(출생한 날)로부터 14일 이내예요.",
+      "highlight": "14일 이내",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds a blank form on a clipboard at a tidy desk, reading it carefully with a calm expression.",
+      "caption": "신고 방법을 살펴보는 이팔공",
+      "dialogue": [
+        {
+          "text": "신고는 어떻게 하지?",
+          "pos": "br"
+        }
+      ],
+      "info": "피부양자 자격 신고서를 내요. 지사 방문, 우편, 팩스, 고객센터, 누리집, 모바일 앱으로 가능해요.",
+      "highlight": "피부양자 자격 신고서",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong rests one hand on her cheek, looking at a laptop screen with a small thoughtful smile, tea cup nearby.",
+      "caption": "한 가지만 더 확인해요",
+      "dialogue": [
+        {
+          "text": "우리는 직장가입자니까 맞겠지?",
+          "pos": "tl"
+        }
+      ],
+      "info": "이 내용은 직장가입자 기준이에요. 지역가입자는 공단에 따로 확인하세요.",
+      "highlight": "직장가입자 기준",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong smiles warmly with closed eyes, holding a small baby blanket against her chest by a sunny window, relieved.",
+      "caption": "확인을 마치고 안도",
+      "dialogue": [
+        {
+          "text": "다행이다, 이제 마음이 놓여!",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "info": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "출생신고 뒤, 아기 등록을 확인해요",
+      "body": "직장가입자라면 아기가 피부양자로 올라갔는지 공단에 확인하세요. 안 돼 있으면 바로 신고해요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "출생신고 뒤 아기 보험 등록, 확인하셨나요?\n\n출생신고를 마쳤다고 안심하기 쉬운데요, 직장가입자라면 아기가 건강보험 피부양자로 올라갔는지 확인해 보세요.\n- 신생아는 출생한 날이 피부양자 자격 취득일이에요\n- 공단 대표전화(1577-1000)에 문의하거나, 부모가 지사에서 아기 자격득실확인서를 발급받아 등록 여부를 확인할 수 있어요\n- 등록이 안 돼 있으면 바로 피부양자 자격 신고서를 내세요. 공단 안내 신고기간은 자격취득일(출생한 날)로부터 14일 이내예요 (지역가입자는 별도 확인)\n\n제도는 바뀔 수 있으니 신고 전에 국민건강보험공단 안내를 한 번 더 확인하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#출산준비",
+    "#출산후",
+    "#신생아",
+    "#출생신고",
+    "#건강보험",
+    "#피부양자",
+    "#직장인엄마",
+    "#정부지원",
+    "#예비맘",
+    "#예비아빠",
+    "#육아꿀팁",
+    "#육아웹툰"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 0,
+      "text": "직장가입자는 출생신고 뒤 아기가 피부양자로 등록됐는지 확인하고, 안 돼 있으면 신고한다",
+      "value": "등록 확인",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "직장가입자는 출생신고 뒤 아기가 피부양자로 올라갔는지 확인해야 한다",
+      "value": "피부양자로 올라갔는지",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "신생아의 피부양자 자격 취득일은 출생한 날",
+      "value": "출생한 날",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "공단 대표전화(1577-1000)로 문의할 수 있고, 만 14세 미만 자녀의 자격득실확인서는 법정대리인(부모)이 지사를 방문해 발급받아 피부양자 자격 내역을 확인할 수 있다",
+      "value": "1577-1000",
+      "source_hint": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945783"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "피부양자 자격 취득 신고기간은 자격취득일(신생아는 출생한 날)로부터 14일 이내 (등록이 안 돼 있어 신고하는 경우)",
+      "value": "14일 이내",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c6",
+      "card": 6,
+      "text": "피부양자 자격(취득·상실) 신고서를 제출하며, 지사 방문, 우편, 팩스, 고객센터, 공단 누리집, 모바일 앱으로 신고 가능",
+      "value": "피부양자 자격 신고서",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c7",
+      "card": 7,
+      "text": "이 내용은 직장가입자 기준이며 지역가입자는 별도 확인 필요",
+      "value": "직장가입자 기준",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c8",
+      "card": 9,
+      "text": "직장가입자는 아기의 피부양자 등록을 공단에 확인하고, 안 돼 있으면 바로 신고한다",
+      "value": "바로 신고",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/lm/lmxsrv/law/joHistoryContent.do?SEQ=29&SEQ_CONTENTS=20780052&DATE_START=20251231&DATE_END=20250423",
+        "source_quote": "직장가입자가 피부양자 자격 취득 또는 상실 신고를 하거나 피부양자가 제3항제8호에 따른 자격 상실 신고를 하려면 별지 제1호서식의 피부양자 자격(취득 · 상실) 신고서에 다음 각 호의 서류(자격 취득 신고의 경우만 해당한다)를 첨부하여 공단에 제출하여야 한다. 다만, 공단이 법 제96조에 따라 국가 등으로부터 제공받은 자료로 피부양자 자격 취득 또는 상실 대상자를 확인할 수 있는 경우에는 신고서를 제출하지 아니한다.",
+        "checked_at": "2026-11-10",
+        "note": "직장가입자 신고가 원칙이나 공단이 국가 자료로 확인하면 신고서 제출 없음 -> '등록됐는지 확인하고 안 돼 있으면 신고' 표현은 두 경우를 모두 포괄. 자동/비자동 단정 없음."
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/lm/lmxsrv/law/joHistoryContent.do?SEQ=29&SEQ_CONTENTS=20780052&DATE_START=20251231&DATE_END=20250423",
+        "source_quote": "직장가입자가 피부양자 자격 취득 또는 상실 신고를 하거나 피부양자가 제3항제8호에 따른 자격 상실 신고를 하려면 별지 제1호서식의 피부양자 자격(취득 · 상실) 신고서에 다음 각 호의 서류(자격 취득 신고의 경우만 해당한다)를 첨부하여 공단에 제출하여야 한다. 다만, 공단이 법 제96조에 따라 국가 등으로부터 제공받은 자료로 피부양자 자격 취득 또는 상실 대상자를 확인할 수 있는 경우에는 신고서를 제출하지 아니한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do",
+        "source_quote": "신생아의 경우에는 출생한 날",
+        "checked_at": "2026-11-10",
+        "note": "시행규칙 제2조②1호 '신생아의 경우: 출생한 날'과 일치"
+      },
+      {
+        "id": "c4",
+        "verdict": "FIXED",
+        "before": "공단 모바일 앱이나 고객센터로 아기가 등록됐는지 확인할 수 있어요.",
+        "after": "공단 대표전화(1577-1000)에 문의하거나, 부모가 지사에서 아기 자격득실확인서를 발급받아 확인해요.",
+        "source_url": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945783",
+        "source_quote": "자격득실확인서란, 가입자(피부양자) 또는 가입자(피부양자)였던 자의 건강보험 자격득실내역을 확인하는 증명서입니다. / 만 14세 미만: 법정대리인(친권자)이 지사 방문 시 발급 가능하며, 법정대리인 신분증, 미성년자의 기본증명서(상세 또는 특정)를 통해 법정대리인 확인 후 발급 가능합니다. / 대표전화 1577-1000 (유료, 평일 09시~18시)",
+        "checked_at": "2026-11-10",
+        "note": "앱·고객센터로 아기 등록 여부를 확인할 수 있다는 공식 문장 없음. 오히려 자격득실확인서는 '본인' 발급 서비스이고 만 14세 미만은 법정대리인 지사 방문, 고객센터 상담사 발급은 만 65세 이상·등록 장애인만 가능. 근거 있는 경로(지사 발급)와 대표전화 문의 권유로 교체."
+      },
+      {
+        "id": "c5",
+        "verdict": "FIXED",
+        "before": "등록이 안 돼 있으면 신고하세요. 자격취득일로부터 14일 이내가 기본 기한이에요.",
+        "after": "안 돼 있으면 바로 신고하세요. 신고기간은 자격취득일(출생한 날)로부터 14일 이내예요.",
+        "source_url": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do",
+        "source_quote": "자격취득일로부터 14일 이내 / 신생아의 경우에는 출생한 날",
+        "checked_at": "2026-11-10",
+        "note": "14일 값은 정확(공단 정책센터 '신고기간'). 신생아는 자격취득일=출생한 날이므로 기산점을 문구에 명시. 시행규칙 제2조②1호상 신생아 취득일은 신고 시점과 무관하게 출생한 날(90일 소급 규정은 2·3호, 신생아 아님) -> 14일이 지났어도 바로 신고하도록 '바로'로 정리. 시행규칙 원문에는 14일 문구 없음(정책센터 안내 근거)."
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do",
+        "source_quote": "지사내방, FAX, 우편, 고객센터, 온라인(홈페이지, 모바일앱(The건강보험), 4대사회보험정보연계센터)을 통해 신고할 수 있습니다.",
+        "checked_at": "2026-11-10",
+        "note": "신고서 명칭은 시행규칙 '피부양자 자격(취득 · 상실) 신고서'. 민원 페이지(articleNo=10945798)도 '홈페이지, 건강보험25시(모바일앱), 지사방문, FAX(팩스), 우편, 유선(1577-1000)'으로 일치."
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945798",
+        "source_quote": "피부양자 ‘취득’ 신고 가능대상: 직장가입자, 임의계속가입자",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c8",
+        "verdict": "FIXED",
+        "before": "직장가입자라면 공단 앱이나 고객센터로 아기가 피부양자로 올라갔는지 확인하세요. 안 돼 있으면 기한 안에 신고해요.",
+        "after": "직장가입자라면 아기가 피부양자로 올라갔는지 공단에 확인하세요. 안 돼 있으면 바로 신고해요.",
+        "source_url": "https://www.nhis.or.kr/lm/lmxsrv/law/joHistoryContent.do?SEQ=29&SEQ_CONTENTS=20780052&DATE_START=20251231&DATE_END=20250423",
+        "source_quote": "직장가입자가 피부양자 자격 취득 또는 상실 신고를 하거나 피부양자가 제3항제8호에 따른 자격 상실 신고를 하려면 별지 제1호서식의 피부양자 자격(취득 · 상실) 신고서에 다음 각 호의 서류(자격 취득 신고의 경우만 해당한다)를 첨부하여 공단에 제출하여야 한다. 다만, 공단이 법 제96조에 따라 국가 등으로부터 제공받은 자료로 피부양자 자격 취득 또는 상실 대상자를 확인할 수 있는 경우에는 신고서를 제출하지 아니한다.",
+        "checked_at": "2026-11-10",
+        "note": "c4 수정에 맞춰 '앱이나 고객센터' 제거, c5에 맞춰 '바로 신고'."
+      }
+    ],
+    "notes": "재작성 원고 재검. 이전 HOLD 사유(신고 의무 단정 vs 직권취득 가능성)는 '등록 확인' 훅으로 해소: 카드·캡션에 '자동으로 된다/안 된다' 단정 없음 확인. c4는 앱·고객센터 확인 근거가 없어 공식 근거 있는 경로로 교체(FIXED). 앱 명칭은 공단 페이지마다 'The건강보험'/'건강보험25시'로 혼재해 카드는 '모바일 앱'으로만 표기."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

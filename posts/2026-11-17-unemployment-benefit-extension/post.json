@@ -1,0 +1,259 @@
+{
+  "id": "2026-11-17-unemployment-benefit-extension",
+  "topic": "구직급여 수급기간 연기 - 임신·출산으로 취업이 어려우면 최대 4년까지, 수급기간 12개월 안에 신고",
+  "target_stage": "임신 중기~출산 후 (구직급여 수급자격이 인정된 퇴사자)",
+  "hook_type": "마감",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "수급자격이 인정된 퇴사자라면",
+      "title": "수급기간 연기\n12개월 안에 신고",
+      "highlight": "12개월 안에",
+      "sub": "임신·출산으로 취업이 어려울 때, 이팔공이 알아봤어요",
+      "scene": "Ipalgong sits at a desk at home with a laptop and a folder, hand on her cheek, a small worried sweat drop, round surprised mouth.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa at home with her phone, looking a little anxious, one hand resting on her belly.",
+      "caption": "이미 회사를 그만두고 쉬는 중에",
+      "dialogue": [
+        {
+          "text": "몸이 무거워서 구직은 어려운데...",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong stares at her phone with a small orange surprise mark above her head and a single sweat drop.",
+      "caption": "실업급여 기간이 걱정됐어요",
+      "dialogue": [
+        {
+          "text": "어? 기간이 정해져 있다고?",
+          "pos": "tr"
+        },
+        {
+          "text": "나 몰랐는데...",
+          "pos": "bl"
+        }
+      ],
+      "info": "구직급여는 이직 다음 날부터 12개월 안에 받아야 해요",
+      "highlight": "12개월",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads her phone closely with her head tilted to one side, thoughtful.",
+      "caption": "알아보니 미룰 수 있는 제도가 있었어요",
+      "dialogue": [
+        {
+          "text": "연기가 된다고?",
+          "pos": "tr"
+        }
+      ],
+      "info": "임신·출산 등으로 취업할 수 없으면 수급기간을 미룰 수 있어요",
+      "highlight": "미룰 수 있어요",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds up her phone with a relieved small smile, sitting at the kitchen table.",
+      "caption": "얼마나 미룰 수 있는지 보니",
+      "dialogue": [
+        {
+          "text": "그럼 얼마나 미뤄져?",
+          "pos": "tl"
+        }
+      ],
+      "info": "취업할 수 없던 기간만큼 더해지고, 합쳐서 최대 4년까지예요",
+      "highlight": "최대 4년",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at a wall calendar with a small worried sweat drop, hand on her cheek.",
+      "caption": "제일 중요한 건 신고 시점",
+      "dialogue": [
+        {
+          "text": "언제까지 신고해야 해?",
+          "pos": "tr"
+        },
+        {
+          "text": "놓치면 안 되겠다...",
+          "pos": "bl"
+        }
+      ],
+      "info": "원칙적으로 수급기간 안에 연기사유 신고서를 내야 해요",
+      "highlight": "수급기간 안에",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong walks toward a small public office building entrance with a folder in her hands, smiling gently.",
+      "caption": "그래서 직접 챙겼어요",
+      "dialogue": [
+        {
+          "text": "고용센터에 가 보자!",
+          "pos": "tl"
+        }
+      ],
+      "info": "관할 고용센터에 제출해요. 대리인을 통해서도 가능해요",
+      "highlight": "고용센터",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa at home hugging a cushion with a closed-eye relieved smile, soft light from the window.",
+      "caption": "신고를 마치고 집에서",
+      "dialogue": [
+        {
+          "text": "다행이다, 미리 알아봐서!",
+          "pos": "tr"
+        }
+      ],
+      "info": "인정되면 수급기간 연기통지서를 받아요",
+      "highlight": "연기통지서",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "연기는 자격이 인정된 분만 해당돼요",
+      "body": "임신해서 퇴사했다고 바로 수급자격이 생기는 건 아니에요. 퇴사를 권하는 내용도 아니고요. 이직 사유와 신고 방법은 관할 고용센터에 먼저 확인하세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "수급기간 연기, 12개월 안에 신고하세요\n\n이미 퇴사했고 구직급여 수급자격이 인정된 분이라면 꼭 확인해 보세요. 이팔공이 알아본 수급기간 연기 핵심만 정리했어요.\n\n1. 구직급여 수급기간은 이직 다음 날부터 12개월이에요.\n2. 임신·출산 등으로 취업할 수 없으면 그 기간만큼 연기되고, 합쳐서 최대 4년까지예요.\n3. 수급기간 안에 수급기간 연기사유 신고서를 관할 고용센터에 내요. 대리인도 가능하고, 인정되면 연기통지서를 받아요.\n\n임신해서 퇴사했다고 바로 수급자격이 생기는 건 아니에요. 이 내용은 퇴사를 권하는 것이 아니라, 자격이 인정된 분의 수급기간 연기만 다뤄요. 이직 사유 등은 관할 고용센터에 먼저 확인하세요. 건강 관련 내용은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#실업급여",
+    "#구직급여",
+    "#수급기간연기",
+    "#고용센터",
+    "#예비맘",
+    "#임신정보",
+    "#육아정보",
+    "#육아휴직"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "구직급여 수급기간은 이직일의 다음 날부터 계산하여 12개월",
+      "value": "12개월",
+      "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "임신·출산 등으로 취업할 수 없는 경우 수급기간 연기 가능",
+      "value": "임신·출산",
+      "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c3",
+      "card": 4,
+      "text": "취업할 수 없었던 기간을 12개월에 더하며 합산 기간은 최대 4년",
+      "value": "최대 4년",
+      "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c4",
+      "card": 5,
+      "text": "수급기간 연기사유 신고서는 원칙적으로 수급기간 안에 제출",
+      "value": "수급기간 안에",
+      "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c5",
+      "card": 6,
+      "text": "제출처는 신청지 관할 고용센터이며 본인 또는 대리인이 신청 가능",
+      "value": "고용센터",
+      "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c6",
+      "card": 7,
+      "text": "연기가 인정되면 고용센터장으로부터 수급기간 연기통지서를 받음",
+      "value": "연기통지서",
+      "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c7",
+      "card": 8,
+      "text": "임신해서 퇴사했다고 곧바로 수급자격이 생기는 것은 아니며, 정당한 이직사유 요건은 별도(고용보험법 시행규칙 별표 2). 이직 사유는 고용센터에서 확인",
+      "value": "수급자격 별도 요건",
+      "source_hint": "https://www.law.go.kr/flDownload.do?gubun=&flSeq=156649317&bylClsCd=110201"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1",
+        "source_quote": "구직급여의 수급자격과 관련된 이직(離職)일의 다음 날부터 계산하기 시작해서 12개월의 기간을 말합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1",
+        "source_quote": "임신·출산·육아, 질병이나 부상 등의 사유로 수급기간 중 일정한 사유로 취업할 수 없는 경우에는 최대 4년을 한도로 수급기간을 연기할 수 있습니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1",
+        "source_quote": "12개월의 기간에 그 취업할 수 없는 기간을 가산한 기간(4년을 넘을 때에는 4년)에 소정급여일수를 한도로 하여",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1",
+        "source_quote": "취업할 수 없는 사실을 신고하려는 사람은 직접 또는 대리인을 통하여 수급기간 내에 ... 다만, 천재지변, 병역법에 따른 병역의무 이행, 그 밖의 부득이한 사유가 있는 경우에는 그 사유가 없어진 날부터 30일 이내에 제출해야 합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1",
+        "source_quote": "취업할 수 없는 사실을 신고하려는 사람은 직접 또는 대리인을 통하여 수급기간 내에 (신청지 관할 고용센터에 수급기간 연기사유 신고서 제출)",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=722&ccfNo=2&cciNo=3&cnpClsNo=1",
+        "source_quote": "연기 신청이 수급기간의 연기사유로 인정되면 신청인은 고용센터의 장으로부터 수급기간 연기통지서를 받고, 필요한 사항이 적힌 수급자격증을 돌려받습니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/flDownload.do?gubun=&flSeq=156649317&bylClsCd=110201",
+        "source_quote": "10. 임신, 출산, 8세 이하 또는 초등학교 2학년 이하의 자녀(입양한 자녀를 포함한다)의 육아, 「병역법」에 따른 의무복무 등으로 업무를 계속적으로 수행하기 어려운 경우로서 사업주가 휴가나 휴직을 허용하지 않아 이직한 경우",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "c1~c6: 찾기쉬운 생활법령정보 '구직급여 수급일수'(고용보험법 제48조, 시행령 제71조, 시행규칙 제93조) 원문 대조 일치. c4 예외(부득이한 사유 시 사유 소멸일부터 30일 이내)는 카드가 '원칙적으로'로 표기해 OK. c5 원문은 '신청지 관할 고용센터'. c7: 카피라이터 미확인 메모 → law.go.kr 고용보험법 시행규칙 [별표 2](개정 2024.7.1.) PDF 원문 직접 확인. 임신·출산은 '사업주가 휴가나 휴직을 허용하지 않아 이직한 경우'에 한해 정당한 이직사유(제10호)이므로 '임신 퇴사가 곧 수급자격은 아님' 문구는 정확. 생활법령 수급대상 페이지(cciNo=1)도 '자기 사정으로 이직한 경우에는 수급자격이 제한됩니다'로 같은 취지. 기존 source_hint의 work24 SI00000347 페이지는 자영업자 폐업 사유 페이지라 c7 근거로 부적합해 교체. 퇴사 권유 점검: 카드2는 '이미 회사를 그만두고' 전제, 표지 kicker '수급자격이 인정된 퇴사자라면', 클로징·캡션에 '퇴사를 권하는 내용이 아니'라고 명시 — 권유로 읽히는 문구 없음. 숨은 주장: 표지 '12개월 안에 신고'는 c1(수급기간 12개월)+c4(수급기간 내 신고)의 결합으로 커버됨. FIXED 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

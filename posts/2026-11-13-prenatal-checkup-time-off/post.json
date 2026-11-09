@@ -1,0 +1,222 @@
+{
+  "id": "2026-11-13-prenatal-checkup-time-off",
+  "template": "f-webtoon",
+  "format": "webtoon",
+  "topic": "산전 검진 갈 때마다 연차 쓰는 중? 태아검진 시간은 회사에 청구할 수 있어요",
+  "target_stage": "임신 중기~후기(직장인)",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "직장인 임산부라면",
+      "title": "검진 갈 때마다\n연차 쓰고 있나요",
+      "highlight": "연차 쓰고 있나요",
+      "sub": "태아검진 시간, 회사에 청구할 수 있어요",
+      "scene": "Ipalgong sits at an office desk with a desk calendar and a laptop, one hand resting on her belly, looking thoughtful.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at her office desk looking at a wall calendar, holding a pen and sighing lightly.",
+      "caption": "다음 검진 날짜를 확인하는 이팔공",
+      "dialogue": [
+        {
+          "text": "이번 검진도 반차를 써야겠다.",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong tilts her head at her phone in a quiet office corner, one small sweat drop near her temple.",
+      "caption": "검진 주기가 짧아진다는 걸 알게 됐어요",
+      "dialogue": [
+        {
+          "text": "어? 후반엔 더 자주 가야 해?",
+          "pos": "tr"
+        }
+      ],
+      "info": "임신 28주까지는 4주마다, 29~36주는 2주마다 검진을 받아요.",
+      "highlight": "2주마다",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong rests her chin on her hand at her desk, looking at a calendar with several days circled, worried but calm.",
+      "caption": "그때마다 연차를 쓰면…",
+      "dialogue": [
+        {
+          "text": "연차가 금방 바닥나겠는데…",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads a document on her laptop at a tidy desk, eyes widening in a small realization.",
+      "caption": "알아보니 방법이 있었어요",
+      "dialogue": [
+        {
+          "text": "검진 시간을 청구할 수 있대!",
+          "pos": "tr"
+        }
+      ],
+      "info": "임신한 근로자가 검진에 필요한 시간을 청구하면 회사는 허용해야 해요.",
+      "highlight": "청구하면",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong smiles with surprise while looking at her laptop, one hand on her cheek.",
+      "caption": "월급은 어떻게 될까?",
+      "dialogue": [
+        {
+          "text": "그럼 월급은 깎이는 거 아냐?",
+          "pos": "tl"
+        }
+      ],
+      "info": "그 시간을 이유로 임금을 깎을 수는 없어요.",
+      "highlight": "임금을 깎을 수는 없어요",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes notes on a notepad at her desk, nodding thoughtfully.",
+      "caption": "적용 범위도 확인해 봤어요",
+      "dialogue": [
+        {
+          "text": "우리 회사는 해당되는지 볼게.",
+          "pos": "br"
+        }
+      ],
+      "info": "상시 5인 이상 사업장이 대상이고, 위반 시 벌칙 조항은 따로 없어요.",
+      "highlight": "5인 이상",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong gently rests a hand on her belly and smiles with relief at her office desk, warm afternoon light.",
+      "caption": "마음이 한결 가벼워졌어요",
+      "dialogue": [
+        {
+          "text": "다행이다, 미리 말씀드려 봐야지!",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "검진 일정이 잡히면 미리 청구해요",
+      "body": "회사에 검진에 필요한 시간을 청구해 보세요. 근로시간 단축(임신 12주 이내, 32주 이후 하루 2시간)은 별개 제도예요. 검진 일정은 담당 의료진과 상의하세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "검진 갈 때마다 연차 쓰고 있나요\n\n임신 중 정기 검진, 반차나 연차로 때우고 있다면 이것부터 확인해 보세요.\n\n1) 임신 28주까지는 4주마다, 29~36주는 2주마다 검진을 받아요.\n2) 임신한 근로자가 검진 시간을 청구하면 회사는 허용해야 해요.\n3) 그 시간을 이유로 임금을 깎을 수 없어요. 상시 5인 이상 사업장이 대상이에요.\n\n근로시간 단축 제도와는 별개의 조항이에요. 검진 일정은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신후기",
+    "#산전검진",
+    "#태아검진",
+    "#임산부직장인",
+    "#직장인임산부",
+    "#출산준비",
+    "#정부지원",
+    "#임신꿀팁",
+    "#임산부권리",
+    "#육아정보"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "임신 28주까지는 4주마다 1회, 29~36주는 2주마다 1회 검진 (모자보건법 시행규칙 별표 1)",
+      "value": "28주 4주 29~36주 2주",
+      "source_hint": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=46432965"
+    },
+    {
+      "id": "c2",
+      "card": 4,
+      "text": "임신한 여성근로자가 정기건강진단에 필요한 시간을 청구하면 사용자는 허용해야 한다 (근로기준법 제74조의2)",
+      "value": "검진 시간 청구 시 허용",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2604&ccfNo=1&cciNo=3&cnpClsNo=2"
+    },
+    {
+      "id": "c3",
+      "card": 5,
+      "text": "검진 시간을 이유로 임금을 삭감할 수 없다",
+      "value": "임금 삭감 금지",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2604&ccfNo=1&cciNo=3&cnpClsNo=2"
+    },
+    {
+      "id": "c4",
+      "card": 6,
+      "text": "상시 5인 이상 사업장에 적용되며(근로기준법 제11조, 시행령 별표 1에 제74조의2 미포함) 위반 시 벌칙 조항은 따로 없다(제107~116조에 제74조의2 미포함)",
+      "value": "5인 이상",
+      "source_hint": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=46432965"
+    },
+    {
+      "id": "c5",
+      "card": 8,
+      "text": "근로시간 단축은 임신 12주 이내 또는 32주 이후 여성 근로자가 신청하면 하루 2시간 허용 (검진 시간 청구와 별개 제도)",
+      "value": "12주 32주 2시간",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2604&ccfNo=1&cciNo=3&cnpClsNo=2"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=162076023&bylClsCd=110201",
+        "source_quote": "가. 임신 28주까지: 4주마다 1회 나. 임신 29주에서 36주까지: 2주마다 1회 다. 임신 37주 이후: 1주마다 1회",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제74조의2(태아검진 시간의 허용 등) ① 사용자는 임신한 여성근로자가 「모자보건법」 제10조에 따른 임산부 정기건강진단을 받는데 필요한 시간을 청구하는 경우 이를 허용하여 주어야 한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "② 사용자는 제1항에 따른 건강진단 시간을 이유로 그 근로자의 임금을 삭감하여서는 아니 된다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "FIXED",
+        "before": "카드6 info: \"고용노동부 안내 기준 5인 이상 사업장이 대상이고, 위반 벌칙은 따로 없어요.\" / 캡션: \"고용노동부 안내 기준 5인 이상 사업장이 대상이에요.\" / claim: \"고용노동부 안내 기준 5인 이상 사업장에 적용되며 위반 시 벌칙 조항은 따로 없다\"",
+        "after": "카드6 info: \"상시 5인 이상 사업장이 대상이고, 위반 시 벌칙 조항은 따로 없어요.\" / 캡션: \"상시 5인 이상 사업장이 대상이에요.\" (값은 맞음. 확인 못 한 '고용노동부 안내' 출처 표기를 빼고 법령 근거로 교체)",
+        "source_url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=150839753&bylClsCd=110201",
+        "source_quote": "근로기준법 제11조 ① 이 법은 상시 5명 이상의 근로자를 사용하는 모든 사업 또는 사업장에 적용한다. / 시행령 [별표 1] 상시 4명 이하 적용 규정 제5장: 제64조, 제65조제1항·제3항(임산부와 18세 미만인 자로 한정한다), 제66조부터 제69조까지의 규정, 제70조제2항·제3항, 제71조, 제72조, 제74조 (제74조의2 없음) / 벌칙 제107조~제116조 조문 어디에도 제74조의2 위반이 열거되지 않음",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "⑦ 사용자는 임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자(고용노동부령으로 정하는 유산, 조산 등 위험이 있는 여성 근로자의 경우 임신 전 기간)가 1일 2시간의 근로시간 단축을 신청하는 경우 이를 허용하여야 한다.",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "원문 직접 확인: 근로기준법 [시행 2026.10.8., 법률 제21533호] law.go.kr 본문, 근로기준법 시행령 [시행 2025.10.23.] 별표 1 PDF, 모자보건법 시행규칙 [시행 2026.3.4.] 별표 1 PDF(개정 2015.7.29. 이후 변동 없음). c4는 moel.go.kr 안내 페이지를 찾지 못해 '고용노동부 안내 기준' 표기를 삭제하고 법령 조문으로 근거를 대체. 벌칙 없음은 제107~116조 열거 조문에 제74조의2가 없음을 직접 확인(근로기준법 한정). c5 근로시간 단축(제74조 제7항)은 4인 이하 사업장에도 적용되는 조항이라 5인 기준과 섞지 않도록 유의. 카드3은 37주 이후 1주마다 1회를 생략했으나 틀린 내용은 아님."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

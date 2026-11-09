@@ -1,0 +1,254 @@
+{
+  "id": "2026-11-17-pension-birth-credit",
+  "topic": "출산크레딧: 아기 낳으면 국민연금 가입기간이 늘어나요",
+  "target_stage": "임신 중~출산 후",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-10",
+  "theme": "butter",
+  "photo_style": "hands",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "2026년 이후 출산이라면",
+      "title": "올해 첫째 낳았다면\n연금 12개월 추가",
+      "highlight": "12개월",
+      "sub": "출산크레딧, 모르면 놓치기 쉬운 노후 혜택",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "출산크레딧이 뭐예요?",
+      "highlight": "가입기간을 더해 주는",
+      "body": "자녀가 있는 국민연금 가입자의 가입기간을 더해 주는 제도예요. 노령연금을 받을 때 늘어난 기간이 반영돼요.",
+      "tip": "지금 낼 돈이 아니라 나중에 받을 때의 이야기예요."
+    },
+    {
+      "type": "list",
+      "title": "2026년 이후 첫째를 낳았다면",
+      "items": [
+        "첫째 1명: 12개월",
+        "둘째가 2026년생: 2명 24개월, 3명 42개월",
+        "둘째가 2027년 이후: 2명 27개월, 3명 45개월"
+      ],
+      "tip": "첫째부터 인정되고 상한이 없어요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "셋째부터는 조금 달라요",
+      "highlight": "18개월",
+      "body": "자녀가 3명 이상이면 2자녀를 넘는 아이 1명마다 18개월이 더해져요. 그래서 3명은 42개월, 둘째를 2027년 이후 낳았다면 45개월이에요.",
+      "tip": "2026년 이후 첫째를 낳은 경우 기준이에요."
+    },
+    {
+      "type": "list",
+      "title": "2025년까지 낳은 자녀 기준",
+      "items": [
+        "2008년 이후 둘째부터 인정",
+        "자녀 2명: 12개월",
+        "자녀 3명: 30개월",
+        "자녀 4명: 48개월",
+        "자녀 5명 이상: 50개월(상한)"
+      ],
+      "tip": "이전 기준에는 50개월 상한이 있었어요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "첫째가 2025년 이전이라면",
+      "highlight": "상한 적용 안 함",
+      "body": "2008년부터 2025년 사이에 첫째를 낳았다면 이야기가 달라요. 2026년 이후 낳은 자녀에게는 50개월 상한을 적용하지 않아요.",
+      "tip": "첫째가 2025년 이전이고 둘째를 2027년 이후 낳으면 자녀 2명 기준 15개월이에요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "부모가 둘 다 가입자라면",
+      "highlight": "1개월 이내",
+      "body": "부부가 합의하면 한 사람의 가입기간에 모두 넣을 수 있어요. 합의서는 노령연금을 청구한 날부터 1개월 이내에 내야 해요.",
+      "tip": "합의하지 않으면 부와 모에게 똑같이 나눠 들어가요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "지금 신청할 건 없어요",
+      "highlight": "연금을 청구할 때",
+      "body": "지금 미리 할 일은 없어요. 나중에 노령연금을 청구할 때 함께 신청하면 추가 기간이 반영돼요.",
+      "tip": "청구는 공단 지사, 우편, 팩스, 인터넷으로 할 수 있어요."
+    },
+    {
+      "type": "closing",
+      "title": "첫째부터 챙겨 주는 제도예요",
+      "body": "출산크레딧은 노후에 반영되는 혜택이에요. 정확한 적용은 국민연금공단에 확인하세요."
+    }
+  ],
+  "caption": "올해 첫째 낳았다면 연금 12개월 추가\n\n핵심만 3줄로 정리했어요.\n1) 2026년 이후 첫째를 낳았다면 첫째부터 12개월이 인정돼요. 자녀 2명은 24개월, 둘째를 2027년 이후 낳으면 27개월이에요.\n2) 2025년까지의 기준은 2008년 이후 둘째부터 인정되고 50개월 상한이 있었어요.\n3) 부모가 둘 다 가입자면 합의해서 한쪽에 넣을 수 있고, 합의서는 노령연금 청구일부터 1개월 이내에 내요.\n\n지금 미리 할 일은 없고, 나중에 노령연금을 청구할 때 함께 신청하면 반영돼요. 개인별 적용은 국민연금공단(1355)에 확인하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#출산크레딧",
+    "#국민연금",
+    "#임신중기",
+    "#출산후",
+    "#육아정보",
+    "#예비맘",
+    "#신생아",
+    "#육아꿀팁"
+  ],
+  "cover_image_prompt": "Two hands gently dropping a coin into a ceramic piggy bank on a wooden table, with a pair of round reading glasses and a cup of tea beside it",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 1,
+      "text": "2026.1.1 이후 첫째 자녀를 얻은 사람부터 개정 출산크레딧 적용(첫째 포함)",
+      "value": "2026년",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c2",
+      "card": 1,
+      "text": "출산크레딧 첫째 자녀 추가 인정 12개월(2026.1.1 이후 출생)",
+      "value": "12개월",
+      "source_hint": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0048M0.do?menuId=MN24001117&tab=tab8"
+    },
+    {
+      "id": "c3",
+      "card": 2,
+      "text": "자녀가 있는 국민연금 가입자의 가입기간을 추가 인정, 노령연금 수급 시 반영",
+      "value": "가입기간 추가 인정",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c4",
+      "card": 3,
+      "text": "2026.1.1 이후 첫째를 얻은 경우: 1명 12개월. 둘째가 2026년생이면 2명 24개월·3명 42개월, 둘째를 2027.1.1 이후 얻으면 2명 27개월(12+15)·3명 45개월(27+18). 상한 없음",
+      "value": "12개월, 24개월, 42개월, 27개월, 45개월, 2027년",
+      "source_hint": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0048M0.do?menuId=MN24001117&tab=tab8"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "3명 이상부터 2자녀를 초과하는 자녀 1명마다 18개월 추가",
+      "value": "18개월",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "2008.1.1 이후 둘째 자녀 이상 기준: 2명 12개월, 3명 30개월, 4명 48개월, 5명 이상 50개월 상한",
+      "value": "30개월, 48개월, 50개월, 2008년",
+      "source_hint": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0048M0.do?menuId=MN24001117&tab=tab8"
+    },
+    {
+      "id": "c7",
+      "card": 6,
+      "text": "2008~2025년 사이 첫째를 얻은 경우 2026.1.1 이후 추가로 얻은 자녀에게는 50개월 상한 미적용. 2025.12.31 이전 첫째, 2027.1.1 이후 둘째를 얻으면 자녀 2명 15개월",
+      "value": "2025년, 15개월, 2027년",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1"
+    },
+    {
+      "id": "c8",
+      "card": 7,
+      "text": "부모가 모두 가입자이면 합의해 한쪽 가입기간에 산입, 합의서는 노령연금 지급을 청구한 날부터 1개월 이내 제출, 미합의 시 균분",
+      "value": "1개월",
+      "source_hint": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0048M0.do?menuId=MN24001117&tab=tab8"
+    },
+    {
+      "id": "c9",
+      "card": 8,
+      "text": "노령연금 수급권 취득 시(청구할 때) 신청하면 추가 가입기간 포함해 산정, 청구는 공단 지사·우편·팩스·인터넷",
+      "value": "연금 청구 시 반영",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "FIXED",
+        "before": "2026년 이후 출생·입양 자녀부터 적용(카드3 제목 '2026년 이후 출생 자녀')",
+        "after": "2026.1.1 이후 '첫째 자녀를 얻은 사람'부터 적용(카드3 제목 '2026년 이후 첫째를 낳았다면')",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291347",
+        "source_quote": "제3조(출산에 대한 가입기간 추가 산입에 관한 적용례 등) ① 제19조제1항의 개정규정은 이 법 시행 이후 첫째 자녀를 얻은 사람부터 적용한다. (부칙 <법률 제20903호, 2025. 4. 2.>, 제1조 이 법은 2026년 1월 1일부터 시행한다.)",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1",
+        "source_quote": "2. 2026. 1. 1. 이후 첫째 자녀를 얻은 경우(추가 가입기간 상한 없음) ... ▪ 12개월",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1",
+        "source_quote": "자녀가 있는 국민연금 가입자 또는 가입자였던 사람이 노령연금수급권을 취득한 경우(...)에는 다음과 같은 기간이 국민연금 가입기간에 추가로 산입됩니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "FIXED",
+        "before": "2026년 이후 출생 자녀: 자녀 2명 24개월, 자녀 3명 42개월(단정)",
+        "after": "둘째가 2026년생: 2명 24개월, 3명 42개월 / 둘째가 2027년 이후: 2명 27개월, 3명 45개월",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291347",
+        "source_quote": "2. 자녀가 2명인 경우: 첫째 자녀에 대하여 인정되는 12개월에 15개월을 더한 개월 수 3. 자녀가 3명 이상인 경우 : 첫째 및 둘째 자녀에 대하여 인정되는 27개월에 2자녀를 초과하는 자녀 1명마다 18개월을 더한 개월 수 [시행일: 2027. 1. 1.] 제19조제1항 / 부칙<법률 제22096호> 제3조: 제19조제1항의 개정규정은 2027년 1월 1일 이후 둘째 자녀를 얻은 사람부터 적용한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1",
+        "source_quote": "▪ 24개월 + 2자녀를 초과하는 자녀 1명마다 18개월 합산 / 자녀가 3명인 경우: 42개월",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "FIXED",
+        "before": "카드5 제목 '2026년 이전 출생 자녀 기준'",
+        "after": "'2025년까지 낳은 자녀 기준'(2026년 포함 오해 방지). 수치 12·30·48·50개월은 공식과 일치",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1",
+        "source_quote": "1. 2008. 1. 1. 이후 둘째 자녀 이상 얻은 경우(추가 가입기간 상한 50개월 적용) ... 자녀가 3명인 경우: 30개월 자녀가 4명인 경우: 48개월 자녀가 5명 이상인 경우: 50개월(추가 가입기간 상한)",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "FIXED",
+        "before": "카드6 팁 '우리 집이 어디에 해당하는지 표로 확인해 보세요.'(2027 개정 누락)",
+        "after": "'첫째가 2025년 이전이고 둘째를 2027년 이후 낳으면 자녀 2명 기준 15개월이에요.' 50개월 상한 미적용 문장은 OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291347",
+        "source_quote": "다만, 2025년 12월 31일 이전에 첫째 자녀를 얻은 사람이 2027년 1월 1일 이후 둘째 자녀를 얻은 경우에는 제19조제1항의 개정규정에도 불구하고 다음 각 호에 따른 기간을 가입기간에 추가로 산입한다. 1. 자녀가 2명인 경우: 15개월 / (2025 부칙 제3조②) 2008년 1월 1일 이후 이 법 시행 전에 첫째 자녀를 얻은 사람이 이 법 시행 이후 자녀를 얻은 경우 그 자녀에 대하여는 종전의 제19조제1항 각 호 외의 부분 단서를 적용하지 아니한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c8",
+        "verdict": "FIXED",
+        "before": "합의서는 먼저 연금을 청구한 날부터 1개월 이내",
+        "after": "합의서는 노령연금을 청구한 날부터 1개월 이내",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283561",
+        "source_quote": "제12조(합의 절차 등) ① 법 제19조제2항에 따라 2명 중 1명의 가입기간에 추가산입하려는 부와 모는 가입기간 산입에 대한 합의서를 노령연금의 지급을 청구한 날부터 1개월 이내에 공단에 제출하여야 한다. 이 경우 기간 내에 합의서를 제출하지 아니한 경우에는 합의하지 아니한 것으로 본다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c9",
+        "verdict": "FIXED",
+        "before": "별도 신청 절차는 없어요. 연금을 청구할 때 공단이 확인해서 추가 기간을 넣어 줘요.",
+        "after": "지금 미리 할 일은 없어요. 나중에 노령연금을 청구할 때 함께 신청하면 추가 기간이 반영돼요.",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=3&cnpClsNo=1",
+        "source_quote": "노령연금 수급권을 취득한 때나 출산크레딧으로 가입기간을 추가로 인정받아 노령연금 수급권을 취득할 수 있는 때에 신청하면 출산크레딧 추가 가입기간을 포함해서 산정된 노령연금이 지급됩니다 / 전국 국민연금공단 지사 어디에서나 청구가 가능하며, 그 밖에 우편·팩스·홈페이지 인터넷 청구 등이 가능합니다",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "nps.or.kr은 config official_domains에 없어 출처로 쓰지 않음(easylaw.go.kr·law.go.kr로 대체). 핵심: 국민연금법 2026.10.20 개정(법률 제22096호, 제19조제1항 2027.1.1 시행)으로 2027.1.1 이후 둘째를 얻으면 2명 27개월·3명 45개월, 2025년 이전 첫째+2027년 이후 둘째는 15개월. easylaw 페이지는 아직 이 개정을 반영하지 않음 — 카피의 24/42개월은 둘째가 2026년생일 때만 맞아 조건을 명시하도록 고침. '별도 신청 절차 없음·공단이 반영'은 공식 근거 없음(공식: 수급권 취득 시 신청) → 문구 수정. 합의서 기한은 국민연금법 시행규칙 제12조로 확인('먼저'는 근거 없어 삭제)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

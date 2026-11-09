@@ -1,0 +1,257 @@
+{
+  "id": "2026-11-19-delivery-copay-free",
+  "topic": "분만할 때 병원비 어디까지 면제? 자연분만·제왕절개 입원 본인부담 정리",
+  "target_stage": "임신 중기~후기(분만병원 고민)",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-10",
+  "theme": "peach",
+  "photo_style": "flatlay",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "분만병원 고민 중이라면",
+      "title": "면제 범위 모르면\n병원비 헷갈려요",
+      "highlight": "면제 범위",
+      "sub": "자연분만·제왕절개 입원 본인부담 정리",
+      "image": "images/cover.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "자연분만은 어떻게 될까요",
+      "highlight": "전액 면제",
+      "body": "건강보험 가입자나 피부양자라면 자연분만 입원진료비 본인부담금이 전액 면제예요. 요양급여비용 총액이 기준이에요.",
+      "tip": "건강보험이 적용되는 진료비 기준이에요."
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "제왕절개도 같아요",
+      "highlight": "5%에서 0%",
+      "body": "제왕절개 본인부담은 5%였는데, 2025년 1월 1일부터 0%가 됐어요. 이제 자연분만과 같은 수준이에요.",
+      "tip": "입원진료비 중 건강보험 적용분 기준이에요."
+    },
+    {
+      "type": "list",
+      "title": "분만 유형별 본인부담",
+      "items": [
+        "자연분만 입원진료비: 전액 면제",
+        "제왕절개 입원진료비: 전액 면제",
+        "입원 식대: 50% 면제"
+      ],
+      "tip": "건강보험 가입자·피부양자 기준이에요."
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "입원 식대는요?",
+      "highlight": "50% 면제",
+      "body": "식대는 전액이 아니라 식대 총액의 50%가 면제돼요. 나머지 절반은 내가 부담해요.",
+      "tip": "기본식대와 가산식대를 합친 금액 기준이에요."
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "고위험 임신부 입원은요?",
+      "highlight": "총액의 10%",
+      "body": "보건복지부가 고시한 고위험 임신부가 입원진료를 받으면 본인부담이 요양급여비용 총액의 10%예요. 해당 여부는 담당 의료진에게 확인하세요.",
+      "tip": "입원 중 식대는 50%를 따로 부담해요."
+    },
+    {
+      "type": "point",
+      "no": 5,
+      "title": "비급여는 따로 봐요",
+      "highlight": "건강보험 적용 진료비",
+      "body": "본인부담 면제는 건강보험이 적용되는 진료비에만 해당돼요. 상급병실료나 비급여 항목은 병원에 미리 확인하세요.",
+      "tip": "예약할 때 항목별 비용을 물어보세요."
+    },
+    {
+      "type": "point",
+      "no": 6,
+      "title": "병원 밖에서 낳았다면",
+      "highlight": "25만 원",
+      "body": "자택이나 이송 중에 출산했다면 요양비 25만 원을 받을 수 있어요. 출산일로부터 3년 안에 건강보험공단 지사에 신청해요.",
+      "tip": "출산 사실 증명서류를 챙겨 두세요."
+    },
+    {
+      "type": "closing",
+      "title": "저장해두고 병원 고를 때 꺼내 보세요",
+      "body": "면제는 건강보험 적용 진료비 기준이에요. 정확한 금액은 분만병원과 국민건강보험공단에 확인하세요."
+    }
+  ],
+  "caption": "면제 범위 모르면 병원비 헷갈려요\n\n분만병원 고민 중이라면 이것만 기억해요.\n1) 건강보험 가입자·피부양자는 자연분만·제왕절개 입원진료비 본인부담이 전액 면제예요. 제왕절개는 5%에서 0%로 바뀌었어요.\n2) 입원 식대는 50% 면제예요.\n3) 면제는 건강보험 적용 진료비만이에요. 상급병실료나 비급여 항목은 병원에 미리 확인하세요. 고위험 임신부 입원진료는 본인부담이 총액의 10%라 담당 의료진과 확인이 필요해요. 병원 밖 출산은 요양비 25만 원, 3년 안에 신청해요.\n\n저장해두고 필요할 때 꺼내 보세요. (기준일 2026-11-10)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신중기",
+    "#임신후기",
+    "#출산준비",
+    "#분만비용",
+    "#제왕절개",
+    "#자연분만",
+    "#출산비용",
+    "#정부지원",
+    "#임산부혜택",
+    "#예비맘",
+    "#출산정보"
+  ],
+  "cover_image_prompt": "Top-down view of a hospital-style meal tray with a bowl of steamed rice, a bowl of seaweed soup, small side dishes and a pair of chopsticks, next to a folded pastel peach blanket",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "건강보험 가입자·피부양자 자연분만 입원진료비 본인부담금(요양급여비용 총액)은 전액 면제",
+      "value": "전액 면제",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "제왕절개 분만 본인부담률이 요양급여비용 총액의 5%에서 0%로, 2025년 1월 1일부터 면제(자연분만과 동일)",
+      "value": "2025년 1월 1일",
+      "source_hint": "https://www.korea.kr/news/policyNewsView.do?newsId=148936995"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "제왕절개 입원진료비 본인부담금 전액 면제(생활법령 표)",
+      "value": "전액 면제",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c4",
+      "card": 5,
+      "text": "입원 식대(기본식대+가산식대 총액)의 50% 면제",
+      "value": "50%",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c5",
+      "card": 6,
+      "text": "보건복지부장관이 고시하는 고위험 임신부의 입원진료는 요양급여비용 총액의 10% 본인부담(입원기간 식대는 50%)",
+      "value": "10%",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c6",
+      "card": 7,
+      "text": "본인부담 면제는 건강보험이 적용되는 진료비(요양급여비용) 한정이며 상급병실료·비급여 항목은 병원에 별도 확인",
+      "value": "건강보험 적용 진료비",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c7",
+      "card": 8,
+      "text": "자택 출산 또는 요양기관 이송 중 출산 시 요양비 25만 원(2006년 11월 1일 이후 출산분)",
+      "value": "25만 원",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c8",
+      "card": 8,
+      "text": "요양비는 출산일로부터 3년 이내 국민건강보험공단 지사에 신청",
+      "value": "3년",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c9",
+      "card": 1,
+      "text": "면제 적용 대상은 건강보험 가입자 또는 피부양자인 임산부",
+      "value": "건강보험 가입자·피부양자",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    },
+    {
+      "id": "c10",
+      "card": 8,
+      "text": "요양비 신청 시 출산사실을 증명할 수 있는 서류(인우보증서·출산확인서 등) 제출",
+      "value": "출산 사실 증명서류",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1",
+        "source_quote": "건강보험 가입자 또는 피부양자인 임산부가 자연분만이나 제왕절개분만을 하면 입원진료비 중 본인부담금이 전액 면제되며, 식대는 50% 면제됩니다 / 표: 자연분만 | 요양급여비용총액 면제",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148936995",
+        "source_quote": "내년 1월 1일부터는 제왕절개 분만 때 자연분만과 동일하게 진료비 본인부담을 현 5%에서 0%로 무료화했다. (보건복지부, 2024-12-03) — 교차확인: 현행 국민건강보험법 시행령 별표2(개정 2026.2.19.) 제3호가목 '3. 제1호와 제2호에도 불구하고 다음 각 목의 어느 하나에 해당하는 경우에는 그 각 목에서 정하는 금액을 부담한다. ... 가. 다음의 경우에는 입원기간 중 식대의 100분의 50 1) 자연분만 및 제왕절개분만에 대한 요양급여' (law.go.kr)",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1",
+        "source_quote": "건강보험 가입자 또는 피부양자인 임산부가 자연분만이나 제왕절개분만을 하면 입원진료비 중 본인부담금이 전액 면제되며, 식대는 50% 면제됩니다 / 표: 제왕절개분만 | 면제",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169130851",
+        "source_quote": "3. 제1호와 제2호에도 불구하고 다음 각 목의 어느 하나에 해당하는 경우에는 그 각 목에서 정하는 금액을 부담한다. ... 가. 다음의 경우에는 입원기간 중 식대의 100분의 50 1) 자연분만 및 제왕절개분만에 대한 요양급여 (생활법령 표: 식대총액(기본식대+가산식대)의 50%)",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "FIXED",
+        "before": "고위험 임신부는 요양급여비용 총액의 10%를 본인이 부담하는 것으로 안내돼요(분만비가 10%인 것처럼 읽힘)",
+        "after": "보건복지부가 고시한 고위험 임신부가 입원진료를 받으면 본인부담이 요양급여비용 총액의 10%예요(식대 50% 별도)",
+        "source_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169130851",
+        "source_quote": "나. 다음의 경우(라목에 해당하는 사람에 대한 요양급여는 제외한다)에는 요양 급여비용 총액의 100분의 10에 입원기간 중 식대의 100분의 50을 더한 금 액 ... 3) 보건복지부장관이 정하여 고시하는 고위험 임신부에 대한 입원진료로서 보건복지부장관이 정하는 요양급여",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "FIXED",
+        "before": "상급병실료 같은 비급여는 병원에 미리 확인하세요",
+        "after": "상급병실료나 비급여 항목은 병원에 미리 확인하세요",
+        "source_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169130851",
+        "source_quote": "1. 가입자 또는 피부양자는 요양급여비용 중 다음 각 목의 어느 하나에 해당하 는 금액(100원 미만은 제외한다)을 부담한다. / 제3호 단서: 다만, 상급종합병원ᆞ종합병원ᆞ병원ᆞ 한방병원ᆞ요양병원(...)ᆞ정신병원에서 법 제43조에 따라 신고한 입원병실 중 일반입원실의 2인실ᆞ3인실 및 정신과 입원실의 2인실ᆞ3인실을 이용한 경우는 그 입원료 에 한정하여 제1호가목1) 단서에서 정하는 금액을 부담한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1",
+        "source_quote": "건강보험 가입자 또는 피부양자인 임산부가 ① 요양기관(병·의원, 조산소 등)이 아닌 자택에서 출산하거나 ② 요양기관으로 이송 중 출산한 경우에는 그 요양급여에 상당하는 금액(2006년 11월 1일 이후 출산한 경우 250,000원)을 요양비로 지급받을 수 있습니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1",
+        "source_quote": "출산에 관한 요양비를 지급받으려면 출산일로부터 3년 이내에 모든 국민건강보험공단 지사에 다음의 서류를 제출하면 됩니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1",
+        "source_quote": "건강보험 가입자 또는 피부양자인 임산부가 자연분만이나 제왕절개분만을 하면 입원진료비 중 본인부담금이 전액 면제되며, 식대는 50% 면제됩니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=2&cnpClsNo=1",
+        "source_quote": "출산사실을 증명할 수 있는 서류(인우보증서, 출산확인서, 증명인의 인감증명서 또는 주민등록증 사본) 1부",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "제왕절개 0%: korea.kr 보건복지부 정책뉴스(2024-12-03) + 현행 시행령 별표2(개정 2026.2.19., law.go.kr 별표 PDF) 제3호가목에서 자연분만·제왕절개분만은 식대 50%만 부담으로 규정됨을 원문 확인 → 기준일 현재 유효. c5: 생활법령 표의 '고위험 임신부 10%'는 시행령 별표2 제3호나목3) '고위험 임신부에 대한 입원진료'(2015.7.1. 20%→10% 완화, 복지부 보도자료)로, 분만비 부담률이 아님 → 카드 6을 입원진료 기준으로 고침. 고위험 임신부 분만 시 가목(면제)과 나목(10%) 중 어느 쪽이 적용되는지는 공식 문서에서 명시를 못 찾아 카드에 단정하지 않음. c6: 시행령 별표2 제3호 단서상 병원급 이상 2·3인실 입원료는 면제에서 빠지므로 '상급병실료=비급여'로 단정하던 문구를 '상급병실료나 비급여 항목'으로 고침. 별표2는 2026.2.19. 개정본이 최신으로 확인됨(그 이후 개정 여부는 law.go.kr 별표 목록 미조회)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

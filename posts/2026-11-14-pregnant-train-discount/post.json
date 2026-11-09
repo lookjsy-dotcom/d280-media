@@ -1,0 +1,279 @@
+{
+  "id": "2026-11-14-pregnant-train-discount",
+  "template": "f-webtoon",
+  "format": "webtoon",
+  "topic": "연말 친정·시댁 갈 때 고속열차 임산부 할인 - 정부24에서 등록, 출산예정일 +1년까지",
+  "target_stage": "임신 중기~출산 후 1년",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "연말 친정 갈 계획이라면",
+      "title": "등록 안 하면\n40% 할인 놓쳐요",
+      "highlight": "40% 할인",
+      "sub": "임산부 열차 할인, 이팔공과 등록 순서 봐요",
+      "scene": "Ipalgong sits by a window in a bright living room, holding her phone and a small travel bag beside her, looking thoughtful.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table with her phone, smiling as she plans a trip to her parents' home, a small suitcase at her feet.",
+      "caption": "연말에 친정 갈 계획을 세우는 이팔공",
+      "dialogue": [
+        {
+          "text": "연말엔 친정에 가야지! 기차표 볼까?",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at her phone with raised eyebrows and a single small sweat drop, one hand resting on her belly.",
+      "caption": "표 가격을 보고 멈칫",
+      "dialogue": [
+        {
+          "text": "어? 생각보다 비싸네…",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads something on her phone with surprised wide eyes and a small sparkle, a train ticket gate visible in the background.",
+      "caption": "임산부 할인을 발견",
+      "dialogue": [
+        {
+          "text": "임산부 할인이 있다고?",
+          "pos": "tl"
+        }
+      ],
+      "info": "임산부와 동행 1명은 일반실·일반열차 운임 40% 할인이에요.",
+      "highlight": "40% 할인",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa registering on her laptop with a focused expression, her phone beside her.",
+      "caption": "등록부터 해 보기",
+      "dialogue": [
+        {
+          "text": "어디서 등록하면 되지?",
+          "pos": "tr"
+        }
+      ],
+      "info": "철도 회원 가입 후 정부24·운영사 앱·역 창구에서 등록해요.",
+      "highlight": "철도 회원 가입",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong tilts her head thoughtfully while looking at her phone, a small light bulb sparkle beside her.",
+      "caption": "동행인과 좌석도 궁금해요",
+      "dialogue": [
+        {
+          "text": "같이 가는 사람은 어떻게 되지?",
+          "pos": "tl"
+        }
+      ],
+      "info": "동행인만 할인받거나 승차할 수는 없고, KTX 특실·우등실은 일반실 가격이에요.",
+      "highlight": "동행인만",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong pauses with her finger on her chin, a small sweat drop beside her head, looking at a wall calendar.",
+      "caption": "명절 이동은 어떨까?",
+      "dialogue": [
+        {
+          "text": "어? 명절엔 안 된다고?",
+          "pos": "tr"
+        }
+      ],
+      "info": "명절 특별수송기간에는 운영하지 않아요.",
+      "highlight": "명절 특별수송기간",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong nods with a calm smile as she checks her phone, a warm lamp glowing on the table.",
+      "caption": "할인 기간도 확인",
+      "dialogue": [
+        {
+          "text": "그럼 평소에 미리 등록해 둬야겠다!",
+          "pos": "tl"
+        }
+      ],
+      "info": "할인 기간은 출산예정일 1년 뒤까지예요.",
+      "highlight": "출산예정일 1년 뒤까지",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong gently rests one hand on her belly and smiles with closed eyes, her small suitcase packed beside her, relieved and warm.",
+      "caption": "등록을 마치고 안도",
+      "dialogue": [
+        {
+          "text": "다행이다, 이제 마음 편히 가겠네!",
+          "pos": "br"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "이동 전에 미리 등록해 두세요",
+      "body": "배우자도 역 창구에서 대신 등록할 수 있어요. 전용좌석은 출발 24시간 전까지 사지 않으면 일반 판매로 바뀌니, 일정이 정해지면 서둘러 확인하세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "등록 안 하면 40% 할인 놓쳐요\n\n연말에 친정이나 시댁에 갈 계획이라면, 열차 표를 끊기 전에 임산부 할인부터 등록해 보세요.\n\n1) 임산부와 동행 1명은 일반실·일반열차 운임 40% 할인, KTX 특실·우등실은 일반실 가격이에요.\n2) 철도 회원 가입 후 정부24 맘편한 임신, 운영사 앱, 역 창구 등에서 등록해요.\n3) 할인 기간은 출산예정일 1년 뒤까지, 명절 특별수송기간에는 운영하지 않아요.\n\n배우자가 역 창구에서 대신 등록할 수도 있어요. 전용좌석은 출발 24시간 전까지 사지 않으면 일반 판매로 바뀌니 이동 일정이 정해지면 미리 확인해 두세요. 이용 조건은 철도 운영사 누리집에서 한 번 더 확인하시고요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임산부할인",
+    "#임산부열차할인",
+    "#맘편한임신",
+    "#정부24",
+    "#출산준비",
+    "#정부지원",
+    "#예비맘",
+    "#친정가는길",
+    "#육아정보",
+    "#육아웹툰",
+    "#이팔공"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 4,
+      "text": "임산부와 동행 1명은 일반실·일반열차 운임 40% 할인을 받는다",
+      "value": "40% 할인",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c2",
+      "card": 5,
+      "text": "임산부 열차 할인 등록은 철도 회원 가입이 선행되어야 하며, 정부24(맘편한 임신), 철도 운영사 홈페이지·앱, 역 창구·행정복지센터·보건소에서 신청한다",
+      "value": "철도 회원 가입 후 정부24·앱·역 창구",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c3",
+      "card": 6,
+      "text": "임산부 없이 동행인만 할인받거나 승차할 수 없고, KTX 특실·우등실은 일반실 가격으로 제공된다",
+      "value": "동행인만 할인 불가, KTX 특실·우등실은 일반실 가격",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c4",
+      "card": 7,
+      "text": "명절 특별수송기간에는 임산부 할인을 운영하지 않는다",
+      "value": "명절 특별수송기간 미운영",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c5",
+      "card": 8,
+      "text": "할인 기간은 출산예정일 +1년까지다",
+      "value": "출산예정일 1년 뒤까지",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c6",
+      "card": 10,
+      "text": "배우자 등 대리 신청은 역 창구에서 가능하다",
+      "value": "배우자 역 창구 대리 등록",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c7",
+      "card": 10,
+      "text": "출발 24시간 전까지 임산부 고객이 구매하지 않은 전용좌석은 다른 승객이 살 수 있다",
+      "value": "24시간",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    },
+    {
+      "id": "c8",
+      "card": 1,
+      "text": "표지: 임산부 열차 할인 40% (등록해야 적용)",
+      "value": "40% 할인",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/B55145700016"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "- KTX 일반실 및 일반열차(ITX-새마을, ITX-마음, 새마을호, 무궁화호, 누리로, ITX-청춘) : 운임 40% 할인 / *  등록된 임산부 및 임산부와 동행하는 1명까지 할인하며 임산부 없이 동행인 단독 할인 및 승차 불가",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "1-1. 신청자격: 코레일 회원인 임산부(임산부 본인이 철도 회원으로 가입되어 있어야 신청 가능함) / -  온라인: 정부24(맘편한 임신 원스톱 서비스 등록) ,코레일 홈페이지, 코레일+(앱) / -  오프라인 : 역 창구(임산부의 배우자 등이 역 창구에서 대리 신청 가능), 읍면동행정복지센터, 보건소",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "before": "카드6·캡션: 특실은 일반실 가격이에요",
+        "after": "카드6·캡션: KTX 특실·우등실은 일반실 가격이에요",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "- KTX 특실·우등실 : 특실· 우등실 요금 면제(일반실 가격으로 제공) / *  등록된 임산부 및 임산부와 동행하는 1명까지 할인하며 임산부 없이 동행인 단독 할인 및 승차 불가",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "- 한국철도공사에서 정한 명절 특별수송기간에는 미운영",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "- 할인기간 : 출산예정일 +1년까지",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "-  오프라인 : 역 창구(임산부의 배우자 등이 역 창구에서 대리 신청 가능), 읍면동행정복지센터, 보건소",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "- 조기 매진될 수 있음, 출발 24시간 전까지도 임산부 고객이 구입하지 않은 전용좌석은 다른 승객이 구입할 수 있음",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/B55145700016",
+        "source_quote": "- KTX 일반실 및 일반열차(ITX-새마을, ITX-마음, 새마을호, 무궁화호, 누리로, ITX-청춘) : 운임 40% 할인 / 지원대상: 코레일 회원이며 임산부 등록을 완료한 회원",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "정부24 B55145700016(맘편한 코레일, 소관 한국철도공사 여객본부, 최종수정일 2026.11.06) 원문 HTML을 직접 받아 대조. c3: 원문은 'KTX 특실·우등실'로 한정 — 카드6·캡션의 '특실'을 'KTX 특실·우등실'로 정확히 맞춤(표지 무관). 숨은 주장 점검: 표지 '등록 안 하면'(등록 필요)은 지원대상 문장으로 c8에 포함, 캡션 3개 항목은 c1~c7과 동일 내용. 원문 기준 이 혜택은 코레일 열차 대상이며 SRT는 이 페이지 범위 밖 — 카드는 SRT를 언급하지 않음. 미기재 조건(다른 할인과 중복 불가, 동행 어린이·유아는 어린이·유아 할인 적용, 1회 2매·1일 2회·월 8회)은 카드가 반대로 단정하지 않아 오류는 아님. 브랜드 홍보 점검: 카드·캡션에 특정 상호(코레일 등)·상품 홍보 문구 없음('운영사 앱', '철도 운영사 누리집'으로 일반화), 해시태그도 공공 서비스명(#정부24 #맘편한임신)뿐."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

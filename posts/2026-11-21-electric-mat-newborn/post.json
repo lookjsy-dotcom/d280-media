@@ -1,0 +1,294 @@
+{
+  "id": "2026-11-21-electric-mat-newborn",
+  "template": "f-webtoon",
+  "format": "webtoon",
+  "topic": "겨울 신생아 방 전기장판·온수매트, 영유아는 사용하지 않도록 안내",
+  "target_stage": "임신 후기(준비)~생후 12개월",
+  "hook_type": "통념뒤집기",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "신생아 방 난방 준비",
+      "title": "아기 방 따뜻하게?\n전기매트는 말고요",
+      "highlight": "전기매트는 말고요",
+      "sub": "소비자원 주의보로 보는 겨울 난방 확인, 이팔공과 함께 봐요",
+      "scene": "Ipalgong stands in a softly lit empty nursery with a bare crib (only a plain fitted sheet on the mattress; NO blanket, NO plush toys, NO pillows, NO bumpers inside or hanging on the crib), holding a folded blanket against her chest, looking thoughtful.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong tucks a plain folded blanket onto a mattress in a nursery, smiling warmly, a cold winter window behind her.",
+      "caption": "날이 추워지는 요즘, 아기 방을 준비하는 이팔공",
+      "dialogue": [
+        {
+          "text": "아기가 춥지 않게 해줘야지!",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds an electric heating mat still in its coil, looking at the nursery bed with a hopeful face. The crib is bare: only a plain fitted sheet, NO blanket, NO plush toys, NO pillows, NO cushions, nothing draped on the rails.",
+      "caption": "전기매트를 깔아둘까 고민 중",
+      "dialogue": [
+        {
+          "text": "미리 따뜻하게 켜두면 좋겠지?",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads her phone with wide eyes and a single small sweat drop, mat resting on her lap.",
+      "caption": "검색하다가 깜짝",
+      "dialogue": [
+        {
+          "text": "어? 영유아는 쓰면 안 된대?",
+          "pos": "tl"
+        }
+      ],
+      "info": "소비자원 주의보: 과열에 대처하기 어려운 노약자, 영유아는 사용하지 않는다고 안내해요.",
+      "highlight": "영유아는 사용하지 않는다",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at her phone with a concerned face, brow slightly furrowed, mat set aside.",
+      "caption": "사고 통계도 살펴봤어요",
+      "dialogue": [
+        {
+          "text": "사고가 그렇게 많았어?",
+          "pos": "tr"
+        }
+      ],
+      "info": "소비자원 주의보 기준 2015~2018년 6월 전기매트류 위해정보는 2,411건이었어요.",
+      "highlight": "2,411건",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong points at a phone screen with a serious but calm look, a small exclamation sparkle nearby.",
+      "caption": "어떤 사고가 많았을까?",
+      "dialogue": [
+        {
+          "text": "대부분이 화상이었구나…",
+          "pos": "tl"
+        }
+      ],
+      "info": "증상이 확인된 사례 중 화상이 88.0%로 가장 많았고, 겨울철 12~2월에 몰렸어요.",
+      "highlight": "화상이 88.0%",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on a sofa taking notes on a notepad with a calm focused expression, a window with winter light beside her.",
+      "caption": "전기매트를 쓸 때 확인할 점",
+      "dialogue": [
+        {
+          "text": "어른이 쓸 때도 조심해야겠다.",
+          "pos": "br"
+        }
+      ],
+      "info": "고온 장시간 사용을 피하고, 타이머를 쓰고, 맨살이 직접 닿지 않게 해요.",
+      "highlight": "타이머",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong checks the underside of a mat's cord and plug, tilting her head with interest.",
+      "caption": "구매하거나 정리할 때도",
+      "dialogue": [
+        {
+          "text": "사고 나기 전에 확인하자!",
+          "pos": "tl"
+        }
+      ],
+      "info": "살 때는 KC마크를 확인하고, 쓰고 나면 콘센트에서 분리해요.",
+      "highlight": "KC마크",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong smiles with relief, standing in the nursery with the mat folded away on a shelf and a neatly made crib with a fitted sheet.",
+      "caption": "마음이 놓인 이팔공",
+      "dialogue": [
+        {
+          "text": "다행이다, 미리 알아서!",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "영유아는 전기매트 사용을 피해요",
+      "body": "소비자원 주의보는 과열에 대처하기 어려운 영유아는 전기매트류를 사용하지 않도록 안내해요. 어른이 쓸 때도 사용 후 콘센트를 뽑아 두고, 궁금한 점은 한국소비자원에 문의하세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "아기 방 따뜻하게? 전기매트는 말고요\n\n신생아 방 난방을 준비한다면 이것부터 확인해 보세요.\n\n1) 소비자원 주의보는 영유아가 전기매트류를 사용하지 않도록 안내해요.\n2) 소비자원 주의보 기준 2015~2018년 6월 전기매트류 위해정보는 2,411건, 화상이 88.0%였어요.\n3) 어른이 쓸 때도 타이머를 쓰고 맨살이 직접 닿지 않게, 구매할 때는 KC마크를 확인해요.\n\n이 통계는 2018년 소비자원 주의보 기준이라 최신 수치는 소비자원 누리집에서 함께 확인해 보세요. 궁금한 점은 한국소비자원에 문의해 보세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신후기",
+    "#출산준비",
+    "#신생아",
+    "#신생아방",
+    "#전기매트",
+    "#겨울육아",
+    "#저온화상",
+    "#소비자원",
+    "#육아정보",
+    "#예비맘",
+    "#육아웹툰",
+    "#이팔공",
+    "#신생아준비"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 3,
+      "text": "한국소비자원 소비자안전주의보(2018-12-17)는 과열에 대처하기 어려운 노약자, 영유아는 전기매트류를 사용하지 않는다고 안내한다",
+      "value": "영유아는 사용하지 않는다",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c2",
+      "card": 4,
+      "text": "소비자원 주의보 기준 2015년~2018년 6월 전기매트류 위해정보는 2,411건",
+      "value": "2,411건",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c3",
+      "card": 5,
+      "text": "증상이 확인된 사례 중 화상이 88.0%로 가장 많았다(소비자원 주의보 기준)",
+      "value": "88.0%",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c4",
+      "card": 5,
+      "text": "겨울철(12~2월)에 전기매트류 사고가 집중되었다",
+      "value": "12~2월",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c5",
+      "card": 6,
+      "text": "고온 장시간 사용을 피하고 타이머를 사용하며 맨살 직접 접촉을 피한다",
+      "value": "타이머",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c6",
+      "card": 7,
+      "text": "구매 시 KC마크를 확인하고 사용 후 콘센트를 분리한다",
+      "value": "KC마크",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c7",
+      "card": 1,
+      "text": "표지 제목: 영유아는 전기매트류를 사용하지 않도록 안내(소비자원 주의보)",
+      "value": "전기매트는 말고요",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c8",
+      "card": 9,
+      "text": "영유아가 전기매트류를 사용하지 않도록 안내한다(소비자원 주의보)",
+      "value": "영유아가 전기매트류를 사용하지 않도록",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    },
+    {
+      "id": "c9",
+      "card": 10,
+      "text": "마무리 카드: 아기 방 난방 권고 문구(원문 '방 전체 난방과 침구로 챙기고')",
+      "value": "사용 후 콘센트를 뽑아 두고",
+      "source_hint": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "과열에 대처하기 어려운 노약자, 영유아는 사용하지 않는다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "최근 3년 6개월간(2015년~2018년 6월) 우리원 소비자위해감시시스템(CISS)에 접수된 전기매트류 관련 위해정보는 총 2,411건임.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "'화상'이 667건으로 88.0%를 차지했고(증상 확인가능한 758건 대상)",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "'겨울(12~2월)'이 154건으로 53.3%를 차지했으며",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "고온에서 장시간 사용하지 않으며, 타이머 설정을 생활화 한다. / 저온화상 예방을 위해 맨살 접촉은 피한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "구매 시 반드시 안전인증(KC마크 및 안전인증번호)을 받은 제품인지 확인한다. / 사용 후에는 반드시 콘센트를 뽑아두거나 스위치를 꺼두어 과열이나 합선을 예방한다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "과열에 대처하기 어려운 노약자, 영유아는 사용하지 않는다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "과열에 대처하기 어려운 노약자, 영유아는 사용하지 않는다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c9",
+        "verdict": "FIXED",
+        "before": "소비자원 주의보는 영유아가 전기매트류를 사용하지 않도록 안내해요. 아기 방 난방은 방 전체 난방과 침구로 챙기고, 궁금한 점은 한국소비자원에 문의하세요.",
+        "after": "소비자원 주의보는 과열에 대처하기 어려운 영유아는 전기매트류를 사용하지 않도록 안내해요. 어른이 쓸 때도 사용 후 콘센트를 뽑아 두고, 궁금한 점은 한국소비자원에 문의하세요.",
+        "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4006&mode=view&no=1002749949&page=1",
+        "source_quote": "사용 후에는 반드시 콘센트를 뽑아두거나 스위치를 꺼두어 과열이나 합선을 예방한다.",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "출처는 한국소비자원 소비자안전주의보 '겨울철, 전기매트류 화재·화상 사고 주의'(등록일 2018-12-17, kca.go.kr). 통계는 2018년 기준이며 카드에 '소비자원 주의보 기준'이 표기돼 있어 유지. c4: 계절 확인 사례 중 겨울(12~2월) 53.3%로 '몰렸어요'는 근거 충분. c9(숨은 주장): 마무리 카드·캡션의 '방 전체 난방과 침구로 챙기고'는 주의보에 근거 없음(주의보는 실내 난방 언급 없음, 침구는 라텍스 침구와 전기매트 병용 주의만 있음). 공식 출처(질병관리청·보건복지부)에서 영아 방 난방·침구 권고를 확인하지 못했고, '침구로 따뜻하게'는 영아 안전수면(푹신한 침구 지양) 지침과 충돌할 소지가 있어 문구를 삭제하고 주의보 문장(사용 후 콘센트 분리)으로 대체. 캡션의 같은 문장도 삭제. 카드 9 장면 묘사의 'warm blanket on the crib'을 'fitted sheet'로 바꿈(이미지 지시만, 사실 주장 아님)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id": "2026-11-18-baby-name-hanja",
+  "topic": "아기 이름에 한자를 쓸 때 인명용 한자 범위와 글자 수 확인하기",
+  "target_stage": "임신 중기~후기 (이름 고민기)",
+  "hook_type": "통념뒤집기",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "아기 이름 정했다면",
+      "title": "한자 이름이\n다 되는 건 아니에요",
+      "highlight": "다 되는 건 아니에요",
+      "sub": "신고 전에 미리 조회하는 법, 이팔공이 알아봤어요",
+      "scene": "Ipalgong sits on a living room sofa holding a phone, eyes wide with a small surprised round mouth and a single sweat drop.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa with a cup of tea and a notebook, smiling happily with a hand on her round belly.",
+      "caption": "태명 지나 진짜 이름을 정한 날",
+      "dialogue": [
+        {
+          "text": "드디어 이름을 정했어!",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds up a notebook in front of her with a proud smile, sitting at the kitchen table.",
+      "caption": "뜻까지 고른 한자 이름",
+      "dialogue": [
+        {
+          "text": "한자 뜻도 딱 마음에 들어",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads her phone with a surprised round mouth and a small orange surprise mark above her head.",
+      "caption": "그런데 검색해 보다가",
+      "dialogue": [
+        {
+          "text": "어? 한자가 다 되는 게 아니야?",
+          "pos": "tl"
+        }
+      ],
+      "info": "이름에는 한글 또는 통상 쓰는 한자(인명용 한자)만 쓸 수 있어요",
+      "highlight": "인명용 한자",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong tilts her head with one sweat drop, finger on her chin, looking at her phone.",
+      "caption": "범위 밖 한자를 쓰면?",
+      "dialogue": [
+        {
+          "text": "그럼 신고할 때 어떻게 돼?",
+          "pos": "tr"
+        }
+      ],
+      "info": "범위 밖 한자는 쓸 수 있는 한자를 권해 주고, 따르지 않으면 한글로 기록돼요",
+      "highlight": "한글로 기록",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds her phone with both hands, thoughtful, sitting at the table.",
+      "caption": "글자 수와 같은 이름도 확인",
+      "dialogue": [
+        {
+          "text": "또 다른 규칙도 있을까?",
+          "pos": "bl"
+        }
+      ],
+      "info": "이름은 성을 빼고 5자 이하, 부모·조부모 등과 같은 이름은 접수되지 않아요",
+      "highlight": "5자 이하",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the table with her laptop open, tapping the keyboard with a calm focused look.",
+      "caption": "미리 조회해 보기",
+      "dialogue": [
+        {
+          "text": "신고 전에 미리 찾아보자",
+          "pos": "tr"
+        }
+      ],
+      "info": "전자가족관계등록시스템에서 인명용 한자를 조회할 수 있어요",
+      "highlight": "인명용 한자를 조회",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong smiles with closed happy eyes and a hand on her belly, sitting on the sofa with the notebook in her lap.",
+      "caption": "다행이다",
+      "dialogue": [
+        {
+          "text": "미리 알아서 다행이야~",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "신고 전에 이름 한자를 조회해요",
+      "body": "대법원 전자가족관계등록시스템에서 인명용 한자를 미리 확인하세요. 예외가 있을 수 있으니 궁금하면 가까운 구청·주민센터에 물어보세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "한자 이름이 다 되는 건 아니에요\n\n아기 이름에 한자를 쓰려고 한다면, 신고 전에 이것만 확인해 보세요.\n\n1) 이름에는 한글 또는 인명용 한자만 쓸 수 있어요.\n2) 범위 밖 한자는 신고할 때 한글로만 기록될 수 있어요.\n3) 이름은 성을 빼고 5자 이하이고, 부모·조부모 등과 같은 이름은 접수되지 않아요.\n\n전자가족관계등록시스템에서 미리 조회해 볼 수 있어요. 이팔공처럼 한 번만 미리 확인하면 마음이 훨씬 놓여요. 예외가 있을 수 있어서 자세한 사항은 가까운 구청이나 주민센터에 문의해 주세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#임신후기",
+    "#출산준비",
+    "#아기이름",
+    "#작명",
+    "#인명용한자",
+    "#출생신고",
+    "#태명",
+    "#정부지원",
+    "#육아정보",
+    "#예비맘",
+    "#육아웹툰",
+    "#이팔공"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 4,
+      "text": "자녀 이름에는 한글 또는 통상 사용되는 한자(인명용 한자)만 쓸 수 있다",
+      "value": "인명용 한자",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c2",
+      "card": 5,
+      "text": "인명용 한자 범위 밖 한자를 쓰면 쓸 수 있는 한자를 권하고, 따르지 않거나 권고가 어려우면 접수하되 이름은 한글로 기록된다",
+      "value": "한글로 기록",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c3",
+      "card": 6,
+      "text": "이름은 성을 제외하고 5자 이하여야 하며 초과하면 접수되지 않는다",
+      "value": "5자 이하",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c4",
+      "card": 6,
+      "text": "출생자의 부모 가족관계증명서에 나오는 사람(조부·조모·부·모 등)과 같은 이름은 출생신고가 수리되지 않는다",
+      "value": "부모·조부모 등과 같은 이름",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c5",
+      "card": 7,
+      "text": "대법원 전자가족관계등록시스템에 인명용 한자 조회 메뉴가 있다",
+      "value": "인명용 한자 조회",
+      "source_hint": "https://efamily.scourt.go.kr/index.jsp"
+    },
+    {
+      "id": "c6",
+      "card": 9,
+      "text": "이름 한자 제한에는 예외가 있다",
+      "value": "예외",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2"
+    },
+    {
+      "id": "c7",
+      "card": 9,
+      "text": "이름·출생신고 관련 문의는 가까운 구청·주민센터(출생신고 접수처)에 할 수 있다",
+      "value": "구청·주민센터",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=1"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "자녀의 이름에는 한글 또는 통상 사용되는 한자를 사용해야 합니다(「가족관계의 등록 등에 관한 법률」 제44조제3항).",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "출생신고서를 접수할 경우에 출생자의 이름이 인명용 한자가 아닌 한자로 기재된 경우에는 신고인에게 인명용 한자의 사용이 권고됩니다 / 권고를 할 수 없거나 신고인이 권고에 따르지 않는 경우에는 그대로 접수하되, 가족관계등록부에 출생자의 이름을 한글로 기록합니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "이름자가 5자(성은 제외)를 초과하면 출생신고가 수리되지 않습니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "FIXED",
+        "before": "카드6·캡션: '부모와 같은 이름은 접수되지 않아요' / claim: '부모 등 가족관계증명서상 사람과 같은 이름은 접수되지 않는다(예외 있음)'",
+        "after": "카드6·캡션: '부모·조부모 등과 같은 이름은 접수되지 않아요' / claim: 예외 문구 삭제(공식 페이지에 이 규칙의 예외 없음), 범위를 조부모까지 명시",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "자녀의 이름은 출생자에 대한 부와 모의 가족관계증명서에 드러나는 사람(예를 들어, 출생자의 조부·조모·부·모 등)과 같은 이름을 사용한 경우에는 출생신고가 수리되지 않습니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://efamily.scourt.go.kr/cs/CsBltnWrtList.do?bltnbordId=0000010",
+        "source_quote": "인명용 한자 조회 | 고객센터 | 전자가족관계등록시스템 — 한자는 지정된 발음으로만 사용할 수 있습니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=2",
+        "source_quote": "다음의 경우에는 인명용 한자의 범위를 벗어났다 하더라도 출생신고가 수리될 수 있습니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1830&ccfNo=2&cciNo=1&cnpClsNo=1",
+        "source_quote": "출생신고는 신고사건 본인의 등록기준지 또는 신고인의 주소지나 현재지의 시(구)·읍·면사무소에 할 수 있습니다 / 시에 있어서는 … 출생자의 주민등록을 할 지역을 관할하는 동의 사무소에서도 할 수 있습니다",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "카피라이터 메모의 '2027-01-01 시행' 안내는 easylaw 페이지 상단 공지로, 대상 법률이 「모자보건법」이다(문구: '「모자보건법」 2027년 01월 01일 시행(개정 사항을 검토하여 향후 업데이트 예정입니다.)'). 이름 규칙의 근거는 「가족관계의 등록 등에 관한 법률」 제44조제3항, 같은 규칙 제37조, 예규 「이름의 기재문자와 관련된 가족관계등록사무」로 모자보건법과 별개이므로 인명용 한자·글자 수 규칙에 영향 없음. 페이지 기준일 2026-10-15. c3(5자)은 외국인 부모 나라의 신분등록부 이름 등 좁은 예외가 있으나 카드9·캡션의 '예외가 있을 수 있으니 문의' 단서로 커버되어 OK. c2: 카드5는 '권고 불가' 경우를 생략했지만 '권하고, 따르지 않으면 한글로 기록'은 공식 문장과 일치, 캡션은 '기록될 수 있어요'로 완화돼 OK. c6: 인명용 한자 예외(재판에 따른 등록부 정정 후 종전 이름, 약 15년 사회적 사용 증명)가 공식 페이지에 있음 — 카드9 '예외가 있을 수 있으니' 단서 적절. c7(숨은 주장) 추가: 카드9·캡션의 구청·주민센터 문의 안내."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "2026-11-20-leave-annual-severance",
+  "template": "f-webtoon",
+  "format": "webtoon",
+  "topic": "출산휴가·육아휴직 다녀오면 연차·퇴직금이 줄어들까? 근속·연차 모두 불이익 없이 산정",
+  "target_stage": "임신 중기(휴가 준비)~복직",
+  "hook_type": "통념뒤집기",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "휴가 가기 전에 걱정된다면",
+      "title": "휴가 다녀와도\n연차·퇴직금 안 깎여요",
+      "highlight": "안 깎여요",
+      "sub": "출산휴가·육아휴직과 근속, 이팔공과 함께 봐요",
+      "scene": "Ipalgong sits at a desk in a tidy home office with a calendar and a calculator in front of her, hand on her chin, looking a little worried.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong stands at a office desk packing a small box of belongings, glancing at a wall calendar with a thoughtful face.",
+      "caption": "휴가를 앞두고 짐을 정리하는 이팔공",
+      "dialogue": [
+        {
+          "text": "휴가 다녀오면 연차가 깎이겠지?",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table with a calculator and a notebook, tilting her head with a single small sweat drop.",
+      "caption": "퇴직금까지 계산해 보다가 갸웃",
+      "dialogue": [
+        {
+          "text": "퇴직금도 줄어드는 거 아니야?",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at her phone searching for information, eyebrows raised in curiosity, sitting on a sofa.",
+      "caption": "걱정이 되어 직접 알아보는 중",
+      "dialogue": [
+        {
+          "text": "일단 기준부터 찾아보자!",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong reads a document on her laptop with a pleasantly surprised expression, one hand lifted slightly.",
+      "caption": "근속기간 기준을 확인하고 놀람",
+      "dialogue": [
+        {
+          "text": "어, 근속은 계속 이어지네?",
+          "pos": "tr"
+        }
+      ],
+      "info": "육아휴직 기간은 근속기간에 포함돼요. 퇴직금 계속근로기간에도 들어가요.",
+      "highlight": "근속기간에 포함",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong checks a desk calendar and nods with a relieved smile, a laptop open beside her.",
+      "caption": "연차 계산 기준도 확인",
+      "dialogue": [
+        {
+          "text": "연차는 어떻게 세는 걸까?",
+          "pos": "tl"
+        }
+      ],
+      "info": "출산휴가·육아휴직 기간은 출근한 것으로 보고 연차를 계산해요.",
+      "highlight": "출근한 것으로",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes in a notebook at a tidy desk, looking focused and calm.",
+      "caption": "퇴직금 평균임금도 살펴보기",
+      "dialogue": [
+        {
+          "text": "그럼 평균임금은 어떻게 돼?",
+          "pos": "br"
+        }
+      ],
+      "info": "출산휴가·육아휴직 기간과 그 기간의 임금은 평균임금 계산에서 빠져요.",
+      "highlight": "평균임금 계산에서 빠져요",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong gently rests one hand on her belly and smiles with closed eyes at her desk, relieved and warm.",
+      "caption": "걱정을 내려놓은 이팔공",
+      "dialogue": [
+        {
+          "text": "다행이다, 마음 편히 쉬어야지!",
+          "pos": "tr"
+        }
+      ],
+      "info": "사업장 사정은 다를 수 있어 고용노동부 1350에서 확인해요.",
+      "highlight": "고용노동부 1350",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "쉬어도 근속과 연차는 이어져요",
+      "body": "출산휴가·육아휴직 기간은 근속과 연차 계산에서 불이익이 없도록 정해져 있어요. 내 사업장 사례는 고용노동부 1350에 확인해 보세요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "휴가 다녀와도 연차·퇴직금 안 깎여요\n\n출산휴가나 육아휴직을 다녀오면 연차나 퇴직금이 줄어들까 걱정하는 분들이 많아요. 이팔공과 함께 정리했어요.\n- 육아휴직 기간은 근속기간에 포함되고, 퇴직금 계속근로기간에도 들어가요\n- 출산전후휴가·육아휴직 기간은 출근한 것으로 보고 연차를 계산해요\n- 출산전후휴가·육아휴직 기간과 그 기간의 임금은 평균임금 계산에서 빠져서 퇴직금이 줄지 않도록 설계돼 있어요\n\n사업장 규모나 개인 사정에 따라 달라질 수 있으니, 궁금한 점은 고용노동부 1350에 확인해 보세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신중기",
+    "#출산준비",
+    "#출산휴가",
+    "#육아휴직",
+    "#연차휴가",
+    "#퇴직금",
+    "#직장맘",
+    "#워킹맘",
+    "#정부지원",
+    "#예비맘",
+    "#육아꿀팁"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 0,
+      "text": "출산전후휴가·육아휴직을 다녀와도 연차·퇴직금 산정에서 불이익이 없도록 정해져 있음 (근속기간 포함, 출근 간주, 평균임금 산정 제외)",
+      "value": "안 깎여요",
+      "source_hint": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202507300100076960997"
+    },
+    {
+      "id": "c2",
+      "card": 4,
+      "text": "육아휴직 기간은 근속기간에 포함되며 퇴직금 산정을 위한 계속근로기간에도 포함됨 (남녀고용평등법 제19조 제4항)",
+      "value": "근속기간에 포함",
+      "source_hint": "https://www.law.go.kr/법령/남녀고용평등과일ㆍ가정양립지원에관한법률/제19조"
+    },
+    {
+      "id": "c3",
+      "card": 4,
+      "text": "출산전후휴가 기간도 퇴직금 계속근로기간에 포함됨",
+      "value": "계속근로기간",
+      "source_hint": "https://www.moel.go.kr/faq/faqView.do?seqRepeat=33"
+    },
+    {
+      "id": "c4",
+      "card": 5,
+      "text": "출산전후휴가 기간과 육아휴직 기간은 연차유급휴가 산정 시 출근한 것으로 봄 (근로기준법 제60조 제6항)",
+      "value": "출근한 것으로",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제60조"
+    },
+    {
+      "id": "c5",
+      "card": 6,
+      "text": "출산전후휴가·육아휴직 기간과 그 기간 중 지급된 임금은 평균임금 산정기간과 임금 총액에서 각각 뺌 (근로기준법 시행령 제2조 제1항 제3호·제5호)",
+      "value": "평균임금 계산에서 빠져요",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법시행령/제2조"
+    },
+    {
+      "id": "c6",
+      "card": 6,
+      "text": "휴업 기간 중에도 퇴직급여 수급권을 보호하려는 취지로 평균임금 개념을 적용함 (고용노동부 해석)",
+      "value": "퇴직급여 수급권 보호",
+      "source_hint": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202404041348013751000"
+    },
+    {
+      "id": "c7",
+      "card": 7,
+      "text": "사업장 규모·개인별 사례는 고용노동부 고객상담센터 1350에서 확인",
+      "value": "1350",
+      "source_hint": "https://1350.moel.go.kr/home/hp/ch/callchat.do"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202507300100076960997",
+        "source_quote": "법정 육아기 근로시간 단축기간, 출산전후휴가 및 육아휴직기간 등은 계속근로기간에 포함됩니다.",
+        "checked_at": "2026-11-10",
+        "note": "종합 주장. 구성 근거는 c2(근속 포함)·c3(퇴직금 근속 포함)·c4(연차 출근 간주)·c5(평균임금 제외)로 각각 법령 원문 확인."
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/남녀고용평등과일ㆍ가정양립지원에관한법률/제19조",
+        "source_quote": "④ 사업주는 육아휴직을 마친 후에는 휴직 전과 같은 업무 또는 같은 수준의 임금을 지급하는 직무에 복귀시켜야 한다. 또한 제2항의 육아휴직 기간은 근속기간에 포함한다.",
+        "checked_at": "2026-11-10",
+        "note": "퇴직금 계속근로기간 포함은 고용노동부 답변(https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202507300100076960997): '법정 육아기 근로시간 단축기간, 출산전후휴가 및 육아휴직기간 등은 계속근로기간에 포함됩니다.'"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.moel.go.kr/faq/faqView.do?seqRepeat=33",
+        "source_quote": "근로기준법 제60조 제6항의 규정에 의하여 출산전후휴가기간은 출근한 것으로 간주하도록 규정되어 있으므로 퇴직금산정시 출산전후휴가기간은 근속기간에 포함하여야 합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/근로기준법/제60조",
+        "source_quote": "⑥ 제1항 및 제2항을 적용하는 경우 다음 각 호의 어느 하나에 해당하는 기간은 출근한 것으로 본다. … 2. 임신 중의 여성이 제74조제1항부터 제3항까지의 규정에 따른 휴가로 휴업한 기간 3. 「남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률」 제19조에 따른 육아휴직으로 휴업한 기간",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "FIXED",
+        "before": "휴가·휴직 기간과 그 기간의 임금은 평균임금 계산에서 빠져요.",
+        "after": "출산휴가·육아휴직 기간과 그 기간의 임금은 평균임금 계산에서 빠져요.",
+        "source_url": "https://www.law.go.kr/법령/근로기준법시행령/제2조",
+        "source_quote": "평균임금 산정기간 중에 다음 각 호의 어느 하나에 해당하는 기간이 있는 경우에는 그 기간과 그 기간 중에 지급된 임금은 평균임금 산정기준이 되는 기간과 임금의 총액에서 각각 뺀다. … 3. 법 제74조제1항부터 제3항까지의 규정에 따른 출산전후휴가 및 유산ㆍ사산 휴가 기간 … 5. 「남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률」 제19조에 따른 육아휴직 기간",
+        "checked_at": "2026-11-10",
+        "note": "값 자체는 맞음. '휴가·휴직'이 연차휴가·개인 휴직까지 포함하는 것으로 읽힐 수 있어 제외 대상을 출산휴가·육아휴직으로 한정(카드 7 info, 캡션 3번째 줄)."
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202404041348013751000",
+        "source_quote": "근로자의 퇴직급여 수급권을 보호하려는 취지",
+        "checked_at": "2026-11-10",
+        "note": "확정기여형(DC) 부담금 산정 질의에 대한 행정해석(근로복지과-23, 2013.01.02.). 카드 문구에는 직접 노출되지 않고 캡션 '퇴직금이 줄지 않도록 설계돼 있어요'의 근거."
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://1350.moel.go.kr/home/hp/ch/callchat.do",
+        "source_quote": "국번없이 1350(전화요금 : 유료) / 이용시간 : 평일 09:00 ~ 18:00",
+        "checked_at": "2026-11-10",
+        "note": "ARS 메뉴에 '4. 노동상담, 근로기준 및 산업안전', 'ARS 4 산전후휴가급여, 육아휴직급여 등 모성보호' 안내."
+      }
+    ],
+    "notes": "법령 원문은 국가법령정보센터 현행본(근로기준법 시행 2026-10-08본, 남녀고용평등법 2026-09-18본, 근로기준법 시행령 2025-10-23본)에서 확인. 주의(단서, 이번 점검에서 공식 원문 미확인): 연차 규정은 상시 5인 미만 사업장에 적용되지 않고, 퇴직금은 계속근로 1년 이상·주 15시간 이상 근로자 대상으로 알려져 있음 — 카드 8·캡션의 '사업장 규모나 개인 사정에 따라 달라질 수 있으니 1350 확인' 문구로 조건을 밝히고 있어 표지 '안 깎여요'는 법정 산정방식 기준으로 OK 처리. 5인 미만 연차 미적용은 이번에 공식 원문으로 확인하지 않았으므로 카드에 새로 넣지 않음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}

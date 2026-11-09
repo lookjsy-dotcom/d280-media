@@ -1,0 +1,250 @@
+{
+  "id": "2026-11-12-benefit-notifier-one-place",
+  "template": "f-webtoon",
+  "format": "webtoon",
+  "topic": "혜택 찾아 여기저기 뒤지다 지쳤다면 - 정부24 혜택알리미·맘편한 임신으로 한곳에서 확인",
+  "target_stage": "임신 중기 전체",
+  "hook_type": "손실회피",
+  "base_date": "2026-11-10",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "맘카페·인스타 뒤지다 지쳤다면",
+      "title": "몰라서 놓치기 전에\n한곳에서 확인해요",
+      "highlight": "한곳에서",
+      "sub": "정부24 혜택알리미와 맘편한 임신, 이팔공과 함께 봐요",
+      "scene": "Ipalgong sits on a sofa with her phone in one hand, looking at the screen with a thoughtful, slightly tired expression, a mug on the table beside her.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong scrolls on her phone in a cozy living room, tilting her head, a small sweat drop near her temple.",
+      "caption": "카페와 SNS를 여기저기 뒤지는 이팔공",
+      "dialogue": [
+        {
+          "text": "혜택 정보가 너무 흩어져 있어…",
+          "pos": "tl"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong rests her chin on her hand at the kitchen table, phone in front of her, looking puzzled.",
+      "caption": "내가 놓친 건 없을까?",
+      "dialogue": [
+        {
+          "text": "나만 모르고 지나가는 거 아냐?",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong looks at her phone with raised eyebrows, a small surprised sparkle near her face, sitting at a desk.",
+      "caption": "정부24에서 혜택알리미를 발견",
+      "dialogue": [
+        {
+          "text": "정부가 먼저 챙겨주는 서비스가 있대!",
+          "pos": "tl"
+        }
+      ],
+      "info": "정부24 혜택알리미는 몰라서 놓친 혜택을 먼저 안내해 줘요.",
+      "highlight": "먼저 안내",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong taps through the app on her phone, leaning forward with a focused, curious look at a sunny window seat.",
+      "caption": "메뉴를 눌러 보는 중",
+      "dialogue": [
+        {
+          "text": "내 상황으로 찾아볼 수 있네?",
+          "pos": "tr"
+        }
+      ],
+      "info": "나의 혜택·관심·발견·간편찾기·전체 혜택 메뉴가 있어요.",
+      "highlight": "간편찾기",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds her phone and points at it with one finger, brightening up, in a tidy living room.",
+      "caption": "임신 관련 서비스를 한 번에",
+      "dialogue": [
+        {
+          "text": "임신 관련은 맘편한 임신에 모여 있대!",
+          "pos": "tl"
+        }
+      ],
+      "info": "맘편한 임신에서 엽산제·철분제, 임신출산 진료비 등을 한 번에 신청해요.",
+      "highlight": "한 번에 신청",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong smiles and checks her phone while sitting on a sofa, one hand lightly resting on her belly.",
+      "caption": "산모·신생아 건강관리도 같이",
+      "dialogue": [
+        {
+          "text": "신청 가능한 걸 한곳에서 보네!",
+          "pos": "br"
+        }
+      ],
+      "info": "산모·신생아 건강관리 신청도 맘편한 임신에서 할 수 있어요.",
+      "highlight": "산모·신생아 건강관리",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong leans back on the sofa with her phone resting in her lap, eyes closed, relieved and warm, a hand on her belly.",
+      "caption": "한곳에서 정리하고 안도",
+      "dialogue": [
+        {
+          "text": "정리돼 있었네, 다행이다!",
+          "pos": "tr"
+        }
+      ],
+      "highlight": "",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "혜택은 한곳에서 내 상황으로 확인해요",
+      "body": "정부24 혜택알리미에서 내 혜택을 살펴보고, 임신 관련 신청은 맘편한 임신에서 한 번에 해 보세요. 일부 기능은 앱에서만 쓸 수 있고, 지원 내용과 자격은 서비스마다 달라요.",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "몰라서 놓치기 전에 한곳에서 확인해요\n\n맘카페와 인스타를 여기저기 뒤지다 지쳤다면, 이팔공처럼 정부24부터 열어 보세요.\n\n1) 정부24 혜택알리미는 몰라서 놓친 혜택을 먼저 안내해 줘요.\n2) 나의 혜택·간편찾기 메뉴로 내 상황에 맞는 혜택을 찾아볼 수 있어요.\n3) 맘편한 임신에서는 엽산제·철분제, 임신출산 진료비, 산모·신생아 건강관리를 한 번에 신청해요.\n\n일부 기능은 정부24 앱에서만 쓸 수 있고, 지원 내용과 자격은 서비스마다 달라서 신청 전에 안내를 꼭 확인해 주세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#임신중기",
+    "#출산준비",
+    "#정부지원",
+    "#정부24",
+    "#혜택알리미",
+    "#맘편한임신",
+    "#임신출산진료비",
+    "#임산부혜택",
+    "#육아정보",
+    "#예비맘",
+    "#육아웹툰",
+    "#이팔공"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 4,
+      "text": "정부24 혜택알리미는 '몰라서 놓쳤던 혜택, 이제는 정부가 먼저 챙겨드립니다'를 내세운 서비스다",
+      "value": "먼저 안내",
+      "source_hint": "https://plus.gov.kr/portal/benefitV2"
+    },
+    {
+      "id": "c2",
+      "card": 5,
+      "text": "혜택알리미 메뉴: 나의 혜택, 관심, 발견, 간편찾기, 전체 혜택, 설정. 간편찾기는 선택한 상황 조건으로 혜택을 검색한다",
+      "value": "간편찾기",
+      "source_hint": "https://plus.gov.kr/portal/benefitV2"
+    },
+    {
+      "id": "c3",
+      "card": 6,
+      "text": "맘편한 임신 원스톱서비스에서 엽산제·철분제 지원, 임신출산 진료비 지원 등 임신 관련 서비스를 한 번에 신청할 수 있다",
+      "value": "한 번에 신청",
+      "source_hint": "https://www.gov.kr/portal/onestopSvc/fertility"
+    },
+    {
+      "id": "c4",
+      "card": 7,
+      "text": "맘편한 임신에서 산모·신생아 건강관리 신청도 할 수 있다",
+      "value": "산모·신생아 건강관리",
+      "source_hint": "https://www.gov.kr/portal/onestopSvc/fertility"
+    },
+    {
+      "id": "c5",
+      "card": 9,
+      "text": "혜택알리미 영역에 '이 기능은 정부24 앱에서만 사용가능합니다' 안내가 있어 일부 기능은 앱 전용이다",
+      "value": "일부 기능은 앱에서만",
+      "source_hint": "https://plus.gov.kr/portal/benefitV2"
+    },
+    {
+      "id": "c6",
+      "card": 9,
+      "text": "맘편한 임신 안의 서비스마다 지원 대상·조건이 다르다(예: 에너지 바우처는 수급자 조건, 산모·신생아 건강관리는 신청 기간 있음)",
+      "value": "지원 내용과 자격은 서비스마다 달라요",
+      "source_hint": "https://www.gov.kr/portal/onestopSvc/fertility"
+    },
+    {
+      "id": "c7",
+      "card": 1,
+      "text": "혜택을 정부24 한곳(혜택알리미·맘편한 임신)에서 확인·신청할 수 있다 (표지·캡션)",
+      "value": "한곳에서",
+      "source_hint": "https://www.gov.kr/portal/onestopSvc/fertility"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-10",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://plus.gov.kr/portal/benefitV2",
+        "source_quote": "몰라서 놓쳤던 혜택, 이제는 정부가 먼저 챙겨드립니다",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://plus.gov.kr/portal/benefitV2",
+        "source_quote": "간편찾기: 선택한 상황 조건으로 빠르게 원하는 혜택을 찾아요 / 나의 혜택: 내가 받을 수 있는 혜택을 한 눈에 확인하세요 / 관심·발견·전체 혜택·설정 메뉴 병기",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/onestopSvc/fertility",
+        "source_quote": "엽산제, 철분제 등 임신지원 서비스를 한번에 통합하여 신청하는 서비스입니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/onestopSvc/fertility",
+        "source_quote": "산모·신생아 건강관리: 출산 예정일 40일 이전 ~ 출산일로부터 30일까지 신청 가능",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://plus.gov.kr/portal/benefitV2",
+        "source_quote": "이 기능은 정부24 앱에서만 사용가능합니다.",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/onestopSvc/fertility",
+        "source_quote": "에너지 바우처: 임신중이거나 분만 후 6개월 미만인 의료급여, 생계급여, 의료·생계급여 수급자 신청가능",
+        "checked_at": "2026-11-10"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://plus.gov.kr/portal/benefitV2",
+        "source_quote": "모든 정부 서비스, 이제 한 곳에서 찾아보세요 / 전체 혜택: 분야별로 제공되는 모든 혜택을 한곳에서 확인해요",
+        "checked_at": "2026-11-10"
+      }
+    ],
+    "notes": "c1 소개 문구는 혜택알리미 페이지(plus.gov.kr)에서 원문 '몰라서 놓쳤던 혜택, 이제는 정부가 먼저 챙겨드립니다' 직접 확인 — 카드4 말풍선 '정부가 먼저 챙겨주는 서비스'와 일치. c2·c4 source_quote는 페이지의 메뉴명/서비스명 라벨과 설명문을 이어 붙인 것(문장 자체는 원문). 카드·캡션 전체에서 claims 밖 사실 주장 추가 없음. 수정 사항 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-10",
+    "problems": []
+  }
+}
