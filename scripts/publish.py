@@ -116,7 +116,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=date.today().isoformat())
     ap.add_argument("--id")
-    ap.add_argument("--kind", choices=["carousel", "reel", "story", "both"], default="both")  # 하루 3번: 08:30 carousel / 12:30 reel / 21:00 story
+    # 하루 3번 (2026-11-10~): 08:30 carousel(매거진) / 12:30 reel(매거진) / 21:00 webtoon(웹툰 캐러셀). story는 수동 실행용으로만 남김
+    ap.add_argument("--kind", choices=["carousel", "reel", "story", "webtoon", "both"], default="both")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -132,7 +133,7 @@ def main():
         print("자격 증명 또는 public_base_url이 없어 dry-run으로 실행합니다.")
 
     dirs = [ROOT / "posts" / args.id] if args.id else sorted((ROOT / "posts").glob(f"{args.date}-*"))
-    kinds = ["carousel", "reel"] if args.kind == "both" else [args.kind]
+    kinds = ["carousel", "reel", "webtoon"] if args.kind == "both" else [args.kind]
     failed = False
     for d in dirs:
         # 발행 직전 관문 재검사 (팩트체크 만료·수정 반영)
@@ -142,7 +143,12 @@ def main():
             print(f"[HOLD] {post['id']} — 발행 안 함\n{gate.stdout}")
             log(post["id"], "-", "hold", gate.stdout.strip().replace("\n", " | ")[:300])
             continue
-        for kind in kinds:
+        webtoon = post.get("format") == "webtoon" or post.get("template") == "f-webtoon"
+        for slot in kinds:
+            # 웹툰은 저녁 webtoon 칸에서만 캐러셀로, 매거진은 아침 carousel·점심 reel·story 칸에서만 나간다
+            if (slot == "webtoon") != webtoon:
+                continue
+            kind = "carousel" if slot == "webtoon" else slot
             if kind == "story" and not (d / "story.png").exists():
                 print(f"[SKIP] {post['id']} story 이미지 없음")
                 continue
