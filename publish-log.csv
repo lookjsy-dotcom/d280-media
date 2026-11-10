@@ -20,3 +20,4 @@ time,id,kind,result,detail
 2026-11-10T13:20:47,2026-11-10-postpartum-center-tax,reel,published,18020255396954873
 2026-11-10T21:43:07,2026-11-10-high-risk-pregnancy-aid,carousel,deleted-by-user,18148766824572091
 2026-11-10T22:13:27,2026-11-10-high-risk-pregnancy-aid,carousel,deleted-by-user,17955170484325769
+2026-11-10T22:24:27,2026-11-10-high-risk-pregnancy-aid,carousel,error,HTTP Error 403: Forbidden
