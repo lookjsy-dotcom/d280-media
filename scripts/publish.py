@@ -22,6 +22,7 @@ import os
 import subprocess
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date, datetime
@@ -44,8 +45,12 @@ def graph(cred, method, path, **params):
         req = urllib.request.Request(f"{url}?{data.decode()}")
     else:
         req = urllib.request.Request(url, data=data, method="POST")
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read())
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:  # 오류 본문(사유)을 남긴다 — 토큰은 URL·본문에 넣지 않음
+        body = e.read().decode("utf-8", "replace")[:300]
+        raise RuntimeError(f"HTTP {e.code} {path}: {body}") from None
 
 
 def wait_ready(cred, container_id, tries=30):
