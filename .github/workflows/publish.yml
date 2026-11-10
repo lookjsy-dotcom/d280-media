@@ -6,6 +6,7 @@ on:
     - cron: "30 23 * * *"   # 08:30 KST carousel (전날 23:30 UTC)
     - cron: "30 3 * * *"    # 12:30 KST reel
     - cron: "0 12 * * *"    # 21:00 KST webtoon
+    - cron: "30 0 11 11 *"  # 일회성: 2026-11-11 09:30 KST — 11-10 웹툰 재발행(차단으로 밀림). 끝나면 지울 것
   workflow_dispatch:
     inputs:
       date:
@@ -36,6 +37,7 @@ jobs:
             "30 23 * * *") K=carousel ;;
             "30 3 * * *")  K=reel ;;
             "0 12 * * *")  K=webtoon ;;
+            "30 0 11 11 *") K=webtoon; D=2026-11-10 ;;
             *)             K="${{ github.event.inputs.kind }}"; K="${K:-both}" ;;
           esac
           echo "kind=$K"
