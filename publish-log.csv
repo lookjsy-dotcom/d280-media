@@ -20,4 +20,4 @@ time,id,kind,result,detail
 2026-11-10T13:20:47,2026-11-10-postpartum-center-tax,reel,published,18020255396954873
 2026-11-10T21:43:07,2026-11-10-high-risk-pregnancy-aid,carousel,deleted-by-user,18148766824572091
 2026-11-10T22:13:27,2026-11-10-high-risk-pregnancy-aid,carousel,deleted-by-user,17955170484325769
-2026-11-10T22:24:27,2026-11-10-high-risk-pregnancy-aid,carousel,error,HTTP Error 403: Forbidden
+2026-11-10T22:26:08,2026-11-10-high-risk-pregnancy-aid,carousel,error,"HTTP 403 17841465447585376/media_publish: {""error"":{""message"":""Application request limit reached"",""type"":""OAuthException"",""is_transient"":false,""code"":4,""error_subcode"":2207051,""error_user_title"":""\ud589\ub3d9\uc774 \ucc28\ub2e8\ub418\uc5c8\uc2b5\ub2c8\ub2e4"",""error_user_msg"":""Instagram\uc740 \ucee4\"
