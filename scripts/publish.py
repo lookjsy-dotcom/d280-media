@@ -63,10 +63,18 @@ def caption_of(post):
     return f"{post['caption']}\n\n{' '.join(post.get('hashtags', []))}".strip()
 
 
+def url_of(base, post_id, rel):
+    """공개 URL + 파일 내용 해시(?v=). 같은 주소로 다시 올리면 Instagram·CDN이 옛 이미지를 캐시에서 가져간다
+    (2026-11-10 웹툰 재발행 때 빈 카드가 그대로 나간 사고) — 내용이 바뀌면 주소도 바뀌게 한다."""
+    import hashlib
+    h = hashlib.sha1((ROOT / "posts" / post_id / rel).read_bytes()).hexdigest()[:10]
+    return f"{base}/{post_id}/{rel}?v={h}"
+
+
 def publish_carousel(cred, post, base):
     pngs = sorted((ROOT / "posts" / post["id"] / "cards").glob("*.png"))
     children = [graph(cred, "POST", f"{cred['ig_user_id']}/media",
-                      image_url=f"{base}/{post['id']}/cards/{p.name}", is_carousel_item="true")["id"] for p in pngs]
+                      image_url=url_of(base, post["id"], f"cards/{p.name}"), is_carousel_item="true")["id"] for p in pngs]
     for c in children:
         wait_ready(cred, c)
     parent = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="CAROUSEL",
@@ -78,9 +86,9 @@ def publish_carousel(cred, post, base):
 def publish_reel(cred, post, base):
     extra = {}
     if (ROOT / "posts" / post["id"] / "reel-cover.png").exists():  # 피드 격자에서 캐러셀 표지와 겹치지 않게 색 타일 표지(make_reel_cover.py)
-        extra["cover_url"] = f"{base}/{post['id']}/reel-cover.png"
+        extra["cover_url"] = url_of(base, post["id"], "reel-cover.png")
     cid = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="REELS",
-                video_url=f"{base}/{post['id']}/reel.mp4", caption=caption_of(post), share_to_feed="true", **extra)["id"]
+                video_url=url_of(base, post["id"], "reel.mp4"), caption=caption_of(post), share_to_feed="true", **extra)["id"]
     wait_ready(cred, cid)
     return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
 
@@ -88,7 +96,7 @@ def publish_reel(cred, post, base):
 def publish_story(cred, post, base):
     # 저녁 스토리 — 표지 + 고정 안내 문구(make_story.py). 스토리는 캡션이 없다.
     cid = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="STORIES",
-                image_url=f"{base}/{post['id']}/story.png")["id"]
+                image_url=url_of(base, post["id"], "story.png"))["id"]
     wait_ready(cred, cid)
     return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
 
