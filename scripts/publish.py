@@ -68,6 +68,19 @@ def caption_of(post):
     return f"{post['caption']}\n\n{' '.join(post.get('hashtags', []))}".strip()
 
 
+def publish_container(cred, cid):
+    """media_publish. 2026-11-11~14: API가 403(subcode 2207051 '행동 차단')을 돌려줬지만 실제로는 매번 발행됐다.
+    그래서 오류가 나면 컨테이너 상태를 다시 보고, PUBLISHED면 방금 올라간 게시물 id를 성공으로 돌려준다(중복 재시도 방지)."""
+    try:
+        return publish_container(cred, cid)
+    except RuntimeError:
+        time.sleep(15)
+        if graph(cred, "GET", cid, fields="status_code").get("status_code") == "PUBLISHED":
+            latest = graph(cred, "GET", f"{cred['ig_user_id']}/media", fields="id", limit=1)["data"][0]["id"]
+            return f"{latest} (발행 응답은 오류였지만 컨테이너 PUBLISHED 확인)"
+        raise
+
+
 def url_of(base, post_id, rel):
     """공개 URL + 파일 내용 해시(?v=). 같은 주소로 다시 올리면 Instagram·CDN이 옛 이미지를 캐시에서 가져간다
     (2026-11-10 웹툰 재발행 때 빈 카드가 그대로 나간 사고) — 내용이 바뀌면 주소도 바뀌게 한다."""
@@ -85,7 +98,7 @@ def publish_carousel(cred, post, base):
     parent = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="CAROUSEL",
                    children=",".join(children), caption=caption_of(post))["id"]
     wait_ready(cred, parent)
-    return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=parent)["id"]
+    return publish_container(cred, parent)
 
 
 def publish_reel(cred, post, base):
@@ -95,7 +108,7 @@ def publish_reel(cred, post, base):
     cid = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="REELS",
                 video_url=url_of(base, post["id"], "reel.mp4"), caption=caption_of(post), share_to_feed="true", **extra)["id"]
     wait_ready(cred, cid)
-    return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
+    return publish_container(cred, cid)
 
 
 def publish_story(cred, post, base):
@@ -103,7 +116,7 @@ def publish_story(cred, post, base):
     cid = graph(cred, "POST", f"{cred['ig_user_id']}/media", media_type="STORIES",
                 image_url=url_of(base, post["id"], "story.png"))["id"]
     wait_ready(cred, cid)
-    return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
+    return publish_container(cred, cid)
 
 
 PUBLISHERS = {"carousel": publish_carousel, "reel": publish_reel, "story": publish_story}
