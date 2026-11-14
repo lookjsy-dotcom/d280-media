@@ -72,7 +72,7 @@ def publish_container(cred, cid):
     """media_publish. 2026-11-11~14: API가 403(subcode 2207051 '행동 차단')을 돌려줬지만 실제로는 매번 발행됐다.
     그래서 오류가 나면 컨테이너 상태를 다시 보고, PUBLISHED면 방금 올라간 게시물 id를 성공으로 돌려준다(중복 재시도 방지)."""
     try:
-        return publish_container(cred, cid)
+        return graph(cred, "POST", f"{cred['ig_user_id']}/media_publish", creation_id=cid)["id"]
     except RuntimeError:
         time.sleep(15)
         if graph(cred, "GET", cid, fields="status_code").get("status_code") == "PUBLISHED":
