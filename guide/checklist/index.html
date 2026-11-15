@@ -1,0 +1,648 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>임신·출산 지원 체크리스트</title>
+<meta name="description" content="임신 확인부터 생후 3개월까지, 시기별로 신청·등록·확인할 정부지원을 한 장에 모은 체크리스트예요.">
+<meta property="og:title" content="임신~출산 정부지원 신청 체크리스트 (시기별)">
+<meta property="og:description" content="임신 확인부터 생후 3개월까지, 놓치기 쉬운 신청·마감을 시기별로 체크해 보세요. 공식 안내 링크 포함.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#F6F1E7">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+  :root {
+    --bg: #F6F1E7;
+    --card: #FFFCF6;
+    --ink: #2A2420;
+    --muted: #6B6159;
+    --line: #E6DCCB;
+    --accent: #E8743B;
+    --accent-soft: #FBE3D4;
+    --done: #A39A90;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 0 16px 48px; }
+
+  header.top { padding: 28px 0 8px; }
+  .handle { display: inline-block; font-size: 13px; font-weight: 700; color: var(--accent); letter-spacing: .02em; margin-bottom: 8px; }
+  h1 { font-size: 24px; line-height: 1.3; margin: 0 0 8px; letter-spacing: -0.02em; }
+  .intro { margin: 0 0 14px; color: var(--muted); }
+  .basis { font-size: 14px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+  .basis strong { color: var(--ink); }
+  .basis p { margin: 4px 0 0; color: var(--muted); }
+
+  .progress {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg);
+    padding: 12px 0 10px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 4px;
+  }
+  .progress-row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; font-size: 14px; }
+  .progress-row b { font-size: 16px; color: var(--accent); }
+  .bar { height: 8px; background: var(--line); border-radius: 99px; overflow: hidden; margin-top: 8px; }
+  .bar > span { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 99px; transition: width .25s ease; }
+  .reset { font: inherit; font-size: 13px; color: var(--muted); background: none; border: 0; padding: 6px 0 6px 8px; text-decoration: underline; cursor: pointer; min-height: 32px; }
+
+  nav.toc { display: flex; flex-wrap: wrap; gap: 8px; padding: 12px 0 4px; }
+  nav.toc a {
+    font-size: 13px; text-decoration: none; color: var(--ink);
+    background: var(--card); border: 1px solid var(--line); border-radius: 99px;
+    padding: 8px 12px; min-height: 36px; display: inline-flex; align-items: center;
+  }
+
+  section.stage { margin-top: 28px; scroll-margin-top: 80px; }
+  section.stage h2 {
+    font-size: 19px; margin: 0 0 4px; letter-spacing: -0.01em;
+    display: flex; align-items: center; gap: 8px;
+  }
+  section.stage h2::before { content: ""; width: 6px; height: 20px; border-radius: 3px; background: var(--accent); }
+  .stage-sub { margin: 0 0 12px; font-size: 14px; color: var(--muted); }
+  .stage-count { font-size: 13px; font-weight: 600; color: var(--muted); margin-left: auto; }
+
+  ul.items { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  li.item {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 14px 14px 12px;
+  }
+  li.item label { display: flex; gap: 12px; align-items: flex-start; cursor: pointer; }
+  li.item input[type="checkbox"] {
+    appearance: none; -webkit-appearance: none;
+    flex: 0 0 auto; width: 28px; height: 28px; margin: 0;
+    border: 2px solid var(--accent); border-radius: 8px; background: #fff;
+    display: grid; place-content: center; cursor: pointer;
+  }
+  li.item input[type="checkbox"]::after {
+    content: ""; width: 12px; height: 7px;
+    border-left: 3px solid #fff; border-bottom: 3px solid #fff;
+    transform: rotate(-45deg) translate(1px, -1px); opacity: 0;
+  }
+  li.item input[type="checkbox"]:checked { background: var(--accent); }
+  li.item input[type="checkbox"]:checked::after { opacity: 1; }
+  li.item input[type="checkbox"]:focus-visible { outline: 3px solid var(--accent-soft); outline-offset: 2px; }
+  .t { font-weight: 700; font-size: 16px; display: block; margin-top: 2px; }
+  .d { display: block; font-size: 15px; margin-top: 4px; }
+  li.item.is-done .t { color: var(--done); text-decoration: line-through; }
+  li.item.is-done .d { color: var(--done); }
+  .meta { margin: 8px 0 0 40px; font-size: 13.5px; color: var(--muted); }
+  .meta .where b { color: var(--ink); font-weight: 600; }
+  .meta .care { display: inline-block; margin-top: 6px; background: var(--accent-soft); color: #8A3E14; border-radius: 6px; padding: 2px 8px; font-weight: 600; }
+  .meta a.src {
+    display: inline-flex; align-items: center; min-height: 36px; margin-top: 4px;
+    color: var(--accent); font-weight: 700; text-decoration: none;
+  }
+  .meta a.src::after { content: " ↗"; }
+  .meta a.src:hover { text-decoration: underline; }
+
+  section.safety li.item { background: transparent; border-style: dashed; }
+
+  footer { margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--line); text-align: center; font-size: 14px; color: var(--muted); }
+  footer b { color: var(--accent); }
+
+  @media print {
+    :root { --bg: #fff; --card: #fff; }
+    body { font-size: 11.5pt; background: #fff; }
+    .wrap { max-width: none; padding: 0; }
+    .progress .bar, .reset, nav.toc { display: none; }
+    .progress { position: static; border: 0; padding: 0 0 6px; }
+    section.stage { break-inside: auto; margin-top: 16px; }
+    li.item { break-inside: avoid; border-color: #ccc; padding: 8px 10px; }
+    li.item input[type="checkbox"] { width: 18px; height: 18px; border-color: #555; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .meta { margin-left: 30px; }
+    .meta a.src { min-height: 0; color: #000; }
+    .meta a.src::after { content: " (" attr(href) ")"; font-weight: 400; font-size: 8pt; word-break: break-all; }
+    .meta .care { background: none; padding: 0; color: #000; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <span class="handle">@d280.mag</span>
+  <h1>임신~출산 정부지원 신청 체크리스트 (시기별)</h1>
+  <p class="intro">임신 확인부터 생후 3개월까지, 내가 직접 신청·등록·확인해야 받는 것들을 시기별로 모았어요.</p>
+  <div class="basis">
+    <strong>정보 확인일: 2026-11-15</strong>
+    <p>제도는 바뀔 수 있어요. 신청 전 공식 안내에서 최신 내용을 꼭 확인하세요.</p>
+  </div>
+</header>
+
+<div class="progress" aria-live="polite">
+  <div class="progress-row">
+    <span><b id="doneCount"></b> 완료</span>
+    <button type="button" class="reset" id="resetBtn">체크 모두 지우기</button>
+  </div>
+  <div class="bar" aria-hidden="true"><span id="barFill"></span></div>
+</div>
+
+<nav class="toc" aria-label="시기 바로가기">
+  <a href="#s1">임신 확인 직후</a>
+  <a href="#s2">임신 중기</a>
+  <a href="#s3">임신 후기</a>
+  <a href="#s4">출산 직후~1개월</a>
+  <a href="#s5">생후 1~3개월</a>
+  <a href="#s6">연말·기타</a>
+  <a href="#s7">안전 체크</a>
+</nav>
+
+<!-- ============ 임신 확인 직후 ============ -->
+<section class="stage" id="s1">
+  <h2>임신 확인 직후</h2>
+  <p class="stage-sub">확인서 받은 날부터 바로 챙길 수 있는 것들이에요.</p>
+  <ul class="items">
+    <li class="item" data-id="voucher">
+      <label><input type="checkbox"><span>
+        <span class="t">임신·출산 진료비 바우처 신청 (국민행복카드)</span>
+        <span class="d">단태아 임신 1회당 100만 원(다태아는 기본 140만 원, 분만취약지 거주 시 20만 원 추가). 임신 확인 후 바로 신청할 수 있고, 이용권 발급일 이전 진료비는 소급되지 않아요. 분만예정일(출산·유산·사산일)로부터 2년이 지나면 남은 금액은 자동 소멸돼요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 건강보험공단(지사·홈페이지·앱), 전담 금융기관, 행정복지센터·보건소, 정부24 · 문의 1577-1000</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="hc-register">
+      <label><input type="checkbox"><span>
+        <span class="t">보건소 임산부 등록 (엽산제·철분제)</span>
+        <span class="d">임신 사실을 신고하면 임산부로 등록되고 모자보건수첩을 받아요. 등록 임산부는 엽산제, 임신 16주 이상부터 철분제를 지원받을 수 있어요. 지급 기간·수량은 지역마다 달라요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신고</b> 보건소 또는 의료기관 (지원 내용은 거주지 보건소에 문의)</div>
+        <span class="care">담당 의료진과 상의하세요</span><br>
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&amp;csmSeq=735&amp;ccfNo=2&amp;cciNo=1&amp;cnpClsNo=2" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="onestop-preg">
+      <label><input type="checkbox"><span>
+        <span class="t">맘편한 임신 원스톱으로 한 번에 신청</span>
+        <span class="d">엽산제·철분제 지원, 임신출산 진료비 지원, 산모·신생아 건강관리 등 임신 관련 서비스를 한 번에 신청할 수 있어요. 서비스마다 대상·조건이 달라요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 정부24 맘편한 임신</div>
+        <a class="src" href="https://www.gov.kr/portal/onestopSvc/fertility" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="hours-early">
+      <label><input type="checkbox"><span>
+        <span class="t">임신기 근로시간 단축 신청 (임신 12주 이내)</span>
+        <span class="d">하루 2시간 단축을 신청할 수 있고 회사는 허용해야 해요(1시간만 단축도 가능). 단축을 이유로 임금을 깎을 수 없어요. 단축 시작 예정일 3일 전까지 의사 진단서를 붙여 신청해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 회사(사용자)에 신청서 제출 · 전자문서 가능</div>
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&amp;csmSeq=2855&amp;ccfNo=2&amp;cciNo=1&amp;cnpClsNo=1" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="flu">
+      <label><input type="checkbox"><span>
+        <span class="t">임신부 독감 무료 접종</span>
+        <span class="d">임신부는 국가 무료 예방접종 대상이에요. 무료 접종 기간은 2026년 9월 21일부터 2027년 4월 30일까지예요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>접종</b> 주소지와 관계없이 가까운 위탁의료기관·보건소</div>
+        <span class="care">담당 의료진과 상의하세요</span><br>
+        <a class="src" href="https://www.korea.kr/news/policyNewsView.do?newsId=148970587" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- ============ 임신 중기 ============ -->
+<section class="stage" id="s2">
+  <h2>임신 중기</h2>
+  <p class="stage-sub">회사 생활 권리와 출산 후 계획을 미리 잡아두는 시기예요.</p>
+  <ul class="items">
+    <li class="item" data-id="checkup-time">
+      <label><input type="checkbox"><span>
+        <span class="t">태아검진 시간, 회사에 청구하기</span>
+        <span class="d">검진은 임신 28주까지 4주마다 1회, 29~36주는 2주마다 1회예요. 검진에 필요한 시간을 청구하면 회사는 허용해야 하고, 이를 이유로 임금을 깎을 수 없어요(상시 5인 이상 사업장).</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>청구</b> 회사(사용자)</div>
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&amp;csmSeq=2604&amp;ccfNo=1&amp;cciNo=3&amp;cnpClsNo=2" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="overtime">
+      <label><input type="checkbox"><span>
+        <span class="t">시간외·야간·휴일근로 확인</span>
+        <span class="d">임신 중에는 신청하지 않아도 시간외근로가 금지돼요. 오후 10시~오전 6시 야간근로와 휴일근로도 원칙적으로 금지예요. 요구하면 회사는 쉬운 종류의 근로로 전환해야 해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>문의</b> 사업장 상황에 따라 적용이 다를 수 있어 고용노동부에 문의</div>
+        <a class="src" href="https://www.law.go.kr/법령/근로기준법/제74조" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="train">
+      <label><input type="checkbox"><span>
+        <span class="t">임산부 열차 할인 등록</span>
+        <span class="d">임산부와 동행 1명이 일반실 운임 40% 할인을 받아요. 출산예정일 +1년까지 적용되고, 등록해야 할인돼요. 철도 회원 가입이 먼저 필요하고, 명절 특별수송기간에는 운영하지 않아요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>등록</b> 정부24(맘편한 임신), 철도 운영사 홈페이지·앱, 역 창구·행정복지센터·보건소</div>
+        <a class="src" href="https://www.gov.kr/portal/service/serviceInfo/B55145700016" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="carecenter-contract">
+      <label><input type="checkbox"><span>
+        <span class="t">산후조리원 계약 전 약관 확인</span>
+        <span class="d">공정위가 시정한 5개 유형을 계약서에서 확인해요: 환불 기준, 예정일 변동 시 정산, 감염 책임, 후기 작성 제한, 휴대품 분실 책임. 피해가 생기면 한국소비자원에 상담할 수 있어요.</span>
+      </span></label>
+      <div class="meta">
+        <a class="src" href="https://www.ftc.go.kr/www/selectBbsNttView.do?key=12&amp;bordCd=3&amp;nttSn=46456" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="leave-66">
+      <label><input type="checkbox"><span>
+        <span class="t">부부 육아휴직 6+6 계획 세우기</span>
+        <span class="d">자녀 생후 18개월 이내에 부모가 모두 육아휴직을 쓰면(번갈아 써도 적용) 첫 6개월은 통상임금 100%를 받아요(월 상한 있음, 금액은 공식 안내에서 확인). 고용보험 피보험단위기간 180일 이상이 필요해요. 급여는 휴직 시작 후 1개월째부터, 종료 후 12개월 이내에 신청해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 고용24 또는 거주지·사업장 소재지 고용센터</div>
+        <a class="src" href="https://m.work24.go.kr/cm/c/f/1100/selecSystInfo.do?systClId=SC00000251&amp;systId=SI00000402" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- ============ 임신 후기 ============ -->
+<section class="stage" id="s3">
+  <h2>임신 후기 (출산 전 준비)</h2>
+  <p class="stage-sub">출산 전에 신청해 두면 출산 후가 훨씬 가벼워요.</p>
+  <ul class="items">
+    <li class="item" data-id="hours-late">
+      <label><input type="checkbox"><span>
+        <span class="t">임신기 근로시간 단축 신청 (32주 이후)</span>
+        <span class="d">임신 32주 이후(218일부터) 출산 전날까지 하루 2시간 단축을 신청할 수 있어요. 시작 예정일 3일 전까지 신청하고, 같은 임신으로 다시 신청하면 진단서는 생략할 수 있어요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 회사(사용자)에 신청서 제출</div>
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&amp;csmSeq=2855&amp;ccfNo=2&amp;cciNo=1&amp;cnpClsNo=1" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="helper">
+      <label><input type="checkbox"><span>
+        <span class="t">산모·신생아 건강관리(산후도우미) 신청</span>
+        <span class="d">출산예정일 40일 전부터 출산일로부터 60일까지 신청해요. 기준중위소득 150% 이하가 기본 대상이고, 초과 가정은 시·도 예외지원으로 받을 수 있어요(지역마다 다름). 바우처는 유효기간이 지나면 남아도 소멸돼요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 주민등록 주소지 관할 시·군·구(보건소) · 온라인 복지로·정부24</div>
+        <a class="src" href="https://www.gov.kr/portal/service/serviceInfo/PTR000050390" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="spouse-leave">
+      <label><input type="checkbox"><span>
+        <span class="t">배우자 출산전후휴가 일정 잡기</span>
+        <span class="d">출산예정일 50일 전부터 출산 후 120일까지 쓸 수 있고, 회사는 이 기간 안에 20일의 휴가를 줘야 해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 회사에 배우자의 출산(예정)일과 휴가 사용 날짜를 적은 문서 제출</div>
+        <a class="src" href="https://www.korea.kr/news/policyNewsView.do?newsId=148969857" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="leave-confirm">
+      <label><input type="checkbox"><span>
+        <span class="t">출산전후휴가 확인서 회사에 요청</span>
+        <span class="d">출산휴가 급여 신청 때 첨부하는 서류(최초 1회)예요. 근로자가 요구하면 회사는 확인서를 내줘야 해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>요청</b> 회사(사업주)</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="delivery-copay">
+      <label><input type="checkbox"><span>
+        <span class="t">분만 입원비 본인부담 확인</span>
+        <span class="d">건강보험 가입자·피부양자는 자연분만·제왕절개 입원진료비 본인부담금이 전액 면제되고, 입원 식대는 50% 면제예요. 상급병실료·비급여 항목은 병원에 따로 확인해요.</span>
+      </span></label>
+      <div class="meta">
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&amp;csmSeq=735&amp;ccfNo=3&amp;cciNo=2&amp;cnpClsNo=1" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="name-hanja">
+      <label><input type="checkbox"><span>
+        <span class="t">아기 이름 한자·글자 수 확인</span>
+        <span class="d">이름에는 한글 또는 인명용 한자만 쓸 수 있고, 성을 빼고 5자 이하여야 해요. 부모 가족관계증명서에 나오는 사람과 같은 이름은 출생신고가 수리되지 않아요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>조회</b> 대법원 전자가족관계등록시스템 인명용 한자 조회</div>
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&amp;csmSeq=1830&amp;ccfNo=2&amp;cciNo=1&amp;cnpClsNo=2" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- ============ 출산 직후~1개월 ============ -->
+<section class="stage" id="s4">
+  <h2>출산 직후~1개월</h2>
+  <p class="stage-sub">마감이 가장 촘촘한 시기예요. 출생신고 날 한 번에 묶어서 처리해요.</p>
+  <ul class="items">
+    <li class="item" data-id="birth-report">
+      <label><input type="checkbox"><span>
+        <span class="t">출생신고 (출생일부터 1개월 이내)</span>
+        <span class="d">병원의 출생통보는 신고를 대신하지 않아요. 부모가 직접 출생신고를 해야 하고, 정당한 사유 없이 기간을 넘기면 과태료 대상이에요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신고</b> 가족관계등록 관서 방문·우편, 대법원 전자가족관계등록시스템(인터넷)</div>
+        <a class="src" href="https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12700000045" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="onestop-birth">
+      <label><input type="checkbox"><span>
+        <span class="t">행복출산 원스톱으로 수당 한 번에 신청 (60일 이내)</span>
+        <span class="d">부모급여·아동수당·양육수당·저소득층 기저귀·조제분유 지원은 출생일 포함 60일 이내에 신청하면 출생한 달부터 소급돼요. 60일이 지나면 신청한 달부터 지원돼요. 아동수당은 1인당 기본 월 10만 원이에요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 출생자 주민등록 주소지 읍면동 주민센터(방문) 또는 정부24(출산자 본인·배우자)</div>
+        <a class="src" href="https://www.gov.kr/portal/service/serviceInfo/174000000029" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="first-voucher">
+      <label><input type="checkbox"><span>
+        <span class="t">첫만남이용권 신청</span>
+        <span class="d">첫째아 200만 원, 둘째아 이상 300만 원. 2024년 1월 1일 이후 출생아는 생년월일로부터 2년 내에 신청해서 사용해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 행복출산 원스톱으로 함께 신청</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="dependent">
+      <label><input type="checkbox"><span>
+        <span class="t">아기 건강보험 피부양자 등록 확인 (직장가입자)</span>
+        <span class="d">출생신고 뒤 아기가 피부양자로 올라갔는지 확인해요. 안 돼 있으면 자격취득일(출생한 날)로부터 14일 이내에 신고해요. 지역가입자는 별도로 확인이 필요해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신고</b> 공단 지사 방문·우편·팩스·고객센터·누리집·모바일 앱 · 문의 1577-1000</div>
+        <a class="src" href="https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="electric">
+      <label><input type="checkbox"><span>
+        <span class="t">출산 가구 전기요금 할인 신청</span>
+        <span class="d">출생일로부터 3년 미만 영아가 있는 주택용 가구는 전기요금 30% 할인(월 1만 6,000원 한도). 신청해야 적용돼요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 한전ON(온라인), 전화 123, 한전 사업소 방문 · 출생신고 때 행복출산으로도 신청 가능</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B41000200003" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="maternity-pay">
+      <label><input type="checkbox"><span>
+        <span class="t">출산휴가 급여 신청</span>
+        <span class="d">휴가 시작일 이후 1개월부터 휴가 종료일 이후 12개월 이내에 신청해요. 상한액은 30일 기준 220만 원(2026년 고시)이고, 피보험 단위기간 합산 180일 이상이 필요해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 고용24(온라인), 관할 고용센터 방문, 우편 · 문의 1350</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001460" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="checkup-1">
+      <label><input type="checkbox"><span>
+        <span class="t">영유아 건강검진 1차 (생후 14~35일)</span>
+        <span class="d">1차 검진은 출생신고 전에도 사전 등록할 수 있어요. 검진 기간 안에 받으면 본인 부담이 없어요.</span>
+      </span></label>
+      <div class="meta">
+        <span class="care">담당 의료진과 상의하세요</span><br>
+        <a class="src" href="https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/promotion/1210326_1118.html" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="vaccine-0">
+      <label><input type="checkbox"><span>
+        <span class="t">신생아 예방접종 (출생 시~1개월)</span>
+        <span class="d">B형간염은 출생 시·1개월, 결핵(BCG)은 생후 약 4주 이내 1회예요. BCG 경피용은 국가예방접종에 포함되지 않아 전액 본인 부담이에요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>접종</b> 보건소 또는 위탁의료기관(그래야 비용 지원)</div>
+        <span class="care">담당 의료진과 상의하세요</span><br>
+        <a class="src" href="https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1&amp;menuCd=131" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="screening">
+      <label><input type="checkbox"><span>
+        <span class="t">신생아 대사이상·난청 검사비 신청</span>
+        <span class="d">출생일로부터 1년 이내에 신청해요. 가구 소득과 관계없이 지원되고, 대사이상 확진검사비는 확진된 경우 한도 7만 원이에요. 영수증·검사 결과지 등 증빙이 필요해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 주소지 관할 보건소 · 온라인 e보건소 공공보건포털, 아이마중 앱</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- ============ 생후 1~3개월 ============ -->
+<section class="stage" id="s5">
+  <h2>생후 1~3개월</h2>
+  <p class="stage-sub">한숨 돌린 뒤 놓치기 쉬운 신청들이에요.</p>
+  <ul class="items">
+    <li class="item" data-id="vaccine-2m">
+      <label><input type="checkbox"><span>
+        <span class="t">생후 2개월 예방접종</span>
+        <span class="d">DTaP·폴리오·Hib·폐렴구균 접종이 2개월에 시작돼요. 로타바이러스는 백신 종류에 따라 2회 또는 3회이고, 8개월 0일까지만 접종할 수 있어요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>접종</b> 보건소 또는 위탁의료기관 · 보호자 신분증과 예방접종수첩 지참</div>
+        <span class="care">담당 의료진과 상의하세요</span><br>
+        <a class="src" href="https://nip.kdca.go.kr/irhp/index.jsp" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="spouse-pay">
+      <label><input type="checkbox"><span>
+        <span class="t">배우자 출산전후휴가 급여 신청</span>
+        <span class="d">우선지원대상기업 소속이면 고용보험에서 휴가 급여가 나와요(2026년 상한 20일분 1,684,210원). 휴가가 끝난 날 이후 12개월 이내에 신청하고, 피보험 단위기간 합산 180일 이상이 필요해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 관할 고용센터 방문, 고용24(온라인), 우편</div>
+        <a class="src" href="https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000004" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="high-risk">
+      <label><input type="checkbox"><span>
+        <span class="t">고위험 임산부 입원 의료비 지원 (해당 시)</span>
+        <span class="d">19개 고위험 임신질환으로 입원치료를 받았다면 전액본인부담금·비급여 진료비의 90%를 1인당 최대 300만 원까지 지원해요. 소득 기준은 없고, 분만일로부터 6개월 이내에 신청해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 주소지 관할 보건소 · 온라인 e보건소 공공보건포털, 아이마중 앱</div>
+        <span class="care">담당 의료진과 상의하세요</span><br>
+        <a class="src" href="https://www.mohw.go.kr/menu.es?mid=a10711020200" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="idolbom">
+      <label><input type="checkbox"><span>
+        <span class="t">아이돌봄서비스 미리 준비 (생후 3개월부터 이용)</span>
+        <span class="d">시간제서비스는 생후 3개월 이상부터 이용할 수 있어요. ① 웹회원가입·정부지원 자격 확인 ② 국민행복카드 발급·예치금 충전 ③ 서비스 신청 순서예요. 정부지원 범위는 양육공백·소득 기준에 따라 달라요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 아이돌봄 누리집 · 문의 1577-8136</div>
+        <a class="src" href="https://www.idolbom.go.kr" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- ============ 연말·기타 ============ -->
+<section class="stage" id="s6">
+  <h2>연말·기타</h2>
+  <p class="stage-sub">연말정산과 상황별로 챙길 것들이에요.</p>
+  <ul class="items">
+    <li class="item" data-id="birth-credit">
+      <label><input type="checkbox"><span>
+        <span class="t">연말정산 출산·입양 세액공제</span>
+        <span class="d">올해 출산하거나 입양 신고한 자녀가 있으면 첫째 연 30만 원, 둘째 연 50만 원, 셋째 이상 연 70만 원을 공제받아요. 내년 출산이면 내년 귀속이에요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 연말정산 때 근로소득원천징수영수증 자녀세액공제 항목에 기입 · 문의 국세상담센터 126</div>
+        <a class="src" href="https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7875&amp;mi=6596" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="carecenter-tax">
+      <label><input type="checkbox"><span>
+        <span class="t">산후조리원비 의료비 세액공제</span>
+        <span class="d">출산 1회당 200만 원 이내 금액이 의료비 공제 대상이에요(의료비는 총급여의 3% 초과분부터, 공제율 15%). 간소화 서비스에 안 보이면 조리원에서 영수증을 받아 제출해요. 요건은 귀속 연도에 따라 달라질 수 있어 국세청 안내를 확인해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>증빙</b> 이름·이용금액이 적힌 영수증 또는 연말정산 간소화 서비스</div>
+        <a class="src" href="https://www.korea.kr/news/policyNewsView.do?newsId=148934424" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="home-birth">
+      <label><input type="checkbox"><span>
+        <span class="t">자택·이송 중 출산했다면 요양비 신청</span>
+        <span class="d">자택 출산이나 요양기관으로 이송 중 출산한 경우 요양비 25만 원을 받을 수 있어요. 출산일로부터 3년 이내에 신청하고, 출산사실 증명 서류(인우보증서·출산확인서 등)가 필요해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신청</b> 국민건강보험공단 지사</div>
+        <a class="src" href="https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&amp;csmSeq=735&amp;ccfNo=3&amp;cciNo=2&amp;cnpClsNo=1" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="jobseeker">
+      <label><input type="checkbox"><span>
+        <span class="t">퇴사했다면 구직급여 수급기간 연기 신고</span>
+        <span class="d">구직급여 수급기간은 이직일 다음 날부터 12개월이에요. 임신·출산 등으로 취업할 수 없으면 그 기간을 더해 최대 4년까지 연기할 수 있고, 신고서는 원칙적으로 수급기간 안에 내요. 수급자격 여부는 고용센터에서 확인해요.</span>
+      </span></label>
+      <div class="meta">
+        <div class="where"><b>신고</b> 신청지 관할 고용센터 (본인 또는 대리인)</div>
+        <a class="src" href="https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&amp;csmSeq=722&amp;ccfNo=2&amp;cciNo=3&amp;cnpClsNo=1" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+    <li class="item" data-id="notifier">
+      <label><input type="checkbox"><span>
+        <span class="t">정부24 혜택알리미로 놓친 혜택 확인</span>
+        <span class="d">간편찾기에서 상황 조건을 골라 받을 수 있는 혜택을 검색할 수 있어요. 일부 기능은 정부24 앱에서만 쓸 수 있어요.</span>
+      </span></label>
+      <div class="meta">
+        <a class="src" href="https://plus.gov.kr/portal/benefitV2" target="_blank" rel="noopener">공식 안내</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- ============ 안전 체크 ============ -->
+<section class="stage safety" id="s7">
+  <h2>같이 챙길 안전 체크</h2>
+  <p class="stage-sub">신청은 아니지만 출산 전후에 꼭 확인할 것들이에요.</p>
+  <ul class="items">
+    <li class="item" data-id="safe-carseat">
+      <label><input type="checkbox"><span>
+        <span class="t">퇴원 날부터 카시트</span>
+        <span class="d">병원·조리원에서 차로 퇴원한다면 그날부터 6세 미만 카시트 장착 의무가 적용돼요(신생아 예외 없음).</span>
+      </span></label>
+      <div class="meta"><a class="src" href="https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&amp;csmSeq=690&amp;ccfNo=1&amp;cciNo=2&amp;cnpClsNo=1" target="_blank" rel="noopener">공식 안내</a></div>
+    </li>
+    <li class="item" data-id="safe-sleep">
+      <label><input type="checkbox"><span>
+        <span class="t">아기는 똑바로 눕혀 재우기</span>
+        <span class="d">1년 미만 영아는 항상 똑바로 눕혀 재우고, 베개·인형·장난감·침대 범퍼는 아기 침대에 두지 않아요.</span>
+      </span></label>
+      <div class="meta"><a class="src" href="https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5467" target="_blank" rel="noopener">공식 안내</a></div>
+    </li>
+    <li class="item" data-id="safe-seatbelt">
+      <label><input type="checkbox"><span>
+        <span class="t">임산부 안전벨트 위치</span>
+        <span class="d">어깨띠는 가슴과 가슴 사이로, 허리띠는 배의 가장 아랫부분과 허벅지 사이에 매요.</span>
+      </span></label>
+      <div class="meta"><a class="src" href="https://www.korea.kr/multi/visualNewsView.do?newsId=148875678" target="_blank" rel="noopener">공식 안내</a></div>
+    </li>
+    <li class="item" data-id="safe-mat">
+      <label><input type="checkbox"><span>
+        <span class="t">영유아는 전기매트류 사용하지 않기</span>
+        <span class="d">과열에 대처하기 어려운 영유아는 전기매트류를 사용하지 않도록 안내하고 있어요.</span>
+      </span></label>
+      <div class="meta"><a class="src" href="https://www.kca.go.kr/home/sub.do?menukey=4006&amp;mode=view&amp;no=1002749949&amp;page=1" target="_blank" rel="noopener">공식 안내</a></div>
+    </li>
+    <li class="item" data-id="safe-used">
+      <label><input type="checkbox"><span>
+        <span class="t">중고 유모차·아기침대 인증·리콜 확인</span>
+        <span class="d">제품안전정보센터에서 인증정보와 리콜정보를 각각 따로 검색해 확인해요.</span>
+      </span></label>
+      <div class="meta"><a class="src" href="https://www.safetykorea.kr/recall/recallBoard" target="_blank" rel="noopener">공식 안내</a></div>
+    </li>
+  </ul>
+</section>
+
+<footer>
+  <b>@d280.mag</b> · 저장해두고 필요할 때 꺼내 보세요
+</footer>
+
+</div>
+
+<script>
+(function () {
+  var KEY = 'd280-gov-checklist-v1';
+  var state = {};
+  try { state = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) { state = {}; }
+
+  function save() {
+    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
+  }
+
+  var items = Array.prototype.slice.call(document.querySelectorAll('li.item'));
+  var doneEl = document.getElementById('doneCount');
+  var bar = document.getElementById('barFill');
+
+  function render() {
+    var done = 0;
+    items.forEach(function (li) {
+      var box = li.querySelector('input[type="checkbox"]');
+      li.classList.toggle('is-done', box.checked);
+      if (box.checked) done++;
+    });
+    doneEl.textContent = done + ' / ' + items.length;
+    bar.style.width = (items.length ? (done / items.length) * 100 : 0) + '%';
+  }
+
+  items.forEach(function (li) {
+    var id = li.getAttribute('data-id');
+    var box = li.querySelector('input[type="checkbox"]');
+    box.checked = !!state[id];
+    box.addEventListener('change', function () {
+      if (box.checked) { state[id] = 1; } else { delete state[id]; }
+      save();
+      render();
+    });
+  });
+
+  document.getElementById('resetBtn').addEventListener('click', function () {
+    if (!window.confirm('체크한 항목을 모두 지울까요?')) return;
+    state = {};
+    items.forEach(function (li) { li.querySelector('input[type="checkbox"]').checked = false; });
+    save();
+    render();
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>
