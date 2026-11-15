@@ -175,6 +175,8 @@ def main():
             if (slot == "webtoon") != webtoon:
                 continue
             kind = "carousel" if slot == "webtoon" else slot
+            if post.get("only_kinds") and kind not in post["only_kinds"]:  # 영상 릴스 전용 게시물 등(2026-11-15~)
+                continue
             if kind == "story" and not (d / "story.png").exists():
                 print(f"[SKIP] {post['id']} story 이미지 없음")
                 continue
