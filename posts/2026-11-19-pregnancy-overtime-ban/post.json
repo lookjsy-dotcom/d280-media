@@ -10,116 +10,165 @@
   "cards": [
     {
       "type": "cover",
-      "kicker": "연말이라 다들 야근이라면",
-      "title": "연말 야근, 임신 중엔\n시킬 수 없어요",
-      "highlight": "시킬 수 없어요",
-      "sub": "임신 중 시간외근로 규정, 이팔공과 함께 봐요",
-      "scene": "Ipalgong sits at an office desk late in the day with a pile of folders, one hand on her belly, looking a little tired but thoughtful.",
+      "kicker": "연말 마감, 팀 전체가 남는 밤",
+      "title": "임신 중 야근,\n오늘도 '네' 해버렸다",
+      "highlight": "'네' 해버렸다",
+      "sub": "이팔공이 찾아낸 한 줄은? 넘겨 보세요",
+      "scene": "Ipalgong sits at an office desk late in the evening beside a tall pile of folders, forcing a small smile with one sweat drop, one hand on her belly.",
       "image": "images/panel-01.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong looks around a busy office where coworkers are working at their desks, holding her bag, with a small sweat drop.",
-      "caption": "연말이라 다들 바쁜 사무실",
+      "scene": "Ipalgong stands at her desk holding her bag while coworkers keep working under bright office lights, a small sweat drop on her face.",
+      "caption": "연말 마감, 다들 자리를 지키는 분위기",
       "dialogue": [
         {
-          "text": "다들 야근하는데 나만 가도 되나…",
+          "text": "네, 저도 남을게요!",
           "pos": "tl"
+        },
+        {
+          "text": "(속마음: 가방은 이미 멨는데...)",
+          "pos": "br"
         }
       ],
+      "info": "",
       "highlight": "",
       "image": "images/panel-02.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong sits at her desk with her phone in hand, searching with a puzzled, curious expression.",
-      "caption": "눈치가 보여서 찾아보기 시작",
+      "scene": "Ipalgong comes home late at night and Ipalgong's husband D waits in the dim living room with a kind, worried look.",
+      "caption": "자정이 다 돼서야 현관문을 열었어요",
       "dialogue": [
         {
-          "text": "임신 중에는 규정이 따로 있을까?",
-          "pos": "tr"
+          "text": "D: 또 이 시간이야? 일찍 오면 안 돼?",
+          "pos": "tl"
+        },
+        {
+          "text": "다들 남는데 나만 어떻게 가...",
+          "pos": "br"
         }
       ],
+      "info": "",
       "highlight": "",
       "image": "images/panel-03.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong reads a page on her laptop with raised eyebrows, a small surprised sparkle near her face.",
-      "caption": "근로기준법 안내를 읽는 중",
+      "scene": "Ipalgong sits on the sofa staring at her phone with a sweat drop while Ipalgong's husband D holds up his own phone with a surprised face.",
+      "caption": "주말 출근 공지까지 온 그 순간",
       "dialogue": [
         {
-          "text": "어? 이거 몰랐네!",
+          "text": "주말에도 나와야 한다고...?",
           "pos": "tl"
+        },
+        {
+          "text": "D: 잠깐, 이 조항 좀 봐...!",
+          "pos": "br"
         }
       ],
-      "info": "임신 중인 여성에게는 시간외근로를 시킬 수 없어요.",
-      "highlight": "시간외근로를 시킬 수 없어요",
+      "info": "",
+      "highlight": "",
       "image": "images/panel-04.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong points at a calendar on the wall and a wall clock showing evening light outside the window, looking curious.",
-      "caption": "밤이나 휴일 근무는 어떨까",
+      "scene": "Ipalgong and Ipalgong's husband D sit side by side on the sofa, both leaning toward the phone with wide eyes.",
+      "caption": "정답은 바로 이거였어요",
       "dialogue": [
         {
-          "text": "밤 근무나 휴일 출근은?",
+          "text": "내가 괜히 '네' 한 거였어?",
           "pos": "tr"
+        },
+        {
+          "text": "D: 천천히 다시 읽어보자!",
+          "pos": "bl"
         }
       ],
-      "info": "오후 10시~오전 6시 근무와 휴일근로도 원칙적으로 금지예요.",
-      "highlight": "오후 10시~오전 6시",
+      "info": "임신 중인 여성에게는 시간외근로를 시킬 수 없어요.",
+      "highlight": "시간외근로를 시킬 수 없어요",
       "image": "images/panel-05.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong leans back in her chair with a thoughtful look, one finger raised as if noticing a detail.",
-      "caption": "예외가 있는지 살펴봐요",
+      "scene": "Ipalgong points at a wall calendar with the weekend circled while Ipalgong's husband D scrolls on his phone beside her.",
+      "caption": "그럼 밤 근무랑 주말 출근은?",
       "dialogue": [
         {
-          "text": "예외도 있는 거지?",
+          "text": "주말 공지는 어떻게 되는 거야?",
           "pos": "tl"
+        },
+        {
+          "text": "D: 여기 휴일 얘기도 나와!",
+          "pos": "br"
         }
       ],
-      "info": "본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요.",
-      "highlight": "고용노동부 인가",
+      "info": "오후 10시~오전 6시 근무와 휴일근로도 원칙적으로 금지예요.",
+      "highlight": "오후 10시~오전 6시",
       "image": "images/panel-06.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong tidies a lighter stack of paperwork at her desk, looking relieved and calm, a hand resting on her belly.",
-      "caption": "업무가 버거울 때는",
+      "scene": "Ipalgong tilts her head with a thoughtful look, one finger raised, while Ipalgong's husband D reads closely.",
+      "caption": "예외 조건도 확인했어요",
       "dialogue": [
         {
-          "text": "무거운 일은 어떻게 해야 하지?",
+          "text": "예외는 아예 없는 거야?",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 조건이 꽤 까다롭네.",
+          "pos": "br"
+        }
+      ],
+      "info": "밤·휴일근로는 본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요.",
+      "highlight": "고용노동부 인가",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes in a notebook at the kitchen table while Ipalgong's husband D nods beside her.",
+      "caption": "업무가 버거울 때 쓸 수 있는 것도",
+      "dialogue": [
+        {
+          "text": "무거운 일은 바꿔 달라고 해도 되네.",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 우리 회사도 해당되는지 같이 알아보자.",
           "pos": "br"
         }
       ],
       "info": "요구하면 쉬운 종류의 근로로 전환해야 해요.",
       "highlight": "쉬운 종류의 근로로 전환",
-      "image": "images/panel-07.png"
+      "image": "images/panel-08.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong walks out of the office entrance in the evening, smiling gently with one hand on her belly, relieved and warm.",
-      "caption": "마음이 한결 가벼워진 퇴근길",
+      "scene": "The next evening Ipalgong stands at her desk with her bag, smiling calmly and confidently, one hand on her belly, while Ipalgong's husband D gives a thumbs up in a small inset.",
+      "caption": "알고 있었다 vs 처음 알았다? 남편에게도 보내주세요",
       "dialogue": [
         {
-          "text": "다행이다, 이제 눈치 덜 봐도 되겠다!",
+          "text": "오늘 야근은 어렵다고 정중히 말씀드릴게요.",
           "pos": "tr"
+        },
+        {
+          "text": "D: 잘했어, 오늘은 같이 저녁 먹자.",
+          "pos": "bl"
         }
       ],
+      "info": "",
       "highlight": "",
-      "image": "images/panel-08.png"
+      "image": "images/panel-09.png"
     },
     {
       "type": "closing",
       "title": "임신 중 야근은 시킬 수 없어요",
-      "body": "임신 중에는 시간외근로를 시킬 수 없고, 밤 근무와 휴일근로도 원칙적으로 금지예요. 사업장 상황에 따라 다를 수 있으니 고용노동부에 문의해 보세요.",
+      "body": "임신 중에는 시간외근로를 시킬 수 없고, 밤 근무와 휴일근로도 원칙적으로 금지예요. 사업장 상황에 따라 다를 수 있으니 고용노동부에 문의해 보세요. 알고 있었다 vs 오늘 처음 알았다, 댓글로 알려주세요. 남편이나 예비 아빠에게도 보내주세요.",
       "image": "images/panel-01.png"
     }
   ],
-  "caption": "연말 야근, 임신 중엔 시킬 수 없어요\n\n연말이라 다들 바쁜데 눈치가 보였다면, 이것만 알아 두세요.\n\n1) 임신 중인 여성에게는 시간외근로를 시킬 수 없어요.\n2) 오후 10시~오전 6시 근무와 휴일근로도 원칙적으로 금지예요. 본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요.\n3) 요구하면 쉬운 종류의 근로로 전환해야 해요.\n\n근로시간 단축처럼 신청해야 하는 제도와 달리, 야근은 사용자가 시킬 수 없다는 점이 달라요. 사업장 상황에 따라 다를 수 있으니 궁금한 점은 고용노동부에 문의해 보세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "caption": "임신 중 야근, 오늘도 '네' 해버렸다\n\n연말이라 다들 남는데 혼자 퇴근하기 눈치 보였다면, 이것만 알아 두세요.\n\n1) 임신 중인 여성에게는 시간외근로를 시킬 수 없어요.\n2) 오후 10시~오전 6시 근무와 휴일근로도 원칙적으로 금지예요. 본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요.\n3) 요구하면 쉬운 종류의 근로로 전환해야 해요.\n\n근로시간 단축처럼 신청해야 하는 제도와 달리, 야근은 사용자가 시킬 수 없다는 점이 달라요. 사업장 상황에 따라 다를 수 있으니 궁금한 점은 고용노동부에 문의해 보세요.\n\n알고 있었다 vs 오늘 처음 알았다, 댓글로 알려주세요. 남편에게도 보내주세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
   "hashtags": [
     "#임산부",
     "#임신",
@@ -139,35 +188,35 @@
   "claims": [
     {
       "id": "c1",
-      "card": 3,
+      "card": 4,
       "text": "사용자는 임신 중인 여성에게 시간외근로를 시킬 수 없다",
       "value": "시간외근로를 시킬 수 없다",
       "source_hint": "https://www.law.go.kr/법령/근로기준법/제74조"
     },
     {
       "id": "c2",
-      "card": 4,
+      "card": 5,
       "text": "오후 10시~오전 6시 야간근로와 휴일근로는 임신 중 여성에게 원칙적으로 금지된다",
       "value": "오후 10시~오전 6시",
       "source_hint": "https://www.law.go.kr/법령/근로기준법/제70조"
     },
     {
       "id": "c3",
-      "card": 5,
-      "text": "임신 중 여성 본인이 명시적으로 청구하고 고용노동부장관의 인가를 받은 경우에만 야간·휴일근로 예외가 적용된다",
+      "card": 6,
+      "text": "임신 중 여성의 야간·휴일근로는 본인이 명시적으로 청구하고 고용노동부장관의 인가를 받은 경우에만 예외가 적용된다 (시간외근로 금지에는 예외 없음)",
       "value": "명시적으로 청구 + 고용노동부 인가",
       "source_hint": "https://www.law.go.kr/법령/근로기준법/제70조"
     },
     {
       "id": "c4",
-      "card": 6,
+      "card": 7,
       "text": "임신 중 여성이 요구하면 사용자는 쉬운 종류의 근로로 전환해야 한다",
       "value": "쉬운 종류의 근로로 전환",
       "source_hint": "https://www.law.go.kr/법령/근로기준법/제74조"
     },
     {
       "id": "c5",
-      "card": 1,
+      "card": 9,
       "text": "임신 중에는 시간외근로(연말 야근 포함)를 시킬 수 없다 (표지·캡션)",
       "value": "시킬 수 없어요",
       "source_hint": "https://www.law.go.kr/법령/근로기준법/제74조"
@@ -188,66 +237,67 @@
     }
   ],
   "status": "rendered",
+  "story_formula": "T1+T3 (answer hidden, husband D)",
   "factcheck": {
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-15",
     "claims": [
       {
         "id": "c1",
         "verdict": "OK",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제74조",
         "source_quote": "⑤ 사용자는 임신 중의 여성 근로자에게 시간외근로를 하게 하여서는 아니 되며, 그 근로자의 요구가 있는 경우에는 쉬운 종류의 근로로 전환하여야 한다.",
-        "checked_at": "2026-11-10"
+        "checked_at": "2026-11-15"
       },
       {
         "id": "c2",
         "verdict": "OK",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제70조",
-        "source_quote": "② 사용자는 임산부와 18세 미만자를 오후 10시부터 오전 6시까지의 시간 및 휴일에 근로시키지 못한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우로서 고용노동부장관의 인가를 받으면 그러하지 아니하다. ... 3. 임신 중의 여성이 명시적으로 청구하는 경우",
-        "checked_at": "2026-11-10"
+        "source_quote": "② 사용자는 임산부와 18세 미만자를 오후 10시부터 오전 6시까지의 시간 및 휴일에 근로시키지 못한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우로서 고용노동부장관의 인가를 받으면 그러하지 아니하다.",
+        "checked_at": "2026-11-15"
       },
       {
         "id": "c3",
         "verdict": "FIXED",
-        "before": "카드6·캡션: 본인이 명시적으로 요구하는 경우에는 예외가 적용돼요 / 본인이 명시적으로 요구하면 예외가 있어요.",
-        "after": "본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요. (하이라이트: 고용노동부 인가)",
+        "before": "본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요.",
+        "after": "밤·휴일근로는 본인이 명시적으로 청구하고 고용노동부 인가를 받아야 예외예요.",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제70조",
-        "source_quote": "② 사용자는 임산부와 18세 미만자를 오후 10시부터 오전 6시까지의 시간 및 휴일에 근로시키지 못한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우로서 고용노동부장관의 인가를 받으면 그러하지 아니하다. ... 3. 임신 중의 여성이 명시적으로 청구하는 경우",
-        "checked_at": "2026-11-10"
+        "source_quote": "다만, 다음 각 호의 어느 하나에 해당하는 경우로서 고용노동부장관의 인가를 받으면 그러하지 아니하다. … 3. 임신 중의 여성이 명시적으로 청구하는 경우",
+        "checked_at": "2026-11-15"
       },
       {
         "id": "c4",
         "verdict": "OK",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제74조",
         "source_quote": "⑤ 사용자는 임신 중의 여성 근로자에게 시간외근로를 하게 하여서는 아니 되며, 그 근로자의 요구가 있는 경우에는 쉬운 종류의 근로로 전환하여야 한다.",
-        "checked_at": "2026-11-10"
+        "checked_at": "2026-11-15"
       },
       {
         "id": "c5",
         "verdict": "OK",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제74조",
         "source_quote": "⑤ 사용자는 임신 중의 여성 근로자에게 시간외근로를 하게 하여서는 아니 되며, 그 근로자의 요구가 있는 경우에는 쉬운 종류의 근로로 전환하여야 한다.",
-        "checked_at": "2026-11-10"
+        "checked_at": "2026-11-15"
       },
       {
         "id": "c6",
         "verdict": "OK",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제11조",
-        "source_quote": "① 이 법은 상시 5명 이상의 근로자를 사용하는 모든 사업 또는 사업장에 적용한다. 다만, 동거하는 친족만을 사용하는 사업 또는 사업장과 가사(家事) 사용인에 대하여는 적용하지 아니한다. ② 상시 4명 이하의 근로자를 사용하는 사업 또는 사업장에 대하여는 대통령령으로 정하는 바에 따라 이 법의 일부 규정을 적용할 수 있다.",
-        "checked_at": "2026-11-10"
+        "source_quote": "① 이 법은 상시 5명 이상의 근로자를 사용하는 모든 사업 또는 사업장에 적용한다. 다만, 동거하는 친족만을 사용하는 사업 또는 사업장과 가사(家事) 사용인에 대하여는 적용하지 아니한다.",
+        "checked_at": "2026-11-15"
       },
       {
         "id": "c7",
         "verdict": "OK",
         "source_url": "https://www.law.go.kr/법령/근로기준법/제74조",
-        "source_quote": "⑦ 사용자는 임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자(...)가 1일 2시간의 근로시간 단축을 신청하는 경우 이를 허용하여야 한다.",
-        "checked_at": "2026-11-10"
+        "source_quote": "⑦ 사용자는 임신 후 12주 이내 또는 32주 이후에 있는 여성 근로자(고용노동부령으로 정하는 유산, 조산 등 위험이 있는 여성 근로자의 경우 임신 전 기간)가 1일 2시간의 근로시간 단축을 신청하는 경우 이를 허용하여야 한다.",
+        "checked_at": "2026-11-15"
       }
     ],
-    "notes": "근로기준법 원문(law.go.kr, 시행 2026. 10. 8. 판)을 직접 열어 제70조·제74조·제11조 대조. easylaw(csmSeq=2604, 2026-10-15 기준) 요약은 제70조제2항 예외에서 '고용노동부장관의 인가' 요건을 빠뜨려, 이를 따른 카드6·캡션 문구를 원문대로 고침(c3 FIXED). 제74조제5항 시간외근로 금지는 예외 없는 절대 금지라 표지 단정 문구 OK. c6은 moel.go.kr 메인 대신 근로기준법 제11조(적용 범위) 조문으로 출처 교체 — 5인 미만 사업장 적용 범위는 시행령 별표1에 있으나 공식 원문(별표 첨부)은 열지 못함(비공식 위키상 제70조제2항·제74조 포함으로 보임). 카드 문구는 '다를 수 있으니 문의'로 단정하지 않아 OK. c7(캡션 숨은 주장) 신규 추가."
+    "notes": "새 스토리 공식 원고 재대조. 근로기준법 현행(법률 제21533호, 시행 2026. 10. 8.) 본문을 law.go.kr에서 직접 읽어 대조. c3 FIXED: 카드7 info가 '예외'의 대상을 밝히지 않아 시간외근로(연장근로)에도 예외가 있는 것처럼 읽힐 수 있어 '밤·휴일근로는'을 앞에 붙임(제74조제5항 시간외근로 금지는 예외 없음). 예외 요건(본인 명시적 청구 + 고용노동부장관 인가)은 카드7·캡션 모두 유지 확인. 사이다 장면('오늘 야근은 어렵다고 정중히 말씀드릴게요')은 정중한 의사표현으로 회사 비난·법적 대응 단정 없음, 카드8 남편 대사 '우리 회사도 해당되는지 같이 알아보자'와 마지막 카드 '사업장 상황에 따라 다를 수 있으니 고용노동부에 문의'로 단정 완화 확인. 5인 미만 사업장 적용 범위(시행령 별표1)는 원문 미확인이나 카드가 단정하지 않아 OK 유지. '주말 출근'은 법상 '휴일'과 정확히 같지 않으나 카드 info는 '휴일근로'로 법 용어를 써서 문제 없음."
   },
   "gate": {
     "status": "PASS",
-    "checked_at": "2026-11-14",
+    "checked_at": "2026-11-15",
     "problems": []
   }
 }
