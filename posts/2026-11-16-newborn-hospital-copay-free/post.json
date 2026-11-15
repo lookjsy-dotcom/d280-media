@@ -9,24 +9,24 @@
   "cards": [
     {
       "type": "cover",
-      "kicker": "출산 준비 중이라면",
-      "title": "신생아 입원비\n걱정 안 해도 돼요",
-      "highlight": "걱정 안 해도",
-      "sub": "2세 미만 입원 본인부담금, 이팔공이 알아봤어요",
-      "scene": "Ipalgong sits on a living room sofa with a hand on her belly, eyes wide with a small surprised round mouth and a single sweat drop.",
+      "kicker": "출산 준비 중 새벽 검색",
+      "title": "아기 입원비,\n적금 깨야 하나?",
+      "highlight": "적금 깨야",
+      "sub": "이팔공이 밤새 찾아본 결과는? 넘겨 보세요",
+      "scene": "Ipalgong sits at a night desk lit by a small lamp, staring at a piggy bank with one sweat drop and a worried tilted head.",
       "image": "images/panel-01.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong folds tiny baby clothes at the bedroom bed, then pauses with a worried sweat drop.",
-      "caption": "출산 준비물을 정리하다가",
+      "scene": "Ipalgong sits on the bed at night folding tiny baby clothes, phone glowing beside her, a worried sweat drop.",
+      "caption": "새벽, 출산 준비 목록을 정리하다가",
       "dialogue": [
         {
           "text": "아기가 아파서 입원하면?",
           "pos": "tl"
         },
         {
-          "text": "병원비 폭탄이면 어쩌지...",
+          "text": "병원비는 얼마나 들까...",
           "pos": "br"
         }
       ],
@@ -36,86 +36,106 @@
     },
     {
       "type": "panel",
-      "scene": "Ipalgong reads her phone closely with her head tilted to one side, thoughtful.",
-      "caption": "누가 대상인지 확인했어요",
+      "scene": "Ipalgong holds the piggy bank in both hands in the dim living room, looking at it with a small gulp.",
+      "caption": "혼자 계산해 보니 마음이 무거워져요",
       "dialogue": [
         {
-          "text": "우리 아기도 해당될까?",
+          "text": "이 적금, 깨야 하나?",
           "pos": "tl"
+        },
+        {
+          "text": "일찍 태어나기라도 하면...",
+          "pos": "br"
         }
       ],
-      "info": "건강보험 가입자·피부양자인 2세 미만 영유아가 대상이에요",
-      "highlight": "2세 미만",
+      "info": "",
+      "highlight": "",
       "image": "images/panel-03.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong holds up her phone with a relieved small smile at the kitchen table.",
-      "caption": "얼마나 면제되는지 보니",
+      "scene": "Ipalgong's husband D in pajamas stands in the doorway with a kind concerned look while Ipalgong turns with her phone.",
+      "caption": "D가 깨서 나왔어요",
       "dialogue": [
         {
-          "text": "얼마나 면제되는 거지?",
-          "pos": "tr"
+          "text": "D: 안 자고 뭐 해? 같이 보자.",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 한 줄 뭐지...?",
+          "pos": "br"
         }
       ],
-      "info": "입원하면 입원진료비 본인부담금이 전액 면제돼요",
-      "highlight": "전액 면제",
+      "info": "",
+      "highlight": "",
       "image": "images/panel-04.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong tilts her head with one sweat drop, finger on her chin, looking at her phone.",
-      "caption": "미리 태어난 아기는?",
+      "scene": "Ipalgong and Ipalgong's husband D sit side by side on the sofa, both leaning toward the phone with wide eyes.",
+      "caption": "정답은 바로 이거였어요",
       "dialogue": [
         {
-          "text": "일찍 태어나면 어떻게 되지?",
+          "text": "뭐? 진짜 전액이라고?",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 천천히 다시 읽어보자!",
           "pos": "bl"
         }
       ],
-      "info": "재태기간 37주 미만 조산아, 출생체중 2,500g 이하 저체중출산아도 2세 미만이면 포함돼요",
-      "highlight": "37주 미만",
+      "info": "건강보험 가입자·피부양자인 2세 미만 영유아가 입원하면 입원진료비 본인부담금이 전액 면제돼요",
+      "highlight": "전액 면제",
       "image": "images/panel-05.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong holds a baby bottle at a table and looks at her phone, thoughtful.",
-      "caption": "입원 중 분유 식대도 궁금해요",
+      "scene": "Ipalgong's husband D points at the phone while Ipalgong tilts her head with a single sweat drop.",
+      "caption": "그럼 일찍 태어난 아기는?",
       "dialogue": [
         {
-          "text": "식대는 어떻게 될까?",
+          "text": "D: 조산이면 어떻게 돼?",
           "pos": "tl"
+        },
+        {
+          "text": "그것도 확인해 볼게!",
+          "pos": "br"
         }
       ],
-      "info": "입원 중 분유 등 급식을 했다면 식대의 50%가 면제돼요",
-      "highlight": "식대의 50%",
+      "info": "재태기간 37주 미만 조산아, 출생체중 2,500g 이하 저체중출산아도 2세 미만이면 포함돼요",
+      "highlight": "37주 미만",
       "image": "images/panel-06.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong looks at a calendar on the wall with a small worried sweat drop, hand on her cheek.",
-      "caption": "두 돌이 지나면?",
+      "scene": "Ipalgong holds a baby bottle while Ipalgong's husband D writes on a notepad, both looking at the phone.",
+      "caption": "식대와 두 돌 이후도 정리했어요",
       "dialogue": [
         {
-          "text": "그 뒤에는 달라지려나?",
-          "pos": "tr"
+          "text": "D: 분유 식대는?",
+          "pos": "tl"
+        },
+        {
+          "text": "두 돌 이후도 메모!",
+          "pos": "br"
         }
       ],
-      "info": "2세부터 15세 이하는 입원진료비(건강보험 적용분)의 5%를 부담해요",
-      "highlight": "5%",
+      "info": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 입원진료비의 5%를 부담해요",
+      "highlight": "50% 면제",
       "image": "images/panel-07.png"
     },
     {
       "type": "panel",
-      "scene": "Ipalgong tilts her head with one sweat drop, holding a pen over a notebook.",
-      "caption": "마지막으로 확인할 것",
+      "scene": "Ipalgong taps her pen on a notebook with a thoughtful tilted head, Ipalgong's husband D beside her nodding.",
+      "caption": "마지막 조건까지 확인",
       "dialogue": [
         {
-          "text": "신청은 따로 해야 하나?",
-          "pos": "bl"
+          "text": "비급여는 안 된다네...",
+          "pos": "tr"
         },
         {
-          "text": "비급여도 되려나?",
-          "pos": "tr"
+          "text": "D: 신청은 공단에 같이 물어보자.",
+          "pos": "bl"
         }
       ],
       "info": "비급여는 면제 대상이 아니에요. 따로 신청이 필요한지는 건강보험공단에 확인하세요",
@@ -124,12 +144,16 @@
     },
     {
       "type": "panel",
-      "scene": "Ipalgong sits on the sofa hugging a cushion with a closed-eye relieved smile, soft light from the window.",
-      "caption": "알아보고 나니",
+      "scene": "Ipalgong puts the piggy bank back on the shelf with a calm closed-eye smile while Ipalgong's husband D gives a thumbs up.",
+      "caption": "알고 있었다 vs 처음 알았다? 남편에게도 보내주세요",
       "dialogue": [
         {
-          "text": "다행이다, 미리 알아봐서!",
+          "text": "적금은 그대로 두고, 확인만 하자.",
           "pos": "tr"
+        },
+        {
+          "text": "D: 이거 몰랐네, 알려줘서 고마워.",
+          "pos": "bl"
         }
       ],
       "info": "",
@@ -139,11 +163,11 @@
     {
       "type": "closing",
       "title": "입원비 걱정은 미리 확인하고 덜어요",
-      "body": "건강보험 적용 진료비 기준이에요. 비급여·상급병실료는 따로 확인하세요. 건강 관련 내용은 담당 의료진과 상의하세요.",
+      "body": "알고 있었다 vs 오늘 처음 알았다, 댓글로 알려주세요. 남편이나 예비 아빠에게도 보내주세요. 건강보험 적용 진료비 기준이에요. 비급여·상급병실료는 따로 확인하세요. 건강 관련 내용은 담당 의료진과 상의하세요.",
       "image": "images/panel-01.png"
     }
   ],
-  "caption": "신생아 입원비, 걱정 안 해도 돼요\n\n출산 준비하다 보면 아기가 입원하면 어쩌나 걱정되죠. 이팔공이 알아본 핵심만 정리했어요.\n\n1. 건강보험 가입자·피부양자인 2세 미만 영유아가 입원하면 입원진료비 본인부담금이 전액 면제돼요.\n2. 재태기간 37주 미만 조산아, 출생체중 2,500g 이하 저체중출산아도 2세 미만이면 포함이고, 입원 중 분유 등 급식 식대는 50% 면제예요.\n3. 2세부터 15세 이하는 건강보험 적용 입원진료비의 5%를 부담해요.\n\n건강보험 적용 진료비 기준이라 비급여는 면제 대상이 아니고, 상급병실료도 따로 확인하세요. 따로 신청이 필요한지는 건강보험공단에 문의해 보세요. 건강 관련 내용은 담당 의료진과 상의하세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
+  "caption": "아기 입원비, 적금 깨야 하나?\n\n출산 준비하다 보면 아기가 입원하면 어쩌나 걱정되죠. 이팔공이 알아본 핵심만 정리했어요.\n\n1. 건강보험 가입자·피부양자인 2세 미만 영유아가 입원하면 입원진료비 본인부담금이 전액 면제돼요.\n2. 재태기간 37주 미만 조산아, 출생체중 2,500g 이하 저체중출산아도 2세 미만이면 포함이고, 입원 중 분유 등 급식 식대는 50% 면제예요.\n3. 2세부터 15세 이하는 건강보험 적용 입원진료비의 5%를 부담해요.\n\n건강보험 적용 진료비 기준이라 비급여는 면제 대상이 아니고, 상급병실료도 따로 확인하세요. 따로 신청이 필요한지는 건강보험공단에 문의해 보세요. 건강 관련 내용은 담당 의료진과 상의하세요.\n\n알고 있었다 vs 오늘 처음 알았다, 댓글로 알려주세요. 남편에게도 보내주세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-10 기준)",
   "hashtags": [
     "#임산부",
     "#임신",
@@ -162,35 +186,35 @@
   "claims": [
     {
       "id": "c1",
-      "card": 3,
+      "card": 4,
       "text": "신생아 입원진료비 본인부담금 전액 면제",
       "value": "전액 면제",
       "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2"
     },
     {
       "id": "c2",
-      "card": 2,
+      "card": 4,
       "text": "대상은 건강보험 가입자·피부양자인 2세 미만 영유아",
       "value": "2세 미만",
       "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2"
     },
     {
       "id": "c3",
-      "card": 4,
+      "card": 5,
       "text": "재태기간 37주 미만 조산아도 2세 미만이면 면제 대상",
       "value": "37주",
       "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=4&cnpClsNo=2"
     },
     {
       "id": "c4",
-      "card": 4,
+      "card": 5,
       "text": "출생체중 2,500g 이하 저체중출산아도 2세 미만이면 면제 대상",
       "value": "2,500g",
       "source_hint": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=4&cnpClsNo=2"
     },
     {
       "id": "c5",
-      "card": 5,
+      "card": 6,
       "text": "입원 중 분유 등 급식을 했다면 식대의 50% 면제",
       "value": "50%",
       "source_hint": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2"
@@ -225,109 +249,123 @@
     },
     {
       "id": "c10",
-      "card": 8,
+      "card": 7,
       "text": "건강보험 적용 진료비 기준이며 비급여는 면제 대상 아님, 상급병실료는 별도 확인",
       "value": "건강보험 적용",
       "source_hint": "https://mohw.go.kr/board.es?act=view&bid=0027&cg_code=&list_no=376474&mid=a10503010300&tag="
     }
   ],
   "status": "rendered",
+  "story_formula": "T1+T3 pilot (answer hidden, husband D)",
   "factcheck": {
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-15",
     "claims": [
       {
         "id": "c1",
         "verdict": "OK",
         "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2",
-        "source_quote": "건강보험 가입자 또는 피부양자인 2세 미만 영유아가 질병 등을 사유로 입원한 경우에는 다음과 같이 입원진료비를 지원 받습니다 / 표: 2세 미만 영유아 | 면제 | 식대총액(기본식대+가산식대)의 50%",
-        "checked_at": "2026-11-10",
-        "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 (별표2 제3호가목2: 입원진료는 식대 50%만 부담)"
+        "source_quote": "건강보험 가입자 또는 피부양자인 2세 미만 영유아가 질병 등을 사유로 입원한 경우 / 표: 2세 미만 영유아 | 면제 | 식대총액(기본식대+가산식대)의 50%",
+        "checked_at": "2026-11-15",
+        "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 (별표2 제3호가목2: 입원진료는 식대 50%만 부담)",
+        "prior": "OK (2026-11-10 _old-formula)",
+        "note": "새 원고 카드5 info는 이전 카드3(대상)+카드4(전액 면제)를 합친 문장. 뜻 동일 확인. 생활법령 735에도 '입원진료비 본인부담금을 전액을 면제받습니다'."
       },
       {
         "id": "c2",
-        "verdict": "FIXED",
+        "verdict": "OK",
         "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2",
-        "source_quote": "건강보험 가입자 또는 피부양자인 2세 미만 영유아가 질병 등을 사유로 입원한 경우에는 다음과 같이 입원진료비를 지원 받습니다",
-        "checked_at": "2026-11-10",
-        "before": "건강보험 가입자·피부양자인 생후 28일 미만 영유아가 대상이에요",
-        "after": "건강보험 가입자·피부양자인 2세 미만 영유아가 대상이에요",
-        "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 — 가. 다음의 경우에는 입원기간 중 식대의 100분의 50 … 2) 2세 미만 영유아 및 보건복지부장관이 정하여 고시하는 기준에 해당하는 2세 이상 영유아에 대한 입원진료로서 보건복지부장관이 정하는 요양급여"
+        "source_quote": "건강보험 가입자 또는 피부양자인 2세 미만 영유아가 질병 등을 사유로 입원한 경우 / 표: 2세 미만 영유아 | 면제 | 식대총액(기본식대+가산식대)의 50%",
+        "checked_at": "2026-11-15",
+        "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 — 가. 다음의 경우에는 입원기간 중 식대의 100분의 50 … 2) 2세 미만 영유아 및 보건복지부장관이 정하여 고시하는 기준에 해당하는 2세 이상 영유아에 대한 입원진료로서 보건복지부장관이 정하는 요양급여",
+        "prior": "FIXED (2026-11-10 _old-formula)"
       },
       {
         "id": "c3",
         "verdict": "OK",
         "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=4&cnpClsNo=2",
         "source_quote": "재태(在胎, 임신)기간 37주 미만의 조산아 또는 출생체중 2,500g 이하의 저체중출산아",
-        "checked_at": "2026-11-10",
-        "note": "조산아·저체중출산아 정의는 생활법령(735) 기준. 현행 면제 대상은 2세 미만 전체이므로 문구를 \"2세 미만이면 포함\"으로 한정(카드 5)."
+        "checked_at": "2026-11-15",
+        "note": "조산아·저체중출산아 정의는 생활법령(735) 기준. 현행 면제 대상은 2세 미만 전체이므로 문구를 \"2세 미만이면 포함\"으로 한정(카드 5).",
+        "prior": "OK (2026-11-10 _old-formula)"
       },
       {
         "id": "c4",
         "verdict": "OK",
         "source_url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=735&ccfNo=3&cciNo=4&cnpClsNo=2",
         "source_quote": "재태(在胎, 임신)기간 37주 미만의 조산아 또는 출생체중 2,500g 이하의 저체중출산아",
-        "checked_at": "2026-11-10",
-        "note": "c3와 같음"
+        "checked_at": "2026-11-15",
+        "note": "c3와 같음",
+        "prior": "OK (2026-11-10 _old-formula)"
       },
       {
         "id": "c5",
         "verdict": "OK",
         "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2",
         "source_quote": "2세 미만 영유아 | 면제 | 식대총액(기본식대+가산식대)의 50%",
-        "checked_at": "2026-11-10",
-        "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 — 가. 다음의 경우에는 입원기간 중 식대의 100분의 50 … 2) 2세 미만 영유아 및 보건복지부장관이 정하여 고시하는 기준에 해당하는 2세 이상 영유아에 대한 입원진료로서 보건복지부장관이 정하는 요양급여"
+        "checked_at": "2026-11-15",
+        "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 — 가. 다음의 경우에는 입원기간 중 식대의 100분의 50 … 2) 2세 미만 영유아 및 보건복지부장관이 정하여 고시하는 기준에 해당하는 2세 이상 영유아에 대한 입원진료로서 보건복지부장관이 정하는 요양급여",
+        "prior": "OK (2026-11-10 _old-formula)"
       },
       {
         "id": "c6",
         "verdict": "FIXED",
         "source_url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201",
         "source_quote": "가. 다음의 경우에는 입원기간 중 식대의 100분의 50 … 2) 2세 미만 영유아 및 보건복지부장관이 정하여 고시하는 기준에 해당하는 2세 이상 영유아에 대한 입원진료로서 보건복지부장관이 정하는 요양급여 / 자. 15세 이하 아동의 입원진료에 대하여 보건복지부장관이 정하는 요양급여[가목2) 및 라목에 해당하는 사람에 대한 요양급여는 제외한다]를 받는 경우에는 해당 요양급여비용 총액의 100분의 5에 입원기간 중 식대의 100분의 50을 더한 금액",
-        "checked_at": "2026-11-10",
-        "before": "생후 29일부터 15세 이하는 총 진료비의 5%를 부담해요",
-        "after": "2세부터 15세 이하는 입원진료비(건강보험 적용분)의 5%를 부담해요"
+        "checked_at": "2026-11-15",
+        "prior": "FIXED (2026-11-10 _old-formula)",
+        "before": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 5% 부담이에요",
+        "after": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 입원진료비의 5%를 부담해요",
+        "note": "카드7 info 합치면서 '입원진료비(건강보험 적용분)의'가 빠져 '5% 부담'의 기준이 사라짐 — 이전 FIXED(총 진료비→입원진료비)가 되돌아갈 소지. '입원진료비의 5%'로 복원. 일반 가입자 기준(라목 경감대상 등 별도)."
       },
       {
         "id": "c7",
         "verdict": "FIXED",
         "source_url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201",
         "source_quote": "자. 15세 이하 아동의 입원진료에 대하여 보건복지부장관이 정하는 요양급여[가목2) 및 라목에 해당하는 사람에 대한 요양급여는 제외한다]를 받는 경우에는 해당 요양급여비용 총액의 100분의 5에 입원기간 중 식대의 100분의 50을 더한 금액",
-        "checked_at": "2026-11-10",
-        "before": "15세 이하 총 진료비의 5% 부담",
-        "after": "15세 이하(2세 이상) 입원진료비의 5% 부담"
+        "checked_at": "2026-11-15",
+        "prior": "FIXED (2026-11-10 _old-formula)",
+        "before": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 5% 부담이에요",
+        "after": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 입원진료비의 5%를 부담해요",
+        "note": "카드7 info 합치면서 '입원진료비(건강보험 적용분)의'가 빠져 '5% 부담'의 기준이 사라짐 — 이전 FIXED(총 진료비→입원진료비)가 되돌아갈 소지. '입원진료비의 5%'로 복원. 일반 가입자 기준(라목 경감대상 등 별도)."
       },
       {
         "id": "c8",
         "verdict": "FIXED",
         "source_url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201",
         "source_quote": "자. 15세 이하 아동의 입원진료에 대하여 보건복지부장관이 정하는 요양급여[가목2) 및 라목에 해당하는 사람에 대한 요양급여는 제외한다]를 받는 경우에는 해당 요양급여비용 총액의 100분의 5에 입원기간 중 식대의 100분의 50을 더한 금액",
-        "checked_at": "2026-11-10",
-        "before": "15세 이하는 생후 29일부터 본인부담",
-        "after": "15세 이하 입원 5% 부담은 2세부터 적용(2세 미만은 면제)"
+        "checked_at": "2026-11-15",
+        "prior": "FIXED (2026-11-10 _old-formula)",
+        "before": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 5% 부담이에요",
+        "after": "입원 중 분유 등 급식 식대는 50% 면제, 2세부터 15세 이하는 입원진료비의 5%를 부담해요",
+        "note": "카드7 info 합치면서 '입원진료비(건강보험 적용분)의'가 빠져 '5% 부담'의 기준이 사라짐 — 이전 FIXED(총 진료비→입원진료비)가 되돌아갈 소지. '입원진료비의 5%'로 복원. 일반 가입자 기준(라목 경감대상 등 별도)."
       },
       {
         "id": "c9",
         "verdict": "OK",
         "source_url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2604&ccfNo=2&cciNo=2&cnpClsNo=2",
         "source_quote": "건강보험 가입자 또는 피부양자인 2세 미만 영유아가 질병 등을 사유로 입원한 경우에는 다음과 같이 입원진료비를 지원 받습니다",
-        "checked_at": "2026-11-10",
-        "note": "공식 안내(생활법령 2604·735, 시행령 별표2, 복지부 보도자료)에 2세 미만 입원 면제의 별도 신청 절차가 나오지 않음. 카드는 사실 단정 없이 \"공단에 확인\" 안내만 하므로 OK. nhis.or.kr에서 신청 불필요를 명시한 문장은 찾지 못해 \"자동 적용\"으로 바꾸지 않음."
+        "checked_at": "2026-11-15",
+        "note": "공식 안내(생활법령 2604·735, 시행령 별표2, 복지부 보도자료)에 2세 미만 입원 면제의 별도 신청 절차가 나오지 않음. 카드는 사실 단정 없이 \"공단에 확인\" 안내만 하므로 OK. nhis.or.kr에서 신청 불필요를 명시한 문장은 찾지 못해 \"자동 적용\"으로 바꾸지 않음.",
+        "prior": "OK (2026-11-10 _old-formula)"
       },
       {
         "id": "c10",
-        "verdict": "OK",
+        "verdict": "FIXED",
         "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&cg_code=&list_no=376474&mid=a10503010300&tag=",
         "source_quote": "급여(5%) 범위 내 기준으로 선별급여, 비급여 등은 본인부담 면제 대상에서 제외",
-        "checked_at": "2026-11-10",
+        "checked_at": "2026-11-15",
         "also": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159609977&bylClsCd=110201 — 별표2 제3호 단서: 일반입원실 2인실·3인실 이용 시 그 입원료는 제1호가목1) 단서 금액 부담",
-        "before_card8": "신청 방법과 비급여 포함 여부는 건강보험공단에 확인하세요",
-        "after_card8": "비급여는 면제 대상이 아니에요. 따로 신청이 필요한지는 건강보험공단에 확인하세요"
+        "prior": "OK (2026-11-10 _old-formula)",
+        "before": "(closing) 건강보험 적용 진료비 기준이에요.",
+        "after": "(closing) 건강보험 적용 진료비 기준이에요. 비급여·상급병실료는 따로 확인하세요.",
+        "note": "새 closing에서 비급여·상급병실료 단서가 빠짐. 별표2 제3호 단서(2·3인실 입원료는 별도 부담)와 생활법령 2604 '입원실의 종류 등에 따라 본인부담률이 달라질 수 있습니다' 근거로 복원. 카드8 info(비급여 제외)와 캡션은 유지."
       }
     ],
-    "notes": "핵심 수정: 원고는 생활법령 735(아기 건강 챙기기) 기준 \"생후 28일 미만 면제, 생후 29일~15세 5%\"였으나, 현행 국민건강보험법 시행령 별표2(<개정 2025.12.23>, law.go.kr 원문 PDF 직접 확인) 제3호가목2)는 \"2세 미만 영유아\"(+고시 기준 2세 이상) 입원진료를 식대 50%만 부담(=진료비 면제)으로 규정하고, 제3호자목(15세 이하 5%)은 가목2) 해당자를 제외함. 생활법령 2604(저출생 지원)도 \"2세 미만 영유아 면제·식대 50%\"로 표기. 735 페이지의 28일·29일 기준은 개정 전 표기로 판단해 대상 연령을 2세 미만으로 고침(카드 1 sub, 3, 5, 7, 8, 캡션, topic). 2023-05-30 복지부 보도자료는 \"2세 미만 입원진료 본인부담 5%→0%(23년 하반기 시행 목표)\". 고시 기준 2세 이상 영유아의 구체 기준은 확인 못 해 카드에 쓰지 않음. target_stage(\"임신 후기~생후 28일\")와 id의 newborn은 그대로 둠 — 신생아도 2세 미만에 포함되므로 표지 \"신생아 입원비 걱정 안 해도 돼요\"는 참."
+    "notes": "새 스토리 공식 원고 재대조(2026-11-15). 생활법령 2604·735, 복지부 보도자료(2023-05-30), 시행령 별표2(<개정 2025.12.23>, law.go.kr PDF 재추출) 다시 열어 확인 — 2세 미만 면제·식대 50%·2~15세 5% 현행 유지. 연출 문장(카드2·3·4·9 말풍선, 표지 '적금 깨야 하나?')은 수치·자격·기한 주장 없음 → claim 추가 없음. 카드5 합친 info는 원문과 뜻 같음(OK). 카드7 합친 info는 5%의 기준(입원진료비)이 빠져 FIXED. closing 단서 복원 FIXED. 표지는 금전 걱정을 질문형으로 꺼내고 본문에서 해소하는 구조라 공포 조장으로 보지 않음(건강 위협·허위 위험 없음, 금지어 없음)."
   },
   "gate": {
     "status": "PASS",
-    "checked_at": "2026-11-14",
+    "checked_at": "2026-11-15",
     "problems": []
   }
 }
