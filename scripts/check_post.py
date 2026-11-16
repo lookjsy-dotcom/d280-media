@@ -31,6 +31,8 @@ NUM_RE = re.compile(r"\d[\d,]*(?:\.\d+)?")
 def card_texts(card):
     parts = [card.get(k, "") for k in ("kicker", "title", "sub", "body", "tip", "caption", "info")]
     parts += card.get("items", []) or []
+    parts += [card.get("lead", ""), card.get("note", "")]  # table 카드: 한 줄 설명·각주
+    parts += [c for row in card.get("rows", []) or [] for c in row]  # table 카드: 표의 모든 칸
     parts += [d.get("text", "") for d in card.get("dialogue", []) or []]  # 웹툰 말풍선도 숫자 검사 대상
     return [p for p in parts if p]
 
