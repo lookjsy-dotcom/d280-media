@@ -1,0 +1,166 @@
+{
+  "id": "2026-11-23-first-meeting-voucher-expiry",
+  "topic": "첫만남이용권 사용기한은 신청일이 아닌 출생일 기준",
+  "target_stage": "출산 직후~생후 3개월",
+  "hook_type": "통념뒤집기",
+  "format": "magazine",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "첫만남이용권 받은 집 저장",
+      "title": "사용기한,\n신청일 기준 아녜요",
+      "highlight": "신청일 기준 아녜요",
+      "sub": "아이 생일로 계산하는 종료일 확인",
+      "image": "images/01.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "기준은 지급일이 아니에요",
+      "highlight": "출생일부터 2년",
+      "body": "2024년 이후 출생아는 주민등록상 출생일부터 2년까지 사용할 수 있어요. 바우처를 받은 날짜가 늦더라도 아이의 출생일을 기준으로 종료일을 확인해요.",
+      "image": "images/02.png"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "예시로 보는 종료일",
+      "highlight": "2026년 12월 31일",
+      "body": "예를 들어 2025년 1월 1일 출생아는 2026년 12월 31일까지 사용할 수 있어요. 이 날이 지나면 남은 포인트는 자동 소멸해요.",
+      "image": "images/03.png"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "남은 포인트도 기간이 끝나면 소멸",
+      "highlight": "자동 소멸",
+      "body": "사용기간 안에 쓰지 않은 첫만남이용권 포인트는 사용 종료일이 지난 뒤 자동으로 소멸해요. 종료일 전에 남은 포인트를 미리 확인해두세요.",
+      "image": "images/04.png"
+    },
+    {
+      "type": "list",
+      "title": "오늘 확인할 건 세 가지",
+      "items": [
+        "아이의 주민등록상 생년월일",
+        "이용권 포인트 잔액",
+        "출생일 기준 사용 종료일"
+      ],
+      "tip": "포인트는 신청 때 등록한 카드사의 국민행복카드로 지급돼요.",
+      "highlight": "사용 종료일",
+      "image": "images/05.png"
+    },
+    {
+      "type": "closing",
+      "title": "종료일 확인했나요?",
+      "body": "아이 종료일, 확인해봤나요? 아무 댓글이나 남겨주시면 시기별 체크리스트를 DM으로 보내드려요 ↓",
+      "image": "images/06.png"
+    }
+  ],
+  "caption": "사용기한, 신청일 기준 아녜요.\n\n첫만남이용권은 지급받은 날만 기억하면 종료일을 놓칠 수 있어요.\n\n✔ 2024년 1월 1일 이후 출생아는 주민등록상 출생일 기준으로 사용기간을 계산해요.\n✔ 사용기간은 출생일부터 2년까지예요.\n✔ 예: 2025년 1월 1일 출생 → 2026년 12월 31일까지 사용\n✔ 기간 안에 쓰지 않은 포인트는 종료 후 자동 소멸해요.\n\n아이 생년월일로 사용 종료일을 계산하고, 남은 포인트를 미리 확인해보세요.\n\n첫만남이용권을 받은 친구가 떠올랐다면 “사용 종료일 확인했어?” 하고 보내주세요.\n\n💌 아무 댓글 남겨주시면 시기별 체크리스트 DM으로 보내드려요\n\n남편한테도 언급해주세요 👇\n\n※ 2026-11-21 기준 · 정부24·보건복지부 공식 안내에서 최신 내용 확인",
+  "hashtags": [
+    "#첫만남이용권",
+    "#출산지원금",
+    "#출산준비",
+    "#출산",
+    "#임산부",
+    "#예비맘",
+    "#초보맘",
+    "#정부지원",
+    "#육아정보",
+    "#출산혜택",
+    "#육아꿀팁",
+    "#신생아",
+    "#출산후"
+  ],
+  "cover_image_prompt": "A new parent pauses while checking a plain unmarked benefit card beside a home calendar at the kitchen table, hands only, warm morning window light.",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "2024년 1월 1일 이후 출생아는 첫만남이용권을 주민등록상 출생일부터 2년까지 사용할 수 있음",
+      "value": "2024년, 2년",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020100"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "예: 2025년 1월 1일 출생아는 2026년 12월 31일까지 사용 가능하며, 이후 남은 포인트는 자동 소멸함",
+      "value": "2025년 1월 1일, 2026년 12월 31일",
+      "source_hint": "https://www.gimpo.go.kr/health/contents.do?key=7797"
+    },
+    {
+      "id": "c3",
+      "card": 4,
+      "text": "사용기간 내 사용하지 않은 첫만남이용권 지급금 포인트는 사용종료일 후 자동 소멸함",
+      "value": "사용종료일 후 자동 소멸",
+      "source_hint": "https://www.gimpo.go.kr/health/contents.do?key=7797"
+    },
+    {
+      "id": "c4",
+      "card": 1,
+      "text": "사용기한의 기준은 신청일·지급일이 아니라 아이의 주민등록상 생년월일(출생일)임",
+      "value": "출생일 기준",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/135200005015"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "첫만남이용권 포인트는 신청 시 등록한 1개 카드사의 국민행복카드로 지급됨",
+      "value": "등록한 카드사 국민행복카드",
+      "source_hint": "https://www.gimpo.go.kr/health/contents.do?key=7797"
+    }
+  ],
+  "status": "factchecked",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020100",
+        "source_quote": "`24.1.1일 이후 출생한 아동으로 출생일로부터 2년",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "FIXED",
+        "before": "예를 들어 2026년 1월 1일 출생아는 2027년 12월 31일까지 사용할 수 있어요. 다음 날부터 남은 포인트가 자동 소멸해요. (제목: 종료일은 생일 전날이에요)",
+        "after": "예를 들어 2025년 1월 1일 출생아는 2026년 12월 31일까지 사용할 수 있어요. 이 날이 지나면 남은 포인트는 자동 소멸해요. (제목: 예시로 보는 종료일)",
+        "source_url": "https://www.gimpo.go.kr/health/contents.do?key=7797",
+        "source_quote": "예)아동 출생일이 2025.01.01.인 경우 2026.12.31. 까지 사용 가능",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.gimpo.go.kr/health/contents.do?key=7797",
+        "source_quote": "사용기간 내 사용하지 않은 지급금 포인트는 사용종료일 후 자동 소멸",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/135200005015",
+        "source_quote": "2024년 1월 1일 이후 출생아는 주민등록상 생년월일로부터 2년내에 신청하여 사용 가능",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "FIXED",
+        "before": "카드 5 항목 '카드사 안내의 사용 종료일' / 팁 '결제 예정 건의 반영 시점은 이용 중인 카드사 안내를 확인해요' / 캡션 같은 문구",
+        "after": "항목 '출생일 기준 사용 종료일' / 팁 '포인트는 신청 때 등록한 카드사의 국민행복카드로 지급돼요.' / 캡션 카드사 문구 삭제",
+        "source_url": "https://www.gimpo.go.kr/health/contents.do?key=7797",
+        "source_quote": "바우처 신청 시 등록한 1개 카드사의 국민행복카드에 이용권(포인트) 지급",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "Codex 원고 claims 3개 → 숨은 주장 2개 추가(c4 신청일·지급일 아닌 출생일 기준, c5 카드사 국민행복카드 지급). c2: 2026-01-01→2027-12-31 예시는 공식 페이지에 없는 파생 계산이라 공식 예시(2025.01.01→2026.12.31, 김포시 보건소)로 교체. '종료일은 생일 전날' 일반화 문구는 공식 문장이 없어 제목을 '예시로 보는 종료일'로 변경. '다음 날(0시)부터 소멸'은 공식 표현 '사용종료일 후 자동 소멸'에 맞춰 '이 날이 지나면'으로 완화. 카드사 결제 반영 시점·카드사 종료일 안내는 공식 출처에서 확인 불가 → 카드·캡션에서 제거. 마무리 CTA는 DM 흐름에 맞춰 '아무 댓글 → DM'으로 통일(댓글 키워드 '기한'/'완료' 제거). 2024.1.1 이전 출생아(1년) 규정은 다루지 않으며 카드가 '2024년 이후 출생아'로 조건을 밝힘. 참고: 정부24는 '2년내에 신청하여 사용'으로 표기 — 신청도 같은 기한 안에 해야 함(카드는 이를 부정하지 않음). 동대문구 페이지는 본문 추출 실패로 미사용."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  },
+  "photo_set": "codex-one-session"
+}
