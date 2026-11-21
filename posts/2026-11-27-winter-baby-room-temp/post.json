@@ -1,0 +1,207 @@
+{
+  "id": "2026-11-27-winter-baby-room-temp",
+  "topic": "겨울 아기방, 어른 기준보다 더 신경 써야 하는 것 (질병관리청 한파 건강수칙)",
+  "target_stage": "임신 후기 준비~생후 3개월",
+  "hook_type": "손실회피",
+  "format": "magazine",
+  "template": "g-kmag",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "겨울 아기방 저장해두세요",
+      "title": "아기방은\n어른 기준보다\n더 신경 써요",
+      "highlight": "더 신경 써요",
+      "sub": "우리 집 아기방, 따뜻하게 챙기고 있나요?",
+      "image": "images/01.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "아기는 체온을 쉽게 잃어요",
+      "highlight": "체온을 쉽게",
+      "body": "질병관리청은 만 1세 이하 아기가 어른과 달리 체온을 쉽게 잃을 수 있다고 안내해요. 오한으로 체온을 충분히 만들기도 어려워요.",
+      "image": "images/02.png"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "차가운 방에서는 재우지 않아요",
+      "highlight": "절대로 차가운 방",
+      "body": "만 1세 이하 영유아는 절대로 차가운 방에서 재우면 안 된다고 해요. 자는 방부터 먼저 살펴보세요.",
+      "image": "images/03.png"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "충분히 따뜻하게, 자주 확인해요",
+      "highlight": "자주 확인",
+      "body": "영유아가 있는 집은 체온과 실내 온도를 자주 확인해 충분히 따뜻하게 유지하라고 안내해요.",
+      "tip": "잘 보이는 곳에 온도계를 두면 확인이 쉬워요.",
+      "image": "images/04.png"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "난방하면 공기가 건조해져요",
+      "highlight": "건조해지기 쉬워요",
+      "body": "겨울엔 난방 때문에 실내가 매우 건조해지기 쉬워요. 코와 기관지, 피부도 마르기 쉬우니 같이 살펴보세요.",
+      "tip": "몸 상태가 걱정되면 담당 의료진과 상의하세요.",
+      "image": "images/05.png"
+    },
+    {
+      "type": "closing",
+      "title": "아기방 온도계, 있나요?",
+      "body": "우리 집 아기방에 온도계가 있나요? 있다 / 없다 편하게 남겨주세요 ↓",
+      "image": "images/06.png"
+    }
+  ],
+  "caption": "아기방은 어른 기준보다 더 신경 써야 해요.\n\n겨울엔 난방을 켜 놓고도 아기 방은 괜찮은지 헷갈리기 쉬워요. 질병관리청 한파 건강수칙에서 아기방과 관련된 내용만 골라 봤어요.\n\n✔ 만 1세 이하 아기는 어른과 달리 체온을 쉽게 잃을 수 있어요.\n✔ 만 1세 이하 영유아는 절대로 차가운 방에서 재우면 안 돼요.\n✔ 영유아가 있는 집은 체온과 실내 온도를 자주 확인해 충분히 따뜻하게 유지해요.\n✔ 난방하면 실내가 건조해지기 쉬워요.\n\n아기 상태가 걱정되면 담당 의료진과 상의하세요.\n\n겨울 아기방 준비하는 친구가 떠올랐다면 “너 아기방 온도계 있어?” 하고 보내주세요.\n\n💌 아무 댓글 남겨주시면 시기별 체크리스트 DM으로 보내드려요\n\n남편한테도 언급해주세요 👇\n\n※ 2026-11-21 기준 · 질병관리청 공식 안내에서 최신 내용 확인",
+  "hashtags": [
+    "#아기방온도",
+    "#겨울육아",
+    "#신생아",
+    "#출산준비",
+    "#임산부",
+    "#예비맘",
+    "#초보맘",
+    "#육아정보",
+    "#육아꿀팁",
+    "#한파",
+    "#아기방",
+    "#출산후",
+    "#임신후기"
+  ],
+  "cover_image_prompt": "Vertical 4:5 photorealistic film photograph, warm butter-toned cosy Korean baby room by the same window with sheer curtain, soft low winter sunlight, light wood floor, subtle fine film grain, muted low-contrast color, same parent's hands in oatmeal chunky-knit cuffs only, no face. A hand in the cuff holds a small round room thermometer with a blurred unreadable dial, in front of a bare wooden crib with a firm fitted sheet and nothing loose inside, a thoughtful pause, still life at eye level. No readable text, no letters, no numbers, no logos, no brands. No baby socks, no gauze, no blank-paper arrangement.",
+  "photo_style": "hands",
+  "theme": "butter",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "질병관리청은 만 1세 이하 영유아가 성인과 달리 체온을 쉽게 잃을 수 있다고 안내함",
+      "value": "체온을 쉽게 잃을 수 있음",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c2",
+      "card": 2,
+      "text": "만 1세 이하 영유아는 오한 등을 통해서 체온을 충분히 만들 수 없다고 안내함",
+      "value": "체온을 충분히 만들 수 없음",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "만 1세 이하 영유아는 절대로 차가운 방에서 재우면 안 된다고 안내함",
+      "value": "만 1세 이하",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "영유아가 있는 집은 체온과 실내 온도를 자주 확인하여 충분히 따뜻하게 유지해야 한다고 안내함",
+      "value": "충분히 따뜻하게 유지",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "동절기에는 잘 보이는 곳에 읽기 쉬운 온도계를 부착하고 실내온도를 자주 점검하도록 권고함",
+      "value": "온도계로 자주 점검",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "겨울철 난방으로 실내가 매우 건조해지기 쉬움",
+      "value": "난방 시 건조",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c7",
+      "card": 5,
+      "text": "실내가 건조하면 코·기관지 점막과 피부·눈이 건조해져 호흡기질환이나 알레르기질환이 유발될 수 있다고 안내함",
+      "value": "코와 기관지, 피부 건조",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    },
+    {
+      "id": "c8",
+      "card": 1,
+      "text": "아기방(영유아가 있는 집)은 어른 기준보다 실내 온도·체온에 더 주의가 필요하다 — 표지 제목·캡션 첫 줄의 전제",
+      "value": "어른 기준보다 더 신경",
+      "source_hint": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "FIXED",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "만1세 이하 영유아는 절대로 차가운 방에서 재우면 안됩니다. 성인과 달리 체온을 쉽게 잃을 수 있고, 오한 등을 통해서 체온을 충분히 만들 수 없기 때문입니다.",
+        "checked_at": "2026-11-21",
+        "before": "카드2 본문 '질병관리청은 영유아가 어른보다 체온을 쉽게 잃는다고 안내해요.' / 캡션 '✔ 영유아는 어른보다 체온을 쉽게 잃어요.'",
+        "after": "카드2 본문 '질병관리청은 만 1세 이하 아기가 어른과 달리 체온을 쉽게 잃을 수 있다고 안내해요.' / 캡션 '✔ 만 1세 이하 아기는 어른과 달리 체온을 쉽게 잃을 수 있어요.' (원문은 만1세 이하 대상·'잃을 수 있고'로 한정)"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "만1세 이하 영유아는 절대로 차가운 방에서 재우면 안됩니다. 성인과 달리 체온을 쉽게 잃을 수 있고, 오한 등을 통해서 체온을 충분히 만들 수 없기 때문입니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "만1세 이하 영유아는 절대로 차가운 방에서 재우면 안됩니다. 성인과 달리 체온을 쉽게 잃을 수 있고, 오한 등을 통해서 체온을 충분히 만들 수 없기 때문입니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "가정 내 노인이나 영유아가 있는 경우 체온과 실내 온도를 자주 확인하여 충분히 따뜻하게 유지해야 합니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "동절기에는 실내의 잘 보이는 곳에 읽기 쉬운 온도계를 부착하고 실내온도를 자주 점검하는 것을 권고합니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "특히 겨울철에는 공기 중 수증기 부족과 난방으로 실내가 매우 건조해지기 쉬우므로 적정한 실내습도(40-50%) 유지 및 실내 환기가 매우 중요합니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "실내가 건조하게 되면 코와 기관지 점막이 마르고 피부와 눈이 건조해져 호흡기질환이나 알레르기질환 등이 유발될 수 있기 때문입니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+        "source_quote": "가정 내 노약자와 어린이가 있는 경우 실내온도가 22-24℃ 정도라고 해도 체온이 떨어질 수 있으므로 주의가 필요합니다. / 만1세 이하 영유아는 절대로 차가운 방에서 재우면 안됩니다. 성인과 달리 체온을 쉽게 잃을 수 있고, 오한 등을 통해서 체온을 충분히 만들 수 없기 때문입니다.",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "단일 출처: 질병관리청 국가건강정보포털 「겨울철 한파대비 건강수칙」(업데이트 2026-06-02), 2026-11-21 직접 열람. 카드·캡션에 목표 온도·습도 수치 없음(원문 18-20℃는 일반 실내 기준이고 영유아 가정은 22-24℃여도 체온이 떨어질 수 있다고 따로 안내하므로 수치를 넣지 않은 것이 맞음). 이미지 메모: 05번 'water bowl near a wall heater' — '물 떠놓기'는 원문 실내습도 유지요령에 있으나 '난방기 근처'는 원문에 없고, 카드5 본문은 가습 방법을 전혀 말하지 않으므로 이미지 단독으로 비공식 위치 지침을 암시함 → 프롬프트 수정 권장. 03번 '아기 침대 매트리스에 담요를 둘러 넣는' 장면도 원문에 없는 침구 지침(차가운 방=담요로 보온)을 암시할 수 있어 검토 권장."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  },
+  "photo_set": "codex-one-session"
+}
