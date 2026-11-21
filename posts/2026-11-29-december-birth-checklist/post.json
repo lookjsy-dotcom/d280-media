@@ -1,0 +1,216 @@
+{
+  "id": "2026-11-29-december-birth-checklist",
+  "topic": "연말 전에 체크할 출생 후 기한 (임신부 본인부담률 주제 폐기 → 12월 체크리스트 대체)",
+  "target_stage": "출산 직후~생후 3개월",
+  "hook_type": "마감",
+  "format": "magazine",
+  "template": "g-kmag",
+  "theme": "peach",
+  "photo_style": "hands",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "출산 후 신청 기한, 저장해두세요",
+      "title": "연말 전에\n체크할\n출생 후 기한",
+      "highlight": "출생 후 기한",
+      "sub": "우리 집은 놓친 게 없을까요?",
+      "image": "images/01.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "출생신고는 한 달 안에",
+      "highlight": "1개월 이내",
+      "body": "출생신고는 출생일부터 1개월 이내에 해야 해요. 출생신고 뒤에야 이어지는 신청이 많으니 가장 먼저 확인해요.",
+      "image": "images/02.png"
+    },
+    {
+      "type": "point",
+      "no": 2,
+      "title": "건강보험 피부양자 신고",
+      "highlight": "14일 이내",
+      "body": "신생아의 건강보험 피부양자 자격 취득 신고는 출생일부터 14일 이내가 기준이에요. 등록 여부는 건보공단 1577-1000에서 확인할 수 있어요.",
+      "image": "images/03.png"
+    },
+    {
+      "type": "point",
+      "no": 3,
+      "title": "부모급여·아동수당 신청",
+      "highlight": "60일 이내",
+      "body": "출생 후 60일 이내에 신청하면 출생월부터 소급해서 받을 수 있어요. 60일이 지나면 신청한 달부터 받을 수 있어요.",
+      "image": "images/04.png"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "첫만남이용권 종료일",
+      "highlight": "출생일부터 2년",
+      "body": "2024년 1월 1일 이후 출생아는 출생일부터 2년까지 사용할 수 있어요. 종료일은 아이의 출생일로 계산해요.",
+      "image": "images/05.png"
+    },
+    {
+      "type": "list",
+      "title": "우리 집 체크리스트",
+      "items": [
+        "출생신고를 마쳤나요",
+        "피부양자 등록을 확인했나요",
+        "부모급여·아동수당을 신청했나요",
+        "이용권 종료일을 적어뒀나요"
+      ],
+      "tip": "해당하는 항목은 공식 안내에서 한 번 더 확인해요.",
+      "highlight": "우리 집 체크리스트",
+      "image": "images/06.png"
+    },
+    {
+      "type": "closing",
+      "title": "지금 어느 단계예요?",
+      "body": "임신 중 / 출산 후, 편하게 남겨주세요 ↓",
+      "image": "images/07.png"
+    }
+  ],
+  "caption": "연말 전에 체크할 출생 후 기한, 우리 집은 놓친 게 없을까요?\n\n아기가 태어나면 정신없는 와중에 기한이 줄줄이 따라와요. 미리 알아두면 마음이 훨씬 가벼워져요.\n\n✔ 출생신고는 출생일부터 1개월 이내\n✔ 건강보험 피부양자 신고는 출생일부터 14일 이내가 기준\n✔ 부모급여·아동수당은 출생 후 60일 이내 신청하면 출생월부터 소급\n✔ 첫만남이용권은 2024년 1월 1일 이후 출생아 기준 출생일부터 2년까지 사용\n\n출산을 앞둔 친구가 떠올랐다면 '너 이거 알고 있어?' 하고 보내주세요.\n\n💌 아무 댓글 남겨주시면 시기별 체크리스트 DM으로 보내드려요\n\n남편한테도 언급해주세요 👇\n\n저장해두고 필요할 때 꺼내 보세요.\n\n※ 2026-11-21 기준 · 정부24·건보공단 공식 안내에서 최신 내용 확인",
+  "hashtags": [
+    "#출산준비",
+    "#출생신고",
+    "#부모급여",
+    "#아동수당",
+    "#첫만남이용권",
+    "#건강보험",
+    "#임산부",
+    "#예비맘",
+    "#초보맘",
+    "#출산혜택",
+    "#정부지원",
+    "#육아정보",
+    "#육아꿀팁"
+  ],
+  "cover_image_prompt": "Vertical 4:5 photorealistic film photograph, warm peach-toned Korean living room by the same sunlit window, soft cream walls, late-afternoon light, subtle fine film grain, muted low-contrast color, low wooden coffee table with a ceramic mug and a small green plant, same person's hands and dusty-rose linen sleeves only, no face. A hand flips a softly blurred wall calendar page toward the end of the year, a startled pause, calendar markings out of focus and unreadable. No readable text, no letters, no numbers, no logos, no brands, no baby socks, no gauze, no blank-paper arrangement.",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "출생신고는 출생일부터 1개월 이내에 해야 함",
+      "value": "1개월 이내",
+      "source_hint": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290741&efYd=20261002"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "신생아의 건강보험 피부양자 자격 취득 신고는 자격취득일(신생아는 출생일)부터 14일 이내",
+      "value": "14일 이내",
+      "source_hint": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "건보공단 대표전화 1577-1000으로 자격득실확인서 등 피부양자 자격 확인 가능",
+      "value": "1577-1000",
+      "source_hint": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945783"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "부모급여·아동수당은 출생 후 60일 이내 신청하면 출생월부터 소급 지급",
+      "value": "60일 이내",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "60일이 지난 뒤 신청하면 신청월부터 급여가 지급될 수 있음",
+      "value": "60일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "2024년 1월 1일 이후 출생아는 첫만남이용권을 출생일부터 2년까지 사용 가능, 기준은 아이의 출생일",
+      "value": "2024년 1월 1일, 2년",
+      "source_hint": "https://www.mohw.go.kr/menu.es?mid=a10711020100"
+    },
+    {
+      "id": "c7",
+      "card": 2,
+      "text": "부모급여·아동수당·첫만남이용권 등 출산 지원 신청(행복출산 원스톱)은 출생신고 시 또는 출생신고 이후 신청 가능",
+      "value": "출생신고 뒤에야 이어지는 신청",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/174000000029"
+    },
+    {
+      "id": "c8",
+      "card": 5,
+      "text": "첫만남이용권 사용기한은 주민등록상 생년월일(출생일)로부터 계산",
+      "value": "출생일로 계산",
+      "source_hint": "https://www.gov.kr/portal/service/serviceInfo/135200005015"
+    }
+  ],
+  "status": "rendered",
+  "photo_set": "codex-one-session",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=290741&efYd=20261002",
+        "source_quote": "제44조(출생신고의 기재사항) ① 출생의 신고는 출생 후 1개월 이내에 하여야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/nhis/policy/wbhada07300m01.do",
+        "source_quote": "자격취득일로부터 14일 이내 / 신생아의 경우에는 출생한 날",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945783",
+        "source_quote": "자격득실확인서란, 가입자(피부양자) 또는 가입자(피부양자)였던 자의 건강보험 자격득실내역을 확인하는 증명서입니다. / 대표전화 1577-1000(유료, 평일 09시~18시)",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "부모급여, 아동수당, 양육수당, 기저귀·조제분유지원 : 출생 후 60일까지 신청시 소급지원 가능",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306064_1114.html",
+        "source_quote": "생후 60일 이내에 신청하는 경우에는 출생일이 속한 달부터 소급하여 지원되지만, 생후 60일이 지난 후 신청하는 경우에는 신청일이 속한 달부터 받을 수 있으므로 주의해서 신청해야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.mohw.go.kr/menu.es?mid=a10711020100",
+        "source_quote": "‘24.1.1일 이후 출생한 아동으로 출생일로부터 2년",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/174000000029",
+        "source_quote": "출생신고 시 또는 출생신고 이후 신청가능 / 첫만남이용권, 부모급여(현금), 양육수당, 아동수당, 해산급여, ...",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://www.gov.kr/portal/service/serviceInfo/135200005015",
+        "source_quote": "2024년 1월 1일 이후 출생아는 주민등록상 생년월일로부터 2년내에 신청하여 사용 가능",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "재사용 사실 전부 현행 공식 페이지에서 2026-11-21 재확인. 출생신고 1개월은 law.go.kr 현행 본문(lsInfoR, 시행 2026.10.2. 법률 제21857호) 제44조①. 피부양자 14일·신생아=출생한 날은 nhis 신고 안내, 1577-1000은 nhis 자격득실확인서 안내. 60일 소급은 정부24 행복출산 원스톱(최종수정 2026.04.30)+복지로(60일 후는 신청일이 속한 달부터). 카드는 소급 대상을 부모급여·아동수당으로 한정해 11-22 영상 게시물의 양육수당 제외 판단과 일치. 첫만남이용권은 복지부·정부24 모두 '2024.1.1 이후 출생아 출생일로부터 2년'. 카드 5는 구체 종료일을 계산해 적지 않으므로 11-23 게시물의 공식 예시 규칙(자체 계산 날짜 금지) 위반 없음; 예시를 넣는다면 공식 예시(2025.01.01 출생→2026.12.31, 김포시)만 사용. 정부24는 '2년내에 신청하여 사용'으로 신청도 같은 기한 내여야 함을 표기 — 카드와 모순 없음. 숨은 주장 2개 추가: c7(카드2 '출생신고 뒤에야 이어지는 신청'), c8(카드5 '종료일은 출생일로 계산'). 카드·캡션 문구 수정 없음, image 필드 미변경."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}

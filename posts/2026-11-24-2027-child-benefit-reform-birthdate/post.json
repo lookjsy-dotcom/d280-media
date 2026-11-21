@@ -1,0 +1,353 @@
+{
+  "id": "2026-11-24-2027-child-benefit-reform-birthdate",
+  "topic": "2027년 7월 이후 출생이면 지원이 바뀐다는 발표된 개편안, 출생일 기준 체크",
+  "target_stage": "임신 중기~출산",
+  "hook_type": "통념뒤집기",
+  "format": "magazine",
+  "template": "g-kmag",
+  "base_date": "2026-11-24",
+  "photo_style": "flatlay",
+  "theme": "sky",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "저장해두고 보세요",
+      "title": "출생일 따라\n받는 돈이\n달라질 수도",
+      "highlight": "달라질 수도",
+      "sub": "발표된 개편안, 우리 아기는 어느 쪽일까요? 출산예정일부터 확인해요",
+      "image": "images/01.png"
+    },
+    {
+      "type": "point",
+      "no": 1,
+      "title": "발표된 안이에요, 확정 전이에요",
+      "highlight": "2027년 7월 1일",
+      "body": "정부가 발표한 개편안은 2027년 7월 1일 이후 출생아부터 적용하는 계획이에요. 법 개정과 예산 확정 전이라 바뀔 수 있어요.",
+      "image": "images/02.png"
+    },
+    {
+      "type": "table",
+      "no": 2,
+      "title": "출생일로 갈리는 두 갈래",
+      "lead": "출생일이 어느 쪽인지가 기준이에요",
+      "rows": [
+        [
+          "출생일",
+          "적용 제도"
+        ],
+        [
+          "2027년 6월 30일까지",
+          "현행 제도 (변경 검토 중)"
+        ],
+        [
+          "2027년 7월 1일부터",
+          "발표된 개편안"
+        ]
+      ],
+      "note": "현행: 첫만남이용권·부모급여·아동수당 / 복지부가 1~6월생도 개편안 적용하는 방안 검토 중",
+      "highlight": "변경 검토 중",
+      "image": "images/03.png"
+    },
+    {
+      "type": "table",
+      "no": 3,
+      "title": "개편안, 아이맞이지원금",
+      "lead": "1년간 나눠 받는 현금, 아이 순서에 따라 달라요",
+      "rows": [
+        [
+          "첫째",
+          "1,000만 원"
+        ],
+        [
+          "둘째",
+          "1,200만 원"
+        ],
+        [
+          "셋째 이상",
+          "1,500만 원"
+        ]
+      ],
+      "note": "발표안 기준 · 우대지역은 500만 원 추가 · 출생 후 1년간 분기별 4회 현금 지급",
+      "highlight": "1,000만 원",
+      "image": "images/04.png"
+    },
+    {
+      "type": "point",
+      "no": 4,
+      "title": "개편안, 아동기본수당",
+      "highlight": "월 20만 원",
+      "body": "0세부터 만 12세 마지막 달까지 월 20만 원이에요. 현금 10만 원, 지역사랑상품권 10만 원으로 나뉘어요.",
+      "tip": "0~1세 중 어린이집을 안 쓰면 월 30만 원이 더해지는 안이에요.",
+      "image": "images/05.png"
+    },
+    {
+      "type": "list",
+      "title": "내 칸 체크하는 법",
+      "items": [
+        "출산예정일 확인하기",
+        "예정일이 6월 말 이전인지 7월 이후인지 보기",
+        "확정 공고 나오면 공식 안내 확인"
+      ],
+      "tip": "예정일과 실제 출생일은 다를 수 있어요. 기준은 출생일이에요.",
+      "highlight": "출산예정일 확인하기",
+      "image": "images/06.png"
+    },
+    {
+      "type": "closing",
+      "title": "내 출산예정일은?",
+      "body": "2027년 7월 전이라면 '전', 이후라면 '후'라고 댓글로 알려주세요 ↓",
+      "image": "images/07.png"
+    }
+  ],
+  "caption": "출생일 따라 받는 돈이 달라질 수도 있어요.\n\n정부가 발표한 개편안 이야기예요. 아직 법 개정·예산 확정 전이라 바뀔 수 있어요.\n\n✔ 2027년 7월 1일 이후 출생아부터 적용하는 계획이에요\n✔ 발표안 기준 2027년 6월 30일까지 출생아는 현행 제도(첫만남이용권·부모급여·아동수당)예요\n✔ 다만 보건복지부가 2027년 1~6월 출생아까지 개편안을 넓히는 방안을 검토 중이에요(11월 5일 설명자료, 확정 전)\n✔ 아이맞이지원금: 발표안 기준 첫째 1,000만 원, 둘째 1,200만 원, 셋째 이상 1,500만 원\n✔ 아동기본수당: 0세부터 만 12세까지 월 20만 원(우대지역 월 30만 원)\n\n내 출산예정일이 어느 쪽인지부터 확인해보세요. 확정 금액은 공고를 꼭 확인해요.\n\n임신한 친구가 떠올랐다면 '너 출산예정일이 언제야?' 하고 보내주세요.\n\n💌 아무 댓글 남겨주시면 시기별 체크리스트 DM으로 보내드려요\n\n남편한테도 언급해주세요 👇\n\n※ 2026-11-24 기준 · 보건복지부·복지로 공식 안내에서 최신 내용 확인",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#아이맞이지원금",
+    "#아동기본수당",
+    "#아동수당",
+    "#부모급여",
+    "#첫만남이용권",
+    "#출산지원금",
+    "#예비맘",
+    "#임신중기",
+    "#육아정보",
+    "#출산혜택"
+  ],
+  "cover_image_prompt": "Vertical 4:5 photorealistic film photograph, cool airy Korean living-room corner with a pale sky-blue wall and linen curtain, soft overcast daylight, subtle fine film grain, muted low-contrast color, a pale wooden desk with a plain ceramic mug, same hands in light grey cardigan sleeves only, no face. Two identical small linen pouches sit side by side on the desk while one hand hovers undecided between them, a softly blurred wall calendar behind. No readable text, no letters, no numbers, no logos, no brands, no baby socks, no gauze, no blank-paper arrangement.",
+  "claims": [
+    {
+      "id": "c1",
+      "card": 2,
+      "text": "정부가 2026년 8월 28일 발표한 개편안은 2027년 7월 1일 이후 출생아부터 적용하는 계획이며, 법 개정·예산 확정 전의 발표 단계 안임",
+      "value": "2027년 7월 1일, 2026년 8월 28일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c2",
+      "card": 3,
+      "text": "발표안 기준 2027년 6월 30일까지 출생한 아동은 현행 첫만남이용권·부모급여·아동수당을 받음(단, 1~6월 출생아까지 개편 급여 확대 검토 중으로 바뀔 수 있음)",
+      "value": "2027년 6월 30일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c3",
+      "card": 3,
+      "text": "2027년 7월 1일 이후 출생아는 발표된 개편안(아이맞이지원금·아동기본수당) 대상",
+      "value": "2027년 7월 1일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c4",
+      "card": 4,
+      "text": "아이맞이지원금(발표안, 일반 지역): 첫째 1,000만 원",
+      "value": "1,000만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c5",
+      "card": 4,
+      "text": "아이맞이지원금(발표안, 일반 지역): 둘째 1,200만 원",
+      "value": "1,200만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c6",
+      "card": 4,
+      "text": "아이맞이지원금(발표안, 일반 지역): 셋째 이상 1,500만 원",
+      "value": "1,500만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c7",
+      "card": 4,
+      "text": "우대지역은 500만 원 추가",
+      "value": "500만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c8",
+      "card": 4,
+      "text": "아이맞이지원금은 현금으로 출생 후 1년간 분기별 4회 나누어 지급",
+      "value": "1년, 4회",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c9",
+      "card": 5,
+      "text": "아동기본수당(발표안): 0세부터 만 12세 마지막 달까지 월 20만 원",
+      "value": "0세, 만 12세, 월 20만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c10",
+      "card": 5,
+      "text": "월 20만 원은 현금 10만 원과 지역사랑상품권 10만 원으로 구성",
+      "value": "10만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c11",
+      "card": 5,
+      "text": "0~1세 중 어린이집을 이용하지 않는 아동에게 월 30만 원 추가 지급(발표안)",
+      "value": "0~1세, 월 30만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c12",
+      "card": 4,
+      "text": "기존 아동수당·부모급여·첫만남이용권을 아이맞이지원금·아동기본수당으로 개편하며, 아이맞이지원금은 출생 후 1년간 나눠 받는 현금 지원금(발표안)",
+      "value": "아이맞이지원금, 1년",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c13",
+      "card": 6,
+      "text": "예정일과 실제 출생일은 다를 수 있고 적용 기준은 출생일",
+      "value": "출생일",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c14",
+      "card": 5,
+      "text": "우대지역 아동기본수당은 월 30만 원(발표안)",
+      "value": "월 30만 원",
+      "source_hint": "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1310283_1114.html"
+    },
+    {
+      "id": "c15",
+      "card": 3,
+      "text": "보건복지부는 2026년 11월 5일 설명자료에서 2027년 1~6월 출생아까지 개편 급여 적용을 확대하는 방안을 검토 중이라고 밝힘(확정 아님, 국회 법안·예산안 심의에 반영 추진)",
+      "value": "1~6월, 2027년, 11월 5일",
+      "source_hint": "https://m.korea.kr/briefing/actuallyView.do?newsId=148975158"
+    }
+  ],
+  "status": "rendered",
+  "photo_set": "codex-one-session",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "보건복지부(장관 정은경)는 2026년 8월 28일(금) 「청년 예산 언박싱(UNBOXING) 2027」에서 2027년 핵심 청년 예산으로 ‘양육지원급여 개편’과 ‘청년 회복·성장 사다리’를 발표했다. / 이번에 개편된 아이맞이지원금과 아동기본수당은 2027년 7월 1일 이후 출생아부터 적용될 예정이며, 2027년 6월 30일 출생아까지는 현행 첫만남이용권, 부모급여, 아동수당이 그대로 지급된다. / 보건복지부는 아이맞이지원금 및 아동기본수당 시행에 앞서 「아동수당법」 개정 및 관련 시스템 정비 등을 추진할 계획이다.",
+        "checked_at": "2026-11-21",
+        "note": "확정 전 근거 보강: 2026-11-05 보도설명자료 '국회의 법안 및 예산안 심의 시 해당 내용 반영을 통해…국회의 심사 과정을 충실히 지원할 계획입니다.' (https://m.korea.kr/briefing/actuallyView.do?newsId=148975158)"
+      },
+      {
+        "id": "c2",
+        "verdict": "FIXED",
+        "source_url": "https://m.korea.kr/briefing/actuallyView.do?newsId=148975158",
+        "source_quote": "보건복지부는 1~6월 출생아까지 개편 급여 적용을 확대하는 방안을 면밀히 검토 중입니다 / 2027년 출생하는 아동 모두가 동등하게 아동기본수당, 아이맞이지원금을 지원받을 수 있도록 하는 방안을 검토하고 있습니다.",
+        "checked_at": "2026-11-21",
+        "before": "카드3 표 '2027년 6월 30일까지 → 현행 제도 그대로', 캡션 '6월 30일까지 출생아는 현행 제도 그대로예요'(단정)",
+        "after": "카드3 표 '현행 제도 (변경 검토 중)' + 각주 '복지부가 1~6월생도 개편안 적용하는 방안 검토 중', 캡션에 '발표안 기준' + 1~6월생 확대 검토 줄 추가",
+        "source_url_2": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote_2": "이번에 개편된 아이맞이지원금과 아동기본수당은 2027년 7월 1일 이후 출생아부터 적용될 예정이며, 2027년 6월 30일 출생아까지는 현행 첫만남이용권, 부모급여, 아동수당이 그대로 지급된다."
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "이번에 개편된 아이맞이지원금과 아동기본수당은 2027년 7월 1일 이후 출생아부터 적용될 예정이며, 2027년 6월 30일 출생아까지는 현행 첫만남이용권, 부모급여, 아동수당이 그대로 지급된다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "‘아이맞이지원금’은 첫째 아동은 1,000만 원, 둘째 아동은 1,200만 원, 셋째 이상 아동은 1,500만 원을 지급하여 다자녀에 대한 지원을 강화한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "‘아이맞이지원금’은 첫째 아동은 1,000만 원, 둘째 아동은 1,200만 원, 셋째 이상 아동은 1,500만 원을 지급하여 다자녀에 대한 지원을 강화한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "‘아이맞이지원금’은 첫째 아동은 1,000만 원, 둘째 아동은 1,200만 원, 셋째 이상 아동은 1,500만 원을 지급하여 다자녀에 대한 지원을 강화한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "행정안전부의 지방우대지수를 고려하여 구분된 우대지역에 거주하는 아동은 500만 원을 추가 지급하여 첫째 아동은 1,500만 원, 둘째 아동은 1,700만 원, 셋째 이상 아동은 2,000만 원을 지급한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c8",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "아이맞이지원금은 실질적인 양육에 활용될 수 있도록 출생 이후 1년 동안 분기별로 4번에 나눠서 지급한다. 기존의 첫만남이용권은 바우처로 지급하였으나, 아이맞이지원금은 현금으로 지급하여 사용처나 사용기한의 제한 없이 자유롭게 아동 양육에 활용할 수 있다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c9",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "‘아동기본수당’은 0세부터 13세 미만*(12세 마지막 달)까지 매월 20만 원을 지급하되 현금으로 10만원, 지역사랑상품권으로 10만원을 지급한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c10",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "‘아동기본수당’은 0세부터 13세 미만*(12세 마지막 달)까지 매월 20만 원을 지급하되 현금으로 10만원, 지역사랑상품권으로 10만원을 지급한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c11",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "또한 0~1세 아동 중 어린이집을 이용하지 않고 가정 보육을 하는 경우에는 매월 30만 원을 추가로 지급한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c12",
+        "verdict": "FIXED",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "이에 기존의 아동수당, 부모급여, 첫만남이용권을 아이맞이지원금과 아동기본수당으로 개편하여 급여를 단순화하면서 지원을 강화한다. / 출생 이후 1년 동안 분기별로 4번에 나눠서 지급한다.",
+        "checked_at": "2026-11-21",
+        "before": "claim '첫만남이용권·부모급여를 통합한 일회성 지원금' / 카드4 lead '일회성 지원금, 아이 순서에 따라 달라요'",
+        "after": "claim '기존 아동수당·부모급여·첫만남이용권을 아이맞이지원금·아동기본수당으로 개편, 아이맞이지원금은 1년간 나눠 받는 현금' / 카드4 lead '1년간 나눠 받는 현금, 아이 순서에 따라 달라요'"
+      },
+      {
+        "id": "c13",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "이번에 개편된 아이맞이지원금과 아동기본수당은 2027년 7월 1일 이후 출생아부터 적용될 예정이며, 2027년 6월 30일 출생아까지는 현행 첫만남이용권, 부모급여, 아동수당이 그대로 지급된다.",
+        "checked_at": "2026-11-21",
+        "note": "적용 기준이 '출생아'(출생일)임은 원문으로 확인. '예정일과 실제 출생일은 다를 수 있다'는 일반 상식 문장으로 수치·자격 주장 아님."
+      },
+      {
+        "id": "c14",
+        "verdict": "OK",
+        "source_url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491722&mid=a10503010100&nPage=1&tag=",
+        "source_quote": "우대지역 아동은 매월 10만 원을 추가하여 총 30만 원을 지급하되, 현금으로 15만원, 지역사랑상품권으로 15만원을 지급한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c15",
+        "verdict": "OK",
+        "source_url": "https://m.korea.kr/briefing/actuallyView.do?newsId=148975158",
+        "source_quote": "보건복지부는 1~6월 출생아까지 개편 급여 적용을 확대하는 방안을 면밀히 검토 중입니다 / 국회의 법안 및 예산안 심의 시 해당 내용 반영을 통해 더 많은 아동과 가정이 확대된 양육지원 혜택을 받을 수 있도록 보건복지부는 국회의 심사 과정을 충실히 지원할 계획입니다.",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "원 출처를 복지로 뉴스(연합뉴스 전재)에서 보건복지부 원 보도참고자료(2026-08-28, '청년 예산 언박싱 2027', PDF 첨부 본문에서 문장 대조)로 교체. 2026-11-05 복지부 보도설명자료에서 1~6월 출생아까지 개편 급여 확대를 검토 중이라고 밝혀 '6월 30일까지 현행 그대로' 단정을 고침. 언론 보도상 국회 복지위가 상반기 출생아 적용 부대의견을 냈다고 하나 공식 출처 미확인이고 본회의·아동수당법 개정 전이라 미반영. 국회 예산 확정(12월 초 예상) 후 재검사 필요. 카드 image 필드는 건드리지 않음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}
