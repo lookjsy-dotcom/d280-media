@@ -1,0 +1,273 @@
+{
+  "id": "2026-11-24-return-same-job",
+  "topic": "육아휴직 후 복직, 원래 업무 또는 같은 수준 임금 직무로",
+  "target_stage": "임신 중기~출산 후",
+  "hook_type": "통념뒤집기",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "휴직 계획 세우다 밤샌 이팔공",
+      "title": "복직했더니\n내 자리가 없다면?",
+      "highlight": "내 자리가",
+      "sub": "이팔공이 찾아낸 답은? 결과는 끝 장면에",
+      "scene": "Ipalgong sits at a night desk lit by a small lamp, looking at an empty office chair photo on her phone with one sweat drop and a worried tilted head.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong stands at her office desk looking at a wall calendar, a small plant and a notebook on the desk, thoughtful face.",
+      "caption": "휴직 일정을 짜다가 문득",
+      "dialogue": [
+        {
+          "text": "복직하면 내 자리는 그대로일까?",
+          "pos": "tl"
+        },
+        {
+          "text": "다른 업무로 가 있으면...",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table with a notebook and pen, tilting her head with a single small sweat drop.",
+      "caption": "혼자 상상하니 걱정이 커져요",
+      "dialogue": [
+        {
+          "text": "내 일은 이미 다른 분 몫이면?",
+          "pos": "tl"
+        },
+        {
+          "text": "돌아갈 곳이 없으면 어쩌지...",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D in a work shirt sits next to Ipalgong on the sofa, kind and concerned, while she holds her phone.",
+      "caption": "퇴근한 D가 같이 검색해 줬어요",
+      "dialogue": [
+        {
+          "text": "D: 회사가 다른 일 하라면?",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 한 줄 뭐지...?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong and Ipalgong's husband D sit side by side on the sofa leaning toward a laptop with wide eyes.",
+      "caption": "정답은 바로 이거였어요",
+      "dialogue": [
+        {
+          "text": "원래 하던 일로 돌아간다고?",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 같은 수준 임금 직무도!",
+          "pos": "bl"
+        }
+      ],
+      "info": "휴직 전과 같은 업무 또는 같은 수준 임금의 직무로 복귀시켜야 해요",
+      "highlight": "같은 업무 또는 같은 수준 임금",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D points at the laptop while Ipalgong nods with a relieved closed-eye smile.",
+      "caption": "휴직을 이유로 한 불이익도 안 돼요",
+      "dialogue": [
+        {
+          "text": "해고나 불리한 처우도 금지?",
+          "pos": "tl"
+        },
+        {
+          "text": "그럼 한시름 놓이네!",
+          "pos": "br"
+        }
+      ],
+      "info": "육아휴직을 이유로 한 해고나 그 밖의 불리한 처우는 금지돼요",
+      "highlight": "불리한 처우는 금지",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong taps her pen on a notebook with a thoughtful tilted head while Ipalgong's husband D scratches his head beside her.",
+      "caption": "단, 이 조건은 꼭 확인",
+      "dialogue": [
+        {
+          "text": "전부 다 똑같아야 하는 건 아니네",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 인사 이동은 따로 보나 봐.",
+          "pos": "bl"
+        }
+      ],
+      "info": "정기인사 등 통상 관행에 따른 합리적 배치는 불리한 처우로 보기 어려울 수 있어요",
+      "highlight": "통상 관행에 따른 합리적 배치",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes a short question list in a notebook while Ipalgong's husband D saves a phone number on his phone.",
+      "caption": "그래서 미리 물어보기로 했어요",
+      "dialogue": [
+        {
+          "text": "복귀 업무를 정중히 확인해 볼래.",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 상담은 1350이래, 저장!",
+          "pos": "bl"
+        }
+      ],
+      "info": "애매하면 고용노동부 1350에서 상담받을 수 있어요",
+      "highlight": "고용노동부 1350",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong walks into a bright office holding a coffee cup with a confident bright smile while Ipalgong's husband D waves her off at the door giving a thumbs up.",
+      "caption": "알고 가니 당당해졌어요",
+      "dialogue": [
+        {
+          "text": "휴직은 당당하게, 확인은 정중하게!",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 우리 팀 최고야.",
+          "pos": "bl"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "복직 걱정, 가장 큰 건 뭐였나요?",
+      "body": "업무 vs 평가, 댓글로 알려주세요. 남편이나 예비 아빠에게도 보내주세요. 복직은 같은 업무 또는 같은 수준 임금의 직무로 해야 해요. 회사 사정은 다를 수 있어 1350에서 확인하세요. ↓",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "복직했더니 내 자리가 없다면?\n\n휴직 계획을 세우다 보면 돌아갈 자리가 걱정돼요. 이팔공이 알아본 핵심만 정리했어요.\n✔ 복직하면 휴직 전과 같은 업무 또는 같은 수준 임금의 직무로 복귀시켜야 해요.\n✔ 육아휴직을 이유로 한 해고나 불리한 처우는 금지돼요.\n✔ 다만 정기인사 등 통상 관행에 따른 합리적인 배치는 불리한 처우로 보기 어려울 수 있어요.\n✔ 궁금한 점은 복귀 전에 정중하게 확인하고, 애매하면 고용노동부 1350에 상담하세요.\n\n복직 걱정하는 친구가 떠올랐다면 '너 복직하면 어떤 일 하는지 확인했어?' 하고 보내주세요.\n가장 큰 복직 걱정은 업무 vs 평가, 댓글로 알려주세요. 남편한테도 언급해주세요 👇\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-21 기준)\n※ 회사 사정에 따라 다를 수 있으니 공식 안내에서 최신 내용을 확인하세요.",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#육아휴직",
+    "#복직",
+    "#직장맘",
+    "#워킹맘",
+    "#정부지원",
+    "#임신중기",
+    "#예비맘",
+    "#육아정보",
+    "#임산부꿀팁",
+    "#D280"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 5,
+      "text": "사업주는 육아휴직 후 복직 시 휴직 전과 같은 업무 또는 같은 수준의 임금을 지급하는 직무에 복귀시켜야 함",
+      "value": "같은 업무 또는 같은 수준 임금",
+      "source_hint": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202502240556575830768"
+    },
+    {
+      "id": "c2",
+      "card": 6,
+      "text": "육아휴직을 이유로 한 해고나 그 밖의 불리한 처우는 금지됨 (남녀고용평등법 제19조)",
+      "value": "불리한 처우는 금지",
+      "source_hint": "https://www.law.go.kr/법령/남녀고용평등과일ㆍ가정양립지원에관한법률/제19조"
+    },
+    {
+      "id": "c3",
+      "card": 7,
+      "text": "정기인사 등 통상의 인사관행에 따른 배치전환으로 사회통념상 객관적으로 인정되는 경우 불리한 처우로 보기 어려울 수 있음",
+      "value": "통상 관행에 따른 합리적 배치",
+      "source_hint": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202502240556575830768"
+    },
+    {
+      "id": "c4",
+      "card": 8,
+      "text": "사업장 사정이 애매하면 고용노동부 상담번호 1350에서 상담받을 수 있음",
+      "value": "1350",
+      "source_hint": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202502240556575830768"
+    },
+    {
+      "id": "c5",
+      "card": 5,
+      "text": "복직을 시키지 않거나 근무처를 불합리하게 바꾸는 경우 불리한 처우로 볼 수 있음",
+      "value": "불리한 처우",
+      "source_hint": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202502240556575830768"
+    }
+  ],
+  "status": "rendered",
+  "story_formula": "T1 (answer hidden, husband D)",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284457&efYd=20260918",
+        "source_quote": "④ 사업주는 육아휴직을 마친 후에는 휴직 전과 같은 업무 또는 같은 수준의 임금을 지급하는 직무에 복귀시켜야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284457&efYd=20260918",
+        "source_quote": "③ 사업주는 육아휴직을 이유로 해고나 그 밖의 불리한 처우를 하여서는 아니 되며, 육아휴직 기간에는 그 근로자를 해고하지 못한다. 다만, 사업을 계속할 수 없는 경우에는 그러하지 아니하다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "before": "정기인사 같은 통상적 배치는 불리한 처우가 아닐 수 있어요",
+        "after": "정기인사 등 통상 관행에 따른 합리적 배치는 불리한 처우로 보기 어려울 수 있어요",
+        "source_url": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202502240556575830768",
+        "source_quote": "회사의 정기인사발령 등에 의하거나 순환보직시기 도래 등 통상의 인사관행대로 배치전환이 이루어지고, 사회통념상 객관적으로 인정되는 경우에는 불리한 처우로 보기 어려울 것으로 사료됩니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://1350.moel.go.kr/home/hp/ch/callchat.do",
+        "source_quote": "국번없이 1350(전화요금 : 유료) / 이용시간 : 평일 09:00 ~ 18:00 / ARS 4 산전후휴가급여, 육아휴직급여 등 모성보호",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202502240556575830768",
+        "source_quote": "육아휴직기나 만료후 복직을 시키지 않거나 근무처를 불합리하게 변경하는 경우에는 불리한 처우로 볼 수 있으나,",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "c1·c2는 국가법령정보센터 남녀고용평등과 일·가정 양립 지원에 관한 법률(시행 2026-09-18, 법률 제21476호) 제19조 제3·4항 원문 직접 확인(lsInfoR.do 본문). c3는 고용노동부 빠른상담 답변(행정 해석)에 '사회통념상 객관적으로 인정되는 경우' 조건이 붙어 있어 카드 7 info·하이라이트·캡션을 '통상 관행에 따른 합리적 배치…보기 어려울 수 있어요'로 고침. 조문이 아닌 상담 답변이라 단정 대신 '수 있어요' 유지. 카드·캡션 전체에서 claims 밖 사실 주장 추가 없음(복귀 전 정중히 확인 등은 조언). 1350은 유료·평일 09~18시."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}
