@@ -1,0 +1,259 @@
+{
+  "id": "2026-11-23-yearend-couple-child-deduction",
+  "topic": "아기 연말정산 공제, 맞벌이 부부 중 누가 받을까",
+  "target_stage": "올해 출산 직후~연말",
+  "hook_type": "손실회피",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "연말정산 앞두고 부부 회의",
+      "title": "아기 공제, 남편이\n받으면 손해?",
+      "highlight": "손해?",
+      "sub": "이팔공 부부의 선택은? 결과는 끝 장면에",
+      "scene": "Ipalgong and Ipalgong's husband D sit at the kitchen table facing each other with a laptop between them, both with a small puzzled sweat drop.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D at the kitchen table with a laptop, smiling confidently at Ipalgong who holds a cup of tea.",
+      "caption": "연말정산 시즌, 저녁 식탁에서",
+      "dialogue": [
+        {
+          "text": "D: 아기 공제는 내가 받을게!",
+          "pos": "tl"
+        },
+        {
+          "text": "어? 그냥 정하면 돼?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong crosses her arms with a thoughtful tilted head while Ipalgong's husband D scratches his head.",
+      "caption": "이팔공도 회사에서 연말정산을 해요",
+      "dialogue": [
+        {
+          "text": "나도 맞벌이인데...",
+          "pos": "tl"
+        },
+        {
+          "text": "누가 받아야 유리해?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D looks at the laptop with a worried look while Ipalgong leans in, pointing at the screen.",
+      "caption": "D가 검색을 시작했어요",
+      "dialogue": [
+        {
+          "text": "D: 둘 다 받으면 안 되나?",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 문장 뭐지...?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong and Ipalgong's husband D lean toward the laptop together with wide surprised eyes.",
+      "caption": "정답은 이거였어요",
+      "dialogue": [
+        {
+          "text": "부부 중 한 명만?",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 같이 받으면 안 되는구나!",
+          "pos": "bl"
+        }
+      ],
+      "info": "맞벌이 부부는 같은 자녀의 기본공제를 둘 다 받을 수 없고, 한 명만 받아요",
+      "highlight": "한 명만",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds a swaddled newborn bundle with a gentle smile while Ipalgong's husband D looks at the laptop.",
+      "caption": "올해 태어난 아기도 대상이 될 수 있어요",
+      "dialogue": [
+        {
+          "text": "D: 출생신고 전이면?",
+          "pos": "tl"
+        },
+        {
+          "text": "그것도 확인해 보자!",
+          "pos": "br"
+        }
+      ],
+      "info": "올해 태어난 자녀도 공제 대상이 될 수 있어요. 요건은 국세상담센터에서 확인하세요",
+      "highlight": "올해 태어난 자녀",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D points at a laptop screen showing a simple comparison chart with colored bars, Ipalgong nods.",
+      "caption": "그럼 누가 받는 게 유리할까요?",
+      "dialogue": [
+        {
+          "text": "D: 어떻게 비교하지?",
+          "pos": "tl"
+        },
+        {
+          "text": "국세청 안내가 있대!",
+          "pos": "br"
+        }
+      ],
+      "info": "국세청 '맞벌이 근로자 절세안내'에서 부부에게 가장 유리한 공제방법을 안내받을 수 있어요. 부부 모두 공제신고서를 써야 해요",
+      "highlight": "가장 유리한 공제방법",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes in a notebook while Ipalgong's husband D holds a pen, both looking at the laptop thoughtfully.",
+      "caption": "마지막으로 주의할 점",
+      "dialogue": [
+        {
+          "text": "D: 정하면 끝이야?",
+          "pos": "tl"
+        },
+        {
+          "text": "회사에 내는 서류 확인!",
+          "pos": "br"
+        }
+      ],
+      "info": "소득 조건 등 공제 요건은 가족마다 달라서 회사 안내와 국세청 안내로 꼭 확인하세요",
+      "highlight": "꼭 확인",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong stands confidently at the kitchen counter with a notebook and a pen, smiling, while Ipalgong's husband D gives a thumbs up.",
+      "caption": "이팔공이 당당하게 정리했어요",
+      "dialogue": [
+        {
+          "text": "비교해 보고 같이 정하자!",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 완전 좋아!",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "우리 집은 누가 받을까요?",
+      "body": "나 vs 남편, 댓글로 알려주세요! 예비아빠에게도 보내 주세요 ↓",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "아기 공제, 남편이 받으면 손해일까요?\n\n✔ 맞벌이 부부는 같은 자녀의 기본공제를 한 명만 받아요\n✔ 올해 태어난 자녀도 공제 대상이 될 수 있어요\n✔ 국세청 '맞벌이 근로자 절세안내'로 부부에게 유리한 공제방법을 안내받을 수 있어요\n✔ 소득 조건 등 요건은 가족마다 달라 공식 안내 확인이 필요해요\n\n연말정산 앞둔 친구가 떠올랐다면 '너 아기 공제 누가 받아?' 하고 보내주세요.\n\n남편한테도 언급해주세요 👇\n\n저장해두고 필요할 때 꺼내 보세요.\n※ 2026-11-21 기준 · 국세청 공식 안내에서 최신 내용을 확인하세요.",
+  "hashtags": [
+    "#연말정산",
+    "#아기공제",
+    "#맞벌이부부",
+    "#출산준비",
+    "#임산부",
+    "#신생아",
+    "#육아정보",
+    "#정부지원",
+    "#육아꿀팁",
+    "#예비아빠",
+    "#홈택스",
+    "#초보맘"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 5,
+      "text": "맞벌이 부부는 같은 자녀의 기본공제를 둘 다 받을 수 없고 부부 중 한 명만 받는다",
+      "value": "한 명만",
+      "source_hint": "https://www.law.go.kr 소득세법 제50조 · https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1318&ctgId=CTG11904 (원문 확인 필요, 팩트체커 몫)"
+    },
+    {
+      "id": "c2",
+      "card": 6,
+      "text": "올해 태어난 자녀도 기본공제 대상이 될 수 있다 (판정은 과세기간 종료일 현재 상황, 직계비속 20세 이하)",
+      "value": "올해 태어난 자녀",
+      "source_hint": "https://call.nts.go.kr/call/qna/selectQnaInfo.do?mi=1318&ctgId=CTG11904"
+    },
+    {
+      "id": "c3",
+      "card": 7,
+      "text": "국세청 맞벌이 근로자 절세안내는 맞벌이 근로자에게 가장 유리한 공제방법을 안내하며, 부부 모두 공제신고서를 작성하고 배우자 제공동의가 필요하다",
+      "value": "가장 유리한 공제방법",
+      "source_hint": "https://www.hometax.go.kr"
+    },
+    {
+      "id": "c4",
+      "card": 8,
+      "text": "소득 조건 등 기본공제 요건은 가족마다 다르므로 회사·국세청 안내로 확인해야 한다",
+      "value": "꼭 확인",
+      "source_hint": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1126&ccfNo=6&cciNo=2&cnpClsNo=1"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290841",
+        "source_quote": "①거주자의 인적공제대상자(이하 “공제대상가족”이라 한다)가 동시에 다른 거주자의 공제대상가족에 해당되는 경우에는 해당 과세기간의 과세표준확정신고서, ... 근로소득자 소득ㆍ세액 공제신고서 ... 에 기재된 바에 따라 그중 1인의 공제대상가족으로 한다. (소득세법 시행령 제106조, 시행 2026.10.1.) / 소득세법 제50조 ③ 거주자의 배우자 또는 부양가족이 다른 거주자의 부양가족에 해당되는 경우에는 대통령령으로 정하는 바에 따라 이를 어느 한 거주자의 종합소득금액에서 공제한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "FIXED",
+        "before": "카드6 캡션 '올해 태어난 아기도 해당돼요'",
+        "after": "'올해 태어난 아기도 대상이 될 수 있어요' (info 문구 '될 수 있어요'와 일치, 단정 완화)",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280405",
+        "source_quote": "나. 거주자의 직계비속으로서 대통령령으로 정하는 사람과 대통령령으로 정하는 동거 입양자(이하 “입양자”라 한다)로서 20세 이하(20세가 되는 날과 그 이전 기간을 말한다. 이하 이 조에서 같다)인 사람. (제50조 ①3호) / ④ 제50조, 제51조 및 제59조의2에 따른 공제대상 배우자, 공제대상 부양가족, 공제대상 장애인 또는 공제대상 경로우대자에 해당하는지 여부의 판정은 해당 과세기간의 과세기간 종료일 현재의 상황에 따른다. (제53조, 소득세법 시행 2026.7.1.)",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "before": "홈택스의 맞벌이 근로자 절세 안내에서 부부 중 누가 받을지 세액을 비교해 볼 수 있어요 / 말풍선 '홈택스에 있대!' / 캡션 '홈택스 맞벌이 근로자 절세 안내에서 세액을 비교해 볼 수 있어요'",
+        "after": "국세청 '맞벌이 근로자 절세안내'에서 부부에게 가장 유리한 공제방법을 안내받을 수 있어요. 부부 모두 공제신고서를 써야 해요 / 말풍선 '국세청 안내가 있대!' / 캡션 동일 취지로 수정",
+        "source_url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6646&cntntsId=8070",
+        "source_quote": "맞벌이 근로자 절세안내 맞벌이 근로자에게 가장 유리한 공제방법을 안내하는 서비스 부부 모두 공제신고서를 작성하여야 하고, 본인이 이를 활용할 수 있도록 배우자가 ‘제공동의’를 선행하여야 함(개인정보 보호 목적)",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280405",
+        "source_quote": "3. 거주자(그 배우자를 포함한다. 이하 이 호에서 같다)와 생계를 같이 하는 다음 각 목의 어느 하나에 해당하는 부양가족(...)으로서 해당 과세기간의 소득금액 합계액이 100만원 이하인 사람(총급여액 500만원 이하의 근로소득만 있는 부양가족을 포함한다) (소득세법 제50조 ①)",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "카피라이터가 못 연 원문을 국가법령정보센터 본문(lsInfoR.do POST)과 국세청 '편리한 연말정산 이용방법' 페이지에서 직접 확인. c1은 소득세법 제50조③·시행령 제106조①로 확정. c2는 제50조①3호나목+제53조④(과세기간 종료일 현재 판정)로 '될 수 있어요' 수준에서 확정 — 출생신고 시점 관련 요건은 카드에서 단정하지 않음(말풍선은 질문형). c3은 공식 문구가 '세액 비교'가 아니라 '가장 유리한 공제방법 안내'이고 페이지에 '홈택스' 메뉴 위치가 명시돼 있지 않아 문구를 공식 표현에 맞춤. 이 서비스는 연말정산 기간(이듬해 1월)에 쓰는 기능이며 배우자 제공동의 필요. call.nts.go.kr Q&A(CTG11904)는 자녀세액공제·출산입양공제 예시 위주라 출처로 쓰지 않음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}

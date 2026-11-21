@@ -1,0 +1,261 @@
+{
+  "id": "2026-11-28-nursing-time-working-mom",
+  "topic": "복직 후 유급 수유시간 — 생후 1년 미만 유아를 가진 여성 근로자 (근로기준법 제75조)",
+  "target_stage": "출산 후 3개월~복직",
+  "hook_type": "통념뒤집기",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "복직 날짜를 보다가",
+      "title": "복직하면 아기 수유는\n포기해야 하나?",
+      "highlight": "포기해야",
+      "sub": "이팔공이 찾아본 결과는 끝 장면에서 알려드려요",
+      "scene": "Ipalgong sits at a home desk looking at a wall calendar with a small sigh, a thoughtful tilted head and a sweat drop.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa folding a small baby blanket while a work bag stands by the door, looking a little worried.",
+      "caption": "복직을 앞두고 마음이 복잡한 저녁",
+      "dialogue": [
+        {
+          "text": "복직하면 아기는 누가 먹이지?",
+          "pos": "tl"
+        },
+        {
+          "text": "낮에 수유는 어쩌지...",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds her phone at the kitchen table, hesitating with a worried sweat drop and a small gulp.",
+      "caption": "회사에 말해도 되는 건지 눈치도 보여요",
+      "dialogue": [
+        {
+          "text": "이런 거 말하면 눈치 보이려나?",
+          "pos": "tl"
+        },
+        {
+          "text": "그냥 참아야 하나...",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D in a home sweater sits beside Ipalgong at the table, kindly leaning toward her phone with a curious look.",
+      "caption": "D가 옆에 앉아 같이 검색해요",
+      "dialogue": [
+        {
+          "text": "D: 같이 찾아보자. 법에 있을 수도 있잖아.",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 조문 뭐지...?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong and Ipalgong's husband D lean toward the phone together with wide surprised eyes and small sparkles.",
+      "caption": "정답은 근로기준법에 있었어요",
+      "dialogue": [
+        {
+          "text": "법에 수유시간이 있다고?",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 이거 몰랐네!",
+          "pos": "bl"
+        }
+      ],
+      "info": "생후 1년 미만 유아가 있는 여성 근로자는 청구하면 유급 수유시간을 받아요",
+      "highlight": "유급 수유시간",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong smiles and holds up her phone happily while Ipalgong's husband D gives a small thumbs up beside her.",
+      "caption": "하루에 얼마나 쓸 수 있을까요?",
+      "dialogue": [
+        {
+          "text": "월급도 그대로라는 거지?",
+          "pos": "tl"
+        }
+      ],
+      "info": "하루 2회, 한 번에 30분 이상이고 급여는 그대로 받아요",
+      "highlight": "하루 2회",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes on a small notepad at the table with a thoughtful smile while Ipalgong's husband D reads the phone beside her.",
+      "caption": "다만 알아둘 점이 있어요",
+      "dialogue": [
+        {
+          "text": "내가 먼저 말해야 하는구나",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 방법은 회사랑 미리 상의하자",
+          "pos": "br"
+        }
+      ],
+      "info": "근로자가 청구해야 해요. 쓰는 방식은 회사 안내를 확인하세요",
+      "highlight": "청구",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong stands confidently by the front door with her work bag on her shoulder, smiling politely and giving a small wave to Ipalgong's husband D.",
+      "caption": "복직 준비, 이제 든든해졌어요",
+      "dialogue": [
+        {
+          "text": "내 권리, 차분하게 챙길래!",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 응, 우리 같이 준비하자",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "closing",
+      "title": "복직 후 수유시간, 알고 계셨어요?",
+      "body": "알고 있었다 vs 처음 알았다, 편하게 댓글로 남겨 주세요. 예비아빠, 남편에게도 보내 주세요 ↓",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "복직하면 아기 수유는 포기해야 할까요? 이팔공 부부가 근로기준법을 찾아봤어요.\n\n✔ 생후 1년 미만 유아를 가진 여성 근로자는 청구하면 유급 수유시간을 받을 수 있어요\n✔ 하루 2회, 한 번에 30분 이상이에요\n✔ 급여는 그대로 받아요\n✔ 근로자가 청구해야 하니 복직 전에 회사에 미리 이야기해 두면 좋아요\n\n복직을 준비하는 친구가 떠올랐다면 '너 이 시간 알고 있었어?' 하고 보내주세요.\n\n남편한테도 언급해주세요 👇\n\n저장해두고 필요할 때 꺼내 보세요.\n\n※ 2026-11-21 기준 · 사용 방식과 조건은 근로기준법 원문과 회사 안내에서 최신 내용을 확인하세요.",
+  "hashtags": [
+    "#복직준비",
+    "#수유시간",
+    "#워킹맘",
+    "#근로기준법",
+    "#출산후",
+    "#육아휴직복직",
+    "#육아정보",
+    "#출산준비",
+    "#정부지원",
+    "#임산부",
+    "#신생아",
+    "#직장맘"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 5,
+      "text": "생후 1년 미만 유아를 가진 여성 근로자가 청구하면 수유시간을 주어야 한다",
+      "value": "생후 1년 미만",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제75조"
+    },
+    {
+      "id": "c2",
+      "card": 5,
+      "text": "근로기준법 제75조(육아 시간)에서 정한 수유시간은 유급이다(급여는 그대로)",
+      "value": "유급",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제75조"
+    },
+    {
+      "id": "c3",
+      "card": 6,
+      "text": "수유시간은 하루 2회, 각각 30분 이상",
+      "value": "2회, 30분 이상",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제75조"
+    },
+    {
+      "id": "c4",
+      "card": 7,
+      "text": "수유시간은 근로자가 청구한 경우에 주어진다(청구 필요)",
+      "value": "청구",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제75조"
+    },
+    {
+      "id": "c5",
+      "card": 7,
+      "text": "구체적 사용 방식은 회사 안내를 확인해야 한다(조문에 사용 방식 세부 규정 없음, 사내 안내 확인)",
+      "value": "회사 안내",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제75조"
+    },
+    {
+      "id": "c6",
+      "card": 5,
+      "text": "복직 후 수유시간의 근거는 근로기준법 제75조(육아 시간)이다(카드 5 '정답은 근로기준법에 있었어요', 캡션 '근로기준법을 찾아봤어요')",
+      "value": "근로기준법 제75조",
+      "source_hint": "https://www.law.go.kr/법령/근로기준법/제75조"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제75조(육아 시간) 생후 1년 미만의 유아(乳兒)를 가진 여성 근로자가 청구하면 1일 2회 각각 30분 이상의 유급 수유 시간을 주어야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제75조(육아 시간) 생후 1년 미만의 유아(乳兒)를 가진 여성 근로자가 청구하면 1일 2회 각각 30분 이상의 유급 수유 시간을 주어야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제75조(육아 시간) 생후 1년 미만의 유아(乳兒)를 가진 여성 근로자가 청구하면 1일 2회 각각 30분 이상의 유급 수유 시간을 주어야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제75조(육아 시간) 생후 1년 미만의 유아(乳兒)를 가진 여성 근로자가 청구하면 1일 2회 각각 30분 이상의 유급 수유 시간을 주어야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제75조(육아 시간) 생후 1년 미만의 유아(乳兒)를 가진 여성 근로자가 청구하면 1일 2회 각각 30분 이상의 유급 수유 시간을 주어야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285279&efYd=20261008",
+        "source_quote": "제75조(육아 시간) 생후 1년 미만의 유아(乳兒)를 가진 여성 근로자가 청구하면 1일 2회 각각 30분 이상의 유급 수유 시간을 주어야 한다.",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "국가법령정보센터 근로기준법 현행본 [시행 2026. 10. 8.] [법률 제21533호, 2026. 4. 7., 일부개정] 본문을 직접 열어 제75조 원문 확인(lsInfoR 본문 POST로 로드). 2026-04-07 일부개정에서 제75조는 개정 표시(<개정>) 없음 — 조문 내용 변동 없음. c2 '급여는 그대로'는 조문의 '유급'에 대응. c5는 조문이 횟수·최소시간만 정하고 사용 방식(시간대·합산 등)을 규정하지 않음을 원문으로 확인 — 카드 문구가 '회사 안내 확인'으로 단정 없이 표현돼 OK. c6 신규 추가(근거 법령 언급). 카드·캡션 수정 없음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "2026-11-26-parental-leave-30days-notice",
+  "topic": "육아휴직 신청은 시작 예정일 30일 전까지 서면으로 (달력 역산)",
+  "target_stage": "임신 중기~출산 후",
+  "hook_type": "마감",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "복직 일정 짜다가 멈칫",
+      "title": "휴직 말, 출산하고\n꺼내도 될까?",
+      "highlight": "출산하고",
+      "sub": "이팔공이 달력에 동그라미를 쳤어요. 정답은 중간 장면에",
+      "scene": "Ipalgong sits at the kitchen table in front of a wall calendar with a marker in her hand, looking unsure with her head tilted.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits on the sofa with a cup of tea and a notebook, smiling confidently as she plans her leave.",
+      "caption": "휴직 계획을 세우던 저녁",
+      "dialogue": [
+        {
+          "text": "출산하고 나서 말씀드리면 되겠지?",
+          "pos": "tl"
+        },
+        {
+          "text": "아직 배도 안 불렀는데 뭘~",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D sits next to Ipalgong on the sofa holding a mug, looking kindly curious.",
+      "caption": "D가 슬쩍 물어봐요",
+      "dialogue": [
+        {
+          "text": "D: 회사엔 언제 말해야 해?",
+          "pos": "tl"
+        },
+        {
+          "text": "음... 휴직 시작 때쯤?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong picks up her phone and stares at it with wide eyes while Ipalgong's husband D leans in to look.",
+      "caption": "혹시나 해서 검색해 봤더니",
+      "dialogue": [
+        {
+          "text": "D: 왜 그래?",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 한 줄 뭐지...?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong and Ipalgong's husband D sit side by side pointing at the phone, both surprised.",
+      "caption": "정답은 바로 이거였어요",
+      "dialogue": [
+        {
+          "text": "시작하기 전에 미리 말해야 한다고?",
+          "pos": "tl"
+        }
+      ],
+      "info": "육아휴직은 시작 예정일 30일 전까지 사업주에게 신청해요",
+      "highlight": "30일 전",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes on a paper form at the table with a pen while Ipalgong's husband D hands her an envelope.",
+      "caption": "말로만 하면 끝이 아니에요",
+      "dialogue": [
+        {
+          "text": "D: 서류로 내는 거구나.",
+          "pos": "tr"
+        }
+      ],
+      "info": "신청서에 휴직 시작·종료 예정일을 적어 사업주에게 내요",
+      "highlight": "신청서",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong circles a date on the wall calendar with a marker, then counts back with her finger.",
+      "caption": "달력에 거꾸로 세어 보면",
+      "dialogue": [
+        {
+          "text": "쉬고 싶은 날에서 거꾸로 세야겠네!",
+          "pos": "tl"
+        }
+      ],
+      "info": "늦게 신청하면 휴직 시작일이 뒤로 밀릴 수 있어요",
+      "highlight": "뒤로 밀릴",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the table with a laptop and a notepad, thoughtfully checking notes.",
+      "caption": "급여는 따로 챙겨요",
+      "dialogue": [
+        {
+          "text": "회사 절차도 같이 확인해야겠어요.",
+          "pos": "tl"
+        }
+      ],
+      "info": "휴직 급여는 사업주 신청과 별개로 고용센터에서 신청해요",
+      "highlight": "별개",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong proudly shows the marked wall calendar to Ipalgong's husband D, who gives a warm thumbs up.",
+      "caption": "이팔공의 한마디",
+      "dialogue": [
+        {
+          "text": "미리 말씀드리면 마음이 편하지!",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 우리 달력 같이 보자.",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "휴직 말씀, 언제 드릴 예정이세요?",
+      "body": "출산 전 vs 출산 후, 편하게 남겨 주세요. 예비아빠에게 보내 같이 달력 봐요 ↓",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "휴직 말, 출산하고 꺼내도 될까? 🗓\n\n이팔공도 '출산하고 말씀드리면 되겠지' 했다가 깜짝 놀랐어요.\n\n✔ 육아휴직은 시작 예정일 30일 전까지 사업주에게 신청해요\n✔ 신청서에 시작·종료 예정일을 적어 회사에 내요\n✔ 늦게 내면 휴직 시작일이 밀릴 수 있어요\n✔ 휴직 급여는 고용센터에 따로 신청해요\n\n휴직 준비하는 친구가 떠올랐다면 '너 휴직 신청 언제 해?' 하고 보내주세요.\n남편한테도 언급해주세요 👇\n\n휴직 말씀, 출산 전에 드릴 예정이세요, 출산 후에 드릴 예정이세요? 댓글로 알려 주세요.\n\n저장해두고 필요할 때 꺼내 보세요.\n※ 2026-11-21 기준 · 회사 규정과 공식 안내(고용노동부)에서 최신 내용을 확인하세요.",
+  "hashtags": [
+    "#육아휴직",
+    "#임산부",
+    "#임신중기",
+    "#출산준비",
+    "#육아휴직신청",
+    "#정부지원",
+    "#워킹맘",
+    "#예비맘",
+    "#예비아빠",
+    "#출산휴가",
+    "#육아휴직급여",
+    "#육아툰"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 5,
+      "text": "육아휴직은 휴직 시작 예정일 30일 전까지 사업주에게 신청한다",
+      "value": "30일 전",
+      "source_hint": "https://www.law.go.kr 남녀고용평등과 일·가정 양립 지원에 관한 법률 시행령 제11조 제1항"
+    },
+    {
+      "id": "c2",
+      "card": 6,
+      "text": "육아휴직은 휴직개시예정일·휴직종료예정일 등을 적은 신청서를 사업주에게 제출해 신청한다",
+      "value": "신청서",
+      "source_hint": "https://www.law.go.kr 남녀고용평등과 일·가정 양립 지원에 관한 법률 시행령 제11조 제1항"
+    },
+    {
+      "id": "c3",
+      "card": 7,
+      "text": "신청이 늦으면 휴직 시작일이 뒤로 밀릴 수 있다",
+      "value": "뒤로 밀릴",
+      "source_hint": "https://www.law.go.kr 남녀고용평등과 일·가정 양립 지원에 관한 법률 시행령 제11조 제7항"
+    },
+    {
+      "id": "c4",
+      "card": 8,
+      "text": "육아휴직 급여는 사업주 신청과 별개로 고용센터에 신청한다",
+      "value": "별개",
+      "source_hint": "https://www.law.go.kr 고용보험법 시행규칙 제116조 제1항"
+    }
+  ],
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/남녀고용평등과일ㆍ가정양립지원에관한법률시행령/제11조",
+        "source_quote": "육아휴직을 신청하려는 근로자는 휴직개시예정일의 30일 전까지 신청서에 다음 각 호의 사항을 적어 사업주에게 제출해야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "FIXED",
+        "before": "신청은 서면(신청서)으로 해요 / 캡션: 신청은 서면으로 해요",
+        "after": "신청서에 휴직 시작·종료 예정일을 적어 사업주에게 내요 / 캡션: 신청서에 시작·종료 예정일을 적어 회사에 내요",
+        "source_url": "https://www.law.go.kr/법령/남녀고용평등과일ㆍ가정양립지원에관한법률시행령/제11조",
+        "source_quote": "육아휴직을 신청하려는 근로자는 휴직개시예정일의 30일 전까지 신청서에 다음 각 호의 사항을 적어 사업주에게 제출해야 한다. ... 3. 휴직개시예정일 4. 육아휴직을 종료하려는 날(이하 “휴직종료예정일”이라 한다)",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/남녀고용평등과일ㆍ가정양립지원에관한법률시행령/제11조",
+        "source_quote": "⑦ 사업주는 근로자가 제1항 또는 제2항 후단에 따른 기한이 지난 뒤에 육아휴직을 신청한 경우에는 그 신청일부터 30일 이내에, 제3항에 따른 기한이 지난 뒤에 육아휴직을 신청한 경우에는 그 신청일부터 7일 이내에 육아휴직 개시일을 지정하여 육아휴직을 허용해야 하고, 그 사실을 서면 또는 전자적 방식으로 알려야 한다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.law.go.kr/법령/고용보험법시행규칙/제116조",
+        "source_quote": "법 제70조 제1항 에 따른 육아휴직 급여 또는 법 제73조의2 제1항 에 따른 육아기 근로시간 단축 급여(이하 “육아휴직등 급여”라 한다)를 지급받으려는 사람은 별지 제100호서식 의 육아휴직(육아기 근로시간 단축) 급여 신청서에 다음 각 호의 서류를 모두 첨부하여 신청인의 거주지나 사업장의 소재지 관할 직업안정기관의 장에게 제출해야 한다.",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "원문 대조: 남녀고용평등법 시행령 [시행 2026. 9. 18.][대통령령 제36589호, 2026. 8. 18.] 제11조(카피 단계 source_hint의 제10조는 오기 — 제10조는 육아휴직 적용 제외, 신청은 제11조). 고용보험법 시행규칙 [시행 2026. 9. 18.][고용노동부령 제479호] 제116조. law.go.kr 본문(lsInfoR.do, lsiSeq=288719/288723)을 직접 받아 확인. c1: 30일 전은 원칙. 같은 조 ③에 유산·조산 위험, 출산 예정일 전 출생, 배우자 사망 등은 7일 전까지, ④ 제19조 제6항 긴급 사유는 개시예정일까지 신청 가능한 예외가 있음 — 카드는 원칙만 말하고 있어 OK로 둠. c2: 시행령은 신청서 제출을 요구할 뿐 서면(종이)을 명시하지 않아 서면 표현을 신청서로 고침. c3: ⑦에 따라 기한이 지나 신청하면 사업주가 신청일부터 30일 이내로 개시일을 지정하므로 원하는 날보다 늦게 시작될 수 있음 — 근거 있음, 컷 7 유지. c4: 직업안정기관=지방고용노동관서 고용센터. 급여 신청은 휴직 시작 1개월 후부터 종료 후 12개월 이내(고용보험법 제70조 제2항)이며 고용24 온라인 신청도 가능 — 카드에는 기한을 쓰지 않아 영향 없음. 숨은 주장 점검: 카드·캡션의 사실 주장은 c1~c4로 모두 커버(나머지는 대사·감상·질문)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}

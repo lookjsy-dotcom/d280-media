@@ -1,0 +1,305 @@
+{
+  "id": "2026-11-29-toy-library-borrow-first",
+  "topic": "사기 전에 빌려보는 곳 — 육아종합지원센터 장난감도서관",
+  "target_stage": "임신 중기~생후 3개월",
+  "hook_type": "통념뒤집기",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "연말 출산 준비 쇼핑 전에",
+      "title": "아기용품 전부\n사야 하나?",
+      "highlight": "전부",
+      "sub": "이팔공 부부의 장바구니 결말은? 끝 장면에서 확인하세요",
+      "scene": "Ipalgong sits on the sofa surrounded by shopping bags and a laptop showing a long cart, looking overwhelmed with one sweat drop.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table with a laptop showing a long online cart, a worried tilted head.",
+      "caption": "연말 세일 기간, 장바구니가 점점 길어져요",
+      "dialogue": [
+        {
+          "text": "사야 할 게 왜 이렇게 많지?",
+          "pos": "tl"
+        },
+        {
+          "text": "한 번 쓰고 끝일 수도...",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D sits next to Ipalgong, scrolling the laptop with a kind but puzzled look.",
+      "caption": "D가 옆에서 같이 봐요",
+      "dialogue": [
+        {
+          "text": "D: 다 새로 사야 되나?",
+          "pos": "tl"
+        },
+        {
+          "text": "집이 좁아질 텐데...",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong holds her phone close with wide eyes while Ipalgong's husband D leans in.",
+      "caption": "그때 이팔공이 뭔가 발견했어요",
+      "dialogue": [
+        {
+          "text": "D: 왜 그래?",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 한 줄 뭐지...?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong and Ipalgong's husband D look at the phone together with surprised eyes, mouths slightly open.",
+      "caption": "D도 눈이 커졌어요",
+      "dialogue": [
+        {
+          "text": "D: 사기 전에 이게 된다고?",
+          "pos": "tr"
+        },
+        {
+          "text": "조금만 더 읽어볼게!",
+          "pos": "bl"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong points at the phone screen while Ipalgong's husband D nods, both smiling gently.",
+      "caption": "정답은 육아종합지원센터였어요",
+      "dialogue": [
+        {
+          "text": "빌려주는 곳이 있었어!",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 어디서 운영해?",
+          "pos": "bl"
+        }
+      ],
+      "info": "장난감·도서 대여는 시·도 및 시·군·구 육아종합지원센터에서 운영해요",
+      "highlight": "육아종합지원센터",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes on a notepad while Ipalgong's husband D reads the phone beside her.",
+      "caption": "서울 사례를 먼저 봤어요",
+      "dialogue": [
+        {
+          "text": "D: 우리도 다 되나?",
+          "pos": "tl"
+        },
+        {
+          "text": "서울은 조건이 있네.",
+          "pos": "br"
+        }
+      ],
+      "info": "서울장난감도서관은 서울시민 또는 서울시 소재 직장인 가정의 취학 전 영유아 대상 회원제예요",
+      "highlight": "회원제",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong taps her pen on the notebook thoughtfully while Ipalgong's husband D holds his phone to his ear.",
+      "caption": "센터마다 다를 수 있어 꼭 확인해요",
+      "dialogue": [
+        {
+          "text": "육아용품 되는지는 센터에 물어봐.",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 내 지역 센터에 물어보자.",
+          "pos": "bl"
+        }
+      ],
+      "info": "대상·품목은 센터마다 다를 수 있어요. 내 지역 센터에 먼저 확인하세요",
+      "highlight": "내 지역 센터",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong closes the laptop with a calm closed-eye smile while Ipalgong's husband D gives a thumbs up.",
+      "caption": "장바구니는 일단 접어두기로 했어요",
+      "dialogue": [
+        {
+          "text": "사기 전에 먼저 확인!",
+          "pos": "tr"
+        },
+        {
+          "text": "D: 이거 몰랐네, 고마워.",
+          "pos": "bl"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "사기 전에 빌릴 수 있는지 먼저 확인해요",
+      "body": "나는 산다 vs 빌려본다, 어느 쪽인가요? 댓글로 알려주세요. 남편이나 예비 아빠에게도 보내주세요. 대상·품목은 센터마다 다를 수 있어요. 내 지역 육아종합지원센터에 확인하세요. ↓",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "아기용품 전부 사야 하나?\n\n연말 세일에 장바구니가 길어지다가 이팔공 부부가 알게 된 이야기예요.\n\n✔ 장난감·도서 대여는 시·도 및 시·군·구 육아종합지원센터에서 운영해요.\n✔ 서울 사례는 서울시민 또는 서울시 소재 직장인 가정의 취학 전 영유아가 대상인 회원제예요.\n✔ 육아용품까지 빌려주는지는 내 지역 센터에 먼저 확인해야 해요.\n\n대상과 품목은 센터마다 다를 수 있어서 전국 어디서나 같다고 볼 수 없어요. 사기 전에 우리 동네 센터에 먼저 물어보세요.\n\n나는 산다 vs 빌려본다, 댓글로 알려주세요. 아기용품 쇼핑 중인 친구가 떠올랐다면 '너 이거 알아?' 하고 보내주세요. 남편한테도 언급해주세요 👇\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-21 기준, 공식 안내에서 최신 내용 확인)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#육아종합지원센터",
+    "#장난감도서관",
+    "#육아템",
+    "#육아꿀팁",
+    "#예비맘",
+    "#출산준비물",
+    "#육아정보",
+    "#임신중기",
+    "#육아용품",
+    "#D280"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 6,
+      "text": "장난감·도서 대여 사업은 시·도 및 시·군·구 육아종합지원센터에서 운영",
+      "value": "시·도 및 시·군·구 육아종합지원센터",
+      "source_hint": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp"
+    },
+    {
+      "id": "c2",
+      "card": 6,
+      "text": "센터는 장난감·도서 대여와 놀이 공간, 가족행사를 제공",
+      "value": "장난감·도서 대여",
+      "source_hint": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp"
+    },
+    {
+      "id": "c3",
+      "card": 7,
+      "text": "서울장난감도서관 이용대상은 서울시민 또는 서울시 소재 직장인 가정의 취학 전 영유아",
+      "value": "취학 전 영유아",
+      "source_hint": "https://seoul.childcare.go.kr/lseoul/d2_20000/d2_20015/d2_20016.jsp"
+    },
+    {
+      "id": "c4",
+      "card": 7,
+      "text": "서울장난감도서관은 가입 후 이용하는 회원제로 운영",
+      "value": "회원제",
+      "source_hint": "https://seoul.childcare.go.kr/lseoul/d2_20000/d2_20015/d2_20016.jsp"
+    },
+    {
+      "id": "c5",
+      "card": 8,
+      "text": "육아용품 대여 여부는 내 지역 센터에 확인 필요 (서울장난감도서관은 육아용품 대여 운영, 중앙 안내에는 품목 언급 없음)",
+      "value": "센터에 확인",
+      "source_hint": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp"
+    },
+    {
+      "id": "c6",
+      "card": 8,
+      "text": "대상·품목은 센터마다 다를 수 있으므로 내 지역 센터에 확인 필요",
+      "value": "내 지역 센터",
+      "source_hint": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp"
+    },
+    {
+      "id": "c7",
+      "card": 7,
+      "text": "서울장난감도서관은 서울육아종합지원센터 양육지원 사업(서울 사례)",
+      "value": "서울 사례",
+      "source_hint": "https://seoul.childcare.go.kr/lseoul/d2_20000/d2_20015/d2_20016.jsp"
+    }
+  ],
+  "status": "rendered",
+  "story_formula": "T2 통념뒤집기 + 남편 D (answer hidden, region check)",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp",
+        "source_quote": "장난감 도서대여 사업은 시도 및 시군구 육아종합지원센터에서 이루어집니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp",
+        "source_quote": "영유아의 발달과 흥미에 적합한 놀이체험 및 장난감ㆍ도서 대여를 지원하고 영유아 발달과 흥미에 적합한 놀이 공간을 제공하여 ... 영유아 가족행사 및 놀이 프로그램을 진행하여 가정 내 양육기능 강화를 지원합니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "FIXED",
+        "before": "서울시민·서울 소재 직장 가정의 취학 전 영유아",
+        "after": "서울시민 또는 서울시 소재 직장인 가정의 취학 전 영유아",
+        "source_url": "https://seoul.childcare.go.kr/lseoul/d2_20000/d2_20015/d2_20016.jsp",
+        "source_quote": "이용대상 서울시민 또는 서울시 소재 직장인 중 가정의 자녀 중 취학 전 연령의 영유아 (※장애아동은 만 12세 이하까지)",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://seoul.childcare.go.kr/lseoul/d2_20000/d2_20015/d2_20016.jsp",
+        "source_quote": "회원가입 절차 서울장난감도서관 홈페이지 가입 → 가입 서류 확인 및 연회비 납부 (방문 또는 온라인 제출) → 승인 후 이용",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "FIXED",
+        "before": "육아용품은 센터마다 달라. / 육아용품 대여는 센터마다 달라서 내 지역 센터에 먼저 확인해야 해요.",
+        "after": "육아용품 되는지는 센터에 물어봐. / 육아용품까지 빌려주는지는 내 지역 센터에 먼저 확인해야 해요.",
+        "source_url": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp",
+        "source_quote": "각 육아종합지원센터의 '장난감 도서 대여 및 실내놀이실 운영' 계획 및 내용은 해당 지역 육아종합지원센터로 문의하시기 바랍니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c6",
+        "verdict": "FIXED",
+        "before": "대상·품목은 지역마다 달라요 (카드8 캡션·info, 클로징, 캡션)",
+        "after": "대상·품목은 센터마다 다를 수 있어요",
+        "source_url": "https://central.childcare.go.kr/lcentral/d1_40000/d1_600067/d1_600070.jsp",
+        "source_quote": "각 육아종합지원센터의 '장난감 도서 대여 및 실내놀이실 운영' 계획 및 내용은 해당 지역 육아종합지원센터로 문의하시기 바랍니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://seoul.childcare.go.kr/lseoul/d2_20000/d2_20015/d2_20016.jsp",
+        "source_quote": "서울육아종합지원센터 > 양육지원 > 서울장난감도서관",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "두 공식 페이지 원문을 직접 받아 대조. c3: 서울 페이지 원문은 \"서울시 소재 직장인\"이라 \"서울 소재 직장 가정\"을 원문 표현으로 교정(장애아동 만 12세 이하 예외는 카드에 넣지 않음 — 생략일 뿐 오류 아님). c5: 중앙 페이지는 육아용품을 언급하지 않고, 서울 페이지만 육아용품 대여(젖병소독기·신생아 침대 등)를 명시. \"센터마다 달라\"는 부재에서 추론한 단정이라 \"센터에 확인\" 행동 안내로 완화. c6: 중앙 페이지는 센터별 계획·내용을 해당 센터에 문의하라고만 하므로 \"달라요\" 단정을 \"다를 수 있어요\"로 완화. 중앙 페이지 통계는 2014~2016년 자료로 오래됐지만 카드에 수치를 쓰지 않아 영향 없음. 서울장난감도서관은 무료 대여이나 연회비가 있음(카드에는 무료 언급 없음)."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}

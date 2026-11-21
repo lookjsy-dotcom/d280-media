@@ -1,0 +1,315 @@
+{
+  "id": "2026-11-27-childcare-center-waitlist",
+  "topic": "어린이집 대기 신청 순서 (아이사랑 포털 등록대기)",
+  "target_stage": "임신 중기~출산 후",
+  "hook_type": "마감",
+  "format": "webtoon",
+  "template": "f-webtoon",
+  "base_date": "2026-11-21",
+  "cards": [
+    {
+      "type": "cover",
+      "kicker": "복직 날짜를 세어보다가",
+      "title": "어린이집 대기,\n지금 걸어도 될까?",
+      "highlight": "지금 걸어도",
+      "sub": "이팔공과 D가 순서를 찾아봤어요. 결과는 끝 장면에",
+      "scene": "Ipalgong sits at the living room table with a wall calendar and a laptop, counting on her fingers with a worried tilted head and one sweat drop.",
+      "image": "images/panel-01.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong sits at the kitchen table with her laptop open, chin resting on her hand, looking anxious.",
+      "caption": "복직 날짜가 슬슬 보이기 시작했어요",
+      "dialogue": [
+        {
+          "text": "어린이집 대기가 길다던데...",
+          "pos": "tl"
+        },
+        {
+          "text": "지금 걸어둬야 하나?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-02.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D stands beside the table holding two mugs and looking gently surprised while Ipalgong looks up at him.",
+      "caption": "D가 따뜻한 차를 들고 왔어요",
+      "dialogue": [
+        {
+          "text": "D: 아직 뱃속인데 너무 이르지 않아?",
+          "pos": "tl"
+        },
+        {
+          "text": "늦으면 복직이 꼬일 수도 있잖아!",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-03.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong and Ipalgong's husband D lean toward the laptop screen together, Ipalgong with a surprised round mouth.",
+      "caption": "아이사랑 포털을 같이 열어봤어요",
+      "dialogue": [
+        {
+          "text": "신청 메뉴 찾았다!",
+          "pos": "tl"
+        },
+        {
+          "text": "잠깐, 이 한 줄 뭐지...?",
+          "pos": "br"
+        }
+      ],
+      "info": "",
+      "highlight": "",
+      "image": "images/panel-04.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D points at the laptop screen with a puzzled look while Ipalgong holds a pen over a notebook, a sweat drop beside her.",
+      "caption": "순서가 따로 있는 것 같아요",
+      "dialogue": [
+        {
+          "text": "D: 이거 먼저 해야 한대?",
+          "pos": "tl"
+        },
+        {
+          "text": "정리해서 다시 읽어보자!",
+          "pos": "br"
+        }
+      ],
+      "info": "아동등록을 먼저 하고, 어린이집을 검색해 등록대기를 신청해요",
+      "highlight": "아동등록",
+      "image": "images/panel-05.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong writes in her notebook with a relieved small smile while Ipalgong's husband D nods beside her.",
+      "caption": "신청 시기와 개수도 적었어요",
+      "dialogue": [
+        {
+          "text": "D: 아무 때나 되는 거네!",
+          "pos": "tl"
+        },
+        {
+          "text": "몇 곳까지 걸 수 있지?",
+          "pos": "br"
+        }
+      ],
+      "info": "대기 신청은 온라인으로 연중 가능하고, 미재원 아동은 최대 3곳까지예요",
+      "highlight": "최대 3곳",
+      "image": "images/panel-06.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong tilts her head thoughtfully at the laptop while Ipalgong's husband D holds a folder of papers.",
+      "caption": "순번은 어떻게 정해질까요?",
+      "dialogue": [
+        {
+          "text": "우리 맞벌이인데 유리할까?",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 서류도 챙겨둬야겠다.",
+          "pos": "br"
+        }
+      ],
+      "info": "부모가 모두 취업 중이면 우선순위 항목이고, 원장이 서류를 확인해요",
+      "highlight": "우선순위",
+      "image": "images/panel-07.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong's husband D writes a reminder on a sticky note and presses it onto the wall calendar while Ipalgong watches.",
+      "caption": "놓치기 쉬운 기한이 하나 있어요",
+      "dialogue": [
+        {
+          "text": "D: 이건 꼭 메모해둘게!",
+          "pos": "tl"
+        },
+        {
+          "text": "안내 알림, 놓치면 안 되겠다.",
+          "pos": "br"
+        }
+      ],
+      "info": "다른 어린이집에 등록되면 안내 후 7일 안에 연장하지 않은 대기는 자동 취소돼요",
+      "highlight": "7일",
+      "image": "images/panel-08.png"
+    },
+    {
+      "type": "panel",
+      "scene": "Ipalgong gently pats her round belly with a determined small smile while Ipalgong's husband D gives a thumbs up next to her.",
+      "caption": "임신 중 신청은 안 된다고 나와 있었어요",
+      "dialogue": [
+        {
+          "text": "태어나면 바로 신청해야지!",
+          "pos": "tl"
+        },
+        {
+          "text": "D: 그때 같이 하자!",
+          "pos": "br"
+        }
+      ],
+      "info": "태아는 등록대기를 신청할 수 없어요. 주민등록번호가 나온 아동부터 신청해요",
+      "highlight": "주민등록번호",
+      "image": "images/panel-09.png"
+    },
+    {
+      "type": "closing",
+      "title": "어린이집 대기, 순서부터 확인해요",
+      "body": "임신 중에 미리 알아봤다 vs 오늘 처음 알았다, 댓글로 알려주세요. 남편이나 예비 아빠에게도 보내주세요. 대기 신청 가능 시기와 우선순위는 아이사랑 공식 안내에서 최신 내용을 확인하세요. ↓",
+      "image": "images/panel-01.png"
+    }
+  ],
+  "caption": "어린이집 대기, 지금 걸어도 될까?\n\n복직 날짜가 다가오면 어린이집 대기부터 걱정되죠. 이팔공과 D가 아이사랑 포털 안내를 보고 정리한 순서예요.\n\n1. 아동등록을 먼저 하고, 어린이집을 검색해 등록대기를 신청해요.\n2. 대기 신청은 온라인으로 연중 가능하고, 아직 어린이집에 다니지 않는 아동은 최대 3곳까지 신청할 수 있어요.\n3. 부모가 모두 취업 중이면 우선순위 항목이에요. 원장이 서류를 확인해요.\n4. 다른 어린이집에 등록되면 안내 후 7일 안에 연장하지 않은 대기는 자동으로 취소돼요.\n\n임신 중(태아)에는 등록대기를 신청할 수 없어요. 아이사랑 자주하는질문에 따르면 주민등록번호가 발급된 아동부터 신청할 수 있어요. 궁금한 점은 아이사랑 헬프데스크(1566-3232)에 물어보세요.\n\n복직 앞둔 친구가 떠올랐다면 '너 어린이집 대기 걸었어?' 하고 보내주세요. 남편한테도 언급해주세요 👇\n\n임신 중에 미리 알아봤다 vs 오늘 처음 알았다, 댓글로 알려주세요.\n\n저장해두고 필요할 때 꺼내 보세요. (2026-11-21 기준, 공식 안내에서 최신 내용 확인)",
+  "hashtags": [
+    "#임산부",
+    "#임신",
+    "#출산준비",
+    "#정부지원",
+    "#어린이집",
+    "#어린이집대기",
+    "#아이사랑",
+    "#복직준비",
+    "#맞벌이",
+    "#육아정보",
+    "#육아꿀팁",
+    "#예비맘",
+    "#D280"
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "card": 5,
+      "text": "등록대기 신청 순서: 아동등록으로 자녀를 등록한 뒤 어린이집을 검색해 등록대기를 신청",
+      "value": "아동등록",
+      "source_hint": "https://www.childcare.go.kr/?menuno=169"
+    },
+    {
+      "id": "c2",
+      "card": 6,
+      "text": "대기 신청은 온라인으로 연중 가능",
+      "value": "연중",
+      "source_hint": "https://www.childcare.go.kr/?menuno=172"
+    },
+    {
+      "id": "c3",
+      "card": 6,
+      "text": "미재원 아동은 최대 3곳까지 등록대기 신청 가능",
+      "value": "3곳",
+      "source_hint": "https://www.childcare.go.kr/?menuno=169"
+    },
+    {
+      "id": "c4",
+      "card": 7,
+      "text": "부모가 모두 취업 중이거나 취업 준비 중인 영유아는 우선순위 항목",
+      "value": "우선순위",
+      "source_hint": "https://www.childcare.go.kr/?menuno=174"
+    },
+    {
+      "id": "c5",
+      "card": 7,
+      "text": "원장이 자동 연계되는 자격을 제외하고 부모에게 서류를 받아 확인",
+      "value": "서류 확인",
+      "source_hint": "https://www.childcare.go.kr/?menuno=169"
+    },
+    {
+      "id": "c6",
+      "card": 8,
+      "text": "어린이집 등록 안내를 받은 뒤 7일 안에 연장하지 않으면 다른 등록대기가 자동 취소",
+      "value": "7일",
+      "source_hint": "https://www.childcare.go.kr/?menuno=173"
+    },
+    {
+      "id": "c7",
+      "card": "caption",
+      "text": "아이사랑 헬프데스크 전화번호 1566-3232(단축번호 1번)",
+      "value": "1566-3232",
+      "source_hint": "https://www.childcare.go.kr/?menuno=169"
+    },
+    {
+      "id": "c8",
+      "card": 9,
+      "text": "임신 중인 태아는 어린이집 등록대기 신청 불가, 주민등록번호가 발급된 아동부터 신청 가능",
+      "value": "태아 불가",
+      "source_hint": "https://www.childcare.go.kr/?menuno=487"
+    }
+  ],
+  "story_formula": "T4 (answer hidden, husband D, birth-order angle; answer: 태아는 등록대기 불가 — 출생 후 신청)",
+  "status": "rendered",
+  "factcheck": {
+    "checked_at": "2026-11-21",
+    "claims": [
+      {
+        "id": "c1",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=169",
+        "source_quote": "STEP 1 아동등록 어린이집을 이용할 자녀를 등록합니다. STEP 2 어린이집 검색 어린이집을 검색하고 신청할 어린이집을 선택합니다. STEP 3 예약 신청 어린이집 등록대기 신청을 합니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c2",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=172",
+        "source_quote": "어린이집 이용을 원하는 보호자는 시간·장소 제한없이 온라인으로 등록대기 신청이 가능합니다. / 등록대기 등록 시점 : 연중 수시 가능",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c3",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=169",
+        "source_quote": "※ 미재원 아동은 최대 3곳까지 등록대기 신청 가능",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c4",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=174",
+        "source_quote": "1 순위(법 제28조, 시행령 제21조의4, 시행규칙 제29조) ... 부모가 모두 취업중이거나 취업을 준비 중인 영유아",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c5",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=169",
+        "source_quote": "STEP 5 우선순위 자료제출 어린이집 원장은 자동 연계되는 자격을 제외하고 부모로부터 관련 서류 일체를 받아 반드시 확인합니다.",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c6",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=173",
+        "source_quote": "어린이집 등록 시, 등원 및 등록대기 연장 안내 알림 발송 ※ 다른 어린이집 등록대기 신청건에 대해 유지 희망 시, 7일내(알림일 기준) 등록대기 신청 연장 필수, 그외 시스템상 자동 취소 진행",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c7",
+        "verdict": "OK",
+        "source_url": "https://www.childcare.go.kr/?menuno=169",
+        "source_quote": "아이사랑 헬프데스크 1566-3232(단축번호 1번)",
+        "checked_at": "2026-11-21"
+      },
+      {
+        "id": "c8",
+        "verdict": "FIXED",
+        "before": "카드9 info: '임신 중 신청 가능 여부는 안내에 없어요. 아이사랑 헬프데스크 1566-3232에 확인하세요' / 캡션: '임신 중에도 신청되는지는 공식 안내에서 찾지 못했어요. 아이사랑 헬프데스크(1566-3232)에 먼저 확인해 보세요.' / claim: '임신 중(출생 전) 등록대기 신청 가능 여부는 공식 안내 페이지에 명시되어 있지 않음'",
+        "after": "카드9 info: '태아는 등록대기를 신청할 수 없어요. 주민등록번호가 나온 아동부터 신청해요' (caption·dialogue·scene·highlight도 결론에 맞게 교체) / 캡션: '임신 중(태아)에는 등록대기를 신청할 수 없어요. 아이사랑 자주하는질문에 따르면 주민등록번호가 발급된 아동부터 신청할 수 있어요. 궁금한 점은 아이사랑 헬프데스크(1566-3232)에 물어보세요.' / claim: '임신 중인 태아는 어린이집 등록대기 신청 불가, 주민등록번호가 발급된 아동부터 신청 가능'",
+        "source_url": "https://www.childcare.go.kr/?menuno=487",
+        "source_quote": "Q. 임신중인 태아에 대한 등록대기가 가능한가요? 태아의 경우 어린이집 등록대기가 불가하며, 마찬가지로 형제·자매도 출산 이후 다자녀에 대한 가산점이 부여가 됩니다. 주민등록번호가 발급이 된 아동에 대해 진행이 가능합니다.",
+        "checked_at": "2026-11-21"
+      }
+    ],
+    "notes": "모든 인용은 2026-11-21 curl로 받은 childcare.go.kr 원문 HTML에서 그대로 옮김(요약본 아님). c8: 카피라이터는 menuno=169/172/173/174만 보고 '안내에 없음'이라 썼으나, 같은 포털의 등록대기 자주하는질문(menuno=487, q_rowPerPage=50으로 29건 전체 확인)에 '태아의 경우 어린이집 등록대기가 불가'라고 명시되어 있어 부재 주장은 틀림 → 공식 값으로 FIXED. 이 수정으로 웹툰의 결말(표지 '지금 걸어도 될까?'의 답)이 '아직은 안 된다, 태어나 주민등록번호가 나오면 신청'으로 바뀜. 카드9 이미지(panel-09.png)는 아직 없으나 scene을 바꿨으니 디자이너가 새 장면으로 생성해야 함. 카드9에서 1566-3232는 빼고 캡션에만 남김(c7). c4: 카드 문구 '부모가 모두 취업 중이면 우선순위 항목'은 174의 1순위 항목('부모가 모두 취업중이거나 취업을 준비 중인 영유아')의 부분집합으로 정확함. 172에 따르면 맞벌이는 1순위 중에서도 200점 배점. c6: 173은 '7일내(알림일 기준)', FAQ(487)는 '등원 후 7일 내에 선택… 기한 내 미선택 시 삭제… 3개월 이내 복구 가능'으로 기산점 표현이 다름. 카드는 173 문구('안내 후 7일')를 따랐고 7일 값은 두 곳이 일치. 자동 취소 후에도 3개월 내 복구가 가능하다는 점은 카드에 없음(누락이지 오류는 아님). c3: 재원 아동은 2곳(172·487)이며 카드는 '미재원 아동' 조건을 밝혀 OK. 대상 어린이집에서 직장·협동 어린이집은 제외(172)되나 카드가 전체 어린이집이라고 단정하지 않음."
+  },
+  "gate": {
+    "status": "PASS",
+    "checked_at": "2026-11-21",
+    "problems": []
+  }
+}
