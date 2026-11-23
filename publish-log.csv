@@ -62,3 +62,4 @@ time,id,kind,result,detail
 2026-11-22T13:25:03,2026-11-22-birth-registration-1month,reel,published,18122762392772593
 2026-11-22T13:25:42,2026-11-22-video-birth-60days,reel,published,18104842445388948
 2026-11-22T21:34:21,2026-11-22-newborn-health-insurance-dependent,carousel,error,"HTTP 400 17841465447585376/media: {""error"":{""message"":""Timeout"",""type"":""OAuthException"",""code"":-2,""error_subcode"":2207003,""is_transient"":false,""error_user_title"":""Timeout"",""error_user_msg"":""It takes too long to download the media."",""fbtrace_id"":""AbvDddrnSxBdYzSihhXCT9e""}}"
+2026-11-23T09:09:04,2026-11-23-first-meeting-voucher-expiry,carousel,published,17968346517235747
